@@ -862,12 +862,67 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 	- This test is meant to detect delayed hypersensitivity (cellular immune response). It can detect and confirm the present and previous infection by Sporothrix schenckii.sporotrichin The sporotrichosis skin test has been used to confirm the diagnosis of bulbar conjunctival sporotrichosis.
 
 # 4. Systemic Mycoses (Deep Mycoses) 
-* **Description**: Caused by primary, virulent dimorphic pathogens acquired by inhalation; sets up pulmonary focus and disseminates.  
-* **Agents/Examples**:  
-	* Histoplasmosis: *Histoplasma capsulatum*  
-	* Blastomycosis: *Blastomyces dermatitidis*  
-	* Coccidioidomycosis: *Coccidioides* species  
-	* Paracoccidioidomycosis: *Paracoccidioides*  
+* from inhalation of spore
+* etiological pathogens are dived into 2 types
+	* true pathogens
+	* opportunistic pathogens
+
+1 **True Pathogens**
+- dimorphic fungi
+- infect immunocompromised as well as healthy
+- examples: blastomyces dermatidis (blastomycosis) , coccidioides immitis (coccidiodomycosis) and histoplasam capsulatum (histoplasmosis)
+- These dimorphic fungi exist as mould in the environment and as a yeast (except for C. immitis, because they form a spherule, which is not a true yeast).
+
+2 **Oppurtunistic pathogens**
+- affect immunocompromised patient
+- examples : Cryptococcus neoformans and C. gatti (causes Cryptococcosis), Aspergillus spp. (Causes Aspergillosis) and Candida spp. (Causes Candidiasis).
+
+1.1 **blastomycosis**
+- Initially acute pulmonary blastomycosis then  chronic pulmonary disease.
+- Disseminated infection may occur , suppurative and granulomatous infection on skin
+
+1.2 **Coccidiodomycosis**
+- arthroconidia inhalation, generally asymptomatic, ordinary pulmonary infection
+- chronic case mein disseminated infection hoga mostly in black ethnicities and pregnant women
+
+1.3 **pacacoccidiodomycosis**
+- primary pulmonary infection se intiate hoga, asymptomatic
+- in children and adolescent disseminated forms lead to superficial or viscerla lymp node enlargement
+- in adults it disseminates to form lesions of the mucous membrane, commonly of the nasal and oral mucosa.
+
+1.4 **Histoplasmosis**: 
+- microconidia inhale -> lung infection 
+- Mostly asymptomatic
+- longer exposure ->  fever, cough and joint pain.
+- Dissemination of histoplasmosis occurs via the reticuloendothelial system and the primary sites are mainly the liver, spleen and lymph nodes. 
+- infection causes ulcerative lesions in the lungs very reminiscent of tuberculosis.
+
+2.1 **Cryptococcosis**: 
+- C. neoformans-> pulmonary infection. 
+	- Disseminated pulmonary infection may spread into the bones, skin and brain. 
+	- infection in brain -> cryptococcal meningitis
+- C. gatti healthy +  immunocompetent host. 
+	- takes over immune system 
+- Both C. neoformans and C. gatti are ==encapsulated== yeasts, an attribute that ensures their survival in the gut of pigeons and also increases their pathogenicity
+
+2.2 **Aspergillosis**
+- examples: A. fumigatus, A. niger, A. flavus and A. nidulans. 
+- conidiophore inhalation
+- subsequent infection subcategorized into 
+	- i. *Invasive aspergillosis* : main agent is fumigatus ; lungs affect, blood vessels, septic emboli.
+	- ii. *Aspergilloma* : also called fungus ball, asymptomatic, hemoptysis(sometime); caused by fumigatus
+	- iii. *Sinusitis* : flavus and fumigatus ; affects paranasal sinuses
+	- iv. *Allergic bronchopulmonary aspergillosis*. : fumigatus ; fungus produce mucus plugs ; 
+
+Note: 
+**Atopic** means having a genetic tendency to develop allergic reactions driven by IgE antibodies, while **non-atopic** means having similar symptoms or conditions (like eczema or asthma) without an allergic or IgE-mediated immune response
+
+2.3 **Candidiasis**
+- c.glabrata and c.albicans
+- based on site of infection
+	- *superficial* : nails, skin and mucous membrane of vagina, white flecks on tongue
+	- *invasive* : systemic
+
 
 #  5. Opportunistic Mycoses
 * **Description**: Cause severe disease primarily in immunocompromised hosts (e.g., HIV/AIDS, cancer, diabetes).  

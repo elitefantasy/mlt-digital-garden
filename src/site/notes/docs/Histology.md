@@ -289,6 +289,29 @@ why ribboning is important in microtomy
 - Makes section handling easier
 - Reduces damage to sections
 - Saves time
+
+Factors required for good ribboning
+- knife edge
+- tissue embedding
+- section thickness
+- temp
+- microtome setting
+
+## Water bath and slide prep
+
+water bath
+- used to float, expand, and flatten paraffin tissue sections after cutting
+- temp is 40-45 degree C
+
+
+Slide preparation
+procedure
+- slide clean
+- coat with adhesive: egg albumin, gelatin, loly-L-lysine
+- pick up section 
+- drying in incubator
+- staining
+- mounting medium is pplied eg DPX, coverslip
 ## 6\. Staining (Routine & Special)
 
 * **Stain Types:** Routine staining uses Hematoxylin & Eosin (H\&E). Special stains target microorganisms, connective tissue, and lipids. IHC targets specific protein markers.  
