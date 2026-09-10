@@ -634,7 +634,7 @@ The primary clinical diseases(7) caused by subcutaneous mycoses include:
 	- **Etiology:** broad, ribbon-like, non-septate (coenocytic) hyphae and divided into two categories:
 	    - **Entomophthoromycosis:** Localized subcutaneous infections caused by _Basidiobolus ranarum_ or _Conidiobolus coronatus_.
 	    - **Subcutaneous Mucormycosis:** Rare, localized subcutaneous presentations of zygomycosis caused by _Rhizopus arrhizus_, _Mucor_, or _Lichtheimia_ species
-<!--SR:!2026-09-09,1,190-->
+<!--SR:!2026-09-10,1,170-->
 
 ### Mycetoma / madura foot
 - affects feet mainly

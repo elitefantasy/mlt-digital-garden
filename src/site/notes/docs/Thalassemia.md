@@ -53,7 +53,7 @@ d. folic acid supplementation
 ?
 C
 blood transfuision and iron chelation therapy are supportive treatments
-<!--SR:!2026-09-09,4,270--> 
+<!--SR:!2026-09-25,16,290--> 
 
 ## 3.1 Alpha-Thalassemia
 

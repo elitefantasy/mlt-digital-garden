@@ -268,7 +268,7 @@ vitamin B12 deficiency anemia.
 Despite normal vitamin B12 levels, functional deficiency can cause these elevations.
 Folate deficiency anemia presents with elevated homocysteine but normal
 methylmalonic acid.
-<!--SR:!2026-09-09,3,250-->
+<!--SR:!2026-09-20,11,270-->
 
 **Quest: A patient with anemia presents with a history of chronic alcohol use and macrocytic anemia. What is the most likely cause of his anemia**
 A. Iron deficiency anemia.
@@ -277,7 +277,7 @@ C. Vitamin B12 deficiency anemia.
 D. Anemia of chronic disease
 ?
 Alcohol induces folate deficiency anemia through a combination of poor intake, intestinal malabsorption, impaired liver storage, and increased urinary excretion. Because hepatic folate reserves only last about 2 to 4 months, chronic heavy drinking can deplete stores rapidly.
-<!--SR:!2026-09-09,3,250-->
+<!--SR:!2026-09-19,10,270-->
 
 ### 2. Non-Megaloblastic Anemia
 
@@ -418,7 +418,7 @@ Examples:
 - [[docs/G6PD deficiency\|G6PD deficiency]]
 - [[docs/Hereditary Spherocytosis\|Hereditary Spherocytosis]]
 - [[docs/Paroxysmal Nocturnal Hemoglobinuria (PNH)\|Paroxysmal Nocturnal Hemoglobinuria (PNH)]]
-<!--SR:!2026-09-09,3,250-->
+<!--SR:!2026-09-11,2,230-->
 
 
 | **Feature**                      | **Hereditary Spherocytosis (HS)**       | **G6PD Deficiency**                  | **Paroxysmal Nocturnal Hemoglobinuria (PNH)** |
@@ -656,7 +656,7 @@ D. Hemolytic anemia.
 A ✔️
 B. ACD: normal RDW
 C. Sickle Cell Anemia & D. Hemolytic Anemia: While active hemolysis and reticulocytosis can occasionally raise RDW due to larger young cells (reticulocytes), an elevated RDW is the classic hallmark   specifically tested to identify **Iron Deficiency Anemia** among microcytic/normocytic anemias.
-<!--SR:!2026-09-09,4,270-->
+<!--SR:!2026-09-24,15,290-->
 
 **Quest: A patient with anemia is found to have a high reticulocyte count and low serum**
 **ferritin. What is the most likely cause of his anemia?**
@@ -671,7 +671,7 @@ count suggests the bone marrow is responding to the anemia.
 Hemolytic anemia would present with evidence of hemolysis, anemia of chronic
 disease typically has normal or slightly low reticulocyte count, and aplastic anemia
 shows pancytopenia.
-<!--SR:!2026-09-09,4,270-->
+<!--SR:!2026-09-24,15,290-->
 
 **Quest: A patient with anemia presents with a history of chronic blood loss from heavy**
 **menstrual periods. What is the most likely type of anemia?**
@@ -682,7 +682,7 @@ D. Aplastic anemia.
 ?
 Correct: A : **Mechanism of Iron Loss:** The majority of the body's iron resides in red blood cell hemoglobin. Chronic blood loss—such as from heavy menstrual periods (**menorrhagia**)—depletes the body's iron stores (ferritin) faster than dietary absorption can replenish them.
 Why B is Wrong : **B. Anemia of Chronic Disease:** Driven by sustained systemic inflammation (e.g., rheumatoid arthritis, chronic infections, malignancy) that increases **hepcidin** levels and traps iron inside macrophages. Menorrhagia is an external blood loss problem, not an inflammatory disorder.
-<!--SR:!2026-09-09,4,270-->
+<!--SR:!2026-09-25,16,290-->
 
 # 7. Sideroblastic Anemia
 - iron does not incorporate into heme due to which defective heme synthesis. Due to which iron deposit in erythroblast mitochondria.  And bone marrow produces ringed sideroblast rather than healthy rbc

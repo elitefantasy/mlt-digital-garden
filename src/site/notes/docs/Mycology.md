@@ -85,7 +85,7 @@ NOTE:
 * Network of hyphae is called mycelium
 * Example   
 	* Dermatophytes examples:: Trichophyton, Microsporum, and Epidermophyton.
-<!--SR:!2026-09-09,2,155-->
+<!--SR:!2026-09-14,5,175-->
 	* Aspergillus , penicillium , rhizopus , mucor
 
 ### 4 Dimorphic fungi
@@ -236,7 +236,7 @@ Procedure
 * **Appearance**: It stains the fungal cell wall a ==magenta or pink== color.
 * **Used in**: Histopathology tissue sections.
 * Reacts with aldehyde group
-<!--SR:!2026-09-09,3,250-->
+<!--SR:!2026-09-11,2,230-->
 
 6. **Gomori Methenamine Silver (GMS)**  
 * **Overview**: Recognized as a highly sensitive fungal stain.  
@@ -265,7 +265,7 @@ The fungal cell wall is a rigid outer layer that typically ranges from 100 to 20
 	* **Glucans**: Primarily consisting of beta-1,3-glucan and beta-1,6-glucan. They are major wall components that maintain cell wall integrity and provide **elasticity**. Clinically, beta-glucan detection tests are utilized for diagnosing fungal infections.
 	* **Mannoproteins**: Glycoproteins containing **mannose sugars** located on the **outer layer** of the cell wall. They function in host **cell adhesion**, act as antigenic determinants, and interact with the host's immune system.
 	* **Other Components**: Glycoproteins, lipids, and minor amounts of proteins and pigments (such as melanin in certain fungi).
-<!--SR:!2026-09-09,3,235-->
+<!--SR:!2026-09-19,10,255-->
 
 ## 2\. Fungal Cell Membrane 
 

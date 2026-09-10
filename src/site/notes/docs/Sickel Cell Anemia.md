@@ -186,7 +186,7 @@ The severity of sickle cell disease depends on several modulating factors that a
 
 ### Solubility Test 
 - Principle :: The HbS Solubility Test relies on the difference in solubility between HbS and HbA in a concentrated phosphate buffer.
-<!--SR:!2026-09-09,1,210-->
+<!--SR:!2026-09-10,1,190-->
 - RBCs are lysed by a hemolytic agent(saponine), releasing hemoglobin. 
 - Sodium dithionite reduces the hemoglobin. HbS precipitates, producing turbidity. 
 - HbA and most other hemoglobins remain soluble, yielding a clear solution.

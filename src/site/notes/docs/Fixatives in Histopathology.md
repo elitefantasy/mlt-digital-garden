@@ -128,7 +128,7 @@ fixative used in electron microscopy is :: glutaraldehyde
   * *Sodium Sulfate:* Maintains the osmotic balance of the solution.
   * *Glacial Acetic Acid:* Specifically preserves nuclear structures.
 * **Pros & Cons:** Yields clear histological detail with optimal cytoplasmic and nuclear staining. However, it produces black mercury pigment deposits in tissues, requires extra washing steps, uses toxic chemicals, and cannot be used for lipid studies.
-<!--SR:!2026-09-09,3,230-->
+<!--SR:!2026-09-11,2,210-->
 
 
 ## Factors affecting fixation 
