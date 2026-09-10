@@ -34,7 +34,7 @@
 - in india falciparum and vivax are very common
 
 
-| feature                       | p.vivax    | falciparum    | malriae    | ovale         |
+| feature                       | p.vivax    | falciparum    | malariae   | ovale         |
 | ----------------------------- | ---------- | ------------- | ---------- | ------------- |
 | malaria type                  | benign     | malignant     | quartan    | ovale tertian |
 | fever periodicity             | every 48hr | every 48hr    | every 72hr | every 48hr    |
@@ -73,15 +73,13 @@ The developmental stages in humans are:
 #### 1. Pre-erythrocytic Schizogony
 This is the **first stage in humans** and occurs in the **liver**.
 
-**Entry of sporozoites**
-When an infected female _Anopheles_ mosquito bites a person, it injects **sporozoites** into the bloodstream.
+**Entry of sporozoites** : mosquito bites -> injects sporozoite into bloodstream
 - **Sporozoite is the infective stage for humans.**
 - Sporozoites circulate in blood for a short period.
 - They rapidly reach the liver.
 
 **Invasion of liver cells**
-Sporozoites enter **hepatocytes** and transform into growing tissue forms.
-They enlarge and develop into **hepatic schizonts**.
+Sporozoites -> **hepatocytes** -> enlarge , hepatic schizonts
 
 **Multiplication**
 The nucleus of the schizont divides repeatedly, followed by division of the cytoplasm.
@@ -89,8 +87,7 @@ This process is called **schizogony**.
 Large numbers of **merozoites** are formed inside the hepatic schizont.
 
 **Release of merozoites**
-The infected hepatocyte eventually ruptures and releases merozoites.
-These merozoites enter the bloodstream and invade RBCs.
+merozoite release from hepatocyte and invade rbc
 
 Important point
 In **_P. vivax_ and _P. ovale_**, some parasites may remain dormant in the liver as **hypnozoites**. Their later reactivation causes **relapse**.
@@ -101,12 +98,14 @@ In **_P. vivax_ and _P. ovale_**, some parasites may remain dormant in the liver
 This is the **most important stage responsible for clinical malaria**.
 It occurs inside the **RBCs**.
 
-Step 1 — Merozoite enters RBC
-Merozoites released from the liver invade RBCs.
-Inside the RBC, the merozoite develops into a **young trophozoite**.
+![Pasted image 20260910111147.png](/img/user/Attachments/Pasted%20image%2020260910111147.png)
+
+**Step 1 — Merozoite enters RBC**
+Merozoites invade rbcs
+merozoite develops into a **young trophozoite**.
 there maybe 6-24 merozoites in rbc
 
-Step 2 — Ring form
+**Step 2 — Ring form**
 The young trophozoite appears as a **ring-shaped structure** and is therefore called the:
 **Ring form**
 It contains:
@@ -114,11 +113,11 @@ It contains:
 - Central vacuole
 - Chromatin/nuclear material
 
-Step 3 — Mature trophozoite
+**Step 3 — Mature trophozoite**
 The ring form grows into a **mature trophozoite**.
 The parasite feeds on hemoglobin and produces **malarial pigment (hemozoin)**.
 
-Step 4 — Schizont
+**Step 4 — Schizont**
 The trophozoite develops into a **schizont**.
 The nucleus divides repeatedly.
 The cytoplasm then divides around the nuclei, producing multiple **merozoites**.
@@ -165,37 +164,29 @@ Thus: **Gametocyte = infective stage for mosquito.**
 
 
 ### B. MOSQUITO PHASE
-The mosquito phase begins when a **female _Anopheles_ mosquito** takes a blood meal from an infected person containing gametocytes.
-
-The mosquito is the **definitive host** because sexual reproduction of _Plasmodium_ occurs in it.
+mosquito takes blood from infected person containing gametocyte
+mosquito is the **definitive host**(sexual reproduction)
 
 
 #### 1. Gametogenesis
 Inside the mosquito's **stomach/midgut**
-gametocyte -> maturation into
+gametocyte -> maturation into male and female gametophyte
 
-**Male gametocyte**
-The microgametocyte undergoes **exflagellation** and produces several motile: **Microgametes**
+**Male gametocyte** -> exflagellation -> microgametes
 
-**Female gametocyte**
-The macrogametocyte develops into: **Macrogamete**
-
-
+**Female gametocyte** -> macrogamete
 
 #### 2. Fertilization
  **Microgamete + Macrogamete → Zygote**
 
 #### 3. Ookinete Formation
 The zygote elongates and becomes a motile worm-like structure called the: **Ookinete**
-
 The ookinete penetrates the mosquito's **midgut wall**.
-
 
 #### 4. Oocyst Formation
 After penetrating the gut wall, the ookinete comes to lie on the outer surface of the mosquito's midgut and develops into an: **Oocyst**
 
 The oocyst increases in size.
-
 
 #### 5. Sporogony
 Inside the oocyst, repeated nuclear and cytoplasmic divisions occur.
@@ -233,6 +224,7 @@ The cycle begins again.
 - nuclear dna of malarial parasite is stained green and cytoplasmic rna red
 
 #### B. Rapid Diagnostic Tests (RDTs)
+?
 Detect _Plasmodium_ antigens such as:
 - **HRP-2** → histidine rich protein 2 mainly _P. falciparum_
 - **pLDH** → plasmodium lactate dehydrogenase : Plasmodium species
@@ -251,7 +243,6 @@ Detect _Plasmodium_ antigens such as:
 
 **P. falciparum**
 - Multiple delicate ring forms may occur in one RBC
-- **Appliqué/accolé forms**
 - Mature trophozoites usually absent from peripheral blood
 - **Crescent/banana-shaped gametocytes**
     
