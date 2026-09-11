@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/mycology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Clinical-biochem-and-microbio","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"],"sr-due":"2026-09-01","share_link":"https://share.note.sx/ecsiz55k#nmRRHDBq/mM7Of1bvOP2Pw","share_updated":"2026-09-08T10:05:56+05:30"}}
+{"dg-publish":true,"permalink":"/docs/mycology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Clinical-biochem-and-microbio","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"],"share_link":"https://share.note.sx/ecsiz55k#nmRRHDBq/mM7Of1bvOP2Pw","share_updated":"2026-09-08T10:05:56+05:30"}}
 ---
 
 
@@ -97,7 +97,7 @@ Two forms
 * **Pathogenicity**: highly virulent  , systemic mycoses.  
 * **Transmission**: inhaling spores
 * **Examples** :: *Histoplasma* capsulatum, *Blastomyces* dermatitidis, *Coccidioides* species, Paracoccidioides, Penicillium marneffei, and Sporothrix schenckii.
-<!--SR:!2026-09-10,5,158-->
+<!--SR:!2026-09-14,3,138-->
 
 
 ## Taxonomical Classification
@@ -123,7 +123,7 @@ Zygomycetes (also historically referred to as Phycomycetes)
 	* **Asexual Spores (Anamorph)**: They reproduce asexually by producing **conidia**, which are formed exogenously.
 * **Dikaryon Phase**: Similar to Basidiomycetes, Ascomycetes can exhibit a "dikaryon phase" (n+n state). This is a transitional condition where plasmogamy (fusion of cytoplasm) occurs, but karyogamy (fusion of nuclei) is delayed, resulting in cells containing two separate haploid nuclei.
 * **Representative Genera**:  ==Trichophyton, Microsporum, and *Aspergillus*, *Penicillium*==
-<!--SR:!2026-09-10,3,250-->
+<!--SR:!2026-09-20,9,250-->
 
 ### 3 Basidiomycetes 
 
@@ -153,8 +153,8 @@ Because they lack a known sexual stage, they are artificially grouped into three
 
 
 
-## Pathogenic classification  of mycoses [[docs/Pathogenic classification  of mycoses\|here]]
-
+## Pathogenic classification  of mycoses
+[[docs/Pathogenic classification  of mycoses\|Pathogenic classification  of mycoses]]
 
 ## Classification Based on Reproduction 
 
@@ -173,7 +173,7 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 * **Dikaryotic Stage**: Occurs between plasmogamy and karyogamy. Common in Ascomycetes and Basidiomycetes; can persist for long periods before nuclear fusion.
 * **Karyogamy**: Fusion of two haploid nuclei to form a **diploid nucleus (2n)**. Occurs in specialized reproductive structures and marks the completion of nuclear fusion.
 * **Meiosis**: Reduction division that restores the haploid state. The diploid nucleus undergoes division to produce haploid sexual spores, ensuring genetic variation. These spores germinate to form new fungal mycelium.
-<!--SR:!2026-09-10,5,238-->
+<!--SR:!2026-09-27,16,258-->
 
 ### II. Asexual Reproduction
 * **Conidia**: Produced externally on conidiophores. Examples: *Aspergillus*, *Penicillium*.  
@@ -183,19 +183,20 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 * **Chlamydospores**: Thick-walled survival spores. Example: *Candida albicans*.
 
 
-## Classification based on hyphal structure 
-* **Septate Hyphae**  
-	* **Definition**: These hyphae contain cross walls, which are known as septa.  
-	* **Characteristics**: They are characterized as thin, branching hyphae.  
-	* **Examples**: Found in *Aspergillus*, *Penicillium*, and Dermatophytes.  
-* **Aseptate (Coenocytic) Hyphae**  
-	* **Definition**: These hyphae lack septa and contain many nuclei within the cell structure.  
-	* **Characteristics**: They are characterized as broad, ribbon-like, and non-septate hyphae.  
-	* **Examples**: Found in *Rhizopus* and *Mucor*.  
-* **Pseudohyphae**  
-	* **Definition**: These are structured as chains of elongated, newly budded yeast cells that remain attached end-to-end without detaching.  
-	* **Characteristics**: They form thread-like structures that feature clear, constricted junctions between the cells.  
-	* **Example**: Found in *Candida albicans*.
+## Classification based on hyphal structure
+* **Septate Hyphae**
+	* **Definition**: These hyphae contain cross walls, which are known as septa.
+	* **Characteristics**: They are characterized as thin, branching hyphae.
+	* **Examples**: Found in ==1;;*Aspergillus*, *Penicillium*, and Dermatophytes.  ==
+* **Aseptate (Coenocytic) Hyphae**
+	* **Definition**: These hyphae lack septa and contain many nuclei within the cell structure.
+	* **Characteristics**: They are characterized as broad, ribbon-like, and non-septate hyphae.
+	* **Examples**: Found in ==1;;*Rhizopus* and *Mucor*.  ==
+* **Pseudohyphae**
+	* **Definition**: These are structured as chains of elongated, newly budded yeast cells that remain attached end-to-end without detaching.
+	* **Characteristics**: They form thread-like structures that feature clear, constricted junctions between the cells.
+	* **Example**: Found in ==1;;*Candida albicans*.==
+<!--SR:!2026-09-12,1,230-->
 
 # Stains Used in Mycology 
 
@@ -226,17 +227,18 @@ Procedure
 * which fungi appear as Gram-positive budding yeast when Gram stain is applied. :: Candida
 <!--SR:!2026-09-18,10,255-->
 
-4. **India Ink Stain**  
-* **Uses**: It is specifically used to detect the presence of a capsule.  
-* **Appearance**: The capsule is visualized as a clear halo around the fungus.  
-* **Example**: Used to detect *Cryptococcus neoformans*.  
+4. **India Ink Stain**
+* **Uses**: It is specifically used to detect the presence of a capsule.
+* **Appearance**: The capsule is visualized as a clear halo around the fungus.
+* **Example**: Used to detect fungus like ==Cryptococcus neoformans==
+<!--SR:!2026-09-14,3,250-->
 
 
 5. **PAS Stain (Periodic Acid-Schiff)**
 * **Appearance**: It stains the fungal cell wall a ==magenta or pink== color.
 * **Used in**: Histopathology tissue sections.
 * Reacts with aldehyde group
-<!--SR:!2026-09-11,2,230-->
+<!--SR:!2026-09-18,7,250-->
 
 6. **Gomori Methenamine Silver (GMS)**  
 * **Overview**: Recognized as a highly sensitive fungal stain.  
@@ -245,7 +247,7 @@ Procedure
 7. **Calcofluor White Stain**
 * **Principle**: It is a chemofluorescent dye that binds selectively to ==chitin and cellulose== in fungal cell walls.
 * **Observation**: Under a fluorescence microscope, the fungal elements fluoresce a bright green, allowing for rapid and highly sensitive detection of fungi.
-<!--SR:!2026-09-10,4,270-->
+<!--SR:!2026-09-26,15,290-->
 
 # Structure of Fungal Cells
 
@@ -261,8 +263,8 @@ The fungal cell wall is a rigid outer layer that typically ranges from 100 to 20
 	* pathogenicity and immune recognition.
 * **Major Structural Components**:
 	?
-	* **Chitin**: polysaccharide ;;; composed of a polymer of N-acetylglucosamine. It provides rigidity and strength  and serves as a common target for diagnostic studies and antifungal drugs.
-	* **Glucans**: Primarily consisting of beta-1,3-glucan and beta-1,6-glucan. They are major wall components that maintain cell wall integrity and provide **elasticity**. Clinically, beta-glucan detection tests are utilized for diagnosing fungal infections.
+	* **Chitin**: polysaccharide ;;; composed of a *polymer of N-acetylglucosamine*. It provides rigidity and strength  and serves as a common target for diagnostic studies and antifungal drugs.
+	* **Glucans**: Primarily consisting of beta-1,3-glucan and beta-1,6-glucan. They are major wall components that maintain *cell wall integrity* and provide **elasticity**. Clinically, beta-glucan detection tests are utilized for diagnosing fungal infections.
 	* **Mannoproteins**: Glycoproteins containing **mannose sugars** located on the **outer layer** of the cell wall. They function in host **cell adhesion**, act as antigenic determinants, and interact with the host's immune system.
 	* **Other Components**: Glycoproteins, lipids, and minor amounts of proteins and pigments (such as melanin in certain fungi).
 <!--SR:!2026-09-19,10,255-->
@@ -301,7 +303,7 @@ Fungal structures differ drastically from bacterial cell structures across sever
 
 # Fungal Growth Media 
 name few media in which fungus can grow :: Sabouraud dextrose agar, Potato dextrose agar, Corn Meal agar , czapek dox agar , brain heart infusion
-<!--SR:!2026-09-11,3,230-->
+<!--SR:!2026-09-21,10,250-->
 
 **1\. Sabouraud Dextrose Agar (SDA)**
 * **Overview:** The most commonly used primary isolation medium for fungi.  

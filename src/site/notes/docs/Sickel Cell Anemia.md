@@ -173,7 +173,7 @@ The severity of sickle cell disease depends on several modulating factors that a
 
 ### Sickling Test
 - Principle :: When blood is treated with sodium metabisulfite, the oxygen tension is lowered (deoxygenation). If the red cells contain HbS, the hemoglobin undergoes polymerization, leading to the development of sickle or crescent-shaped cells.
-<!--SR:!2026-09-10,2,230-->
+<!--SR:!2026-09-12,1,210-->
 - Procedure
 	- Place drop of blood on clean slide 
 	- Add equal drop of sodium metabisulfite 
@@ -184,12 +184,14 @@ The severity of sickle cell disease depends on several modulating factors that a
 	- Examine under microscope after 20-30 minutes 
 	- Re-examine at: 1. 30 minutes 2. 2 hours 3. Up to 24 hours
 
-### Solubility Test 
-- Principle :: The HbS Solubility Test relies on the difference in solubility between HbS and HbA in a concentrated phosphate buffer.
-<!--SR:!2026-09-10,1,190-->
-- RBCs are lysed by a hemolytic agent(saponine), releasing hemoglobin. 
-- Sodium dithionite reduces the hemoglobin. HbS precipitates, producing turbidity. 
+### Solubility Test
+Principle
+?
+- The HbS Solubility Test relies on the difference in solubility between HbS and HbA in a concentrated phosphate buffer.
+- RBCs are lysed by a hemolytic agent(saponine), releasing hemoglobin.
+- Sodium dithionite reduces the hemoglobin. HbS precipitates, producing turbidity.
 - HbA and most other hemoglobins remain soluble, yielding a clear solution.
+<!--SR:!2026-09-12,1,170-->
 
 
 **After centrifugation**:

@@ -128,7 +128,7 @@ Assesses:
 <!--SR:!2026-09-21,16,190-->
 
 - **Pappenheimer bodies:** :: Composed of **iron-containing granules (hemosiderin)**. They are seen in sideroblastic anemia, hyposplenism, and iron-loading states.
-<!--SR:!2026-09-09,4,170-->
+<!--SR:!2026-09-13,2,150-->
 
 - **Basophilic stippling:** :: Composed of aggregates of ribosomal RNA and ribosomes. Common associations include lead poisoning, thalassemia, and megaloblastic anemia.
 <!--SR:!2026-11-10,64,310-->
@@ -252,7 +252,7 @@ Treatment depends on the cause.
 - D. Pyridoxine deficiency
 ?
 Folate is required for the remethylation of homocysteine to methionine , causing isolated elevated homocysteine and normal methylmalonic acid.
-<!--SR:!2026-09-10,3,230-->
+<!--SR:!2026-09-18,7,230-->
 
 
 **Quest: A patient with macrocytic anemia and normal vitamin B12 levels is found to have**
@@ -418,7 +418,7 @@ Examples:
 - [[docs/G6PD deficiency\|G6PD deficiency]]
 - [[docs/Hereditary Spherocytosis\|Hereditary Spherocytosis]]
 - [[docs/Paroxysmal Nocturnal Hemoglobinuria (PNH)\|Paroxysmal Nocturnal Hemoglobinuria (PNH)]]
-<!--SR:!2026-09-11,2,230-->
+<!--SR:!2026-09-18,7,250-->
 
 
 | **Feature**                      | **Hereditary Spherocytosis (HS)**       | **G6PD Deficiency**                  | **Paroxysmal Nocturnal Hemoglobinuria (PNH)** |
@@ -644,7 +644,7 @@ D. Aplastic anemia.
 A ✔️
 Aplastic: normocytic
 ACD:  normocytic
-<!--SR:!2026-09-09,4,270-->
+<!--SR:!2026-09-13,2,250-->
 
 **Q A patient with anemia is found to have an elevated red cell distribution**
 **width (RDW). What does this indicate?**
@@ -702,7 +702,7 @@ Types
 		2. Chronic alcoholism :
 
 Question : chronic alcohol consumption se ringed sideroblast kaise ho skta he :: alcohol consumption can interfere with Pyridoxine metabolism (vit B6). Vitamin b6 helps in red blood cell production
-<!--SR:!2026-09-10,2,170-->
+<!--SR:!2026-09-16,5,190-->
 
 **question** : drugs associated with sideroblastic changes include :: isoniazid , chloramphenicol
 <!--SR:!2026-09-23,18,250-->

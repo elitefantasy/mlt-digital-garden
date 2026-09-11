@@ -73,7 +73,7 @@ clinical enzymes
 <!--SR:!2026-09-14,6,230-->
 - ==Alkaline phosphatase (ALP) and gamma-glutamyl transferase (GGT)== are the primary enzymes that increase in the body during cholestasis.
 - among lipase and amylase which enzyme is more specific for diagnosing pancreatitis :: **Lipase**(remains elevated longer)
-<!--SR:!2026-09-10,2,229-->
+<!--SR:!2026-09-17,6,249-->
 
 # 3. Enzyme Models
 
@@ -153,7 +153,7 @@ Each enzyme is assigned a four-digit **Enzyme Commission (EC) number**, which de
 		- **Glutamine Synthetase:** Combines glutamate and ammonia to form glutamine, playing a central role in nitrogen metabolism.
 		- Carbamoyl Phosphate Synthetase I
 		- Argininosuccinate Synthetase
-<!--SR:!2026-09-11,6,190-->
+<!--SR:!2026-09-14,3,170-->
 
 ## Classification Based on Where They Function
 
@@ -291,7 +291,7 @@ The following table details major coenzymes, their parent vitamins, and their pr
 | **Vitamin B7 (Biotin)**       | ==1;;Biotin cofactor==        | CO₂ transfer                                |
 | **Vitamin B9 (Folate)**       | ==1;;THF (Tetrahydrofolate)== | One-carbon transfer                         |
 | **Vitamin B12 (Cobalamin)**   | Coenzyme forms of B12         | Rearrangement and methyl-transfer reactions |
-<!--SR:!2026-09-09,2,150-->
+<!--SR:!2026-09-14,3,150-->
 
 
 

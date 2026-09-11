@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/parasitology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Parasitology-and-blood-cell-disorder","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"],"sr-due":"2026-08-22","sr-interval":3,"sr-ease":250}}
+{"dg-publish":true,"permalink":"/docs/parasitology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Parasitology-and-blood-cell-disorder","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"]}}
 ---
 
 linked:  [[docs/Parasitology Examples\|Parasitology Examples]]
@@ -88,7 +88,7 @@ linked:  [[docs/Parasitology Examples\|Parasitology Examples]]
 - Undercooked pork -> Taenia solium
 	- Infective Stage ==cysticercus cellulose==
 	- Disease : taeniasis
-<!--SR:!2026-09-11,6,230-->
+<!--SR:!2026-10-01,20,250-->
 
 - Undercooked beef -> Taenia saginata
 	- Infective Stage  ==cysticercus==
@@ -151,13 +151,14 @@ classification
 2. helminths
 	1. nematode
 		1. intestinal: ascaris lumbricoides
-		2. tissue: 
-		3. Blood: 
+		2. tissue:
+		3. Blood:
 	2. trematode
 		1. blood fluke: shistocomes(haematobium)
 		2. hermaphroditic flukes: lung fluke, liver fluke, intestinal fluke
 	3. cestode
 		1. echinococcus granulosa, taenia species
+<!--SR:!2026-09-13,2,245-->
 
 
 ## 1. Protozoa (Protista)
@@ -204,6 +205,7 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 - small intestine : *giardia flagellate* primary habitat is duodenum and upper jejunum , *cryptosporidium parvum sporozoan*
 - large intestine : entamoeba histolytica   , balantidium coli (ciliate)
 - both intestine : balantidumundergoes **excystation** in the small intestine, then migrates to the large intestine where trophozoites colonize.
+<!--SR:!2026-09-12,1,225-->
 
 
 #### Amoeba | Entamoeba Histolytica
@@ -489,7 +491,7 @@ Cylindrical, unsegmented worms with a complete digestive tract.
 	1. lung flukes : ==1;;paragonimus westermani==
 	2. liver fluke : ==1;;Fasciola Hepatica==
 	3. intestinal fluke : ==1;;Fasciolopsis buski==
-<!--SR:!2026-09-10,1,130-->
+<!--SR:!2026-09-12,1,130-->
 
 
 Leaf-shaped flatworms.

@@ -332,7 +332,7 @@ After splenectomy, infection and thrombosis risk increase, so vaccination and pr
 - Iron should not be prescribed for microcytosis until iron deficiency is confirmed.
 - The major long-term complication in transfusion-dependent patients is **iron overload**.
 - Definitive potentially curative treatment is **hematopoietic stem-cell transplantation** in suitable patients
-<!--SR:!2026-09-11,13,230-->
+<!--SR:!2026-10-10,29,230-->
 
 **Question:** Target Cells are seen in
 A) Thalassemia
@@ -342,4 +342,4 @@ d) G6PD
 ?
 Target cells (codocytes) in thalassemia are abnormal red blood cells that look like a bull's eye. They form because faulty hemoglobin production creates an imbalance between the cell surface area and its low volume, leaving an extra floppy membrane that flattens out on a blood smear.
 ![Pasted image 20260816191620.png\|365](/img/user/Attachments/Pasted%20image%2020260816191620.png)
-<!--SR:!2026-09-10,4,270-->
+<!--SR:!2026-09-13,2,250-->

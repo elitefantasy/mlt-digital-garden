@@ -5,7 +5,7 @@
 <-  [[docs/Histology\|Histology]]
 
 Key Steps of tissue processing are :: Dehydration -> Clearing -> Infiltration
-<!--SR:!2026-09-09,4,230-->
+<!--SR:!2026-09-23,12,250-->
 
 # 1. Dehydration
 
@@ -23,7 +23,7 @@ Key Steps of tissue processing are :: Dehydration -> Clearing -> Infiltration
 
 ## Dehydrating Agents
 name the dehydrating agents used in histology :: ethanol, isopropyl alcohol, acetone
-<!--SR:!2026-09-11,6,250-->
+<!--SR:!2026-09-13,2,230-->
 ### A. Ethanol
 The most commonly used dehydrating agent.
 -   **Advantages:**
@@ -150,7 +150,7 @@ If clearing is incomplete, paraffin will not infiltrate properly, leading to. So
 	1. slow clearing, less shrinkage 🟢, **delicate tissue**
 4. cedarwood oil (natural agent)
 	1. very gentle, **brain and eye tissues**, very slow and expensive
-<!--SR:!2026-09-11,3,150-->
+<!--SR:!2026-09-16,5,150-->
 
 
 **Duration of Clearing**
@@ -193,7 +193,7 @@ temp, agitation, freshness , thickness
 2. **Plastic Resins** *(e.g., Glycol methacrylate, Epoxy)* : High-resolution media ;;; Bone, small biopsies
 3. **Celloidin** *(Nitrocellulose)* : Thick, slow-penetrating medium ;;; Brain and nervous tissue
 4. **Polyethylene Glycol (PEG)** : Water-soluble paraffin alternative ;;; Special tissues, rapid processing
-<!--SR:!2026-09-11,4,170-->
+<!--SR:!2026-09-18,7,170-->
 
 
  **Paraffin Wax Composition**
@@ -247,7 +247,6 @@ temp, agitation, freshness , thickness
 	* Hard calcified tissues cannot be sectioned with a microtome .
 	* Residual calcium interferes with histological staining .
 	* Essential for studying bone pathology and microscopic architecture .
-
 **Principle**
 * Involves the removal of calcium salts (primarily **calcium phosphate**) through:
 	* **Acids:** Dissolve calcium salts into solution .
@@ -255,23 +254,24 @@ temp, agitation, freshness , thickness
 
 ---
 
-**Decalcification Methods** 
-
-1. **Acid Methods (Most Common)** 
+**Decalcification Methods**
+?
+1. **Acid Methods (Most Common)**
 	1. ***Strong Acids (Nitric acid, Hydrochloric acid)***
-		1. Advantage: Very fast 
+		1. Advantage: Very fast
 		2. Disadvantage: Tissue damage, poor nuclear staining
 	2. ***Weak Acids (Formic acid \[most common\], Acetic acid)***
-		1. Advantage: Superior tissue preservation 
-		2. Disadvantage: Slower reaction time 
+		1. Advantage: Superior tissue preservation
+		2. Disadvantage: Slower reaction time
 2. **Chelating Agents (EDTA / Ethylenediaminetetraacetic acid)**
 	1. Advantage: Best cellular detail preservation (ideal for research/delicate tissues)
 	2. Disadvantage: Very slow (requires days to weeks)
 3. **Combination Methods (Acid + EDTA / other agents)**
-	1. Feature: Balances speed with structural preservation 
+	1. Feature: Balances speed with structural preservation
 4. **Electrolytic Method**
 	1. Feature: Uses electric current to accelerate ion transfer
 	2. Disadvantage: Rarely used due to technical complexity
+<!--SR:!2026-09-14,3,250-->
 
 ---
 

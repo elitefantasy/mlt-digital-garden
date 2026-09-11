@@ -94,7 +94,7 @@
 - **_Schistosoma haematobium_ (Bladder Fluke):** Large, spindle-shaped eggs  with a **prominent, sharp terminal spine** at one pole Excreted primarily in **urine**.  also known as ==vesicle fluke and bilharzia==
 - **_Schistosoma mansoni_:** Large, oval eggs (150 um) with a **prominent, sharp lateral spine** pointing backward Excreted primarily in **stool**
 - **_Schistosoma japonicum_:** Round or oval eggs (70-80 um) with a very **small, inconspicuous lateral knob/spine**  Excreted primarily in **stool**
-<!--SR:!2026-09-10,1,130-->
+<!--SR:!2026-09-12,1,130-->
 
 #### B. Hermaphroditic Flukes
 

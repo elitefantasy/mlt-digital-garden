@@ -28,7 +28,7 @@ levels:
 - 2. Cutaneous Mycoses
     - 2.1. Introduction to Cutaneous Mycoses
     - 2.2. Clinical Types of Dermatophytosis
-    - exam ready ppints on Lab Diagnosis of Dermatophytes
+    - exam ready points on Lab Diagnosis of Dermatophytes
     - 2.3. Laboratory Diagnosis of Dermatophytosis
     - 2.4 Dermatophyte Classifcation by habitat
     - 2.5. Additional Microscopic Morphology & Hyphal Structures
@@ -66,7 +66,7 @@ Tinea nigra : hortae wernecki
 **Hair infections**
 Black piedra : piedra hortae
 White piedra : trichosporon beigali
-<!--SR:!2026-09-09,1,130-->
+<!--SR:!2026-09-12,1,130-->
 
 ## A. Skin Infection
 i) **Tinea versicolor** 
@@ -304,7 +304,7 @@ Dermatophyte infection involving the **palmar** aspect of the hands.
 Characterized by **widespread concentric**, overlapping rings of scaly lesions on the skin.
 
 
-## exam ready ppints on Lab Diagnosis of Dermatophytes
+## exam ready points on Lab Diagnosis of Dermatophytes
 
 | Dermatophyte | Key Microscopic Feature | Key Cultural Feature | Characteristic Identifier |
 |---|---|---|---|
@@ -564,12 +564,9 @@ Dermatophytes commonly grow outward from the initial site. The center may partia
 
 
 # 3. Subcutaneous Mycoses  
-* Subcutaneous mycoses represent a group of chronic fungal infections that extend beyond the epidermis to involve the deep dermis, subcutaneous tissues, fascial planes, and bones . 
-* Unlike superficial infections, these pathogens reside as saprophytes in soil or on vegetation and cannot actively penetrate intact skin
-* They are typically introduced into the host's deeper tissues through traumatic inoculation, such as a rose thorn prick, wood splinter, animal scratch, or minor cut, often during agricultural or outdoor manual labor
-
-
-
+* Subcutaneous mycoses represent a group of chronic fungal infections that extend beyond the epidermis to involve the **deep dermis**, subcutaneous tissues, fascial planes, and bones . 
+* Unlike superficial infections, these pathogens reside as saprophytes in soil or on vegetation and **cannot actively penetrate intact skin**
+* They are typically introduced into the host's deeper tissues through **traumatic inoculation** , such as a rose thorn prick, wood splinter, animal scratch, or minor cut, often during agricultural or outdoor manual labor
 
 ## 3.2. Risk Factors and etiology
 A. High-Risk Populations & Demographics
@@ -634,7 +631,7 @@ The primary clinical diseases(7) caused by subcutaneous mycoses include:
 	- **Etiology:** broad, ribbon-like, non-septate (coenocytic) hyphae and divided into two categories:
 	    - **Entomophthoromycosis:** Localized subcutaneous infections caused by _Basidiobolus ranarum_ or _Conidiobolus coronatus_.
 	    - **Subcutaneous Mucormycosis:** Rare, localized subcutaneous presentations of zygomycosis caused by _Rhizopus arrhizus_, _Mucor_, or _Lichtheimia_ species
-<!--SR:!2026-09-10,1,170-->
+<!--SR:!2026-09-13,2,170-->
 
 ### Mycetoma / madura foot
 - affects feet mainly
@@ -675,7 +672,7 @@ White Grain Eumycetoma : Pseudallescheria boydii , Aspergillus nidulans, Acremon
 - Actinomycetoma may invade bone relatively earlier than many eumycetoma.
 
 **Clinical Features**
-![Pasted image 20260905203826.png\|265](/img/user/Attachments/Pasted%20image%2020260905203826.png)
+![Pasted image 20260905203826.png\|377](/img/user/Attachments/Pasted%20image%2020260905203826.png)
 
 **Lab diag**
 - sample: grains/ granules, pus, discharge from sinus
@@ -870,12 +867,12 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 1 **True Pathogens**
 - dimorphic fungi
 - infect immunocompromised as well as healthy
-- examples: blastomyces dermatidis (blastomycosis) , coccidioides immitis (coccidiodomycosis) and histoplasam capsulatum (histoplasmosis)
+- examples: *blastomyces dermatidis* (blastomycosis) , *coccidioides immitis* (coccidiodomycosis) and *histoplasam capsulatum* (histoplasmosis)
 - These dimorphic fungi exist as mould in the environment and as a yeast (except for C. immitis, because they form a spherule, which is not a true yeast).
 
 2 **Oppurtunistic pathogens**
 - affect immunocompromised patient
-- examples : Cryptococcus neoformans and C. gatti (causes Cryptococcosis), Aspergillus spp. (Causes Aspergillosis) and Candida spp. (Causes Candidiasis).
+- examples : *Cryptococcus neoformans* and *C. gatti* (causes Cryptococcosis), *Aspergillus spp.* (Causes Aspergillosis) and *Candida spp.* (Causes Candidiasis).
 
 1.1 **blastomycosis**
 - Initially acute pulmonary blastomycosis then  chronic pulmonary disease.
@@ -897,13 +894,14 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 - Dissemination of histoplasmosis occurs via the reticuloendothelial system and the primary sites are mainly the liver, spleen and lymph nodes. 
 - infection causes ulcerative lesions in the lungs very reminiscent of tuberculosis.
 
-2.1 **Cryptococcosis**: 
-- C. neoformans-> pulmonary infection. 
-	- Disseminated pulmonary infection may spread into the bones, skin and brain. 
+2.1 **Cryptococcosis**:
+- C. neoformans-> pulmonary infection.
+	- Disseminated pulmonary infection may spread into the bones, skin and brain.
 	- infection in brain -> cryptococcal meningitis
-- C. gatti healthy +  immunocompetent host. 
-	- takes over immune system 
+- C. gatti healthy +  immunocompetent host.
+	- takes over immune system
 - Both C. neoformans and C. gatti are ==encapsulated== yeasts, an attribute that ensures their survival in the gut of pigeons and also increases their pathogenicity
+<!--SR:!2026-09-12,1,230-->
 
 2.2 **Aspergillosis**
 - examples: A. fumigatus, A. niger, A. flavus and A. nidulans. 
@@ -914,8 +912,7 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 	- iii. *Sinusitis* : flavus and fumigatus ; affects paranasal sinuses
 	- iv. *Allergic bronchopulmonary aspergillosis*. : fumigatus ; fungus produce mucus plugs ; 
 
-Note: 
-**Atopic** means having a genetic tendency to develop allergic reactions driven by IgE antibodies, while **non-atopic** means having similar symptoms or conditions (like eczema or asthma) without an allergic or IgE-mediated immune response
+> [!note] **Atopic** means having a genetic tendency to develop allergic reactions driven by IgE antibodies, while **non-atopic** means having similar symptoms or conditions (like eczema or asthma) without an allergic or IgE-mediated immune response
 
 2.3 **Candidiasis**
 - c.glabrata and c.albicans
