@@ -121,7 +121,7 @@ The **window period** is the time between infection and the first reliable detec
 |Third|Antibody|Immune response to infection|
 
 # HIV
-[[HIV\|HIV]]
+[[docs/HIV\|HIV]]
 
 # Hepatitis
 [[docs/Hepatitis\|Hepatitis]]
