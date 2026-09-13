@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/docs/hepatitis/","dg-note-properties":{}}
 ---
 
-**Comprehensive Study Notes on Viral Hepatitis**
+
 
 **1\. Fundamentals of Liver Anatomy & Physiology** To understand viral hepatitis, one must understand the anatomy and blood supply of the normal liver.
 
@@ -50,22 +50,29 @@
 * **Antibodies:** IgM anti-HAV indicates a recent/acute infection. IgG anti-HAV indicates a past infection or recovery (this antibody remains forever).
 
 **Hepatitis B**
-
-* **Clinical Course:** 65% of cases are subclinical, 25% are acute, 5% become carriers, and 10% develop chronic hepatitis.  
-* **Antigens (Ag):** The virus has 3 antigens: **HBsAg** (surface), **HBeAg** (envelope), and **HBcAg** (core, deep inside). Only HBsAg and HBeAg leak into the blood; HBcAg never enters the blood.  
-* **Antibodies (Ab):** The body produces 4 antibodies: Anti-HBs, Anti-HBe, IgM Anti-HBc, and IgG Anti-HBc.  
-* **Sequence of Appearance:**  
-  * Antigens: s comes first, followed by e.  
-  * Antibodies: IgM anti-c, then anti-e, then IgG anti-c, and finally anti-s.  
+- HBV is an enveloped DNA virus that infects hepatocytes.
+- 3 antigens: **HBsAg** (surface), **HBeAg** (envelope), and **HBcAg** (core, deep inside). Only HBsAg and HBeAg leak into the blood; HBcAg never enters the blood.  
+* produces 4 antibodies: Anti-HBs, Anti-HBe, IgM Anti-HBc, and IgG Anti-HBc.   
 * **Serological Marker Interpretation:**  
-  * **HBsAg vs. Anti-HBs:** Mutually exclusive. HBsAg means active *infection*. Anti-HBs means *recovery* or successful *vaccination*.  
-  * **HBeAg vs. Anti-HBe:** Mutually exclusive. HBeAg indicates *high infectivity* (highly contagious). Anti-HBe indicates *low infectivity*.  
-  * **Anti-HBc:** IgM indicates an *acute* infection; IgG indicates a *chronic* or past infection.
+	* **HBsAg vs. Anti-HBs:** Mutually exclusive. HBsAg means active *infection*. Anti-HBs means *recovery* or successful *vaccination*.  
+	* **HBeAg vs. Anti-HBe:** Mutually exclusive. HBeAg indicates *high infectivity* (highly contagious). Anti-HBe indicates *low infectivity*.  
+	* **Anti-HBc:** IgM indicates an *acute* infection; IgG indicates a *chronic* or past infection.
 
 **Hepatitis C**
-
-* **Unique Features:** In addition to high chronicity (80%), it is the only hepatitis virus that causes **extra-hepatic manifestations** (involving other organs), such as mixed cryoglobulinemia, glomerulonephritis, and arthritis.  
+- HCV is an enveloped RNA virus that primarily infects the liver.
+*  it is the only hepatitis virus that causes **extra-hepatic manifestations** (involving other organs), such as mixed cryoglobulinemia, glomerulonephritis, and arthritis.  
 * **Diagnosis:** Antigens include Core, Envelope, and NS1-NS4 transmembrane proteins. In lab tests, 3rd generation antibodies (against NS5) appear earliest, followed by 2nd generation (C200/C33) and 1st generation (C100).
+
+|Marker|Meaning|
+|---|---|
+|Anti-HCV|Exposure or infection; may persist after clearance|
+|HCV core antigen|Active viral infection|
+|HCV RNA|Current viraemia and direct evidence of virus|
+|ALT|Nonspecific liver injury marker; not a suitable replacement for HCV testing|
+
+Anti-HCV usually becomes detectable approximately **30–60 days after infection**. HCV RNA may be detectable earlier, and HCV antigen generally appears before antibody
+
+
 
 **Hepatitis D**
 

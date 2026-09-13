@@ -3,14 +3,14 @@
 ---
 
 
-# **Sites of Hematopoiesis by Age**
+# Sites of Hematopoiesis by Age
 
 * **Mesoblastic phase (yolk sac):** Starts early in embryonic life (around the 3rd week) and is the primary site of blood cell formation.  
 * **Hepatic phase (liver and spleen):** The liver becomes the primary site of hematopoiesis from the 2nd to 5th month of gestation, with the spleen also contributing.  
 * **Myeloid phase (bone marrow):** Bone marrow becomes the primary site of hematopoiesis starting from the 5th month of gestation and remains the principal site throughout adult life. In adults, active marrow is found primarily in the axial skeleton (vertebrae, ribs, sternum, pelvis, skull) and the proximal ends of long bones (femur, humerus).
 
 
-# **. General Properties of Blood**
+# . General Properties of Blood
 
 * **Volume:** A healthy adult typically has approximately 5 litres of blood, which accounts for roughly 8% of total body weight.  
 * **Gender Variations:** Females generally have a slightly lower blood volume, averaging about 4.5 litres.  
@@ -25,7 +25,7 @@
 | White blood cell | Leukocyte, WBC   | Protects against infection, inflammation, and foreign substances                                 | 4.0–11.0 thousand/L                                   |
 | Platelet         | Thrombocyte      | Forms the primary platelet plug and helps stop bleeding                                          | 1.5-4.5 lakhs/ L                                      |
 
-# **2\. Blood Components (Centrifugation Layers)**
+# 2\. Blood Components (Centrifugation Layers)
 
 When blood is centrifuged with an anticoagulant, it separates into three distinct layers based on density:
 
@@ -37,50 +37,39 @@ When blood is centrifuged with an anticoagulant, it separates into three distinc
 
 **Perfluorocarbons (PFCs):** Perfluorocarbons are most commonly used as a **blood substitute**. Their primary function is to **help deliver oxygen to the tissues** in the absence of oxygen
 
-# **3\. Cellular Functions**
+# 3\. Cellular Functions
 
-## **Erythrocytes (Red Blood Cells)**
+## Erythrocytes (Red Blood Cells)
 
 * **Primary Function:** Responsible for transporting oxygen from the lungs to tissues and returning carbon dioxide to the lungs.  
 * **Mechanism:** This transport is facilitated by hemoglobin, a specialized protein that binds oxygen.
 
-## **Leukocytes (White Blood Cells)**
-
+## Leukocytes (White Blood Cells)
 * **Normal Reference Range:** The total adult WBC count typically ranges from 4,000 to 11,000/µL.  
-* **Classification:** Leukocytes are categorized into two main groups based on the presence of visible granules in their cytoplasm: Granulocytes and Agranulocytes.  
-  * **1\. Granulocytes:**  
-    * **Neutrophils:**   
-      * 40-60%  
-      * First responders to infection   
-      * Increase in bacterial infection   
-      * Multi lobed 3 to 5   
-    * **Eosinophils:**   
-      * 1-3%  
-      * Increase in parasitic infection and allergy   
-      * Bilobed nucleus , headphone shaped  
-      * Reddish orange granule  
-    * **Basophils:**   
-      * The rarest WBC (\<0.5%); they release **histamine** (vasodilator) and **heparin** (anticoagulant) during allergic and antigen responses.  
-      * Bilobed nucleus , dark blue to purple granules   
-      * S shaped nucleus   
-  * **2\. Agranulocytes:**  
-    * **Lymphocytes:** 3-8%  
-      * Prevalent in the lymphatic system  
-      * includes B cells (antibody production), T cells (CD4+ helper and CD8+ cytotoxic), and Natural Killer cells.  
-      * Spherical , nucleus occupy most of cell  
-    * **Monocytes:**   
-      * The largest of the WBCs;  
-      * Becomes macrophage   
-      * Kidney shaped nucleus  
-      *  they perform phagocytosis and present pathogen fragments to T cells to stimulate long-term immunity.
 
-## **Thrombocytes (Platelets)**
+### WBC Classification
+Granulocytes and Agranulocytes. 
+
+| Granulocyte   | Features                                                                                                                                                                                                                                                                                                       |                                                 |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1. Basophil   | - rarest<br>- allergic rexn , inflamatory response increase<br>- **nucleus**: Bilobed , s shape<br>- **granule** release histamine, heparin<br>- role in type 1 hypersensitivity rexn <br>- enhance inflamatory response by releaseing cytokine and activating other immune cells<br>- defense agains parasite | ![Pasted image 20260913125430.png\|130](/img/user/Attachments/Pasted%20image%2020260913125430.png)<1%    |
+| 2. Easinophil | - parasitic infection<br>- regulate inflammation<br>- **nuceus** is bilobed<br>- **granules** Red-Orange<br>- survive 8-12hr                                                                                                                                                                                   | ![Pasted image 20260913130059.png\|115](/img/user/Attachments/Pasted%20image%2020260913130059.png)1-7%   |
+| 3. Neutrophil | - **nucleus**: multilobed , 3-5, PMNs<br>- **granules** : enzymem antimicrobial protein(bacterial)<br>- survive : 6-8hr in blood and 1- days in tissue<br>- functions (1) phacocytosis (2) degranulation (3) chemotaxis                                                                                        | ![Pasted image 20260913130359.png\|112](/img/user/Attachments/Pasted%20image%2020260913130359.png)60-70% |
+
+| Agranulocyte  | Features                                                                                           |                                                     |
+| ------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 1. Monocyte   | - becomes macrophage<br>- single lobed, kidney shaped<br>- largest in size                         | ![Pasted image 20260913130656.png\|116](/img/user/Attachments/Pasted%20image%2020260913130656.png)<br>2-10%  |
+| 2. Lymphocyte | - Immunity : B cell , T cell , NK cell<br>- single lobe<br>- spherical<br>- faintly blue cytoplasm | ![Pasted image 20260913130903.png\|116](/img/user/Attachments/Pasted%20image%2020260913130903.png)<br>20-40% |
+
+
+
+## Thrombocytes (Platelets)
 - Size is :: 1.5-3 um
 <!--SR:!2026-08-31,2,250-->
 * **Hemostasis:** These are cell fragments originating from megakaryocytes that are essential for blood clotting.  
 * **Mechanism:** They aggregate at injury sites to form a temporary plug, initiating the coagulation cascade.
 
-# **Multipotent Hematopoietic Stem Cells**
+# Multipotent Hematopoietic Stem Cells
 
 1. **Common myeloid progenitor:**   
    2. Megakaryoblast \-\> platelets  
@@ -89,7 +78,7 @@ When blood is centrifuged with an anticoagulant, it separates into three distinc
 5. **Common lymphoid progenitor:**   
    6. Lymphoblast \-\> T cell, B cell, NK cell
 
-# **Stages of Erythropoiesis**
+# Stages of Erythropoiesis
 
 1. **Proerythroblast (Pronormoblast) ![][image1]**  
    2. Large , immature nuclear Chromatin   

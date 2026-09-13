@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/docs/blood-cell-components/","dg-note-properties":{}}
 ---
 
-Here are some exam-ready notes on blood components:
 
 Blood is a specialized bodily fluid that delivers necessary substances to the body's cells and transports waste products away from those same cells. It is composed of:
 
