@@ -699,3 +699,549 @@ Comparison Table
 |Binding site|Peptide-binding groove of MHC + TCR|Outside MHC-II peptide groove + TCR Vβ|BCR/Ig variable region outside conventional antigen-binding mechanism|
 |Number of cells activated|Small, antigen-specific population|**Large number of T cells**|**Large population of B cells**|
 |Main result|Specific immune response|Massive cytokine release|Polyclonal B-cell/antibody response|
+
+# Antibodies
+![Pasted image 20260913181042.png\|559](/img/user/Attachments/Pasted%20image%2020260913181042.png)
+
+**Antibody** is a specific **immunoglobulin (glycoprotein)** produced by **plasma cells** in response to an antigen. It specifically binds to the antigen and helps in its **neutralization or elimination**.
+
+### Key Points
+- Antibodies are also called **Immunoglobulins (Ig)**.
+- Produced by **plasma cells**, which are differentiated **B lymphocytes**.
+- Found in **blood, lymph, and body secretions**.
+- They show **specificity** for a particular antigen/epitope.
+- Main functions:
+    - **Neutralization**
+    - **Agglutination**
+    - **Precipitation**
+    - **Opsonization**
+    - **Complement activation**
+    - **ADCC (antibody-dependent cellular cytotoxicity)**
+        
+- Five major classes:  
+    **IgG, IgA, IgM, IgD and IgE**.
+
+## Structure of Antibody
+A typical antibody molecule, especially **IgG**, is **Y-shaped** and consists of **4 polypeptide chains**:
+- **2 identical heavy (H) chains**
+- **2 identical light (L) chains**
+
+These chains are joined by **disulfide (S–S) bonds**.
+
+1. Heavy chains
+- Present as **two identical chains**.
+- Larger than light chains.
+- Determine the **class/isotype** of antibody.
+- Have **variable (VH)** and **constant (CH)** regions.
+
+1. Light chains
+- Two identical chains.
+- Each antibody has either **κ (kappa)** or **λ (lambda)** light chains.
+- Never both in the same antibody.
+- Have **variable (VL)** and **constant (CL)** regions.
+
+1. Variable region
+- Located at the **N-terminal ends** of heavy and light chains.
+- Responsible for **antigen recognition and specificity**.
+- Contains the **antigen-binding site/paratope**.
+
+1. Constant region
+- More conserved region.
+- Determines many biological properties and **effector functions** of the antibody.
+
+1. Fab region
+**Fab = Fragment antigen-binding**
+- Two arms of the Y-shaped antibody.
+- Binds specifically to the antigen.
+- Each IgG molecule has **2 antigen-binding sites**.
+
+1. Fc region
+**Fc = Fragment crystallizable**
+- Stem of the antibody.
+- Does **not directly bind antigen**.
+- Responsible for effector functions such as:
+    - Complement activation
+    - Binding to Fc receptors on immune cells
+    - Opsonization
+    - ADCC
+
+1. Hinge region
+- Flexible region between **Fab and Fc**.
+- Provides flexibility to the two antigen-binding arms.
+- Contains disulfide bonds connecting the heavy chains.
+## IgM
+**IgM is the first immunoglobulin produced during a primary immune response and is the largest immunoglobulin in molecular size.** It is mainly present in the **pentameric form** in blood and is highly effective in **agglutination and complement activation**.
+
+### Serum IgM
+- Usually exists as a **pentamer**.
+- Contains **5 monomer units** joined together.
+- Each monomer has:
+    - **2 heavy chains (μ chains)**
+    - **2 light chains (κ or λ)**
+- The five monomers are connected by **disulfide bonds** and a **J (joining) chain**.
+- Has **10 antigen-binding sites** → theoretically **valency = 10**.
+![Pasted image 20260913182105.png\|203](/img/user/Attachments/Pasted%20image%2020260913182105.png)
+Although IgM has **10 antigen-binding sites**, steric hindrance may prevent all 10 sites from binding simultaneously.
+
+### Location
+
+|Location|Importance|
+|---|---|
+|**Blood/serum**|Major location of secreted IgM|
+|**Lymph**|Present|
+|**Lymphoid tissues**|Produced by B cells/plasma cells|
+|**B-cell surface**|Present as **monomeric membrane IgM** acting as a B-cell receptor|
+|**Secretions**|Small amounts may be present, usually as secretory IgM|
+
+**Most serum IgM is intravascular** because of its large molecular size.
+
+
+
+### Functions of IgM
+
+1. Complement activation ⭐
+	IgM is the **most efficient immunoglobulin for activating the classical complement pathway**.
+	- One IgM molecule bound to an antigen can efficiently activate complement.
+	- Leads to formation of the **membrane attack complex (MAC)** and other complement-mediated effects.
+2. Agglutination ⭐
+	IgM is highly effective in **agglutinating particulate antigens**, such as bacteria and RBCs.
+	**Reason:** Pentameric IgM has high valency.
+3. Neutralization
+	- Can bind to toxins and viruses.
+	- Prevents their attachment or entry into host cells.
+4. Opsonization
+	IgM can promote phagocytosis **indirectly through complement activation**.
+5. B-cell receptor
+	Monomeric IgM is present on **naïve B lymphocytes** and functions as a **B-cell antigen receptor (BCR)**.
+
+---
+
+### 5. Clinical Significance
+1. **Indicator of recent/acute infection**
+	IgM is generally the **first antibody detected after a primary infection**.
+	**Example:**
+	- **Anti-HAV IgM** → recent/acute hepatitis A infection.
+	- **Anti-HBc IgM** → recent/acute hepatitis B infection.
+	- **Dengue IgM** → suggests recent dengue infection.
+> **IgM positive generally suggests recent infection, but interpretation depends on the disease and test.**
+2. **Congenital infection**
+	IgM is important in diagnosing **intrauterine/congenital infections** because **maternal IgM does not normally cross the placenta**.
+
+	Therefore, IgM detected in a newborn can indicate that the **baby has produced the antibody** in response to infection.
+
+	Examples: Rubella, CMV, Toxoplasmosis, Syphilis
+3. **Blood-group antibodies**
+	Many naturally occurring **ABO blood-group antibodies** are predominantly IgM
+	Example: Anti-A, Anti-B
+	They can cause **agglutination of RBCs** and may activate complement.
+4. **Macroglobulinemia**
+	Excessive monoclonal IgM is characteristic of **Waldenström macroglobulinemia**.
+	High IgM can increase blood viscosity → **hyperviscosity syndrome**.
+5. **Selective IgM deficiency**
+	Reduced IgM levels may be associated with:
+	- Recurrent infections
+	- Impaired immune response
+
+### 6. Properties of IgM
+
+|Property|IgM|
+|---|---|
+|**Heavy chain**|μ (mu)|
+|**Molecular form in serum**|Pentamer|
+|**Number of monomers**|5|
+|**J chain**|Present|
+|**Antigen-binding sites**|10|
+|**Molecular weight**|~900 kDa|
+|**Serum concentration**|~0.5–2 mg/mL|
+|**Percentage of total serum Ig**|~5–10%|
+|**Half-life**|~5 days|
+|**Placental transfer**|**No**|
+|**Complement activation**|**Excellent**|
+|**Agglutination**|**Excellent**|
+|**First antibody in primary response**|**Yes**|
+|**First antibody produced by newborn**|**Yes**|
+|**Main location**|Intravascular/serum|
+|**B-cell surface form**|Monomer|
+|**Secretory form**|May occur, but less prominent than IgA|
+## IgA
+**IgA is the major immunoglobulin present in body secretions and is the principal antibody responsible for protection of mucosal surfaces.** It prevents the attachment and entry of microorganisms into the body.
+
+### Structure
+IgA occurs mainly in **two forms**:
+1. **Serum IgA** → Monomer
+2. **Secretory IgA (sIgA)** → Dimer
+
+#### Serum IgA
+- Present mainly as a **monomer**.
+- Contains:
+    - **2 identical α (alpha) heavy chains**
+    - **2 identical light chains** (κ or λ)
+- Has **2 antigen-binding sites**.
+
+#### Secretory IgA ⭐
+- Present as a **dimer**.
+- Contains:
+	- **2 IgA monomers**
+    - **1 J (joining) chain**
+    - **1 secretory component**
+- Has **4 antigen-binding sites**.
+- The **secretory component protects IgA from proteolytic enzymes** present in secretions.
+
+**Secretory IgA = 2 IgA monomers + J chain + secretory component**
+
+### Location
+IgA is found in:
+- **Saliva**
+- **Tears**
+- **Nasal and respiratory secretions**
+- **Bronchial secretions**
+- **Gastrointestinal secretions**
+- **Colostrum and breast milk** ⭐
+- **Genitourinary secretions**
+- **Blood/serum** — mainly monomeric IgA
+**Major location → Mucosal secretions**
+
+---
+
+### Functions
+1. Mucosal protection ⭐
+	IgA provides the main **immune protection at mucosal surfaces**.
+	It prevents microorganisms from attaching to epithelial cells.
+2. Neutralization ⭐
+	IgA neutralizes:
+	- Bacterial toxins
+	- Viruses
+	- Microbial antigens
+3. Prevention of microbial adhesion
+	IgA binds microorganisms and prevents their **attachment to mucosal epithelial cells**.
+4. Agglutination
+	IgA can bind and agglutinate microorganisms, making their removal easier.
+5. Protection of newborn
+	**Secretory IgA in breast milk and colostrum** provides passive mucosal immunity to the infant.
+6. Immune exclusion
+	IgA traps microorganisms and antigens in mucus and helps remove them through **mucociliary clearance or intestinal peristalsis**.
+
+### Clinical Significance
+#### 1. Selective IgA deficiency ⭐
+It is one of the **most common primary immunodeficiencies**.
+May cause
+- Recurrent respiratory infections
+- Recurrent gastrointestinal infections
+- Increased susceptibility to certain infections
+- Allergic disorders
+- Autoimmune diseases
+#### 2. Celiac disease
+**IgA anti-tissue transglutaminase (anti-tTG)** and **IgA anti-endomysial antibodies (EMA)** are commonly used in laboratory diagnosis of celiac disease.
+
+**Important:** IgA deficiency can cause false-negative IgA-based tests, so **total IgA** may also be assessed.
+#### 3. Mucosal infections
+Reduced IgA may increase susceptibility to infections of:
+- Respiratory tract
+- Gastrointestinal tract
+- Genitourinary tract
+#### 4. Transfusion reactions
+Patients with severe IgA deficiency may develop **anti-IgA antibodies** and can rarely develop severe allergic/anaphylactic reactions after exposure to IgA-containing blood products.
+#### 5. Breast milk immunity
+Secretory IgA in breast milk provides important **passive immunity to the infant**, especially at intestinal and respiratory mucosal surfaces.
+
+
+### Properties
+
+|Property|IgA|
+|---|---|
+|**Heavy chain**|α (alpha)|
+|**Main form in serum**|Monomer|
+|**Main form in secretions**|Dimer|
+|**J chain**|Present in secretory IgA|
+|**Secretory component**|Present|
+|**Antigen-binding sites**|2 in monomer; 4 in dimer|
+|**Molecular weight**|~160 kDa (monomer); ~320–400 kDa (dimer)|
+|**Serum concentration**|~0.7–4 mg/mL|
+|**Percentage of total serum Ig**|~10–15%|
+|**Half-life**|~6 days|
+|**Placental transfer**|No|
+|**Complement activation**|Poor via classical pathway|
+|**Main function**|Mucosal protection|
+|**Major location**|Body secretions|
+|**Important secretions**|Saliva, tears, mucus, breast milk|
+|**Main protective mechanism**|Neutralization and prevention of microbial adhesion|
+## IgG
+**IgG is the most abundant immunoglobulin in blood and extracellular fluid and is the major antibody involved in the secondary immune response.** It provides long-lasting systemic immunity and is the **only immunoglobulin that normally crosses the placenta**.
+
+### Structure
+- IgG is a **monomer**.
+- Contains:
+    - **2 identical γ (gamma) heavy chains**
+    - **2 identical light chains** (κ or λ)
+- The chains are connected by **disulfide bonds**.
+- Has **2 antigen-binding sites**.
+- Contains:
+    - **Fab region** → antigen binding
+    - **Fc region** → effector functions
+    - **Hinge region** → provides flexibility
+
+**IgG = 2 γ heavy chains + 2 light chains**
+
+### Location
+**Major location → Blood and extracellular fluid**
+
+### Functions
+1. Neutralization ⭐
+	IgG binds to:
+	- Toxins
+	- Viruses
+	- Microbial antigens
+	and prevents them from interacting with host cells.
+2. Opsonization ⭐
+	IgG coats microorganisms and makes them easier for **phagocytes** to recognize and ingest through **Fc receptors**.
+3. Complement activation
+	Some IgG subclasses, especially **IgG1 and IgG3**, can activate the **classical complement pathway**.
+4. ADCC
+	IgG-coated target cells can be destroyed by **NK cells** through **antibody-dependent cellular cytotoxicity (ADCC)**.
+5. Secondary immune response ⭐
+	IgG is the **predominant antibody produced during a secondary immune response**.
+	It provides:
+	- Faster response
+	- Stronger response
+	- Long-lasting protection
+6. Placental transfer ⭐
+	IgG is transported across the **placenta** from mother to fetus.
+	It provides **passive immunity to the newborn**.
+7. Agglutination and precipitation
+	IgG can participate in:
+	- Agglutination
+	- Precipitation of soluble antigens
+
+### Clinical Significance
+1. Evidence of previous infection ⭐
+	Specific IgG antibodies generally indicate **previous exposure or developing immunity**, although interpretation depends on the infection and test.
+	Examples:
+	- **Anti-HBs IgG** → immunity to hepatitis B
+	- **Rubella IgG** → evidence of immunity/exposure
+	- **Toxoplasma IgG** → previous exposure
+2. Maternal-fetal immunity ⭐
+	Maternal IgG crosses the placenta and protects the fetus/newborn against several infections during early life.
+3. Hemolytic disease of the newborn
+	Some maternal **IgG antibodies**, particularly antibodies against Rh(D) antigen, can cross the placenta and cause **hemolysis of fetal RBCs**.
+4. Autoimmune diseases
+	Abnormal IgG autoantibodies are involved in several autoimmune diseases.
+	Examples:
+	- Rheumatoid arthritis
+	- Systemic lupus erythematosus
+	- Myasthenia gravis
+5. Multiple myeloma
+	**Monoclonal IgG** may be produced in multiple myeloma.
+	Laboratory findings may include:
+	- Increased monoclonal IgG
+	- M-protein on serum protein electrophoresis
+	- Monoclonal band on immunofixation
+6. IgG deficiency
+	Low IgG levels can result in **increased susceptibility to recurrent infections**.
+
+### Properties
+
+|Property|IgG|
+|---|---|
+|**Heavy chain**|γ (gamma)|
+|**Molecular form**|Monomer|
+|**Antigen-binding sites**|2|
+|**Molecular weight**|~150 kDa|
+|**Serum concentration**|~7–16 mg/mL|
+|**Percentage of total serum Ig**|~70–80%|
+|**Half-life**|~21 days|
+|**Placental transfer**|**Yes** ⭐|
+|**Complement activation**|Good; varies by subclass|
+|**Main immune response**|**Secondary response**|
+|**Major location**|Blood and extracellular fluid|
+|**Opsonization**|**Excellent**|
+|**Neutralization**|**Excellent**|
+|**ADCC**|**Yes**|
+|**Subclasses**|IgG1, IgG2, IgG3, IgG4|
+|**Main function**|Long-lasting systemic immunity|
+## IgE
+**IgE is an immunoglobulin mainly involved in type I hypersensitivity (allergic reactions) and protection against helminthic (parasitic worm) infections.** It is present in very low concentration in normal serum.
+
+### Structure
+- IgE is a **monomer**.
+- Contains:
+    - **2 identical ε (epsilon) heavy chains**
+    - **2 identical light chains** (κ or λ)
+- Has **2 antigen-binding sites**.
+- Unlike IgG, IgE has **4 constant domains (Cε1–Cε4)** in its heavy chains.
+- **IgE does not have a typical hinge region** like IgG.
+- Its Fc region binds strongly to **Fcε receptors** on mast cells and basophils.
+
+**IgE = 2 ε heavy chains + 2 light chains**
+
+### Location
+**Major location → Surface of mast cells and basophils**
+
+Free IgE has a very low concentration in serum because most IgE is receptor-bound.
+
+
+### Functions
+which immunoglobin is heat labile :: IgE
+#### 1. Type I hypersensitivity ⭐
+IgE is the main antibody involved in **immediate hypersensitivity/allergic reactions**.
+Examples:
+- Bronchial asthma
+- Allergic rhinitis
+- Urticaria
+- Anaphylaxis
+- Food allergies
+**Mechanism:**
+
+```text
+Allergen
+   ↓
+IgE production
+   ↓
+IgE binds mast cell
+   ↓
+Second exposure to allergen
+   ↓
+IgE cross-linking
+   ↓
+Mast cell degranulation
+   ↓
+Histamine + other mediators released
+   ↓
+Allergic symptoms
+```
+
+#### 2. Defense against helminths ⭐
+IgE participates in defense against **helminthic parasites**, such as:
+- Ascaris
+- Hookworm
+- Schistosoma
+
+IgE helps activate **eosinophils** against parasites through antibody-dependent cellular cytotoxicity.
+
+#### 3. Mast cell activation
+IgE binds to high-affinity **FcεRI receptors** on mast cells and basophils.
+Cross-linking of IgE by an allergen causes **degranulation**.
+#### 4. Eosinophil-mediated killing
+IgE-coated parasites can be recognized by eosinophils, which release toxic granules and help destroy the parasite.
+
+
+### Clinical Significance
+#### 1. Allergy diagnosis ⭐
+Increased **total IgE** or **allergen-specific IgE** may be associated with allergic disorders.
+Examples:
+- Allergic rhinitis
+- Asthma
+- Atopic dermatitis
+- Food allergy
+
+Laboratory tests include:
+- **Total serum IgE**
+- **Allergen-specific IgE**
+
+#### 2. Parasitic infections ⭐
+IgE may be increased in **helminthic infections**, especially infections involving tissue-invasive parasites.
+However, increased IgE is **not specific** for parasitic infection.
+#### 3. Anaphylaxis ⭐
+IgE-mediated mast-cell activation can cause **anaphylaxis**, a severe and potentially life-threatening systemic allergic reaction.
+#### 4. Hyper-IgE syndrome
+**Hyper-IgE syndromes** are rare primary immunodeficiency disorders characterized by markedly elevated IgE along with recurrent infections and other clinical features.
+#### 5. Atopic diseases
+Elevated IgE is commonly associated with:
+- Atopic dermatitis
+- Alergic asthma
+- Allergic rhinitis
+
+---
+
+### Properties
+
+|Property|IgE|
+|---|---|
+|**Heavy chain**|ε (epsilon)|
+|**Molecular form**|Monomer|
+|**Antigen-binding sites**|2|
+|**Molecular weight**|~190 kDa|
+|**Serum concentration**|Very low|
+|**Percentage of total serum Ig**|**<0.01%**|
+|**Half-life in serum**|~2 days|
+|**Placental transfer**|No|
+|**Complement activation**|No|
+|**Main location**|Mast cells and basophils|
+|**Main function**|Type I hypersensitivity and anti-helminthic immunity|
+|**Important receptor**|FcεRI|
+|**Main cells involved**|Mast cells, basophils, eosinophils|
+|**Allergic reaction**|**Major antibody involved**|
+|**Helminthic infection**|**Important defense antibody**|
+
+## IgD
+**IgD is an immunoglobulin present in very low concentration in serum and is mainly found on the surface of naïve B lymphocytes, where it functions as a B-cell antigen receptor (BCR).**
+
+### Structure
+- IgD is a **monomer**.
+- Contains:
+    - **2 identical δ (delta) heavy chains**
+    - **2 identical light chains** (κ or λ)
+- Has **2 antigen-binding sites**.
+- Contains:
+    - **Fab region** → antigen binding
+    - **Fc region** → interaction with immune cells
+    - **Hinge region** → provides flexibility
+
+**IgD = 2 δ heavy chains + 2 light chains**
+
+### Location
+**Major location → Surface of naïve B cells**
+
+IgD is usually expressed together with **IgM** on mature naïve B lymphocytes.
+
+### Functions
+#### 1. B-cell antigen receptor ⭐
+The major function of IgD is to act as a **B-cell receptor (BCR)**.
+It helps:
+- Recognize specific antigens
+- Initiate B-cell activation
+- Participate in B-cell differentiation
+#### 2. B-cell activatio
+When antigen binds to membrane-bound IgD, it contributes to signaling that activates the B lymphocyte.
+#### 3. Regulation of immune response
+IgD may participate in the regulation of immune responses, particularly at **mucosal surfaces**.
+#### 4. Mucosal immunity
+IgD has been detected on B cells and in secretions of the **upper respiratory tract**, where it may interact with microbial antigens and participate in local immune defense.
+### Clinical Significance
+#### 1. IgD myeloma ⭐
+**IgD multiple myeloma** is a rare type of multiple myeloma in which malignant plasma cells produce monoclonal IgD.
+Laboratory findings may include:
+- Monoclonal IgD
+- M-protein
+- Abnormal serum/urine immunofixation
+#### 2. Hyper-IgD syndrome
+**Hyper-IgD syndrome (HIDS)** is a rare autoinflammatory disorder associated with recurrent episodes of:
+- Fever
+- Lymphadenopathy
+- Abdominal symptoms
+- Inflammation
+
+**Important:** Despite its name, the condition is not simply caused by excess IgD; it is associated with a genetic defect in the **MVK (mevalonate kinase)** pathway.
+
+#### 3. IgD in respiratory immunity
+IgD-poducing or IgD-expressing B cells may participate in immune responses at **upper respiratory mucosal surfaces**.
+#### 4. Diagnostic importance
+IgD measurement is **not routinely performed** like IgG, IgA, or IgM. It may be investigated in selected cases, particularly when **IgD myeloma** is suspected.
+
+### Properties
+
+|Property|IgD|
+|---|---|
+|**Heavy chain**|δ (delta)|
+|**Molecular form**|Monomer|
+|**Antigen-binding sites**|2|
+|**Molecular weight**|~185 kDa|
+|**Serum concentration**|Very low|
+|**Percentage of total serum Ig**|**<1%**|
+|**Half-life**|~2–3 days|
+|**Placental transfer**|No|
+|**Complement activation**|Poor/none|
+|**Main location**|Surface of naïve B lymphocytes|
+|**Main function**|B-cell antigen receptor|
+|**Associated with**|B-cell activation|
+|**Serum level**|Very low|
+|**Present with**|IgM on naïve B cells|

@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/docs/virus/","tags":["flashcards"],"dg-note-properties":{"Subject":["Microbiology"],"tags":["flashcards"]}}
 ---
 
-
+# Intro
+* **Virion**: A complete, fully assembled, and infectious virus particle existing outside a host cell, consisting of a ==1;;nucleic acid core and a protein coat (capsid), and sometimes an envelope.  ==
+* **Viroid**: An infectious agent consisting solely of ==1;;RNA without a protein coat (capsid) or envelope, primarily infecting plants.==
+* **Prion**: A highly resistant, infectious, ==1;;misfolded protein (e.g., causing Alzheimer's via beta-amyloid, or Parkinson's) that contains absolutely no DNA or RNA.==
 # virus classification 
 ### I. Basis of Classification
 Viruses are unique acellular organisms that act as a connecting link between living and non-living things Because of their unique nature, they are classified based on several key parameters:
@@ -83,7 +86,7 @@ Viral inclusion bodies are clinically categorized based on where they form withi
 
 #### 1. Intracytoplasmic Inclusion Bodies
 These inclusions are restricted to the cytoplasm of the host cell:
-*   **Rabies Virus:** Classically produces ==1;;Negri bodies==
+*   **Rabies Virus:** Classically produces ==1;;<span style="color:rgb(255, 0, 0)">Negri bodies</span> ==
 *   **Poxvirus (Variola and Vaccinia):** Characterized by the presence of ==1;;Guarnieri bodies==
 *   **Fowlpox Virus:** Produces inclusions known as ==1;;Bollinger bodies==
 *   **Molluscum Contagiosum Virus:** Produces ==1;;Henderson-Paterson bodies==
@@ -111,9 +114,7 @@ Viruses are the smallest obligate intracellular infectious agents, serving as a 
 
 ## **Master Glossary & Key Terms**
 
-* **Virion**: A complete, fully assembled, and infectious virus particle existing outside a host cell, consisting of a nucleic acid core and a protein coat (capsid), and sometimes an envelope.  
-* **Viroid**: An infectious agent consisting solely of RNA without a protein coat (capsid) or envelope, primarily infecting plants.  
-* **Prion**: A highly resistant, infectious, misfolded protein (e.g., causing Alzheimer's via beta-amyloid, or Parkinson's) that contains absolutely no DNA or RNA.  
+
 * **Capsid**: The outer protein coat surrounding the viral nucleic acid, made of smaller protein subunits called capsomeres or protomers. It protects the genome and dictates viral symmetry.  
 * **Nucleocapsid**: The collective structure of the viral nucleic acid enclosed within its capsid.  
 * **Envelope**: A lipid bilayer membrane surrounding some viruses, derived directly from the host cell's plasma membrane, containing viral-coded proteins.  
@@ -158,6 +159,12 @@ Viruses are the smallest obligate intracellular infectious agents, serving as a 
 * Togaviridae  
 * **Flaviviridae:** Dengue virus, Yellow fever virus, and Zika virus 
 
+which disease is caused by the rubeola virus
+?
+Rubeola virus causes _Measles_
+⚠️ Don't confuse:
+- **Rubeola** → **Measles**
+- **Rubella virus** → **Rubella (German measles)**
 ## 
 
 ### **Module 1: General Properties & Distinctions from Bacteria**
@@ -283,38 +290,7 @@ Viruses are incapable of independent replication and hijack host machinery throu
 * SARS-CoV-2 (origin Wuhan, 2019\) causes COVID-19. Other major outbreaks were SARS (2002/2003) and MERS (2012, 2015).  
 * Uses the enzyme **RNA-dependent RNA polymerase (RdRp)** for replication, which is the specific gene target for confirmation assays like TrueNat and RT-PCR, alongside the E gene.
 
-### **Module 8: Vaccines**
 
-Vaccination was pioneered by Edward Jenner in 1796 when he used Cowpox virus to immunize a boy against Smallpox, eventually leading to Smallpox becoming the first and only human viral disease completely eradicated (1980).
-
-* **Live Attenuated Vaccines** (weakened virus): BCG, MMR (Measles, Mumps, Rubella), Varicella, Yellow Fever, OPV (Oral Polio Vaccine/Sabin), Rotavirus. Avoided in immunocompromised individuals.  
-* **Killed / Inactivated Vaccines** (dead virus): Rabies, Hepatitis A, IPV (Injectable Polio Vaccine/Salk), Influenza.  
-* **Subunit Vaccines** (purified viral proteins): Hepatitis B Vaccine (uses only HBsAg, no live or killed whole virus).
-
----
-
-## **Key Formulas, Rules, or Metrics**
-
-* **Viral Size Range:** 20 nm to 400 nm (or 300 nm depending on literature).  
-* **Microscope Equivalents:** Micro \= $10^{-6}$ m. Nano \= $10^{-9}$ m. Pico \= $10^{-12}$ m.  
-* **Viral Replication Rate (Rabies):** Progresses through neural pathways at a speed of **250 mm/day**.  
-* **Incubation Periods:**  
-  * Hepatitis B: 45 to 180 days.  
-  * Measles: 10 days.  
-  * Mumps: 19 days.  
-  * Rubella: 14 days.  
-* **Influenza Segments:** Orthomyxovirus genome consists of **8 individual segments** of single-stranded RNA.
-
----
-
-## **Critical Nuances & Exceptions**
-
-* **Nucleic Acid Exclusion Rule:** A virus will *never* naturally contain both DNA and RNA simultaneously.  
-* **Replication Exceptions:** While nearly all DNA viruses replicate in the nucleus, the **Poxvirus** exceptionally replicates in the cytoplasm. While nearly all RNA viruses replicate in the cytoplasm, **Retroviruses and Orthomyxoviruses** exceptionally replicate in the nucleus.  
-* **Strandedness Exceptions:** While DNA viruses are generally double-stranded, **Parvovirus** is single-stranded. While RNA viruses are generally single-stranded, **Reovirus** is double-stranded.  
-* **Bacteriophage Uncoating:** Unlike animal viruses that enter the host and undergo enzymatic uncoating to release DNA, bacteriophages skip this step by directly injecting their naked genome into the bacteria, leaving the capsid outside.  
-* **HBV Vaccine Nuance:** The Hepatitis B vaccine is strictly a subunit (protein) vaccine, derived specifically from the HBsAg component; it contains no live or killed whole virus material, contrary to common misconceptions.  
-* **HDV Dependency:** Hepatitis D Virus (HDV) is a defective virus that possesses an RNA genome but completely lacks the ability to synthesize its own structural proteins; it is entirely dependent on co-infection with Hepatitis B Virus (HBV) to provide its structural capsid/envelope for replication.
 
 
 next: [[docs/Human Papilloma virus HPV\|Human Papilloma virus HPV]]

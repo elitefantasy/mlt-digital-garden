@@ -144,7 +144,7 @@ has Trimethoprim innhibits the swarmin growth of proteus , fascilitates clearer 
 containing an indicator that changes color to visually distinguish between different groups of bacteria growing on the same plate
 
 1. MacConkey Agar:
-	1. Contains peptone, lactose, bile salts, agar, and the indicator Neutral Red
+	1. Contains peptone, lactose, bile salts, agar, and the indicator ==1;;Neutral Red==
 	2. Differentiates Lactose Fermenters (LF, which produce acid and yield Pink colonies, e.g., ==1;;E. coli, Klebsiella==) from Non-Lactose Fermenters (NLF, which yield Colorless or Pale Yellow colonies, e.g., ==1;;Salmonella, Shigella==)
 2. CLED Agar (Cystine Lactose Electrolyte Deficient Agar):
 	1. The preferred medium for urine cultures.
@@ -158,11 +158,10 @@ containing an indicator that changes color to visually distinguish between diffe
 ### F. Transport Medium
 used to safely transport delicate, fragile organisms from the collection site to the laboratory without allowing them to multiply, ensuring they remain viable
 
-1. **Stuart's & Amies Medium**: Used for ==Neisseria species (e.g., Gonococci)==
-2. **VR Medium (Venkataraman Ramakrishnan) & Cary Blair**: Require alkaline pH and are used for ==Vibrio cholerae==.
+1. **Stuart's & Amies Medium**: Used for ==1;;Neisseria species (e.g., Gonococci)==
+2. **VR Medium (Venkataraman Ramakrishnan) & ==Cary Blai**==: Require alkaline pH and are used for ==1;;Vibrio cholerae==.
 3. **Buffered Glycerol Saline & Cary Blair**: Used for enteric pathogens in stool (Salmonella, Shigella)
-4. **Pike's Media**: Used for ==Streptococcus (throat swabs)==
-<!--SR:!2000-01-01,1,250!2026-08-30,1,210!2026-09-01,1,130-->
+4. **Pike's Media**: Used for ==1;;Streptococcus (throat swabs)==
 
 ### G. Anaerobic Culture Media
 For bacteria (like Clostridium) intolerant to oxygen. These media contain reducing substances that consume oxygen and lower redox potential,
@@ -190,12 +189,14 @@ Isolating microbes from the blood is difficult due to low bacterial loads and th
 ## Culture Methods and Techniques
 
 1. **Streak Culture**: 
+   ![Pasted image 20260913195526.png\|270](/img/user/Attachments/Pasted%20image%2020260913195526.png)
 	1. The most common method to isolate pure colonies on solid media. 
-	2. A platinum/nichrome loop (2-4 mm internal diameter, sterilized via red-hot flame) is used to smear the inoculum across 4 or 5 quadrants (Primary, Secondary, Tertiary, Quaternary, and Isolated streaking). 
+	2. a nichrome loop is used to smear the inoculum across 4 or 5 quadrants (Primary, Secondary, Tertiary, Quaternary, and Isolated streaking). 
 	3. The loop is sterilized between each streak
 2. **Lawn / Carpet Culture**: 
+   ![Pasted image 20260913195630.png\|262](/img/user/Attachments/Pasted%20image%2020260913195630.png)
 	1. Liquid culture is flooded over a plate or applied with a soaked sterile swab.
-	2. Used for Antibiotic Sensitivity Testing (AST) (e.g., placing antibiotic discs on Mueller Hinton Agar to check zones of inhibition) and bacteriophage typing
+	2. Used for ==Antibiotic Sensitivity Testing (AST) (e.g., placing antibiotic discs on Mueller Hinton Agar to check zones of inhibition) and bacteriophage typing==
 3. **Stroke Culture**: 
 	1. Inoculated on agar slants using a zig-zag motion with a straight or rounded wire. Used for slide agglutination and biochemical tests (like Urease)
 4. **Stab Culture**:

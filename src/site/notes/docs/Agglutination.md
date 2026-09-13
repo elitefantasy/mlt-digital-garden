@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/agglutination/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/agglutination/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 1. What is agglutination reaction  
@@ -17,7 +17,7 @@
          2. Grading table
 
 
-## **1\. Definition – What is agglutination reaction?**
+## 1\. Definition – What is agglutination reaction?
 
 Agglutination is an antigen–antibody reaction in which particulate antigens (cells or particles) combine with their specific antibodies under suitable conditions of pH, temperature and ionic strength, leading to visible clumping (aggregates) of particles.
 
@@ -27,7 +27,7 @@ Clinically, agglutination reactions are used in tests like blood group typing, W
 
 ---
 
-## **2\. Principle of agglutination**
+## 2\. Principle of agglutination
 
 Agglutination is a two‑step process:
 
@@ -40,7 +40,7 @@ The reaction depends on:
 * Multivalency of both antigen and antibody (multiple epitopes and multiple binding sites)  
 * Formation of cross‑linked lattices between particles, giving visible clumps.
 
-### **2.1 Sensitization**
+### 2.1 Sensitization
 
 * Sensitization is the **initial binding of antibody to antigenic sites** on the particle (cell, bacteria, latex, etc.).  
 * This step is usually **not visible**; each particle becomes coated (“sensitized”) with antibodies, but no large aggregates have formed yet.  
@@ -51,7 +51,7 @@ The reaction depends on:
 
 If sensitization is poor (wrong pH, temperature, or time), even if antigen and antibody are present, visible agglutination may be weak or absent.
 
-### **2.2 Lattice formation**
+### 2.2 Lattice formation
 
 * After enough antibodies have bound to antigens on different particles, the **Fab arms of antibodies bridge between separate particles**, linking them together.  
 * This cross‑linking forms a **three‑dimensional lattice network** where antigen particles and antibodies alternate; the network is large enough to be seen as clumps (agglutinates).  
@@ -59,35 +59,35 @@ If sensitization is poor (wrong pH, temperature, or time), even if antigen and a
   * Antigen and antibody must be in **optimal proportions (zone of equivalence)**; too much antigen or antibody reduces lattice formation (postzone and prozone effects).  
   * Antigens must be **accessible** on the particle surface and antibodies must be **multivalent** (e.g., IgM pentamer is highly efficient).
 
-## **2.3 Factors influencing reaction strength**
+## 2.3 Factors influencing reaction strength
 
 Several factors determine how strong and easily visible the agglutination reaction will be:
 
 * **Antigen–antibody ratio**  
-  * Best agglutination occurs in the **zone of equivalence**, where antigen and antibody concentrations are balanced and large complexes form.  
-  * **Prozone (antibody excess)** or **postzone (antigen excess)** can lead to weak or absent clumping, even if both are present.  
+	* Best agglutination occurs in the **zone of equivalence**, where antigen and antibody concentrations are balanced and large complexes form.  
+	* **Prozone (antibody excess)** or **postzone (antigen excess)** can lead to weak or absent clumping, even if both are present.  
 * **Temperature**  
-  * IgM antibodies usually agglutinate cells at lower temperatures (room temperature or below).  
-  * IgG often needs 37 °C; in some tests, a second antibody (Coombs reagent) is added to detect IgG‑sensitized cells that do not agglutinate directly.  
+	* IgM antibodies usually agglutinate cells at lower temperatures (room temperature or below).  
+	* IgG often needs 37 °C; in some tests, a second antibody (Coombs reagent) is added to detect IgG‑sensitized cells that do not agglutinate directly.  
 * **pH and ionic strength**  
-  * Optimal pH is close to physiological; extremes of pH can reduce binding.  
-  * Electrolytes (e.g., saline) and ionic strength reduce repulsion between particles, allowing them to come close and form lattices.  
+	* Optimal pH is close to physiological; extremes of pH can reduce binding.  
+	* Electrolytes (e.g., saline) and ionic strength reduce repulsion between particles, allowing them to come close and form lattices.  
 * **Time of incubation and mixing**  
-  * Adequate time allows enough collisions and binding; insufficient time gives weak reactions.  
-  * Gentle mixing helps contact between antigens and antibodies; too vigorous mixing may break weak lattices.  
+	* Adequate time allows enough collisions and binding; insufficient time gives weak reactions.  
+	* Gentle mixing helps contact between antigens and antibodies; too vigorous mixing may break weak lattices.  
 * **Nature of particles and medium**  
-  * Size and density of particles affect how easily clumps are seen. Larger, heavier particles (RBCs, bacteria) are easier to read.  
-  * Viscosity of the medium (e.g., gel vs liquid) alters how aggregates settle or remain suspended.
+	* Size and density of particles affect how easily clumps are seen. Larger, heavier particles (RBCs, bacteria) are easier to read.  
+	* Viscosity of the medium (e.g., gel vs liquid) alters how aggregates settle or remain suspended.
 
 ---
 
-## **3\. Grading system of agglutination reaction**
+## 3\. Grading system of agglutination reaction
 
 Agglutination reactions are graded to express **reaction strength** for clinical reporting and quality control. Grading can be **macroscopic (visible to naked eye)** or **microscopic**, depending on the test.
 
 Commonly, a **0 to 4+ system** is used, with intermediate grades such as weak or 1+, 2+, 3+, 4+.
 
-### **3.1 Tube agglutination – Principle**
+### 3.1 Tube agglutination – Principle
 
 In tube agglutination tests, antigen and antibody are mixed in **glass or plastic tubes** containing liquid medium (usually saline or buffer).
 
@@ -95,7 +95,7 @@ In tube agglutination tests, antigen and antibody are mixed in **glass or plasti
 * After incubation under appropriate conditions, tubes are observed for **sediment (clumps) and clarity of supernatant**: strong agglutination gives large clumps with clear supernatant; weak reactions give fine clumps with turbid supernatant.  
 * The **highest dilution** showing visible agglutination is taken as the **titer** of antibody.
 
-#### **3.1.1 Tube agglutination – Grading table (typical)**
+#### 3.1.1 Tube agglutination – Grading table (typical)
 
 Exact grading criteria may vary with manufacturer, but a general grading system is:
 
@@ -110,7 +110,7 @@ Exact grading criteria may vary with manufacturer, but a general grading system 
 
 This grading helps standardize **interpretation of titers**, comparison between runs, and ensures reproducibility in tests like Widal, Brucella, and others.
 
-### **3.2 Gel agglutination methods – Principle**
+### 3.2 Gel agglutination methods – Principle
 
 Gel agglutination methods use **semi‑solid gel matrices** (e.g., microtubes or cards with gel columns) to detect and grade agglutination.
 
@@ -120,7 +120,7 @@ Gel agglutination methods use **semi‑solid gel matrices** (e.g., microtubes or
 
 Gel methods are widely used in **blood bank testing** (e.g., ABO/Rh typing, antibody screening, crossmatching) due to their sensitivity, standardization, and ease of interpretation.
 
-#### **3.2.1 Gel methods – Grading table (typical)**
+#### 3.2.1 Gel methods – Grading table (typical)
 
 Though specific grading may differ slightly between systems (e.g., DiaMed, Ortho), a common pattern is:
 
@@ -134,10 +134,53 @@ Though specific grading may differ slightly between systems (e.g., DiaMed, Ortho
 
 This vertical distribution of cells within the gel corresponds to the **strength of lattice formation**, and therefore to the strength of the agglutination reaction.
 
-**Weil Felix Test**
 
-- This test used for typhus fever like rickettsia   
+# heterophile antibody agglutination
+## Weil Felix Test
+- Weil–Felix test is a heterophile agglutination test used as a screening test for ==1;;rickettsial infections. ==
 - Rickettsia is the intracellular bacteria meaning when inside a cell it activates just like virus.  
-- If body has rickettsia antigen (infection) then it tested against antibody of proteus bacteria causes agglutination. Rexn and this is hemophilic agglutination because agglutination is between two different species  
+- If the patient has rickettsial infection, the patient's serum contains antibodies that cross-react with Proteus OX antigens. These antibodies cause agglutination of the ==1;;Proteus== antigens. So the test detects **patient antibodies**, not Rickettsial antigen. 
 - Proteus antibodies : ox19 , oxz, oxk   
 - Nowadays this test is not used .
+## Paul Bunnel Test
+**Paul–Bunnell test is a heterophile antibody agglutination test used for the laboratory diagnosis of ==1;;infectious mononucleosis (IM)== , usually caused by ==1;;Epstein–Barr virus (EBV)==.**
+
+It detects **heterophile antibodies (mainly IgM)** present in the patient's serum.
+
+
+### Principle
+During **EBV infection**, the patient produces **heterophile antibodies** that can agglutinate ==sheep or horse RBCs.==
+.
+**Patient serum + Sheep RBCs → Agglutination = Positive test**
+
+
+### Specimen
+- **Serum** is used.
+- Blood is collected and serum is separated.
+
+### Reagent
+- **Sheep RBC suspension** or **horse RBC suspension**
+- Patient's serum
+
+### Procedure
+1. Collect blood from the patient and separate the **serum**.
+2. Prepare serial dilutions of the serum.
+3. Add an appropriate suspension of **sheep/horse RBCs** to each dilution.
+4. Mix properly.
+5. Allow the reaction to occur.
+6. Observe for **visible agglutination**.
+7. The highest serum dilution showing agglutination is reported as the **titre**.
+
+
+### Clinical Significance
+The test is mainly used for:
+
+**Infectious mononucleosis caused by EBV** ⭐
+
+Common clinical features of infectious mononucleosis include:
+- Fever
+- Sore throat
+- Lymphadenopathy
+- Fatigue
+- Splenomegaly
+- **Atypical lymphocytes** in peripheral blood

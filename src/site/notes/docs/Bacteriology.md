@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/docs/bacteriology/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/bacteriology/","tags":["flashcards","microbiology"],"dg-note-properties":{"tags":["flashcards","microbiology"]}}
 ---
 
-tags: #microbiology 
----
+# Intro
+| Type             | Preferred condition                   | Example             |
+| ---------------- | ------------------------------------- | ------------------- |
+| **Psychrophile** | ==1;;❄️ Low temperature <15==         | _Psychrobacter_     |
+| **Mesophile**    | ==1;;🌡️ Moderate temperature 20-45== | _E. coli_           |
+| **Thermophile**  | ==1;;🔥 High temperature 45-80==      | _Thermus aquaticus_ |
+| **Halophile**    | ==1;;🧂 High salt==                   | _Halobacterium_     |
 
 
 # Classification
@@ -85,11 +90,11 @@ tags: #microbiology
 
 ## Arrangement Characteristics of Pathogenic Bacteria:
 
-* **Cuneiform Arrangement (Chinese Letter Pattern):** Characteristic angular arrangement of :: *Corynebacterium diphtheriae*.  
-  * **Bamboo Stick Appearance:** Characteristic chain arrangement of :: *Bacillus anthracis*.  
+* **Cuneiform Arrangement (Chinese Letter Pattern):** Characteristic angular arrangement of  ==1;;*Corynebacterium diphtheriae*.==  
+  * **Bamboo Stick Appearance:** Characteristic chain arrangement of ==1;;*Bacillus anthracis*.  ==
     ![](/img/user/Attachments/Pasted%20image%2020260815171510.png)  
-  * **Lancet-Shaped / Flame-Shaped Diplococci:** Paired arrangement typical of :: *Streptococcus pneumoniae* (Pneumococcus).  
-  * **Kidney Bean-Shaped Diplococci:** Paired arrangement typical of :: *Neisseria gonorrhoeae* (Gonococcus).
+  * **Lancet-Shaped / Flame-Shaped Diplococci:** Paired arrangement typical of  ==1;;*Streptococcus pneumoniae* (Pneumococcus).  ==
+  * **Kidney Bean-Shaped Diplococci:** Paired arrangement typical of ==1;;*Neisseria gonorrhoeae* (Gonococcus).==
 
 ## **Bacterial Ultrastructure & Organelle Functions**
 
