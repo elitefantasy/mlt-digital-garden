@@ -7,3 +7,20 @@
 
 A living repository of notes, clinical protocols, reference ranges, and laboratory techniques across medical laboratory sciences.
 
+
+## Sem 4 Topics
+
+### 1. Biochemical Technique
+- [[docs/Enzymes\|Enzymes]]
+
+### 2. Clinical Biochem and Microbiology
+- [[docs/Mycology\|Mycology]]
+
+### 3. Histology
+- [[docs/Histology\|Histology]]
+
+### 4. Immunology
+- [[docs/Anemia\|Anemia]]
+
+### 5. Parasitology
+- [[docs/Parasitology\|Parasitology]]
