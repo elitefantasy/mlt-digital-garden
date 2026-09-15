@@ -96,9 +96,9 @@
 
 -   **Classification Systems for β-Hemolytic Streptococci:**
     -   **Lancefield Classification:** Based on :: cell-wall Group C Carbohydrate antigen. Divides strains into 20 groups designated A through V (excluding letters I and J).
-<!--SR:!2026-08-31,2,230-->
+<!--SR:!2026-09-18,3,230-->
     -   **Griffith Typing:** Based on :: surface M protein types. Subdivides Group A streptococci into ~100 M serotypes (1 to 100).
-<!--SR:!2026-08-28,4,210-->
+<!--SR:!2026-09-14,0,190-->
 
 ### Group A Beta-Hemolytic Streptococcus (Streptococcus pyogenes) 🩸
 
@@ -108,7 +108,7 @@
 -   **Selective Media:** Crystal Violet Blood Agar, PNF Blood Agar (Polymyxin B, Neomycin, Fusidic acid).
 -   **Transport Media:** Pike's Medium.
 -   **Diagnostic Features:** :: Catalase negative....... PYR (Pyrrolidonyl Arylamidase) test positive (pink color reaction)........and Bacitracin Sensitive (differentiates Group A from all other β-hemolytic streptococci).
-<!--SR:!2026-08-25,1,190-->
+<!--SR:!2026-09-17,2,190-->
 
 **Toxins and Virulence Factors:**
 
@@ -139,9 +139,9 @@ Non superative infection of s.pyogenes
 -   **Key Features:**
     -   Bacitracin Resistant and PYR Negative.
     -   which gram positive bacteria is the  common cause of <mark style="background: #FF5582A6;">neonatal sepsis and neonatal meningitis</mark> (in infants <28 days of age). :: s.agalactiae
-<!--SR:!2026-09-02,2,190-->
+<!--SR:!2026-09-17,2,170-->
     - which biochemical test are positive for s.agalactiae :: (1.) **Hippurate Hydrolysis Test** Positive: Enzyme hippurase hydrolyzes sodium hippurate to glycine, turning green media to deep purple...... (2) **CAMP Test** Positive: When streaked perpendicular to *Staphylococcus aureus* on blood agar, produces synergistic, arrowhead-shaped / butterfly-shaped β-hemolysis.
-<!--SR:!2026-09-07,5,190-->
+<!--SR:!2026-09-18,3,170-->
 
 #### Hippurate Hydrolysis Test
 
@@ -177,7 +177,7 @@ The test is primarily used for the presumptive identification of:
 - **Morphology:** Gram-positive, flame-shaped / lanceolate diplococci occurring in pairs with a single capsule enveloping each pair. 95 capsular serotypes exist.
     -   **Capsule Demonstration:** India Ink (negative staining) and Quellung Reaction (capsule swell).
     -   **Culture Appearance:** Blood agar displays appearence like :: ==Carom Coin appearance or Draughtsman appearance (colonies with central umbonation/depression and concentric ringed edges).==
-<!--SR:!2026-09-10,12,230-->
+<!--SR:!2026-09-21,6,210-->
 - confirmatory test is:: ==Bile solubility Test==
 <!--SR:!2026-09-01,3,230-->
 -   **Key Biochemical Characteristics (Bank of India - BOI):**
@@ -199,5 +199,5 @@ The test is primarily used for the presumptive identification of:
 -   **Morphology:** Gram-positive pairs, Spectacle / Goggle appearance.
 -   **Culture:** Gamma-hemolytic (non-hemolytic) on blood agar.
 -   **Biochemical Identification:** :: Bile Esculin Test Positive (hydrolyzes esculin in presence of 40% bile to produce black/brown precipitate).
-<!--SR:!2026-09-03,5,210-->
+<!--SR:!2026-09-15,0,190-->
 -   **Survival in Extreme Environments:** Grows in 6.5% NaCl, 40% bile, temperatures up to 60°C, and high alkaline pH up to 9.6.

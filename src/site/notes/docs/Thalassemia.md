@@ -342,4 +342,4 @@ d) G6PD
 ?
 Target cells (codocytes) in thalassemia are abnormal red blood cells that look like a bull's eye. They form because faulty hemoglobin production creates an imbalance between the cell surface area and its low volume, leaving an extra floppy membrane that flattens out on a blood smear.
 ![Pasted image 20260816191620.png\|365](/img/user/Attachments/Pasted%20image%2020260816191620.png)
-<!--SR:!2026-09-13,2,250-->
+<!--SR:!2026-09-21,7,270-->

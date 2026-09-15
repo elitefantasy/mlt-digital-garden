@@ -73,7 +73,7 @@ Linked : [[docs/Fixatives in Histopathology\|Fixatives in Histopathology]] , [[d
 
 # Laboratory Organization
 name all lab organization of histology :: 1) reception and grossing 2) fixation 3) tissue processing(dehydration, clearing , infilteration) 4) embedding 5) microtomy ,section cutting, water bath 5) water bath
-<!--SR:!2026-09-14,3,250-->
+<!--SR:!2026-09-26,12,270-->
 
 ## 1\. Reception and Grossing
 
@@ -378,7 +378,7 @@ These contain a mixture of two or more chemical agents. They are further sub-cla
 ?
 * *Nuclear:* e.g., Carnoy's Fluid (preserves nucleoproteins).
 * *Cytoplasmic:* e.g., Champy's Fluid, Osmic Acid.
-<!--SR:!2026-09-13,8,190-->
+<!--SR:!2026-09-30,16,190-->
 
 **Histochemical Fixatives:** Used to preserve tissue chemistry. Examples include Cold Acetone and Ethanol.
 
@@ -400,10 +400,10 @@ name the composition of these 1. carnoys fixative ; 2. Bouins Fixative ; 3. Zenk
 	* *Potassium Dichromate:* Serves as an oxidizing agent to fix cytoplasm.
 	* *Sodium Sulfate:* Maintains the osmotic balance of the solution.
 	* *Glacial Acetic Acid:* Specifically preserves nuclear structures.
-<!--SR:!2026-09-12,1,150-->
+<!--SR:!2026-09-16,1,130-->
 
 fixative used in electron microscopy is :: glutaraldehyde
-<!--SR:!2026-09-14,14,290-->
+<!--SR:!2026-11-08,55,310-->
 
 
 ### 1 Formalin (10% Formaldehyde)
@@ -440,7 +440,7 @@ fixative used in electron microscopy is :: glutaraldehyde
   * *Formaldehyde:* Acts as a non-coagulant fixative that creates stabilizing methylene bridges.
   * *Acetic Acid:* Fixes nucleoproteins and chromatin while directly counteracting the tissue shrinkage caused by picric acid.
 * **Pros & Cons:** Yields exceptional nuclear and cytoplasmic detail and serves as an excellent base for trichrome staining. The main drawbacks are that dry picric acid is highly explosive, it leaves a yellow discoloration on tissues, and it demands thorough post-fixation washing.
-<!--SR:!2026-09-13,2,210-->
+<!--SR:!2026-09-18,4,210-->
 
 ### 4 Zenker's Fixative
 * **Overview:** A mercurial compound fixative highly regarded for ==preserving **hematopoietic** tissues like bone marrow, lymph nodes, and the spleen.==
@@ -456,7 +456,7 @@ fixative used in electron microscopy is :: glutaraldehyde
   * *Sodium Sulfate:* Maintains the osmotic balance of the solution.
   * *Glacial Acetic Acid:* Specifically preserves nuclear structures.
 * **Pros & Cons:** Yields clear histological detail with optimal cytoplasmic and nuclear staining. However, it produces black mercury pigment deposits in tissues, requires extra washing steps, uses toxic chemicals, and cannot be used for lipid studies.
-<!--SR:!2026-09-12,1,190-->
+<!--SR:!2026-09-16,2,190-->
 
 
 ## Factors affecting fixation 

@@ -23,7 +23,7 @@ Key Steps of tissue processing are :: Dehydration -> Clearing -> Infiltration
 
 ## Dehydrating Agents
 name the dehydrating agents used in histology :: ethanol, isopropyl alcohol, acetone
-<!--SR:!2026-09-13,2,230-->
+<!--SR:!2026-09-16,1,190-->
 ### A. Ethanol
 The most commonly used dehydrating agent.
 -   **Advantages:**
@@ -271,7 +271,7 @@ temp, agitation, freshness , thickness
 4. **Electrolytic Method**
 	1. Feature: Uses electric current to accelerate ion transfer
 	2. Disadvantage: Rarely used due to technical complexity
-<!--SR:!2026-09-14,3,250-->
+<!--SR:!2026-09-22,8,250-->
 
 ---
 

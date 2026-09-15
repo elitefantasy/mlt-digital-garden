@@ -28,7 +28,7 @@ The universal color codes used on these blood bags are as follows
 - A Blood Group: yellow color code
 - B Blood Group: pink color code
 - AB Blood Group: white color code
-<!--SR:!2026-08-29,9,250-->
+<!--SR:!2026-09-19,5,230-->
 
 ## b. Anticoagulants
 Storage Durations by Solution
@@ -86,7 +86,7 @@ Collection Volume: 350 ml or 450 ml
 |                                            | Chronic Conditions             | Patients with chronic conditions like Diabetes or Heart disease                                                                                                                                                                                                                                                                                                                               |
 
 deferal period for hepatitis is :: permanent
-<!--SR:!2026-09-04,15,290-->
+<!--SR:!2026-09-22,8,270-->
 
   
 
@@ -115,4 +115,4 @@ After successfully donating blood, donors must be provided with refreshments (su
 
 # Questions
 - Minimum interval between two whole blood donations = :: 56 days (8 weeks).**
-<!--SR:!2026-09-05,16,290-->
+<!--SR:!2026-11-16,63,310-->

@@ -66,7 +66,7 @@ Tinea nigra : hortae wernecki
 **Hair infections**
 Black piedra : piedra hortae
 White piedra : trichosporon beigali
-<!--SR:!2026-09-12,1,130-->
+<!--SR:!2026-09-17,2,150-->
 
 ## A. Skin Infection
 i) **Tinea versicolor** 
@@ -228,7 +228,7 @@ Tinea pedis - ==1;;feet==
 Tinea manuum - ==1;;hands==
 Tinea barbae - ==1;;beard==
 Tinea unguium/onychomycosis - ==1;;nails==
-<!--SR:!2026-09-12,14,210-->
+<!--SR:!2026-10-13,29,210-->
 
 ### A. Tinea Pedis
 -   **Common Name:** Athlete’s foot.
@@ -631,7 +631,7 @@ The primary clinical diseases(7) caused by subcutaneous mycoses include:
 	- **Etiology:** broad, ribbon-like, non-septate (coenocytic) hyphae and divided into two categories:
 	    - **Entomophthoromycosis:** Localized subcutaneous infections caused by _Basidiobolus ranarum_ or _Conidiobolus coronatus_.
 	    - **Subcutaneous Mucormycosis:** Rare, localized subcutaneous presentations of zygomycosis caused by _Rhizopus arrhizus_, _Mucor_, or _Lichtheimia_ species
-<!--SR:!2026-09-13,2,170-->
+<!--SR:!2026-09-17,2,150-->
 
 ### Mycetoma / madura foot
 - affects feet mainly
@@ -901,7 +901,7 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 - C. gatti healthy +  immunocompetent host.
 	- takes over immune system
 - Both C. neoformans and C. gatti are ==encapsulated== yeasts, an attribute that ensures their survival in the gut of pigeons and also increases their pathogenicity
-<!--SR:!2026-09-12,1,230-->
+<!--SR:!2026-09-16,2,230-->
 
 2.2 **Aspergillosis**
 - examples: A. fumigatus, A. niger, A. flavus and A. nidulans. 

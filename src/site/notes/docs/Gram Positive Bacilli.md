@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/gram-positive-bacilli/","tags":["flashcards","review"],"dg-note-properties":{"tags":["flashcards","review"],"Subject":["Microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/gram-positive-bacilli/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
 ---
 
 
@@ -214,7 +214,7 @@ c. acinetobacter
 d. staph aureu
 ?
 c
-<!--SR:!2026-09-01,3,250-->
+<!--SR:!2026-09-16,2,230-->
 
 Ques: which of the following is not true about HUSP/ HUS
 a. may present with hemorhagic colitis

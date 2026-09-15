@@ -97,7 +97,7 @@ linked:  [[docs/Parasitology Examples\|Parasitology Examples]]
 
 - Undercooked fish -> diphyllobothrium latum
 	- Infective Stage  ==plerocercoid==
-<!--SR:!2026-09-14,16,250-->
+<!--SR:!2026-10-24,40,250-->
 
 - Raw/undercooked freshwater fish -> Clonorchis sinensi
 	- Infective stage: Metacercaria
@@ -112,7 +112,7 @@ Parasite and its Vector
 <!--SR:!2026-09-16,18,270-->
 **Brugia malayi** -> Mosquito
 **Leishmania** ->  :: Female sandfly
-<!--SR:!2026-09-12,4,170-->
+<!--SR:!2026-09-24,10,190-->
 **Trypanosoma brucei** -> Tsetse fly
 **Trypanosoma cruzi** -> Triatomine/reduviid bug
 
@@ -145,6 +145,7 @@ classification
 	1. flagellated
 		1. intestinal: giardia lambila
 		2. hemoflagellates: leishmania
+		3. genital :
 	2. amoebiod: entamoeba histolytica
 	3. ciliated: balantidium coli
 	4. sporozoans: plasmodium
@@ -158,7 +159,7 @@ classification
 		2. hermaphroditic flukes: lung fluke, liver fluke, intestinal fluke
 	3. cestode
 		1. echinococcus granulosa, taenia species
-<!--SR:!2026-09-13,2,245-->
+<!--SR:!2026-09-16,1,205-->
 
 
 ## 1. Protozoa (Protista)
@@ -205,16 +206,12 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 - small intestine : *giardia flagellate* primary habitat is duodenum and upper jejunum , *cryptosporidium parvum sporozoan*
 - large intestine : entamoeba histolytica   , balantidium coli (ciliate)
 - both intestine : balantidumundergoes **excystation** in the small intestine, then migrates to the large intestine where trophozoites colonize.
-<!--SR:!2026-09-12,1,225-->
+<!--SR:!2026-09-16,1,185-->
 
 
 #### Amoeba | Entamoeba Histolytica
-![Entamoeba Histolytica.png\|358](/img/user/Attachments/Entamoeba%20Histolytica.png)
-- **Trophozoite:** Unstable, constantly changing shape  . It displays **active**, growing , motile . 
-- The cytoplasm contains ingested RBCs (erythrophagocytosis). 
-	- pseudopodia formed by the extension of ectoplasm
-	- cytoplasm is granular 
-	- Trophozoite reproduce by binary fission every 8 hour 
+![[Entamoeba Histolytica.png\|358]]
+
 - **Cyst:** Round  , containing **1 to 4 nuclei** with a small, **central dot-like karyosome** It contains characteristic **oblong chromatoid bodies with rounded ends** (cigar-shaped) and a large glycogen vacuole that stains reddish-brown.
 
 ##### Introduction
@@ -224,38 +221,79 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 1. **Trophozoite** (Vegetative / Invasive Stage)
 	* large , found in fresh dysenteric stool
 	* motile, uniderectional, pseudopodia
+	* invasive stage
 	* nucleus visible after staining ( hematoxylin) , central karyosome, **cartwheel** appearence
-	* cytoplasm has granules, food vacuoles with **ingested rbc** 
+	* cytoplasm has granules, food vacuoles with **ingested rbc** (severe form)
 	* multiply by binary fission every 8 hr
 2. **Precystic Stage**
-	* **Characteristics**: Occurs only in the **intestinal lumen** prior to encystment (never in tissues or outside the body).
-	* **Size & Structure**:  rounded/oval form , a large glycogen vacuole, and two chromatid bars
+	* only in intestinal lumen
+	* smaller then trophozoite
+	* non motile
+	* cytoplasm is more compact and granular
+	* food vacuole disappears
+	* It then develops into the **immature cyst**, which eventually becomes the **mature quadrinucleate cyst**.
 3. **Cystic Stage** (Dormant / Infective Stage)
 	* Size & Shape: Spherical.
 	* Cyst Wall:  **resistant** to gastric acid 
 	* Maturation: Immature cysts contain chromatoid bars and a glycogen mass. As the cyst matures, these structures disappear, and the nucleus undergoes two mitotic divisions to form the infective **quadrinucleate cyst**.
+	- **Infective stage**
+	- **Shape:** Round or spherical.
+	- **Cyst wall:** Tough, protective and resistant to environmental conditions.
+	- **Nucleus:**
+	    - Immature cyst → **1–2 nuclei**
+	    - Mature cyst → **4 nuclei (quadrinucleate)** ⭐
+	- **Mature cyst** is the **characteristic infective form**.
+	- **Chromatoid bodies** may be present, especially in immature cysts.
+	    - Usually **rod-shaped with rounded ends**.
+	- **Glycogen mass** is prominent in immature cysts but becomes less prominent as the cyst matures.
+	- **Mature cyst does not contain ingested RBCs.**
+	- After ingestion, the cyst undergoes **excystation(cyst to trophozite) in the small intestine**.
+	- Excystation releases the amoeboid forms, which colonize the **large intestine**.
 ##### Life Cycle & Transmission
- * **Mode of Infection:** Ingestion of mature quadrinucleate cysts via contaminated food or water.
- * **Excystation**: Cysts pass unaffected through the stomach to the ileocecal region/ileum/cecum. Alkaline pH and trypsin action weaken the wall, and amoeboid movement releases a quadrinucleate amoeba (metacyst).
- * **Development**: The metacyst divides to form 8 small metacystic trophozoites (amoebulae), which colonize the large intestine/glandular crypts of the caecum and colon and reproduce by binary fission.
+ * ingestion of quadrinucleate cyst
+ * travel to stomach and then to 
+ * excystation: occurs in small intestine , cyst wall breakdown , amoeboid form is released 
+ * the released form develop into trophozoite -> migrate to large intestine
+ * Trophozoites multiply by **binary fission**. They remain in the intestinal lumen in many individuals (dormant)
+ * **Invasive stage**
+	- Some trophozoites invade the **intestinal mucosa**.
+	- They produce ==flask-shaped== ulcers
+	- This can cause **amoebic dysentery/amoebic colitis**.
+- **Extraintestinal spread**
+	- In some cases, trophozoites enter the **portal circulation**.
+	- They can reach the **liver** and cause an **amoebic liver abscess**.
+	- Rarely, other organs such as the lungs or brain may be involved.
  * **Course of Colonization**:
 	* Asymptomatic (90%): Trophozoites remain in the lumen without mucosal invasion, encyst under unfavorable conditions, and pass into feces as cysts (carriers).
 	* Symptomatic/Invasive (10%): Trophozoites invade the mucosa, producing ulcerations, dysentery, and potential hematogenous spread.
+-  **Encystment**
+    - In the colon, some trophozoites stop feeding and become **precystic forms**.
+    - They become rounded and form a cyst wall.
+-  **Cyst maturation**
+    - The nucleus divides:
+    - **1 nucleus → 2 nuclei → 4 nuclei**
+    - The **mature quadrinucleate cyst** is formed.
+-  **Cysts passed in stool**
+	- Mature cysts are passed in **formed stool**.
+	- They survive outside the body better than trophozoites.
+	- Another person becomes infected by ingesting these cysts.
+
 ##### Pathogenesis & Clinical Features
 1. **Intestinal Amoebiasis**
-	* **Ulcer Formation**: Starts as raised nodules with pouting edges that rupture to form classic flask-shaped ulcers (narrow mouth, large rounded base) filled with necrotic material and trophozoites. Lesions undermine surrounding tissues in the submucosa and can merge.
-	* **Symptoms**: Variable incubation period (1–4 months). Ranges from mild gastrointestinal symptoms (diarrhea, flatulence, cramps) to classic amoebic dysentery (large, dark, foul-smelling, semi-liquid stool streaked with blood and mucus). Patients are typically afebrile. Cecal disease can mimic appendicitis.
-	* **Intestinal Complications:** Fulminant amoebic colitis, toxic megacolon, perianal ulceration, ameboma (inflammatory mass mimicking a tumor), perforation, peritonitis, and hemorrhage.
+	- ulcer formation , flask shaped
+	- mild gastrointestinal symptoms (diarrhea, flatulence, cramps) to classic amoebic dysentery (large, dark, foul-smelling, semi-liquid stool streaked with blood and mucus).
 2. **Extraintestinal Amoebiasis**
-	* **Hepatic Amoebiasis**: Most common extraintestinal complication (2–10% in tropics). Presents with liver tenderness, hepatomegaly, fever, rigors, leukocytosis, and right upper quadrant pain. Forms liver abscesses (primarily in the right lobe) filled with sterile, thick "anchovy sauce" pus.
-	* **Pulmonary Amoebiasis:** Direct extension of hepatic abscess through the diaphragm into the lower right lung; causes pleuritic chest pain, cough, dyspnea, and expectoration of "anchovy sauce" sputum via a hepatobronchial fistula.
+	* **Hepatic Amoebiasis**: 
+	* **Pulmonary Amoebiasis:** chest pain, cough, dyspnea
  * **Metastatic & Other Forms**:
 	* **Cerebral**: Brain abscesses (often fatal).
-	* Cutaneous: Destructive ulcerations resembling condyloma/malignancy around perianal areas, colostomy sites, or sinus tracts.
-	* **Genitourinary**: Penile amoebiasis (glans/prepuce) or female genital spread (vulva, vagina, cervix) mimicking carcinoma.
+	* **Cutaneous**: 
 	* **Splenic**: Splenic abscesses.
+
+
 ##### Laboratory Diagnosis
-**Microscopy & Staining**
+
+- **Microscopy & Staining**
 	* **Direct Stool Examination**: Stool microscopy is the direct examination method. Saline mount shows active, motile trophozoites (often with ingested RBCs). Iodine wet mounts demonstrate cyst nuclei and golden-brown glycogen masses.
 	* **Microscopic Exudate:** Few inflammatory pus cells, clustered yellowish/reddish-brown RBCs, and diamond-shaped, refractile Charcot-Leyden crystals.
 	* **Sample Protocol:** Examination of 3 consecutive stool samples due to intermittent cyst shedding; formal-ether concentration for low parasite loads.
@@ -288,16 +326,16 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 ![Pasted image 20260831194155.png\|423](/img/user/Attachments/Pasted%20image%2020260831194155.png)
 
 Exist in Two Forms
-- **Trophozoite:** Pear-shaped or **tennis-racket-shaped** (10-18 um) with a ventral sucking disc used to adhere to the duodenal mucosa Contains **2 nuclei** (giving it a face-like appearance), 2 axostyles, and **4 pairs of flagella**. It moves forward in rapid, falling-leaf jerks 
-- **Cyst:** Oval (8-12 um), containing **2 to 4 nuclei clustered at one end** and refractile, S-shaped fibrils (flagellar remnants) placed lengthwise 
+- **Trophozoite:** Pear-shaped or **tennis-racket-shaped** ,  Contains **2 nuclei** (giving it a face-like appearance), 2 axostyles, and **4 pairs of flagella**. It moves forward in rapid, falling-leaf jerks 
+- **Cyst:** Oval (8-12 um), containing **2 to 4 nuclei clustered at one end** and refractile, S-shaped fibrils (flagellar remnants) placed lengthwise
 
 ##### Life Cycle
 has a **simple, direct life cycle** with **two main stages**: the **infective cyst** and the **multiplying trophozoite**. No intermediate host is required. 
 
 1. **Infective stage and transmission**
 	- **Mature cysts** are passed in the **feces** of an infected person or animal. 
-	- Cysts are **environmentally resistant** and can survive for **weeks to months** in moist conditions (water, soil, surfaces). 
-	- Infection occurs by **ingestion of cysts** via:
+	- Cysts are **environmentally resistant** and can survive for **weeks to months** in moist conditions (water, soil, surfaces).
+	- Infection occurs by **ingestion of cysts** via
 	    - Contaminated **drinking water** or **food**
 	    - **Fecal–oral** person‑to‑person spread (e.g., poor hand hygiene, diaper changes)
 	    - **Zoonotic** exposure (animals)
@@ -325,6 +363,18 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 - Complications: Gallbladder colonization leading to biliary colic and jaundice. 
 - Incubation Period: Typically, around two weeks, but variable.
 
+##### ⭐ Most characteristic features
+- **Pear/tear-drop shaped trophozoite** — very characteristic.
+- **Bilateral (bilaterally) symmetrical** body.
+- **Two nuclei** → gives a characteristic **“face-like” appearance**
+- **Ventral sucking/adhesive disc** → attaches to the **duodenal mucosa**.
+- **4 pairs of flagella = 8 flagella** → helps in motility.
+- **No mitochondria** → anaerobic/microaerophilic organism with reduced mitochondria (mitosomes).
+- **Cyst has 4 nuclei** when mature.
+- Cyst is the **infective stage**.
+- Transmission is mainly **fecal–oral**, especially through contaminated water.
+- Causes **giardiasis**, commonly associated with **foul-smelling, greasy diarrhea and malabsorption**.
+
 ##### Laboratory Diagnosis of Giardiasis 
 - Stool Examination: Identifies Giardia lamblia in stool samples. 
 - Forms Detected: Cysts in formed stools; cysts & trophozoites in diarrheal stools. 
@@ -342,7 +392,6 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 - **Classification:** It is the only ciliate protozoan parasite of humans.
 - **Size:** It is the largest protozoan parasite of humans.
 - **Location:** Largest protozoan parasite residing in the large intestine of man.
-- **History:** First described by Malmsten in 1857 in the feces of dysenteric patients.
 ##### 2. Habitat & Morphology
 - **Habitat:** Resides in the large intestine of humans, pigs, and monkeys.
 - **Morphological Stages:** Occurs in two distinct stages:
@@ -421,7 +470,7 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 
 **habitat and morphology**
 - inhabits small intestine
-- infective form is oocyst. oocyst does not stain with iodine and is acid fast
+- infective form is ==oocyst. oocyst ==does not stain with iodine and is acid fast
 - wall of oocyst is thick or can be thin. these thin walled oocyst are responsible for autoinfection
 - oocyst is very hard and is resistant to most disinfectants and temp up to 60 degree celsius
 
@@ -452,6 +501,8 @@ other parasite that cause traveler's diarrhea : cryptosporidum parvum , entamoeb
 - fluorescent staining
 - biopsy
 - serodiagnosis: ELISA
+
+
 ## 2. Helminths
 Multicellular parasites.
 - Highly evolved organisms with complex body systems.
@@ -491,7 +542,7 @@ Cylindrical, unsegmented worms with a complete digestive tract.
 	1. lung flukes : ==1;;paragonimus westermani==
 	2. liver fluke : ==1;;Fasciola Hepatica==
 	3. intestinal fluke : ==1;;Fasciolopsis buski==
-<!--SR:!2026-09-12,1,130-->
+<!--SR:!2026-09-16,1,130-->
 
 
 Leaf-shaped flatworms.

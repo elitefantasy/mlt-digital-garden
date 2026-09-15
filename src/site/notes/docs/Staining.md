@@ -37,7 +37,7 @@ Q1. Which stain is preferred for air-dried cytological smear :: PAP Stain
 
 ## 1.1 Romanowsky Stains
 Question: Name four major romanowsky stain :: Leishman , Geimsa, Wright Stain, May-Grünwald-Giemsa (MGG) Stain
-<!--SR:!2026-08-31,11,270-->
+<!--SR:!2026-09-17,3,250-->
 
 -   **Nature:** Neutral stains (a balanced mixture of acidic and basic dyes).
 -   **Solvent:** Methanol (acts as both a solvent and a fixative for cells).

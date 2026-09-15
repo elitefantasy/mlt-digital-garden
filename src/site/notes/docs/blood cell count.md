@@ -25,7 +25,7 @@
 - **WBC Pipette Characteristics:** it is a type of thoma pipette , Has markings at 0.5, 1, and 11\. It contains a **white bead** inside the bulb which aids in mixing, identifies it as a WBC pipette, and indicates if the pipette is dry (bead rolls freely) or wet (bead sticks).
 - ![Pasted image 20260816182614.png\|242](/img/user/Attachments/Pasted%20image%2020260816182614.png)
 - **Diluting Fluid (==Turk's Fluid==):** Drawn up to the **11 mark**, creating a **1:20 dilution factor**.
-<!--SR:!2026-09-05,16,290-->
+<!--SR:!2026-11-17,64,310-->
 
 
 
@@ -60,7 +60,7 @@
 - Reticulocytes are immature RBCs containing remnants of ribosomal RNA (rRNA).
 - this test tells about bone marrow erythropoietic activity
 - takes approximately ==**2 days**== for a reticulocyte to fully mature into a mature RBC.
-<!--SR:!2026-09-04,15,290-->
+<!--SR:!2026-11-14,60,310-->
 
 **Procedure**
 - supravital stain is a staining technique isme stains use hoti he jaise new methylene blue, brilliant cresyl blue , neutral red.

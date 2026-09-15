@@ -10,7 +10,7 @@
 3. **Internal Respiration:** The exchange of gases between the systemic capillaries and the tissues/cells, where oxygen is used for metabolic processes.
 **What is cellular respiration**
 Cellular respiration refers to the actual oxidation or breakdown of food within the cells to produce energy .
-<!--SR:!2026-09-12,12,270-->
+<!--SR:!2026-09-20,6,250-->
 
 
 Depending on oxygen availability, respiration can be **aerobic** (using oxygen to produce high amounts of energy, mainly in the mitochondria) or **anaerobic** (occurring in the absence of oxygen, producing less energy and converting pyruvate to lactic acid, commonly seen in skeletal muscles during heavy exercise).
@@ -21,7 +21,7 @@ Depending on oxygen availability, respiration can be **aerobic** (using oxygen t
 **Alveolar ventilation** refers to the volume of **fresh air that successfully reaches the alveoli** in the lungs.
 .
 In a clinical context, if a patient experiences a **decrease in their tidal volume** (the amount of air taken in during a normal breath) while their overall respiration rate remains constant, their **alveolar ventilation will also decrease**. This reduction happens because a shallower breath means **less fresh air is able to travel deep enough to reach the alveoli** for gas exchange.
-<!--SR:!2026-08-26,4,270-->
+<!--SR:!2026-09-29,15,290-->
 
 ### Anatomy of the Respiratory System
 
@@ -58,7 +58,7 @@ Explain TV , IRV , ERV, RV , VC , TLC
 * **Residual Volume (RV):** The volume of air that remains in the lungs even after a forceful exhalation, about **1100 to 1200 mL**.
 * **Vital Capacity (VC):** The total volume of air that can be exhaled after a maximum forceful inhalation (TV \+ ERV \+ IRV).
 * **Total Lung Capacity (TLC):** The maximum volume of air the lungs can hold, which is the sum of the Vital Capacity and the Residual Volume.
-<!--SR:!2026-09-09,11,270-->
+<!--SR:!2026-10-25,41,290-->
 
 ### **Exchange of Gases**
 

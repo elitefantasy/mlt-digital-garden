@@ -22,26 +22,7 @@
 - **Site of sexual reproduction:** Mosquito
 - **Site of asexual reproduction:** Human
 
-## Important species
 
-| Species         | Fever pattern          | Important features                                  |
-| --------------- | ---------------------- | --------------------------------------------------- |
-| _P. falciparum_ | ~48 h, often irregular | Most severe; cerebral malaria                       |
-| _P. vivax_      | 48 h (tertian)         | Enlarged RBCs; Schüffner's dots; relapse            |
-| _P. malariae_   | 72 h (quartan)         | Band-form trophozoite; can cause nephrotic syndrome |
-| _P. ovale_      | 48 h (tertian)         | Oval, fimbriated RBCs; Schüffner's dots; relapse    |
-| _P. knowlesi_   | ~24 h                  | Daily fever; can be severe                          |
-- in india falciparum and vivax are very common
-
-
-| feature                       | p.vivax    | falciparum    | malariae   | ovale         |
-| ----------------------------- | ---------- | ------------- | ---------- | ------------- |
-| malaria type                  | benign     | malignant     | quartan    | ovale tertian |
-| fever periodicity             | every 48hr | every 48hr    | every 72hr | every 48hr    |
-| rbcs infected                 | young rbc  | all ages      | older rbcs | young rbcs    |
-| rbc size                      | enlarged   | normal normal | normal     | enlarged      |
-| schufner dot                  | present    | absent        | absent     | present       |
-| crescent / banana gametocytes | no         | yes           | no         | no            |
 ## Morphology
 - early trophozoite or ring form
 - trophozoite
@@ -50,11 +31,29 @@
 - gametocyte
 ![Pasted image 20260907183407.png\|305](/img/user/Attachments/Pasted%20image%2020260907183407.png)
 
-## Life cycle
-![Pasted image 20260907191006.png](/img/user/Attachments/Pasted%20image%2020260907191006.png)
-**Mosquito bite → Sporozoites → Liver → Merozoites → RBC → Trophozoite → Schizont → RBC rupture → Merozoites**
+## Key difference in plasmodium species
 
-Some parasites differentiate into **gametocytes**, which are taken up by another female _Anopheles_ mosquito.
+|Feature|**P. falciparum**|**P. vivax**|**P. malariae**|**P. ovale**|
+|---|---|---|---|---|
+|**Fever pattern**|**Tertian** – ~48 h, often irregular initially|**Benign tertian** – 48 h|**Quartan** – 72 h|**Tertian** – 48 h|
+|**Severity**|**Most severe**, malignant malaria|Usually mild–moderate|Usually mild, chronic|Usually mild|
+|**RBC infected**|**All ages** of RBCs|**Young RBCs (reticulocytes)**|**Old RBCs**|**Young RBCs**|
+|**Parasitemia**|**Very high**|Moderate|Low|Low|
+|**RBC size**|Normal or slightly ↓|**Enlarged**|Normal|**Enlarged**|
+|**RBC appearance**|Usually normal; **Maurer’s clefts**|**Schüffner’s dots**|**Ziemann’s dots** (fine, often inconspicuous)|**Schüffner’s dots**|
+|**Trophozoite**|Delicate **ring forms**, often **multiple rings/RBC**|Large, amoeboid|**Band-shaped** characteristic|Compact/irregular|
+|**Appliqué/accolé forms**|**Characteristic**|Rare|Absent|Absent|
+|**Mature schizont in peripheral blood**|**Usually absent**|Present|Present|Present|
+|**Schizont merozoites**|~**8–32**|**12–24**|**6–12**|**6–12**|
+|**Gametocyte**|**Crescent/banana-shaped** ⭐|Round/oval|Round/oval|Round/oval|
+|**Relapse**|**No true relapse**|**Yes** – hypnozoites|**No**|**Yes** – hypnozoites|
+|**Liver hypnozoite**|Absent|**Present**|Absent|**Present**|
+|**Duffy antigen requirement**|Not required|Usually **requires Duffy antigen**|Not required|Usually Duffy-dependent|
+|**Important complication**|**Cerebral malaria**, severe anemia, renal failure, hypoglycemia|Splenomegaly, severe disease can occur|**Nephrotic syndrome** (classically associated)|Usually uncomplicated|
+
+## Life cycle
+![Pasted image 20260907191006.png\|483](/img/user/Attachments/Pasted%20image%2020260907191006.png)
+**Mosquito bite → Sporozoites  release → Liver → Merozoites → RBC → Trophozoite → Schizont → RBC rupture → Merozoites**
 
 In mosquito:
 **Gametocytes → Gametes → Zygote → Ookinete → Oocyst → Sporozoites → Salivary glands**
@@ -71,12 +70,10 @@ The developmental stages in humans are:
 4. **Gametogony**
 
 #### 1. Pre-erythrocytic Schizogony
-This is the **first stage in humans** and occurs in the **liver**.
-
-**Entry of sporozoites** : mosquito bites -> injects sporozoite into bloodstream
+ mosquito bites -> injects sporozoite into bloodstream
 - **Sporozoite is the infective stage for humans.**
 - Sporozoites circulate in blood for a short period.
-- They rapidly reach the liver.
+- They rapidly reach the liver. 
 
 **Invasion of liver cells**
 Sporozoites -> **hepatocytes** -> enlarge , hepatic schizonts
@@ -90,7 +87,7 @@ Large numbers of **merozoites** are formed inside the hepatic schizont.
 merozoite release from hepatocyte and invade rbc
 
 Important point
-In **_P. vivax_ and _P. ovale_**, some parasites may remain dormant in the liver as **hypnozoites**. Their later reactivation causes **relapse**.
+In **_P. vivax_ and _P. ovale_**, some parasites may remain dormant in the liver as hypnozoites. Their later reactivation causes **relapse**.
 
 
 
@@ -202,8 +199,6 @@ The mature oocyst eventually ruptures and releases sporozoites.
 The sporozoites migrate through the mosquito's body and reach the: **Salivary glands**
 During the mosquito's next bite, these sporozoites are injected into another human.
 The cycle begins again.
-
-
 
 
 ## Laboratory diagnosis

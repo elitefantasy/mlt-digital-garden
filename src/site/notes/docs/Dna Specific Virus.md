@@ -24,7 +24,7 @@ The *Herpesviridae* family includes several clinically significant viruses:
 
 **Fetal varicella syndrome**, also called congenital varicella syndrome, is a rare condition. It happens when a pregnant person gets a chickenpox infection (caused by the varicella-zoster virus) during the first half of pregnancy, usually before 20 weeks
 characteristic features are : ==scarring of arms, legs, body ; hypoplasia limb, micropthalimia, low weight==
-<!--SR:!2026-09-08,10,270-->
+<!--SR:!2026-10-12,27,270-->
 
 ## III. Transmission Routes**
 Herpes viruses can be transmitted through multiple routes depending on the specific type:
@@ -45,7 +45,7 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 *   **Latency:** Herpes viruses, notably ==Hsv-1, HSV-2, CMV, and EBV==, are characterized by their ability to cause **latent infections**, meaning the virus can remain dormant in the host's body for long periods
 *   **HSV-1 Characteristics:** Oropharyngeal involvement is highly common in HSV-1 infections
 *   **HSV-2 Characteristics:** HSV-2 is classically associated with recurrent genital involvement
-<!--SR:!2026-09-02,2,230--> 
+<!--SR:!2026-09-19,5,230--> 
 
 ## VI. Treatment**
 *   **Acyclovir** is the primary and highly effective antiviral drug used to treat Herpes Simplex Virus (HSV) infections, particularly in primary stages, as well as associated complications like encephalopathy 
@@ -60,12 +60,12 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 **II. Cultivation and Isolation**
 *   **Gold Standard Medium:**  The ==human fibroblast cell line (specifically derived from lungs)== is considered the **"gold standard"** for the cultivation, isolation, and replication of CMV
 *   **Cultivation Challenges:** Because CMV is highly sensitive, it does not reside or replicate well in standard host cells, normal tissue cultures, or chick embryos, unlike other common viruses . It gives the best growth and shows its characteristic effects purely within human fibroblast cell lines
-<!--SR:!2026-09-03,3,210-->
+<!--SR:!2026-09-16,2,190-->
 
 **III. Microscopic Findings & Cytopathic Effects**
 CMV produces distinct **cytopathic effects**, meaning it severely damages or alters the structure and function of the host cells it infects, which can be clearly visualized under a microscope 
 *   The classic hallmark of a CMV infection is the :: **"Owl's Eye" appearance**  When the infected section is stained and examined, the cells develop large, prominent structures that resemble the thick eyes of an owl This unique appearance is best appreciated when the virus is cultured in human fibroblast cell lines
-<!--SR:!2026-09-07,7,250-->
+<!--SR:!2026-10-09,25,270-->
 *   **Inclusion Bodies:** CMV produces specific intracellular inclusions. It is characterized by **acidophilic intranuclear inclusion bodies** known specifically as **Cowdry Type A** inclusions 
 
 **IV. Clinical Significance (Congenital Infections)**
@@ -88,6 +88,6 @@ CMV produces distinct **cytopathic effects**, meaning it severely damages or alt
 
 #### IV. Clinical & Practical Significance
 *   Simian 40 is practically utilized in the production of the :: **polio virus vaccine**
-<!--SR:!2026-08-25,1,190-->
+<!--SR:!2026-09-16,1,150-->
 *  One of the most important characteristics of this virus is that ::  its genome is quite **small and easily modifiable**  Because it can be easily altered, it serves as a highly beneficial and important tool in the field of **gene therapy**
-<!--SR:!2026-09-02,2,250-->
+<!--SR:!2026-09-15,1,230-->

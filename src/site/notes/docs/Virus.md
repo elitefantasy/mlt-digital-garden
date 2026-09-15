@@ -30,7 +30,7 @@ There are 6 main families of medically important DNA viruses. A common mnemonic 
     *   **Exception:** ==Parvovirus== is the only **Single-Stranded (ssDNA)** virus . *(Hint: It's the smallest, so it only has one strand).*
 *   **Envelope (Naked vs. Enveloped):**
     *   **Non-Enveloped (Naked) DNA Viruses:** Remember the mnemonic :: **PAP** (**P**apova, **A**deno, **P**arvo)
-<!--SR:!2026-08-29,0,170-->
+<!--SR:!2026-09-16,1,150-->
     *   **Enveloped DNA Viruses:** The rest (Herpes, Hepadna, Pox) have envelopes
 *   **Symmetry:**
     *   **Rule:** All DNA viruses have **Icosahedral** symmetry
@@ -61,7 +61,7 @@ There are about 15 major medically important RNA virus families, including Picor
     *   **Rule 1:** All Non-enveloped RNA viruses (PCR group) are **Icosahedral**
     *   **Rule 2:** All Enveloped RNA viruses are **Helical**.
     *   *Note: There are no complex RNA viruses*
-<!--SR:!2026-08-25,1,190-->
+<!--SR:!2026-09-16,1,170-->
 
 ---
 

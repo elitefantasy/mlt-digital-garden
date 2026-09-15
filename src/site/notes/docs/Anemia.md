@@ -122,13 +122,13 @@ Assesses:
 ### RBC Inclusion Bodies
 
 - **Howell–Jolly bodies:** :: Composed of **DNA remnants** (nuclear fragments). They are often associated with post-splenectomy, hyposplenism, or megaloblastic anemia.
-<!--SR:!2026-09-12,5,190-->
+<!--SR:!2026-09-25,11,190-->
 
 - **Heinz bodies:** :: Composed of denatured hemoglobin precipitates. They are typically associated with **G6PD deficiency** and other hemoglobinopathies or exposure to oxidative chemicals.
 <!--SR:!2026-09-21,16,190-->
 
 - **Pappenheimer bodies:** :: Composed of **iron-containing granules (hemosiderin)**. They are seen in sideroblastic anemia, hyposplenism, and iron-loading states.
-<!--SR:!2026-09-13,2,150-->
+<!--SR:!2026-09-18,4,170-->
 
 - **Basophilic stippling:** :: Composed of aggregates of ribosomal RNA and ribosomes. Common associations include lead poisoning, thalassemia, and megaloblastic anemia.
 <!--SR:!2026-11-10,64,310-->
@@ -610,7 +610,7 @@ In which type of anemia koilonychia(spoon shaped nails) and pica(abnormal cravin
 - **Serum Ferritin:** Decreased first (<10 μg/L; normal ranges are ==40–300 μg/L for men and 20–200 μg/L for women==).
 - **Total Iron-Binding Capacity (TIBC):** Increased.
 - **Transferrin Saturation:** Decreased below 15%.
-<!--SR:!2026-09-15,7,250-->
+<!--SR:!2026-09-19,4,230-->
 
 ### Peripheral Blood Smear
 
@@ -644,7 +644,7 @@ D. Aplastic anemia.
 A ✔️
 Aplastic: normocytic
 ACD:  normocytic
-<!--SR:!2026-09-13,2,250-->
+<!--SR:!2026-09-21,7,270-->
 
 **Q A patient with anemia is found to have an elevated red cell distribution**
 **width (RDW). What does this indicate?**
@@ -708,7 +708,7 @@ Question : chronic alcohol consumption se ringed sideroblast kaise ho skta he ::
 <!--SR:!2026-09-23,18,250-->
 
 **question** : how lead interfere with heme synthesis :: by inhibiting ALA Dehydratase , ferrochelatase ; associated finding is basophilic stippling(remnant of rna)
-<!--SR:!2026-09-13,5,210-->
+<!--SR:!2026-09-17,3,190-->
 
 ## Heme synthesis 
 

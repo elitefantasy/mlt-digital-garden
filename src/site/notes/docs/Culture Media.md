@@ -48,7 +48,7 @@ Agar Concentrations:
 	- Solid Media: 1.5% to 2% (up to 3%),,,,.
 	- Semi-Solid Media: ==0.2% to 0.5==%,,,,.
 	- Firm Agar (to inhibit Proteus swarming): 6%
-<!--SR:!2026-09-02,4,250-->
+<!--SR:!2026-09-23,9,250-->
 
 # Culture Media Classification
 ## 1. Based on Consistency
@@ -79,7 +79,7 @@ Created by adding extra nutritional supplements like blood, serum, or egg yolk t
 #### B.1 Blood Agar
 Nutrient agar + 5-10% defibrinated sheep blood.
 Highly used in diagnostic bacteriology to isolate organisms like ==streptococci, staphyloccoci, fastidious(Neisseria and Haemophilus influenzae)== and to demonstrate hemolytic properties.
-<!--SR:!2026-09-03,14,290-->
+<!--SR:!2026-11-07,54,310-->
 
 #### B.2 Chocolate Agar
 Produced by heating Blood Agar to 60-70°C for 2 hours. Heating lyses RBCs, releasing factors (like Hemoglobin/Hematin, NAD, X and V factors) that turn the medium dark brown,,,,. It is more nutritious than blood agar and used for ==Neisseria species and Haemophilus influenzae==
@@ -103,7 +103,7 @@ Liquid broths that selectively favor the growth of specific target pathogens whi
 
 #### C.1 Alkaline Peptone Water (APW):
 Strictly alkaline pH (8.2-9.6) tailored specifically for isolating ==Vibrio cholerae==
-<!--SR:!2026-09-01,1,130-->
+<!--SR:!2026-09-17,2,150-->
 
 #### C.2 Selenite F Broth and Tetrathionate Broth
 Used to isolate ==Salmonella and Shigella== from stool samples
@@ -121,7 +121,7 @@ Solid media analogous to Enrichment media. Contains inhibitory substances (antib
 
 6. **Thayer Martin Agar**:
 Contains antibiotics (like trimethoprim to inhibit Proteus) to selectively isolate ==Neisseria gonorrhoea, Neisseria menigitidis==
-<!--SR:!2026-09-02,4,170-->
+<!--SR:!2026-09-17,2,150-->
 
 It has VCN Inhibitor
 Vancomycin: targets gram positive bacteria 
@@ -153,7 +153,7 @@ containing an indicator that changes color to visually distinguish between diffe
 3. Mannitol Salt Agar:
 	1. Specific for ==Staphylococcus aureus==, which ferments mannitol to produce yellow colonies,,.
 4. Blood Agar: Also acts as a differential medium by identifying hemolysis patterns
-<!--SR:!2026-08-31,12,270-->
+<!--SR:!2026-09-20,6,250-->
     
 ### F. Transport Medium
 used to safely transport delicate, fragile organisms from the collection site to the laboratory without allowing them to multiply, ensuring they remain viable
@@ -168,7 +168,7 @@ For bacteria (like Clostridium) intolerant to oxygen. These media contain reduci
 
 1. Robertson's Cooked Meat (RCM) Broth: Contains chopped beef heart pieces providing glutathione (a reducing agent) and unsaturated fatty acids. Shows saccharolytic reactions (red/pink color - ==1;;C. perfringens==) or proteolytic reactions (black color - ==1;;C. tetani==)
 2. Thioglycollate Broth: Uses sodium thioglycollate to reduce oxygen
-<!--SR:!2026-08-30,1,130-->
+<!--SR:!2026-09-16,1,130-->
 
 ### H. Synthetic Medium
 prepared exclusively from pure chemicals where the exact composition and concentration of every ingredient are known. Utilized primarily for research purposes and to study specific nutritional requirements of bacteria
@@ -210,7 +210,7 @@ Isolating microbes from the blood is difficult due to low bacterial loads and th
 - McIntosh and Fildes Anaerobic Jar: A robust metal/glass jar with a tight lid. Uses a vacuum pump to evacuate oxygen, replacing it with hydrogen gas. An alumina pellet catalyst coated with Palladium helps combine residual oxygen and hydrogen to form water,,,,.
 - GasPak System: A disposable packet containing sodium borohydride, cobalt chloride, citric acid, and sodium bicarbonate is placed in an airtight jar. Adding water generates H2 and CO2, which removes oxygen,.
 	- Indicator: ==Reduced Methylene Blue== is used; remains colorless in anaerobic conditions and turns blue upon exposure to oxygen,.
-<!--SR:!2026-09-08,8,250-->
+<!--SR:!2026-10-05,20,250-->
     
 
 ## Key Formulas, Rules, or Metrics

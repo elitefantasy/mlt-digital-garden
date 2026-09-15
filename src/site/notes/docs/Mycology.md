@@ -85,7 +85,7 @@ NOTE:
 * Network of hyphae is called mycelium
 * Example   
 	* Dermatophytes examples:: Trichophyton, Microsporum, and Epidermophyton.
-<!--SR:!2026-09-14,5,175-->
+<!--SR:!2026-09-22,8,175-->
 	* Aspergillus , penicillium , rhizopus , mucor
 
 ### 4 Dimorphic fungi
@@ -97,7 +97,7 @@ Two forms
 * **Pathogenicity**: highly virulent  , systemic mycoses.  
 * **Transmission**: inhaling spores
 * **Examples** :: *Histoplasma* capsulatum, *Blastomyces* dermatitidis, *Coccidioides* species, Paracoccidioides, Penicillium marneffei, and Sporothrix schenckii.
-<!--SR:!2026-09-14,3,138-->
+<!--SR:!2026-09-16,2,130-->
 
 
 ## Taxonomical Classification
@@ -196,7 +196,7 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 	* **Definition**: These are structured as chains of elongated, newly budded yeast cells that remain attached end-to-end without detaching.
 	* **Characteristics**: They form thread-like structures that feature clear, constricted junctions between the cells.
 	* **Example**: Found in ==1;;*Candida albicans*.==
-<!--SR:!2026-09-12,1,230-->
+<!--SR:!2026-09-18,3,230-->
 
 # Stains Used in Mycology 
 
@@ -231,7 +231,7 @@ Procedure
 * **Uses**: It is specifically used to detect the presence of a capsule.
 * **Appearance**: The capsule is visualized as a clear halo around the fungus.
 * **Example**: Used to detect fungus like ==Cryptococcus neoformans==
-<!--SR:!2026-09-14,3,250-->
+<!--SR:!2026-09-16,2,230-->
 
 
 5. **PAS Stain (Periodic Acid-Schiff)**

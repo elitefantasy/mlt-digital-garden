@@ -70,7 +70,7 @@ clinical enzymes
 - Creatine Kinase : [[docs/Cardiac Markers\|Cardiac Markers]]
 - ALT, AST , ALP, LDH : [[docs/LFT\|LFT]]
 - which enzyme increase in prostate cancer :: **Prostate-specific antigen** (PSA), which functions as a serine protease (an enzyme) ; **Prostatic Acid Phosphatase** (PAP).
-<!--SR:!2026-09-14,6,230-->
+<!--SR:!2026-09-29,15,230-->
 - ==Alkaline phosphatase (ALP) and gamma-glutamyl transferase (GGT)== are the primary enzymes that increase in the body during cholestasis.
 - among lipase and amylase which enzyme is more specific for diagnosing pancreatitis :: **Lipase**(remains elevated longer)
 <!--SR:!2026-09-17,6,249-->
@@ -153,7 +153,7 @@ Each enzyme is assigned a four-digit **Enzyme Commission (EC) number**, which de
 		- **Glutamine Synthetase:** Combines glutamate and ammonia to form glutamine, playing a central role in nitrogen metabolism.
 		- Carbamoyl Phosphate Synthetase I
 		- Argininosuccinate Synthetase
-<!--SR:!2026-09-14,3,170-->
+<!--SR:!2026-09-19,5,170-->
 
 ## Classification Based on Where They Function
 
@@ -291,7 +291,7 @@ The following table details major coenzymes, their parent vitamins, and their pr
 | **Vitamin B7 (Biotin)**       | ==1;;Biotin cofactor==        | CO₂ transfer                                |
 | **Vitamin B9 (Folate)**       | ==1;;THF (Tetrahydrofolate)== | One-carbon transfer                         |
 | **Vitamin B12 (Cobalamin)**   | Coenzyme forms of B12         | Rearrangement and methyl-transfer reactions |
-<!--SR:!2026-09-14,3,150-->
+<!--SR:!2026-09-19,5,150-->
 
 
 

@@ -8,7 +8,7 @@
 # 1 Coagulation Factor
 
 Coagulation factors are plasma or tissue proteins that participate in **secondary hemostasis**, ultimately converting fibrinogen into a stable fibrin clot. Most are synthesized in the liver; important exceptions include **tissue factor**, which is produced by  :: extravascular cells, **factor VIII**, produced mainly by endothelial cells and hepatic sinusoidal endothelial cells, and **factor IV**, which is calcium rather than a protein.
-<!--SR:!2026-08-30,1,170-->
+<!--SR:!2026-09-16,2,190-->
 
 | Factor   | Common name                                      | Main function                                                                                                                             | Principal site of production                                                                               | Important notes                                                                                                            |
 | -------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -90,7 +90,7 @@ A **coagulation profile** is a group of laboratory tests used to evaluate the bl
 | **Fibrinogen**         | Substrate converted to fibrin                           | About 200–400 mg/dL                         | DIC, liver disease, severe bleeding                         |
 | **Thrombin time (TT)** | Conversion of fibrinogen to fibrin                      | Usually about 14–19 seconds                 | Heparin or fibrinogen abnormalities                         |
 | **D-dimer**            | Breakdown product of cross-linked fibrin                | Often <500 ng/mL FEU                        | Evaluation of suspected venous thromboembolism or DIC       |
-<!--SR:!2026-09-08,10,270-->
+<!--SR:!2026-09-19,5,250-->
 
 **Ques**: Factor 13 deff which is prolonged
 a. PT
@@ -101,7 +101,7 @@ d. none of above
 none of the above
 Standard tests (PT, APTT, TT, CT, and BT) only monitor the process up to the formation of a **soluble, loose fibrin mesh**. Because Factor XIII functions **after** this stage to cross-link the strands into an insoluble, stable clot, routine screening panels will show normal times.
 The clinical issue in patients is not a failure or delay in _forming_ a clot, but a failure to _maintain_ it, resulting in delayed secondary bleeding hours to days later.
-<!--SR:!2026-08-26,4,270-->
+<!--SR:!2026-09-16,2,250-->
 
 **Quest**: combined factor deficiency commonly seen in
 a. factor 5 and 7
@@ -126,7 +126,7 @@ normal prothrombin time (PT) is typically 12 seconds plus or minus 2 seconds. Th
 - **Specimen:** Platelet-poor citrated plasma.
 - **Tube:** Light-blue-top tube containing **3.2% sodium citrate**.
 - **Blood-to-anticoagulant ratio:** :: 9:1.
-<!--SR:!2026-09-11,11,270-->
+<!--SR:!2026-09-20,6,250-->
 - Fill the tube to the marked level; underfilling can falsely prolong clotting times.
 - Mix gently by inversion; do not shake.
 - Avoid clotted or hemolyzed samples.
@@ -170,7 +170,7 @@ D-dimer is not specific for thrombosis; it can also increase with infection, inf
 - **Alternative Name:** The **Tourniquet Test** is also widely referred to as the **Capillary Fragility Test**.
 - **Classification:** It is an important diagnostic test in hematology, categorized under the **coagulation profile**.
 - **Primary Utility:** It is most commonly used in the clinical evaluation of patients suspected of having vector-borne viral diseases such as ==**Dengue** or **Chikungunya**==.
-<!--SR:!2026-08-28,4,270-->
+<!--SR:!2026-09-16,2,250-->
 
 ---
 

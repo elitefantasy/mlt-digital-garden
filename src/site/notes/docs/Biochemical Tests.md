@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/docs/biochemical-tests/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/biochemical-tests/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
 ---
 
-#microbiology
 
 ---
 
@@ -41,3 +40,43 @@
 * **Protoplasts:** This term is strictly used for **Gram-positive** bacteria that have lost their cell walls.  
 * **Spheroplasts:** This term is used for **Gram-negative** bacteria that have lost their cell walls.  
 * *(Note: This is distinct from bacteria like **Mycoplasma**, which naturally and permanently lack a cell wall from birth, rather than losing it due to external solutions)*.
+
+## Citrate Positive Organisms
+
+The **Simmons citrate test** detects whether a bacterium can use **citrate as the sole carbon source** and ammonium salts as the nitrogen source.
+
+### ⭐ Important Citrate Positive Organisms
+?
+
+|Organism|Citrate|
+|---|---|
+|**Klebsiella pneumoniae** ⭐|**Positive**|
+|**Enterobacter cloacae** ⭐|**Positive**|
+|**Citrobacter freundii** ⭐|**Positive**|
+|**Serratia marcescens**|**Positive**|
+|**Salmonella spp.**|**Positive**|
+|**Proteus vulgaris**|**Positive**|
+|**Providencia spp.**|**Positive**|
+|**Morganella morganii**|**Negative**|
+|**Escherichia coli** ⭐|**Negative**|
+|**Shigella spp.**|**Negative**|
+|**Yersinia enterocolitica**|**Negative**|
+
+
+### Principle of Simmons Citrate Test
+
+```text
+Citrate utilization
+       ↓
+Alkaline products produced
+       ↓
+pH increases
+       ↓
+Bromothymol blue changes
+Green → Blue
+       ↓
+Citrate POSITIVE
+```
+
+**Positive = growth + blue color**  
+**Negative = no growth + green color**

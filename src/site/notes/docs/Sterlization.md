@@ -97,24 +97,31 @@ C
 Other indicators
 - <span style="color:rgb(255, 0, 0)">Bowie Dick Test</span> : Tests **air removal and steam penetration** in pre-vacuum autoclaves
 - <span style="color:rgb(255, 0, 0)">Geobacillus stearothermophilus spores</span>: **Biological indicator** for steam sterilization(autocalve) ⭐
+<!--SR:!2026-09-15,1,230-->
 
 ### Module 3: Physical Methods – Filtration, Radiation, and Vibration
+#### 1. Filtration
+A cold sterilization method that physically removes microbes without heat. Ideal for heat-labile solutions (sera, antibiotic solutions, enzymes, vaccines, sugar solutions).
 
-1. **Filtration**: A cold sterilization method that physically removes microbes without heat. Ideal for heat-labile solutions (sera, antibiotic solutions, enzymes, vaccines, sugar solutions).  
-   * *Depth Filters*: Uses asbestos/glass pads (e.g., Seitz filter). Largely obsolete due to carcinogenic properties of asbestos.  
-   * *Membrane Filters*: Made of nitrocellulose with microscopic pores (commonly 0.22 µm or 0.45 µm) that trap bacteria.  
-   * *Air Filters*: Used in Biosafety Cabinets and Operation Theaters (OT).  
-     * *HEPA (High-Efficiency Particulate Air)*: Filters organisms ≥0.3 µm with 99.97% efficiency.  
-     * *ULPA (Ultra-Low Particulate Air)*: Filters organisms ≥0.12 µm with 99.999% efficiency.  
-2. **Radiation**:  
-   * *Ionizing Radiation (Cold Sterilization)*: 
-	   * <span style="color:rgb(255, 0, 0)">Gamma rays</span> (from Cobalt-60), X-rays, and Cosmic rays. Acts by breaking microbial DNA. Penetrates plastics and packaging. 
-	   * Used for pre-packed disposable plastic items (==syringes, Petri dishes, catheters==), and catgut sutures. 
-	   * gamma rays have the <span style="color:rgb(255, 0, 0)">greatest penetrating power</span>
-   * *Non-Ionizing Radiation (Hot Sterilization)*: UV rays and Infrared. Modifies DNA but has poor penetration and is not highly sporicidal. Used for surface sterilization in closed areas like Operation Theaters and laminar flow biosafety cabinets (UV at 240-300 nm, specifically 254 nm for 30 mins).  
-3. **Ultrasonic Vibrations**: Uses sound energy. Considered not highly effective and rarely used for standard sterilization.
+*Depth Filters*: Uses asbestos/glass pads (e.g., Seitz filter). Largely obsolete due to carcinogenic properties of asbestos. 
 
-#### **Laminar Air Flow** 
+*Membrane Filters*: Made of nitrocellulose with microscopic pores (commonly 0.22 µm or 0.45 µm) that trap bacteria. 
+
+- *Air Filters*: Used in Biosafety Cabinets and Operation Theaters (OT).  
+	* *HEPA (High-Efficiency Particulate Air)*: Filters organisms ≥0.3 µm with 99.97% efficiency.  
+	* *ULPA (Ultra-Low Particulate Air)*: Filters organisms ≥0.12 µm with 99.999% efficiency. 
+#### 2. Radiation
+1. Ionizing
+	1. example : ==1;;gamma rays, xrays, cosmic rays==
+	2. Acts by breaking microbial DNA. Penetrates plastics and packaging.
+	3. Used for pre-packed disposable plastic items (==1;;syringes, Petri dishes, catheters==), and catgut sutures. 
+	4. gamma rays have the <span style="color:rgb(255, 0, 0)">greatest penetrating power</span>
+2. Non Ionizing
+	1. example: ==1;;UV rays and Infrared==
+	2. Modifies DNA but has poor penetration and is not highly sporicidal
+	3. Used for surface sterilization in closed areas like Operation Theaters and laminar flow biosafety cabinets
+
+##### Laminar Air Flow 
 
 A laminar flow cabinet (or laminar flow hood) is a partially enclosed, sterile workstation designed to protect sensitive materials—such as biological samples, semiconductor wafers, or pharmaceutical products—from airborne contamination. It functions by generating a **continuous**, **unidirectional** stream of clean air that flows across the work surface, effectively sweeping away contaminants.
 
@@ -123,13 +130,13 @@ These cabinets are intended for **product protection** only; they are not design
 Laminar flow cabinets are generally categorized by the direction of the airflow:
 
 * **Horizontal Laminar Flow Cabinets:**  
-  * Air flows horizontally from the back of the cabinet toward the front (the operator).  
-  * They are highly efficient at protecting samples and work instruments because the air stream flows directly over the work surface.  
-  * Because the air moves toward the operator, these are not suitable for handling hazardous or infectious agents.  
+	* Air flows horizontally from the back of the cabinet toward the front (the operator).  
+	* They are highly efficient at protecting samples and work instruments because the air stream flows directly over the work surface.  
+	* Because the air moves toward the operator, these are not suitable for handling hazardous or infectious agents.  
 * **Vertical Laminar Flow Cabinets:**  
-  * Air flows vertically from the top of the cabinet downward toward the work surface.  
-  * This design helps expel contaminating particles toward the floor, reducing the risk of particles settling on the work surface.  
-  * They offer slightly better operator protection than horizontal models because the air is not blown directly at the user.
+	* Air flows vertically from the top of the cabinet downward toward the work surface.  
+	* This design helps expel contaminating particles toward the floor, reducing the risk of particles settling on the work surface.  
+	* They offer slightly better operator protection than horizontal models because the air is not blown directly at the user.
 
 The HEPA Filter
 
@@ -153,15 +160,17 @@ Chemical agents are used for disinfection and sterilization of heat-sensitive ma
 #### Alcohols: 
 - Denatures proteins and dissolves lipids. Extremely fast-acting (30 seconds to 1 minute). Kills vegetative bacteria and enveloped viruses, but NOT spores. Must be used with water for penetration (70% Isopropyl or Ethyl alcohol is much more effective than 100%). Used for clinical thermometers and skin antisepsis.  
 * 70% isopropyl alcohol is more effective than 100% because absolute (100%) alcohol evaporates too rapidly and requires the presence of water to effectively penetrate the cell membrane of microorganisms. The water content in a 70% solution ensures better penetration, which is necessary for the alcohol to denature proteins and dissolve lipids, thereby killing the bacteria. 
+
 #### Aldehydes
-* Action by cross-linking and alkylating proteins/DNA.  
+* working : ==Action by cross-linking and alkylating proteins/DNA. == 
 * *Formaldehyde (Formalin)*: 
-	* working : ==alkylates proteins and nucleic acids or can say targets amino acids, highly bactericidal and sporicidal==
+	* working : targets amino acids, highly bactericidal and sporicidal
 	* Used to fumigate operation theaters (neutralized afterward by ammonia gas), preserve human cadavers/tissues, and sterilize *Bacillus anthracis* spores in wool ("duckering").  
 * *Glutaraldehyde (Cidex)*: 
 	* A 2% buffered solution. High-level disinfectant. 
 	* Best choice for sterilizing heat-sensitive fiber optics and endoscopes/bronchoscopes. 
 	* Fast for disinfection (20 mins) but requires 10-14 hours to kill spores. 
+
 #### Phenols
 * **Phenols (Carbolic Acid)**: 
 	* First used by Joseph Lister (Father of Antiseptic Surgery) and prepared from coal tar. 
