@@ -97,7 +97,7 @@ Two forms
 * **Pathogenicity**: highly virulent  , systemic mycoses.  
 * **Transmission**: inhaling spores
 * **Examples** :: *Histoplasma* capsulatum, *Blastomyces* dermatitidis, *Coccidioides* species, Paracoccidioides, Penicillium marneffei, and Sporothrix schenckii.
-<!--SR:!2026-09-16,2,130-->
+<!--SR:!2026-09-17,1,130-->
 
 
 ## Taxonomical Classification
@@ -231,7 +231,7 @@ Procedure
 * **Uses**: It is specifically used to detect the presence of a capsule.
 * **Appearance**: The capsule is visualized as a clear halo around the fungus.
 * **Example**: Used to detect fungus like ==Cryptococcus neoformans==
-<!--SR:!2026-09-16,2,230-->
+<!--SR:!2026-09-23,7,250-->
 
 
 5. **PAS Stain (Periodic Acid-Schiff)**

@@ -73,7 +73,7 @@ The liver is the sole site of synthesis for major plasma proteins like albumin a
 
 ## 3.a Serum Proteins and A:G Ratio
 
-* **Total Protein (Normal: 5.0–8.5 g/dL):** Measured via the ==**Biuret method** (cupric ions react with protein in alkaline medium to form a violet complex at 540 nm==).
+* **Total Protein (Normal: 5.0–8.5 g/dL):** Measured via the ==1;;**Biuret method** (cupric ions react with protein in alkaline medium to form a violet complex at 540 nm==).
 * **Albumin (Normal: ==1;;3.5–5.0== g/dL):** Measured via the ==1;;Bromocresol Green (BCG) method== (turns from yellow-green to blue-green at 630 nm).
 * **Albumin-Globulin (A:G) Ratio (Normal: 1.2–1.5):** In chronic liver disease, albumin synthesis drops, leading to a reversed ratio (<1.0).
 <!--SR:!2026-08-31,2,190-->

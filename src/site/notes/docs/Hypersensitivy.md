@@ -102,7 +102,7 @@ Type IV is the only classification mediated entirely by T-lymphocytes (CD4+ and 
 ?
 - Tuberculin (Mantoux) skin test.
 - Allergic contact dermatitis (e.g., nickel or poison ivy).
-- Granulomatous inflammation (leprosy([[docs/Lepromin Test\|Lepromin Test]]), tuberculosis).
+- Granulomatous inflammation (leprosy([[docs/Leprosy#Lepromin Test\|Lepromine Test]]), tuberculosis).
 - **Transplant rejection** and Type 1 diabetes.
 
 **Laboratory Alert:** Because of the 24–72 hour delay, patients must return to the clinic for a manual reading of the Mantoux test. A negative result at 24 hours does not rule out a reaction.

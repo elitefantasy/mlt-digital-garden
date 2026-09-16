@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/docs/sterlization/","tags":["flashcards","#must-read"],"dg-note-properties":{"tags":["flashcards","#must-read"]}}
+{"dg-publish":true,"permalink":"/docs/sterlization/","tags":["flashcards","#must-read"],"dg-note-properties":{"tags":["flashcards","#must-read"],"Subject":["Microbiology"]}}
 ---
 
-#microbiology  
-## Executive Summary
 
-Sterilization and disinfection are fundamental processes in microbiology and healthcare designed to prevent infections and manage microbial populations on instruments, surfaces, and environments. While sterilization aims for the absolute eradication of all living microorganisms (including highly resistant bacterial spores), disinfection targets pathogenic organisms but may leave spores viable. The methodologies are broadly categorized into Physical Methods (Heat, Filtration, Radiation) and Chemical Methods (Alcohols, Aldehydes, Phenols, Halogens, Oxidizing agents, Gases). Method selection depends critically on the nature of the material (e.g., heat-labile vs. heat-resistant), the presence of organic matter, and the required level of microbial destruction.
 
 ## Master Glossary & Key Terms
 
@@ -80,7 +77,7 @@ C
 		* Day 3 complete kill of any new sporic or vegetative or sporic forms.  
 2. **At 100°C**:  
 	* *Boiling*: 100°C for 10-15 minutes (20 minutes in some contexts). Kills vegetative cells but not spores. Efficiency can be improved by adding 2% sodium bicarbonate.  
-	* *Tyndallization (Intermittent Sterilization)*: 100°C for 20 minutes (or 90 mins steaming) over 3 consecutive days. Effectively destroys both vegetative forms and germinating spores. Used for egg, serum, or sugar-containing media.  
+	* what is *tyndallization* sterlization :: also k/a intermittent sterlization, 100°C for 20 minutes over 3 consecutive days.  first day kills vegatative form ;; seconday day  kills newly hatched vegetative cell and prevent any new spore formation ;; third day heating    complete sterlization ;; eg liquid culture or egg serum based
 3. **Above 100°C (Autoclave)**:  
 	* *Principle*: Boiling point of water increases as atmospheric pressure increases within a closed vessel (similar to a pressure cooker).  
 	* *Parameters*: 121°C for 15-20 minutes at 15 PSI (Pounds per Square Inch).  

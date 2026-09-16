@@ -901,7 +901,7 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 - C. gatti healthy +  immunocompetent host.
 	- takes over immune system
 - Both C. neoformans and C. gatti are ==encapsulated== yeasts, an attribute that ensures their survival in the gut of pigeons and also increases their pathogenicity
-<!--SR:!2026-09-16,2,230-->
+<!--SR:!2026-09-23,7,250-->
 
 2.2 **Aspergillosis**
 - examples: A. fumigatus, A. niger, A. flavus and A. nidulans. 

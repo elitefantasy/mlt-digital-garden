@@ -702,7 +702,7 @@ Types
 		2. Chronic alcoholism :
 
 Question : chronic alcohol consumption se ringed sideroblast kaise ho skta he :: alcohol consumption can interfere with Pyridoxine metabolism (vit B6). Vitamin b6 helps in red blood cell production
-<!--SR:!2026-09-16,5,190-->
+<!--SR:!2026-09-30,14,210-->
 
 **question** : drugs associated with sideroblastic changes include :: isoniazid , chloramphenicol
 <!--SR:!2026-09-23,18,250-->

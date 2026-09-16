@@ -23,7 +23,7 @@ Key Steps of tissue processing are :: Dehydration -> Clearing -> Infiltration
 
 ## Dehydrating Agents
 name the dehydrating agents used in histology :: ethanol, isopropyl alcohol, acetone
-<!--SR:!2026-09-16,1,190-->
+<!--SR:!2026-09-19,3,210-->
 ### A. Ethanol
 The most commonly used dehydrating agent.
 -   **Advantages:**
@@ -150,7 +150,7 @@ If clearing is incomplete, paraffin will not infiltrate properly, leading to. So
 	1. slow clearing, less shrinkage 🟢, **delicate tissue**
 4. cedarwood oil (natural agent)
 	1. very gentle, **brain and eye tissues**, very slow and expensive
-<!--SR:!2026-09-16,5,150-->
+<!--SR:!2026-09-25,9,150-->
 
 
 **Duration of Clearing**

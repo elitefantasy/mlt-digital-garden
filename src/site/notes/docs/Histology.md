@@ -400,7 +400,7 @@ name the composition of these 1. carnoys fixative ; 2. Bouins Fixative ; 3. Zenk
 	* *Potassium Dichromate:* Serves as an oxidizing agent to fix cytoplasm.
 	* *Sodium Sulfate:* Maintains the osmotic balance of the solution.
 	* *Glacial Acetic Acid:* Specifically preserves nuclear structures.
-<!--SR:!2026-09-16,1,130-->
+<!--SR:!2026-09-18,2,150-->
 
 fixative used in electron microscopy is :: glutaraldehyde
 <!--SR:!2026-11-08,55,310-->
@@ -456,7 +456,7 @@ fixative used in electron microscopy is :: glutaraldehyde
   * *Sodium Sulfate:* Maintains the osmotic balance of the solution.
   * *Glacial Acetic Acid:* Specifically preserves nuclear structures.
 * **Pros & Cons:** Yields clear histological detail with optimal cytoplasmic and nuclear staining. However, it produces black mercury pigment deposits in tissues, requires extra washing steps, uses toxic chemicals, and cannot be used for lipid studies.
-<!--SR:!2026-09-16,2,190-->
+<!--SR:!2026-09-21,5,210-->
 
 
 ## Factors affecting fixation 

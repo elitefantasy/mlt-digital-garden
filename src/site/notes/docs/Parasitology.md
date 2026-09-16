@@ -109,7 +109,7 @@ linked:  [[docs/Parasitology Examples\|Parasitology Examples]]
 Parasite and its Vector
 **Plasmodium** -> Female Anopheles mosquito
 **Wuchereria bancrofti** ->  :: Mosquito, commonly Culex
-<!--SR:!2026-09-16,18,270-->
+<!--SR:!2026-09-26,10,250-->
 **Brugia malayi** -> Mosquito
 **Leishmania** ->  :: Female sandfly
 <!--SR:!2026-09-24,10,190-->
@@ -159,7 +159,7 @@ classification
 		2. hermaphroditic flukes: lung fluke, liver fluke, intestinal fluke
 	3. cestode
 		1. echinococcus granulosa, taenia species
-<!--SR:!2026-09-16,1,205-->
+<!--SR:!2026-09-17,1,185-->
 
 
 ## 1. Protozoa (Protista)
@@ -206,7 +206,7 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 - small intestine : *giardia flagellate* primary habitat is duodenum and upper jejunum , *cryptosporidium parvum sporozoan*
 - large intestine : entamoeba histolytica   , balantidium coli (ciliate)
 - both intestine : balantidumundergoes **excystation** in the small intestine, then migrates to the large intestine where trophozoites colonize.
-<!--SR:!2026-09-16,1,185-->
+<!--SR:!2026-09-19,3,205-->
 
 
 #### Amoeba | Entamoeba Histolytica
@@ -234,7 +234,7 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 	* It then develops into the **immature cyst**, which eventually becomes the **mature quadrinucleate cyst**.
 3. **Cystic Stage** (Dormant / Infective Stage)
 	* Size & Shape: Spherical.
-	* Cyst Wall:  **resistant** to gastric acid 
+	* Cyst Wall:  **resistant** to gastric acid
 	* Maturation: Immature cysts contain chromatoid bars and a glycogen mass. As the cyst matures, these structures disappear, and the nucleus undergoes two mitotic divisions to form the infective **quadrinucleate cyst**.
 	- **Infective stage**
 	- **Shape:** Round or spherical.
@@ -251,8 +251,8 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 	- Excystation releases the amoeboid forms, which colonize the **large intestine**.
 ##### Life Cycle & Transmission
  * ingestion of quadrinucleate cyst
- * travel to stomach and then to 
- * excystation: occurs in small intestine , cyst wall breakdown , amoeboid form is released 
+ * travel to stomach and then to
+ * excystation: occurs in small intestine , cyst wall breakdown , amoeboid form is released
  * the released form develop into trophozoite -> migrate to large intestine
  * Trophozoites multiply by **binary fission**. They remain in the intestinal lumen in many individuals (dormant)
  * **Invasive stage**
@@ -277,6 +277,7 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 	- Mature cysts are passed in **formed stool**.
 	- They survive outside the body better than trophozoites.
 	- Another person becomes infected by ingesting these cysts.
+<!--SR:!2026-09-20,4,270-->
 
 ##### Pathogenesis & Clinical Features
 1. **Intestinal Amoebiasis**
@@ -473,6 +474,7 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 - infective form is ==oocyst. oocyst ==does not stain with iodine and is acid fast
 - wall of oocyst is thick or can be thin. these thin walled oocyst are responsible for autoinfection
 - oocyst is very hard and is resistant to most disinfectants and temp up to 60 degree celsius
+<!--SR:!2026-09-17,1,230-->
 
 **Life Cycle**
 - complete asexual and sexual cycle in single host 
@@ -542,7 +544,7 @@ Cylindrical, unsegmented worms with a complete digestive tract.
 	1. lung flukes : ==1;;paragonimus westermani==
 	2. liver fluke : ==1;;Fasciola Hepatica==
 	3. intestinal fluke : ==1;;Fasciolopsis buski==
-<!--SR:!2026-09-16,1,130-->
+<!--SR:!2026-09-17,1,130-->
 
 
 Leaf-shaped flatworms.

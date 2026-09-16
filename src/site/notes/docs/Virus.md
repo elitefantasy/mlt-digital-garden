@@ -20,7 +20,8 @@ Viruses are unique acellular organisms that act as a connecting link between liv
 
 #### 1. DNA Viruses
 [[Dna Specific Virus \|Dna Specific Virus ]]
-There are 6 main families of medically important DNA viruses. A common mnemonic to remember them is **HHAPPPy**: **H**erpesviridae, **H**epadnaviridae, **A**denoviridae, **P**apovaviridae, **P**arvoviridae, and **P**oxviridae 
+There are 6 main families of medically important DNA viruses. 
+mnemonic :  **HHAPPPy**: *Herpesviridae*, **H**epadnaviridae, *Adenoviridae*, **P**apovaviridae, *Parvoviridae*, and *Poxviridae* 
 
 *   **Size:**
     *   **Smallest DNA Virus:** ==1;;Parvovirus== 
@@ -63,13 +64,7 @@ There are about 15 major medically important RNA virus families, including Picor
     *   *Note: There are no complex RNA viruses*
 <!--SR:!2026-09-16,1,170-->
 
----
 
-### III. Summary Exceptions & High-Yield Facts
-*   **Connecting Link:** Viruses are considered the connecting link between living and non-living things, behaving as non-living outside the host and living inside the host cell
-*   **Bacteriophage:** A virus that specifically infects bacteria (not humans)  They inject their nucleic acid directly into the bacteria, meaning they skip the "uncoating" step seen in animal viruses 
-*   **Size Scale:** Viruses are extremely small, measured in nanometers (20 to 400 nm), making them about 1000 times smaller than bacteria
-*   **Cultivation:** Viruses cannot be grown on artificial, cell-free culture media; they require living host cells (e.g., animals, embryonated eggs, or tissue cultures) to replicate 
 
 
 
@@ -165,6 +160,8 @@ Rubeola virus causes _Measles_
 ⚠️ Don't confuse:
 - **Rubeola** → **Measles**
 - **Rubella virus** → **Rubella (German measles)**
+
+
 ## 
 
 ### **Module 1: General Properties & Distinctions from Bacteria**
