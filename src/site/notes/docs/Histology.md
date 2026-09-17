@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/docs/histology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Histology","tags":["sem4","flashcards/sem4"],"Subject":["Histology"]}}
 ---
 
-Linked : [[docs/Fixatives in Histopathology\|Fixatives in Histopathology]] , [[docs/Tissue Processing\|Tissue Processing]]
+
 
 ### Definitions of Histopathology
 

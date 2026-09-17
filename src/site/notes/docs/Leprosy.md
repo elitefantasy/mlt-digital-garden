@@ -6,6 +6,7 @@
 # Leprosy Hansen Disease
 **Leprosy** is a chronic granulomatous infectious disease caused mainly by _Mycobacterium leprae_. It primarily affects the **skin**, **peripheral nerves**, upper respiratory mucosa, and eyes. 
 
+
 ### Causative organism
 
 | Feature                | _Mycobacterium leprae_                                                                                        |
