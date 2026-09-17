@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/amino-acid/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/amino-acid/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 # Amino Acids — Study Notes

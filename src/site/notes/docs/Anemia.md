@@ -86,14 +86,6 @@ Compensation Includes
 - Increased 2,3-BPG in RBCs
 - Increased oxygen extraction
 
-# Clinical Features
-
-| Type             | Clinical Features                                                                                                                             |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| General Symptoms | Weakness, fatigue, dizziness, headache, dyspnea, palpitations                                                                                 |
-| Physical Signs   | Pallor, tachycardia, tachypnea, koilonychia (IDA), glossitis, jaundice (hemolytic anemia), splenomegaly, neurological issues (B12 deficiency) |
-|                  |                                                                                                                                               |
-
 # Laboratory Diagnosis
 
 ## Complete Blood Count (CBC)
@@ -206,18 +198,6 @@ Calculated parameters used to define RBC size and hemoglobin content:
 - Reduced immunity
 - Reduced exercise tolerance
 
-# Treatment
-
-Treatment depends on the cause.
-
-- Iron supplementation
-- Vitamin B12 therapy
-- Folic acid supplementation
-- Blood transfusion
-- Erythropoietin (CKD)
-- Treat underlying disease
-- Bone marrow transplant (selected cases)
-
 # 1. Macrocytic Anemia
 
 ## Characteristics
@@ -235,7 +215,6 @@ Treatment depends on the cause.
 - Causes:
   - Vitamin B12 deficiency
   - Folic acid deficiency
-- RBC become 
 - MCV , MCH , RDW incr 
 - PBS: macrocytic , hypochromic , anisocytosis, poikilocytosis, howel jolly bodies , cabot rings, basophillic stipling, hypersegmented neutrophils
 - Retic count decreased
@@ -310,11 +289,11 @@ Tissue hypoperfusion is a dangerous medical state where the body fails to delive
 	- Aldosterone causes the kidneys to retain sodium and water and excrete potassium.
 	- This helps maintain blood pressure and blood volume.
 - **Bone marrow response:**
-  - EPO increases.
-  - EPO stimulates erythroid progenitor cells.
-  - RBC production increases.
-  - Reticulocytes are released and become evident after several days.
-  - PBS may show **polychromasia**.
+	- EPO increases.
+	- EPO stimulates erythroid progenitor cells.
+	- RBC production increases.
+	- Reticulocytes are released and become evident after several days.
+	- PBS may show **polychromasia**.
 
 ### 2.2 Chronic Hemorrhagic Anemia
 
@@ -445,8 +424,8 @@ Examples:
 - CBC : hb, pcv, rbc count decr ;; wc , platelate , retic decr ;;; 
 - PBS
 - Bone marrow examination: hypocellular marrow
-  - Bone marrow aspirate : replaced by fat and fibrous tissue
-  - Trephine biopsy
+	- Bone marrow aspirate : replaced by fat and fibrous tissue
+	- Trephine biopsy
 - Pancytopenia
 - Platelets decreased
 - Reticulocyte count decreased
@@ -685,7 +664,7 @@ Why B is Wrong : **B. Anemia of Chronic Disease:** Driven by sustained systemic 
 <!--SR:!2026-09-25,16,290-->
 
 # 7. Sideroblastic Anemia
-- iron does not incorporate into heme due to which defective heme synthesis. Due to which iron deposit in erythroblast mitochondria.  And bone marrow produces ringed sideroblast rather than healthy rbc
+- iron does not incorporate into heme due to which defective heme synthesis. Due to which iron deposit in erythroblast mitochondria.  And bone marrow produces **ringed sideroblast** rather than healthy rbc
 - body has enough iron , but cannot incorporate into hemoglobin.
 - ringed sideroblast is subtype of basophilic granule of erythrocyte
 - a sideroblast is an erythroid precurosr containing iron granule in its cytoplasm

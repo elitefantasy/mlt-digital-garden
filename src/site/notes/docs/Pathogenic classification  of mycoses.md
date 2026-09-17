@@ -31,7 +31,6 @@ levels:
     - exam ready points on Lab Diagnosis of Dermatophytes
     - 2.3. Laboratory Diagnosis of Dermatophytosis
     - 2.4 Dermatophyte Classifcation by habitat
-    - 2.5. Additional Microscopic Morphology & Hyphal Structures
     - 2.6. Pathogenesis & Mechanism of Infection
     - 2.7. Host Immune Response
 - 3. Subcutaneous Mycoses
@@ -40,7 +39,6 @@ levels:
     - 3.5. General Clinical Features
     - 3.6. Detailed Clinical Syndromes & Entity Comparison
     - 3.7. Differential Diagnosis & Diagnostic Principles
-    - 3.8. Principles of Treatment & Management
     - 3.9 Sporothrix Schenckii
 - 4. Systemic Mycoses (Deep Mycoses)
 - 5. Opportunistic Mycoses
@@ -76,7 +74,7 @@ i) **Tinea versicolor**
 * Hypopigmented or hyper   
 * **Pathogenesis**: colonization , overgrowth under favourable condition, pigmented macules, fungal metabolites interfere with melanogenesis  
 * **Lab diagnosis:**   
-	1. **Microscopy**: koh mount, shows yeast cell \+ short huphae ( spaghetti and meatball )  
+	1. **Microscopy**: koh mount, shows yeast cell \+ short hyphae ( **spaghetti and meatball** )  
 	2. **Culture**: lipid enriched media, creamy colony in few days, budding yeast on microscopy  
 	3. **Wood lamps examination**: yellow to green fluorescence 
 
@@ -152,17 +150,6 @@ Pathogenic Stages:
  3. **Malassezia Folliculitis (Pityrosporum Folliculitis**)
 - **Description:** Inflammation of hair follicles due to yeast proliferation inside the follicular duct.
 - **Lesions:** Pruritic follicular papules and pustules on the chest, back, and upper arms.
-    
-
-#### Risk Factors
-- Hot, humid tropical climates
-- Excessive sebum production (seborrhea, puberty)
-- Excessive sweating (hyperhidrosis)
-- Occlusive clothing or heavy oily skin products
-- Poor personal hygiene
-- Immunocompromised states (e.g., HIV, corticosteroid therapy)
-- **Age Group:** Most frequently affects adolescents and young adults due to peak sebaceous gland activity.
-    
 
 #### Laboratory Diagnosis
 
@@ -212,7 +199,6 @@ i) **Black Piedra : Piedra hortae**
   * Disease : ringworm(taenia), athletes foot  
 
 ## 2.1\. Introduction to Cutaneous Mycoses
-
 -   **Definition:** Fungal infections that extend deeper into the epidermis, invade keratinized tissues (skin, hair, and nails), and cause disease.
 -   **Terminology:** Also referred to as **ringworm** or **tinea**.
 -   **Dermatophytes:** The causative fungi are termed dermatophytes.
@@ -239,9 +225,7 @@ Tinea unguium/onychomycosis - ==1;;nails==
     -   Dry skin
     -   Blisters or thick patches of dry red skin
 -   **Causative Organisms:** Three species together account for the vast majority of cases worldwide:
-    -   _Trichophyton rubrum_
-    -   _Trichophyton mentagrophytes
-    -   _Epidermophyton floccosum_
+    -   _Trichophyton rubrum_, _Trichophyton mentagrophytes_, _Epidermophyton floccosum_
 -  **Tinea Pedis Patterns:** Presents in three specific patterns: _Interdigital_ (between toes), _Moccasin_ (diffuse plantar distribution), and _Vesiculobullous_.
 
 ### B. Tinea Cruris
@@ -522,21 +506,7 @@ Slow-growing Khaki/olive to yellowish colony may develop
         -   _Microsporum:_ _M. gypseum_
         -   _Epidermophyton:_ _E. stockdaleae_
 
-## 2.5\. Additional Microscopic Morphology & Hyphal Structures
-Dermatophytes are hyaline, septate molds with over 40 recognized species:
--   **Hyphal Characteristics:**
-    -   Hyaline (non-pigmented) and septate (cross-walls present).
-    -   Branching filaments with a diameter of 2–4μm.
-    -   Form an interconnected fungal network termed **mycelium**.
--   **Specialized Hyphal Structures:**
-    -   **Spiral hyphae**
-    -   **Racquet hyphae**
-    -   **Pectinate bodies**
-    -   **Favic chandeliers**
-    -   **Chlamydoconidia (resting spores)**
--   **Spore Arrangement Details:**
-    -   **Microconidia:** Small, single-celled, round/oval to pyriform (pear-shaped); arranged along hyphae, in clusters, or in grape-like configurations.
-    -   **Arthroconidia:** May develop within infected hair.
+
 
 ## 2.6\. Pathogenesis & Mechanism of Infection
 entry into host through contact(fungal element), trauma etc
@@ -569,19 +539,19 @@ Dermatophytes commonly grow outward from the initial site. The center may partia
 * They are typically introduced into the host's deeper tissues through **traumatic inoculation** , such as a rose thorn prick, wood splinter, animal scratch, or minor cut, often during agricultural or outdoor manual labor
 
 ## 3.2. Risk Factors and etiology
-A. High-Risk Populations & Demographics
+**A. High-Risk Populations & Demographics**
 - **Primary Target Group:** Most frequently affects individuals between **30 and 50 years of age**, as this age group experiences maximum exposure to occupation-related injuries.
 - **Geographic Risk:** Rural communities and agricultural regions carry the highest burden of disease.
 - **Occupational Hazard:** Outdoor workers, farmers, gardeners, and agricultural laborers are at highest risk due to frequent contact with soil and vegetation.
 
-B. Risk Factors
+**B. Risk Factors**
 - **Traumatic Injury:** Direct inoculation through soil or plant debris. Most patients fail to recall the initial minor injury, leading to significant diagnostic delays.
 - **Environmental Exposure:** Contact with contaminated soil, decaying vegetation, thorns, and splinters.
 - **Behavioral Factors:** Barefoot walking and lack of protective clothing during outdoor manual work.
 -  **immunosuppressive conditions**
 
         
-A. Mode of Acquisition
+**A. Mode of Acquisition**
 - Thorn pricks
 - Wood splinters
 - Minor cuts, abrasions, and penetrating injuries
@@ -590,7 +560,7 @@ A. Mode of Acquisition
     
 
 ## 3.4. Classification & General Characteristics
-A. Host-Pathogen Interaction Categories
+**A. Host-Pathogen Interaction Categories**
 1. **True Pathogens:** Fungi capable of invading host tissues in an **immunocompetent host** (e.g., _Histoplasma capsulatum_, _Coccidioides immitis_).
 2. **Opportunistic Organisms:** Organisms with lower virulence that primarily invade **immunocompromised hosts** (e.g., _Aspergillus fumigatus_).
     - _Note:_ Zygomycosis and Aspergillosis generally present as systemic infections, but can rarely present as localized subcutaneous infections.
@@ -637,7 +607,7 @@ The primary clinical diseases(7) caused by subcutaneous mycoses include:
 - affects feet mainly
 - firm , painless , localized subcutaneous nodules, localized granulomatous infection
 - It spreads and destroys the surrounding structure but does not affect tendons and nerves
-- classic triad: tumefaction(swelling), multiple discharging sinuses, granules in discharge
+- classic triad: ==tumefaction(swelling), multiple discharging sinuses, granules in discharge==
 - caused by fungi or filamentous bact
 - occurs via traumatic implantation
 
@@ -692,7 +662,7 @@ White Grain Eumycetoma : Pseudallescheria boydii , Aspergillus nidulans, Acremon
 ### Chromablastomycosis
 - chronic fungal infection
 - caused by dematacious fungi -> brown pigmentation
-- warty plaques, cauliflower like lesions which may ulcerate
+- warty plaques, **cauliflower like lesions** which may ulcerate
 - affects immunocompromised 
 - **causes**
 	- traumatic implantation
@@ -728,14 +698,14 @@ White Grain Eumycetoma : Pseudallescheria boydii , Aspergillus nidulans, Acremon
 
 ## 3.6. Detailed Clinical Syndromes & Entity Comparison
 
-|Disease|Causative Organisms|Laboratory & Morphological Characteristics|Distinctive Clinical Features|
-|---|---|---|---|
-|**Sporotrichosis**|_Sporothrix schenckii_ complex|**Thermal Dimorphism:**<br><br>• Tissue: **Cigar-shaped yeast** cells.<br><br>• Culture ($25^\circ\text{C}$ on SDA): Mold phase displaying delicate hyphae with rosette-like conidia.|• Nodular lesions along lymphatic drainage channels ("Rose gardener's disease").<br><br>• Local ulceration at inoculation site.|
-|**Chromoblastomycosis**|_Fonsecaea_, _Cladophialophora_, _Phialophora_ spp.|• **Dematiaceous (pigmented) fungi.**<br><br>• Pathognomonic **Sclerotic bodies** (Medlar bodies / muriform cells / "copper pennies"): Brown, thick-walled cells dividing by internal septation (transverse & longitudinal).|• Warty, verrucous lesions.<br><br>• Cauliflower-like exophytic growth, predominantly on the lower extremities.|
-|**Eumycetoma** _(Fungal Mycetoma)_|_Madurella mycetomatis_, _Pseudallescheria boydii_|• Septate hyphae embedded in compact **granules/grains** discharged from sinuses.<br><br>• Slow-growing colonies in culture.<br><br>• _M. mycetomatis_ produces distinct **black grains**.|**Classic Triad:**<br><br>1. Painless swelling (Tumefaction)<br><br>2. Multiple draining sinus tracts<br><br>3. Purulent discharge containing grains<br><br>• Commonly affects the foot ("Madura Foot").|
-|**Phaeohyphomycosis**|_Exophiala_, _Alternaria_, _Bipolaris_ spp., and other dematiaceous fungi|• Darkly pigmented (dematiaceous) **septate hyphae** or yeast-like structures in tissue.<br><br>• **Absence of sclerotic bodies** and true grains.|• Subcutaneous capsulated cysts, localized abscesses, and necrotic nodules.<br><br>• Can range from localized tissue lesions to systemic infection.|
-|**Lobomycosis**|_Lacazia loboi_|• Round to oval yeast-like cells connected in **catenulate chains** (lemon-shaped).<br><br>• Displays chain patterns ($<5$ or $>5$ cells) or rosette patterns.<br><br>• **Cannot be cultured** _**in vitro**_.|• Chronic, painless, keloid-like nodular skin lesions.<br><br>• Deforming cutaneous infection.|
-|**Rhinosporidiosis**|_Rhinosporidium seeberi_|• Presence of massive, thick-walled **sporangia** containing numerous **endospores** at various stages of maturation in histopathology.|• Pinkish, friable, polypoidal mass protruding from mucosal surfaces (nasal cavity, pharynx, oropharynx).<br><br>• Bleeding mucosal lesions.|
+| Disease                            | Causative Organisms                                                       | Laboratory & Morphological Characteristics                                                                                                                                                                                   | Distinctive Clinical Features                                                                                                                                                                            |
+| ---------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sporotrichosis**                 | _Sporothrix schenckii_ complex                                            | **Thermal Dimorphism:**<br><br>• Tissue: **Cigar-shaped yeast** cells.<br><br>• Culture ($25^\circ\text{C}$ on SDA): Mold phase displaying delicate hyphae with rosette-like conidia.                                        | • Nodular lesions along lymphatic drainage channels ("Rose gardener's disease").<br><br>• Local ulceration at inoculation site.                                                                          |
+| **Chromoblastomycosis**            | _Fonsecaea_, _Cladophialophora_, _Phialophora_ spp.                       | • **Dematiaceous (pigmented) fungi.**<br><br>• Pathognomonic **Sclerotic bodies** (Medlar bodies / muriform cells / "copper pennies"): Brown, thick-walled cells dividing by internal septation (transverse & longitudinal). | • Warty, verrucous lesions.<br><br>• Cauliflower-like exophytic growth, predominantly on the lower extremities.                                                                                          |
+| **Eumycetoma** _(Fungal Mycetoma)_ | _Madurella mycetomatis_, _Pseudallescheria boydii_                        | • Septate hyphae embedded in compact **granules/grains** discharged from sinuses.<br><br>• Slow-growing colonies in culture.<br><br>• _M. mycetomatis_ produces distinct **black grains**.                                   | **Classic Triad:**<br><br>1. Painless swelling (Tumefaction)<br><br>2. Multiple draining sinus tracts<br><br>3. Purulent discharge containing grains<br><br>• Commonly affects the foot ("Madura Foot"). |
+| **Phaeohyphomycosis**              | _Exophiala_, _Alternaria_, _Bipolaris_ spp., and other dematiaceous fungi | • Darkly pigmented (dematiaceous) **septate hyphae** or yeast-like structures in tissue.<br><br>• **Absence of sclerotic bodies** and true grains.                                                                           | • Subcutaneous capsulated cysts, localized abscesses, and necrotic nodules.<br><br>• Can range from localized tissue lesions to systemic infection.                                                      |
+| **Lobomycosis**                    | _Lacazia loboi_                                                           | • Round to oval yeast-like cells connected in **catenulate chains** (lemon-shaped).<br><br>• Displays chain patterns ($<5$ or $>5$ cells) or rosette patterns.<br><br>• **Cannot be cultured** _**in vitro**_.               | • Chronic, painless, keloid-like nodular skin lesions.<br><br>• Deforming cutaneous infection.                                                                                                           |
+| **Rhinosporidiosis**               | _Rhinosporidium seeberi_                                                  | • Presence of massive, thick-walled **sporangia** containing numerous **endospores** at various stages of maturation in histopathology.                                                                                      | • Pinkish, friable, polypoidal mass protruding from mucosal surfaces (nasal cavity, pharynx, oropharynx).<br><br>• Bleeding mucosal lesions.                                                             |
 
 ## 3.7. Differential Diagnosis & Diagnostic Principles
 - **Bacterial Mimicry:** Bacterial infections such as **Actinomycetoma** (caused by actinomycetes like _Streptomyces somaliensis_, which produce yellow/white granules) closely mimic fungal subcutaneous mycetoma.
@@ -746,18 +716,6 @@ White Grain Eumycetoma : Pseudallescheria boydii , Aspergillus nidulans, Acremon
     - **Confirmation:** Definitive diagnosis requires direct histopathological demonstration of characteristic fungal structures (e.g., sclerotic bodies, grains, sporangia) or isolation in culture.
         
 
-## 3.8. Principles of Treatment & Management
-1. **Challenges in Medical Management:** Subcutaneous mycoses are notoriously difficult to treat effectively with medication alone.
-2. **Determinants of Therapy:** Selection of treatment depends on:
-    - Anatomical site of infection
-    - Severity and extent of tissue invasion
-    - Specific etiologic pathogen identified
-    - Drug toxicity, route of administration, and financial cost
-3. **Evidence Base:** Therapeutic guidelines are largely based on open-label trials, retrospective reviews, and clinical case reports.
-4. **Recurrence & Surgery:**
-    - Criteria for stopping systemic antifungal therapy are poorly defined, making **recurrence very common**.
-    - Surgical intervention, including **excision or amputation**, is frequently required for refractory cases or advanced destructive disease.
-
 ## 3.9 Sporothrix Schenckii
 - dimorphic fungus
 - soil(common) and in and on living and dead decaying environments. 
@@ -765,7 +723,7 @@ White Grain Eumycetoma : Pseudallescheria boydii , Aspergillus nidulans, Acremon
 - affects the cutaneous(dermis and epidermis) and subcutaneous(hypodermis(deepest layer, right below dermis)) tissues. 
 - small, ulcerative, and suppurative lesions(bumps, pus) -> Skin tissue
 - lymphatic system ->  nodular lesions which can be ulcerative and suppurative.
-- Entru through : skin injury, inhalatatio
+- Entry through : skin injury, inhalatatio
 
 ### Culture
 - molds: below 35 degree , filamentous, septate hyphae, asexua; spore conidia, brown in color, tapered conidiophore, conidia are flower like appearence, smooth walled

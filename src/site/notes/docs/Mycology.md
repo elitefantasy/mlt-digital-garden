@@ -106,7 +106,7 @@ Two forms
 ![Pasted image 20260905114211.png\|314](/img/user/Attachments/Pasted%20image%2020260905114211.png)
 Zygomycetes (also historically referred to as Phycomycetes) 
 
-* **Hyphal Structure**: only one with **non-septate (aseptate)** hyphae. resulting in a continuous, multinucleated cytoplasmic stream.  
+* **Hyphal Structure**: only one with **non-septate (aseptate)** hyphae. resulting in a continuous, multinucleated cytoplasmic stream. 
 * **Reproduction**:  
 	* **Sexual Spores (Teleomorph)**: Zygospores and oospores.  
 	* **Asexual Spores (Anamorph)**: Sporangiospores, which are produced endogenously inside a sac-like structure called a sporangium.  
@@ -129,7 +129,7 @@ Zygomycetes (also historically referred to as Phycomycetes)
 
 * **Hyphal Structure**: They have septate hyphae.  
 * **Reproduction**:  
-  * **Sexual Spores** : They produce basidiospores, which are generated exogenously on a specialized structure called a basidium.  
+	* **Sexual Spores** : They produce basidiospores, which are generated exogenously on a specialized structure called a basidium.  
 * **Dikaryon Phase**: Similar to Ascomycetes, they can exhibit a "dikaryon phase" (n+n state).   
 * **Representative Examples**: This class primarily includes mushrooms., cryptococcus neoformans.
 
@@ -141,16 +141,6 @@ Zygomycetes (also historically referred to as Phycomycetes)
 * **Hyphal Structure**:  septate hyphae.  
 * **Reproduction**: asexually, primarily via conidia or budding. 
 * **Clinical Importance**:   *Candida*, *Cryptococcus*, and Dermatophytes.
-
-**Sub-classification:\[less important \]**  
-Because they lack a known sexual stage, they are artificially grouped into three classes:
-
-* **Blastomycetes**: Yeast-like budding forms, such as *Cryptococcus* and *Rhodotorula*.  
-* **Hyphomycetes**: Mycelial molds with septate hyphae that reproduce asexually via conidia. This is the largest group of medically relevant fungi and is split into:  
-  * *Dematiaceous Hyphomycetes*: Produce dark pigments (causing phaeohyphomycosis).  
-  * *Hyaline Hyphomycetes*: Produce colorless or bright pigments (includes *Aspergillus* and Dermatophytes).  
-* **Coelomycetes**: Produce conidia within specialized hyphal structures known as acervuli.
-
 
 
 ## Pathogenic classification  of mycoses
@@ -216,6 +206,7 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 * **Overview**: A simple method utilized for the detection of fungi.  
 * **Principle**: The potassium hydroxide (KOH) dissolves keratin, leaving the fungal elements visible for microscopic analysis.  
 * **Used for**: Skin scrapings, hair, and nail samples.
+
 Procedure
 1.  Place the clinical specimen on a clean glass slide.
 2.  Add 1–2 drops of **10–20% KOH** (which digests background host keratin while leaving fungal cell walls intact).
@@ -251,8 +242,6 @@ Procedure
 
 # Structure of Fungal Cells
 
-![433](/img/user/Attachments/Structure%20of%20funal%20cell.png)
-
 ## 1\. Fungal Cell Wall 
 
 The fungal cell wall is a rigid outer layer that typically ranges from 100 to 200 nm in thickness.
@@ -267,6 +256,7 @@ The fungal cell wall is a rigid outer layer that typically ranges from 100 to 20
 	* **Glucans**: Primarily consisting of beta-1,3-glucan and beta-1,6-glucan. They are major wall components that maintain *cell wall integrity* and provide **elasticity**. Clinically, beta-glucan detection tests are utilized for diagnosing fungal infections.
 	* **Mannoproteins**: Glycoproteins containing **mannose sugars** located on the **outer layer** of the cell wall. They function in host **cell adhesion**, act as antigenic determinants, and interact with the host's immune system.
 	* **Other Components**: Glycoproteins, lipids, and minor amounts of proteins and pigments (such as melanin in certain fungi).
+![433](/img/user/Attachments/Structure%20of%20funal%20cell.png)
 <!--SR:!2026-09-19,10,255-->
 
 ## 2\. Fungal Cell Membrane 
