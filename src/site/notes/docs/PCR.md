@@ -23,29 +23,15 @@ PCR is based on **repeated cycles of DNA denaturation, primer annealing and exte
 ### Steps of PCR
 ?
 ![Image](https://images.openai.com/static-rsc-4/9l8xOzRxbItJRL2FUuzilpgonqbvySM-OZYKeguu7yhTM1slYD6_9utJvtxdY7bScQ4InXE3Fs-rxvZ7rnan23iskQNjxk9FoJ1vhIUeGSwf6m3h-22EYJjT4URfclIdjGTJk7NIhE1jfPbFILg7wgwnKcXPMASEbCA3Yn64-ZJltnwUWOp9pkU6Es5ENP1O?purpose=fullsize)
-
-
 **1. Denaturation — ~94–95°C**  
 Double-stranded DNA separates into **two single strands**.
 **2. Annealing — ~50–65°C**  
 Primers bind (**anneal**) to their complementary sequences on the template DNA.
 **3. Extension — ~72°C**  
-Taq DNA polymerase adds dNTPs to the primers and synthesizes the **new DNA strands**.
-
+Taq DNA polymerase adds dNTPs to the primers and synthesizes the **new DNA strands**. *Note:* For viral RNA diagnostics like HIV, Reverse Transcriptase is used initially (RT-PCR).  
+.
 These three steps are repeated for approximately **25–40 cycles**, resulting in exponential amplification of the target DNA.
 
-### PCR cycle
-**Template DNA**  
-↓  
-**Denaturation**  
-↓  
-**Annealing**  
-↓  
-**Extension**  
-↓  
-**Repeat cycles**  
-↓  
-**Millions of copies of target DNA**
 
 ### Applications in MLT
 - Detection of **infectious organisms** such as bacteria and viruses
@@ -64,3 +50,10 @@ These three steps are repeated for approximately **25–40 cycles**, resulting i
 |**Real-time PCR (qPCR)**|Amplification **and quantification** of DNA|
 |**Multiplex PCR**|Amplification of multiple targets in one reaction|
 |**Nested PCR**|Increased specificity of amplification|
+
+**which enzyme is used to synthesize dna using an mRNA template**
+?
+- The enzyme used to synthesize DNA using an mRNA template is Reverse Transcriptase
+- This reaction is called **reverse transcription**, and the resulting DNA is known as **complementary DNA (cDNA**
+- Reverse Transcriptase is naturally found in **retroviruses** (such as HIV) so they can convert their RNA into DNA inside a host cell
+- Scientists use it in techniques like **RT-PCR** (Reverse Transcription Polymerase Chain Reaction) to study gene expression and analyze RNA

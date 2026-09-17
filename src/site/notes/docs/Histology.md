@@ -330,6 +330,7 @@ procedure
 * **Microscopic Staining Characteristics:** Tissues can exhibit Basophilic, Eosinophilic, Chromophobic ("clear cell"), or Amphophilic (both) properties.
 
 
+
 # Fixatives in Histopathology
 ## 1\. Introduction to Fixatives
 
@@ -359,30 +360,57 @@ procedure
 Fixatives are broadly categorized by their chemical complexity and functional targets:
 
 ### A. Simple Fixatives
-?
 These consist of a single active chemical agent. Examples include:
-* **Formalin / Formaldehyde:** The most common routine fixative.
+* **Formalin / Formaldehyde:** 
 * **Mercuric Chloride**
 * **Osmic Acid / Osmium Tetroxide:** Primarily preserves lipids.
 * **Picric Acid**
 * **Acetone**
-* **Ethyl Alcohol / Ethanol**
-<!--SR:!2026-09-23,25,270-->
+* **Ethyl Alcohol / Ethanol** 
 
 ### B. Compound Fixatives
 
 These contain a mixture of two or more chemical agents. They are further sub-classified based on their specific utility:
-* **Microanatomical Fixatives:** Used for general tissue structure preservation. Examples include Formal Saline, Neutral Buffered Formalin, Zenker's Fluid, and Bouin's Fluid. 
+#### 1. Microanatomical Fixatives: 
+- Used for general tissue structure preservation. 
+- Examples include Formal Saline, Neutral Buffered Formalin, Zenker's Fluid, and Bouin's Fluid. 
 
-**Cytological Fixatives:** Used to preserve specific cell structures.
+#### 2. Cytological Fixatives: Used to preserve specific cell structures.
+name all cytological fixative
 ?
-* *Nuclear:* e.g., Carnoy's Fluid (preserves nucleoproteins).
-* *Cytoplasmic:* e.g., Champy's Fluid, Osmic Acid.
-<!--SR:!2026-09-30,16,190-->
+a. nuclear fixative: Carnoys fluid, clarke fluid, newcomer fluid
+b. cytoplasmic fixative: champy's fluid
+c. histochemical fixative: buffered formalin, cold acetone
+<!--SR:!2026-09-18,1,230-->
 
-**Histochemical Fixatives:** Used to preserve tissue chemistry. Examples include Cold Acetone and Ethanol.
+##### A. Nuclear Fixative
+a. Carnoy's fluid
+	- absolute ethanol , chloroform, glacial acetic acid
+	- features: penetrates rapidly, excellet nuclear preservation, cabohydrate fixation
+b. Clarke's fluid
+	- absolute alcohol , glacial acetic acid
+	- features: rapid penetration, nuclear fixation, excellet for smear prep of cell culture
+c. Newcomer's fluid
+	-  penetrates rapidly, preserve chromatin better then carnoy's fluid
+##### B. Cytoplasmic Fixative
+a. Champy's Fluid
+	- potassium dichromate, chromic acid, osmium tetroxide
+	- **which Fixative CANNOT be stored** hence should be prepared fresh before use :: Champy's fluid
+<!--SR:!2026-09-21,4,270-->
+	- it preserves mitochondria, fat, yolk, and lipids
+##### C. Histochemical Fixatives: 
+should produce minimal changes in element and for this freeze drying technique is preffered
 
-\-----
+for majority of histochemical methods cryostat cut sections are preffered
+
+- buffered formalin is the most common fixative for histochemical purpose. immersion in ACETONE is widely used for fixation of tissue to be used for enzyme study
+- **Vapour Fixative**
+  used to fix cryostat  cut section
+  a. paraformaldehyde is heated 50-80 degree C to obtain vapour
+  b. Acetaldehyde: 
+  c. Glutaraldehyde
+  d. acrolein or chromyl chloride
+
 
 ## 4\. Profile of Key Common Fixatives
 name the composition of these 1. carnoys fixative ; 2. Bouins Fixative ; 3. Zenker's Fixative
@@ -391,6 +419,7 @@ name the composition of these 1. carnoys fixative ; 2. Bouins Fixative ; 3. Zenk
 	* *Ethanol:* Dehydrates tissue and coagulates proteins.
 	* *Chloroform:* Speeds up chemical penetration and clears away lipids.
 	* *Acetic Acid:* Preserves nucleic acids and counteracts tissue shrinkage.
+	* function: 
 2. Bouins Fixative :
 	1. *Picric Acid:* Acts as a protein-precipitating coagulant fixative that denatures proteins by breaking hydrogen and electrostatic bonds to stabilize cytoplasmic proteins.
 	2. *Formaldehyde:* Acts as a non-coagulant fixative that creates stabilizing methylene bridges.
@@ -427,7 +456,7 @@ fixative used in electron microscopy is :: glutaraldehyde
 	* *Chloroform:* Speeds up chemical penetration and clears away lipids.
 	* *Acetic Acid:* Preserves nucleic acids and counteracts tissue shrinkage.
 * **Pros & Cons:** Extremely rapid fixation providing excellent nuclear detail. Conversely, it causes significant tissue shrinkage, dissolves lipids, damages cytoplasmic structures, and is entirely unsuitable for long-term fixation.
-<!--SR:!2026-09-17,12,270-->
+<!--SR:!2026-11-01,45,290-->
 
 ### 3 Bouin's Fixative
 * **Overview:** , highly favored for ==**soft and delicate** tissues, testicular biopsies, gastrointestinal specimens, and embryonic tissues.==
