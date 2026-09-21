@@ -173,7 +173,7 @@ The severity of sickle cell disease depends on several modulating factors that a
 
 ### Sickling Test
 - Principle :: When blood is treated with sodium metabisulfite, the oxygen tension is lowered (deoxygenation). If the red cells contain HbS, the hemoglobin undergoes polymerization, leading to the development of sickle or crescent-shaped cells.
-<!--SR:!2026-09-17,1,190-->
+<!--SR:!2026-09-22,1,170-->
 - Procedure
 	- Place drop of blood on clean slide 
 	- Add equal drop of sodium metabisulfite 

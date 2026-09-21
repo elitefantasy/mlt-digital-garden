@@ -225,7 +225,7 @@ Protozoa are single-celled eukaryotes that alternate between two key life cycle 
 | **Diagnostic Stool Findings**        | Trophozoites containing **ingested RBCs**; Charcot-Leyden crystals; iodine mount shows golden-brown glycogen | Pale, fatty stool floating on water; cysts/trophozoites in wet mounts or zinc sulfate flotation                  | Ciliated motile trophozoites or large cysts with a kidney-shaped macronucleus in stool                                    |
 
 #### Amoeba | Entamoeba Histolytica
-![Pasted image 20260917183654.png\|294](/img/user/Attachments/Pasted%20image%2020260917183654.png)
+![entamoeba histolytica.png\|294](/img/user/Attachments/entamoeba%20histolytica.png)
 - **Cyst:** Round  , containing **1 to 4 nuclei** with a small, **central dot-like karyosome** It contains characteristic **oblong chromatoid bodies with rounded ends** (cigar-shaped) and a large glycogen vacuole that stains reddish-brown.
 
 ##### Introduction

@@ -34,7 +34,7 @@ Nucleic acids (DNA and RNA) are polymers of nucleotides.
   * **Phosphate Group:** Carries a negative charge, making nucleic acids acidic and negatively charged.  
 * **Chemical Bonds:**  
 	* **Glycosidic Bond (β-N-glycosidic):** Connects the 1' carbon of the pentose sugar to the nitrogenous base (N9 of Purines; N1 of Pyrimidines).
-		![Pasted image 20260917115958.png\|462](/img/user/Attachments/Pasted%20image%2020260917115958.png)
+		![beta n glycosidic bond in nucleoside.png\|462](/img/user/Attachments/beta%20n%20glycosidic%20bond%20in%20nucleoside.png)
 
 	* **Phosphodiester Bond:** Forms the "backbone" of DNA. Connects the 3'-OH group of one nucleotide's sugar to the 5'-phosphate of another.  
 	  * **Hydrogen Bond:** Connects complementary bases on opposite strands. A forms a double bond with T (or U in RNA); G forms a triple bond with C. G≡C bonds are stronger by \~50% and raise the melting temperature of DNA.  

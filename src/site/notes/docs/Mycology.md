@@ -186,7 +186,7 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 	* **Definition**: These are structured as chains of elongated, newly budded yeast cells that remain attached end-to-end without detaching.
 	* **Characteristics**: They form thread-like structures that feature clear, constricted junctions between the cells.
 	* **Example**: Found in ==1;;*Candida albicans*.==
-<!--SR:!2026-09-18,3,230-->
+<!--SR:!2026-10-01,10,250-->
 
 # Stains Used in Mycology 
 

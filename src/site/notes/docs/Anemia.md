@@ -117,10 +117,10 @@ Assesses:
 <!--SR:!2026-09-25,11,190-->
 
 - **Heinz bodies:** :: Composed of denatured hemoglobin precipitates. They are typically associated with **G6PD deficiency** and other hemoglobinopathies or exposure to oxidative chemicals.
-<!--SR:!2026-09-21,16,190-->
+<!--SR:!2026-11-04,44,210-->
 
 - **Pappenheimer bodies:** :: Composed of **iron-containing granules (hemosiderin)**. They are seen in sideroblastic anemia, hyposplenism, and iron-loading states.
-<!--SR:!2026-09-18,4,170-->
+<!--SR:!2026-09-23,2,150-->
 
 - **Basophilic stippling:** :: Composed of aggregates of ribosomal RNA and ribosomes. Common associations include lead poisoning, thalassemia, and megaloblastic anemia.
 <!--SR:!2026-11-10,64,310-->
@@ -231,7 +231,7 @@ Calculated parameters used to define RBC size and hemoglobin content:
 - D. Pyridoxine deficiency
 ?
 Folate is required for the remethylation of homocysteine to methionine , causing isolated elevated homocysteine and normal methylmalonic acid.
-<!--SR:!2026-09-18,7,230-->
+<!--SR:!2026-10-14,23,250-->
 
 
 **Quest: A patient with macrocytic anemia and normal vitamin B12 levels is found to have**
@@ -397,7 +397,7 @@ Examples:
 - [[docs/G6PD deficiency\|G6PD deficiency]]
 - [[docs/Hereditary Spherocytosis\|Hereditary Spherocytosis]]
 - [[docs/Paroxysmal Nocturnal Hemoglobinuria (PNH)\|Paroxysmal Nocturnal Hemoglobinuria (PNH)]]
-<!--SR:!2026-09-18,7,250-->
+<!--SR:!2026-10-09,18,250-->
 
 
 | **Feature**                      | **Hereditary Spherocytosis (HS)**       | **G6PD Deficiency**                  | **Paroxysmal Nocturnal Hemoglobinuria (PNH)** |
@@ -623,7 +623,7 @@ D. Aplastic anemia.
 A ✔️
 Aplastic: normocytic
 ACD:  normocytic
-<!--SR:!2026-09-21,7,270-->
+<!--SR:!2026-10-18,27,290-->
 
 **Q A patient with anemia is found to have an elevated red cell distribution**
 **width (RDW). What does this indicate?**
@@ -687,7 +687,7 @@ Question : chronic alcohol consumption se ringed sideroblast kaise ho skta he ::
 <!--SR:!2026-09-23,18,250-->
 
 **question** : how lead interfere with heme synthesis :: by inhibiting ALA Dehydratase , ferrochelatase ; associated finding is basophilic stippling(remnant of rna)
-<!--SR:!2026-09-17,3,190-->
+<!--SR:!2026-09-23,2,170-->
 
 ## Heme synthesis 
 

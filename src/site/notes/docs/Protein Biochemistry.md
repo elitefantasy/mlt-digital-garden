@@ -36,19 +36,19 @@ Proteins have four levels of structural organization—**primary, secondary, ter
 ![amino acid structure.jpg\|420](/img/user/Attachments/amino%20acid%20structure.jpg)
 
 Primary structure of protein 
-![IMG_20260918_211820.jpg\|378](/img/user/Attachments/IMG_20260918_211820.jpg)
+![protein structure.jpg\|378](/img/user/Attachments/protein%20structure.jpg)
 
 
-![IMG_20260918_212508.jpg\|428](/img/user/Attachments/IMG_20260918_212508.jpg)
+![alpha helix protein.jpg\|428](/img/user/Attachments/alpha%20helix%20protein.jpg)
 
 
-![IMG_20260918_212627.jpg\|430](/img/user/Attachments/IMG_20260918_212627.jpg)
+![beta pleated strand.jpg\|430](/img/user/Attachments/beta%20pleated%20strand.jpg)
 
 
-![IMG_20260918_212759.jpg\|428](/img/user/Attachments/IMG_20260918_212759.jpg)
+![protein tertiary structure.jpg\|428](/img/user/Attachments/protein%20tertiary%20structure.jpg)
 
 
-![IMG_20260918_212738.jpg\|314](/img/user/Attachments/IMG_20260918_212738.jpg) 
+![hemoglobin quaternary structure.jpg\|314](/img/user/Attachments/hemoglobin%20quaternary%20structure.jpg) 
 
 | Level | Description | Bonds/Interactions | Example |
 |-------|-------------|--------------------|---------|

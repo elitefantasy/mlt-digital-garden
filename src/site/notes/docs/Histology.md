@@ -315,7 +315,7 @@ procedure
 - staining
 - mounting medium is pplied eg DPX, coverslip
 ## 6\. Staining (Routine & Special)
-
+[[Histology Staining\|Histology Staining]]
 * **Stain Types:** Routine staining uses Hematoxylin & Eosin (H\&E). Special stains target microorganisms, connective tissue, and lipids. IHC targets specific protein markers.  
 * **H\&E Staining Protocol:**  
   1. Deparaffinize and rehydrate slides down to distilled water.  
@@ -396,7 +396,7 @@ c. Newcomer's fluid
 a. Champy's Fluid
 	- potassium dichromate, chromic acid, osmium tetroxide
 	- **which Fixative CANNOT be stored** hence should be prepared fresh before use :: Champy's fluid
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-09-23,2,250-->
 	- it preserves mitochondria, fat, yolk, and lipids
 ##### C. Histochemical Fixatives: 
 should produce minimal changes in element and for this freeze drying technique is preffered
@@ -419,7 +419,7 @@ name the composition of these 1. carnoys fixative ; 2. Bouins Fixative ; 3. Zenk
 	* *Ethanol:* Dehydrates tissue and coagulates proteins.
 	* *Chloroform:* Speeds up chemical penetration and clears away lipids.
 	* *Acetic Acid:* Preserves nucleic acids and counteracts tissue shrinkage.
-	* function: 
+	* function:
 2. Bouins Fixative :
 	1. *Picric Acid:* Acts as a protein-precipitating coagulant fixative that denatures proteins by breaking hydrogen and electrostatic bonds to stabilize cytoplasmic proteins.
 	2. *Formaldehyde:* Acts as a non-coagulant fixative that creates stabilizing methylene bridges.
@@ -429,7 +429,7 @@ name the composition of these 1. carnoys fixative ; 2. Bouins Fixative ; 3. Zenk
 	* *Potassium Dichromate:* Serves as an oxidizing agent to fix cytoplasm.
 	* *Sodium Sulfate:* Maintains the osmotic balance of the solution.
 	* *Glacial Acetic Acid:* Specifically preserves nuclear structures.
-<!--SR:!2026-09-18,2,150-->
+<!--SR:!2026-09-24,3,150-->
 
 fixative used in electron microscopy is :: glutaraldehyde
 <!--SR:!2026-11-08,55,310-->
@@ -485,7 +485,7 @@ fixative used in electron microscopy is :: glutaraldehyde
   * *Sodium Sulfate:* Maintains the osmotic balance of the solution.
   * *Glacial Acetic Acid:* Specifically preserves nuclear structures.
 * **Pros & Cons:** Yields clear histological detail with optimal cytoplasmic and nuclear staining. However, it produces black mercury pigment deposits in tissues, requires extra washing steps, uses toxic chemicals, and cannot be used for lipid studies.
-<!--SR:!2026-09-21,5,210-->
+<!--SR:!2026-10-07,16,230-->
 
 
 ## Factors affecting fixation 
