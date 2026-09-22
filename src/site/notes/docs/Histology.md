@@ -315,7 +315,7 @@ procedure
 - staining
 - mounting medium is pplied eg DPX, coverslip
 ## 6\. Staining (Routine & Special)
-[[Histology Staining\|Histology Staining]]
+[[docs/Histology Staining\|Histology Staining]]
 * **Stain Types:** Routine staining uses Hematoxylin & Eosin (H\&E). Special stains target microorganisms, connective tissue, and lipids. IHC targets specific protein markers.  
 * **H\&E Staining Protocol:**  
   1. Deparaffinize and rehydrate slides down to distilled water.  

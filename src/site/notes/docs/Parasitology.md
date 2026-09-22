@@ -137,8 +137,9 @@ The parasite actively penetrates intact skin. This is extremely important in hel
 
 ### 5. Genitourinary tract 
 Trichomoniasis -> vaginitis / urethritis 
-# Classification
 
+
+# Classification
 classification
 ?
 1. protozoan
@@ -181,14 +182,16 @@ Unicellular, simplest forms of life.
 
 ### Types of Protozoa
 Protozoa are single-celled eukaryotes that alternate between two key life cycle stages.
+
 1. **Amoeba**
 	- Entamoeba Histolytica
 	- Entamoeba Coli ( non pathogenic)
 2. **Flagellates** 
 	1. Intestinal , oral and genital
 		1. Giardia Lambila
-		2. trichomonas
-	2. hemoflagellates
+	2. Urogenital Flagellates
+		1. trichomonas vaginalis
+	3. hemoflagellates
 		1. leishmania
 		2. typanosomes 
 3. **Sporozoa**
@@ -400,6 +403,348 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 	- Flotation Preparation Zinc Sulphate Concentration Technique 
 	- Sedimentation Technique Formalin Ethyl Acetate
 
+#### Flagellate | Leishmania
+![Pasted image 20260922200914.png\|363](/img/user/Attachments/Pasted%20image%2020260922200914.png)
+_Leishmania donovani_ is an intracellular protozoan parasite and an important member of the _L. donovani_ complex. It causes **visceral leishmaniasis (VL)**, also called **kala-azar**, a potentially fatal systemic infection involving the reticuloendothelial system. In the Indian subcontinent, transmission is mainly anthroponotic, meaning humans are the principal reservoir.
+
+
+
+##### Morphological forms
+
+_Leishmania donovani_ occurs in two principal forms:
+
+|Feature|Amastigote|Promastigote|
+|---|---|---|
+|Also called|Leishman-Donovan body or LD body|Leptomonad form|
+|Location|Intracellular in mammalian macrophages|Extracellular in sand fly and culture|
+|Shape|Round or oval|Elongated spindle-shaped|
+|Approximate size|About 2–4 µm|About 10–25 µm long|
+|Flagellum|Absent externally|Present, free anterior flagellum|
+|Kinetoplast|Present|Present|
+|Nucleus|Single nucleus|Single nucleus|
+|Multiplication|Binary fission|Longitudinal binary fission|
+|Diagnostic importance|Main form seen in patient specimens|Seen in vector, culture, or experimental systems|
+
+##### A. Amastigote
+The amastigote is the diagnostic tissue form.
+
+Important features:
+- Small, round to oval body.
+- Located within macrophages of the spleen, liver, bone marrow, lymph nodes, and other reticuloendothelial tissues.
+- Contains:
+    - A nucleus.
+    - A rod-shaped kinetoplast.
+    - A rudimentary, non-projecting flagellum.
+- Usually appears as a pair of dark-staining structures: the nucleus and kinetoplast.
+- Several amastigotes may fill the cytoplasm of a macrophage.
+
+The intracellular amastigote is called a **Leishman-Donovan body**. Demonstration of amastigotes in tissue aspirates is a highly specific confirmatory method.
+
+##### B. Promastigote
+The promastigote is found in the sand fly and in culture.
+
+Important features:
+- Elongated or spindle-shaped body.
+- Single nucleus.
+- Kinetoplast located near the anterior end.
+- A long free flagellum projects from the anterior end.
+- It multiplies by longitudinal binary fission.
+- The infective form for humans is the **metacyclic promastigote**.
+
+##### Life cycle
+
+The life cycle requires two hosts:
+
+1. A vertebrate host, mainly humans.
+2. A female phlebotomine sand fly.
+
+$$
+\text{Metacyclic promastigote}
+\rightarrow \text{macrophage}
+\rightarrow \text{amastigote}
+\rightarrow \text{multiplication}
+\rightarrow \text{sand-fly uptake}
+\rightarrow \text{promastigote development}
+\rightarrow \text{metacyclic promastigote}
+$$
+
+Stepwise life cycle
+1. **Sand-fly bite**  
+    An infected female sand fly injects metacyclic promastigotes into the skin while taking a blood meal.
+2. **Phagocytosis**  
+    The promastigotes are engulfed by macrophages and other phagocytic cells.
+3. **Transformation**  
+    Inside the acidic phagolysosomal environment, promastigotes transform into amastigotes.
+4. **Multiplication in macrophages**  
+    Amastigotes multiply by binary fission within macrophages.
+5. **Cell rupture and spread**  
+    Infected macrophages rupture or release parasites, which infect additional macrophages.
+6. **Involvement of reticuloendothelial organs**  
+    Parasites disseminate mainly to the spleen, liver, bone marrow, lymph nodes, and sometimes the intestinal mucosa.
+7. **Uptake by another sand fly**  
+    A sand fly becomes infected when it feeds on an infected person and ingests macrophages containing amastigotes.
+8. **Transformation in the sand fly gut**  
+    Amastigotes transform into promastigotes in the midgut.
+9. **Promastigote multiplication and development**  
+    Promastigotes multiply by longitudinal binary fission and pass through developmental stages, ultimately becoming metacyclic promastigotes.
+10. **Migration to the proboscis**  
+    Metacyclic promastigotes migrate toward the sand fly’s proboscis and are injected into another human during the next blood meal.
+
+##### Vector
+
+The vector is the **female phlebotomine sand fly**.
+
+|Region|Important vector|
+|---|---|
+|Indian subcontinent|_Phlebotomus argentipes_|
+|East Africa|Various _Phlebotomus_ and _Sergentomyia_ species may be involved depending on region|
+
+The female sand fly requires a blood meal for egg development. The male does not usually transmit the parasite because it feeds mainly on plant juices.
+
+##### Transmission
+
+The main route is:
+
+- Bite of an infected female sand fly.
+
+Less common or possible routes include:
+
+- Blood transfusion.
+- Shared contaminated needles.
+- Congenital transmission.
+- Organ transplantation.
+- Laboratory exposure.
+
+In South Asia, the transmission cycle of _L. donovani_ is mainly **human–sand fly–human**. In other regions, visceral leishmaniasis may have a zoonotic cycle involving dogs and other mammals.
+
+##### Pathogenesis
+
+**Entry and intracellular survival**
+After inoculation, promastigotes are taken up by macrophages. Instead of being destroyed, they survive within the macrophage phagolysosome and transform into amastigotes.
+
+Important mechanisms include:
+- Resistance to oxidative killing.
+- Modification of macrophage antimicrobial responses.
+- Survival in the acidic phagolysosomal compartment.
+- Inhibition of effective cell-mediated immunity.
+- Persistence inside mononuclear phagocytic cells.
+
+
+**Reticuloendothelial involvement**
+The parasite spreads through the mononuclear phagocyte system and produces enlargement of:
+
+- Spleen.
+- Liver.
+- Lymph nodes.
+- Bone marrow.
+
+Splenic enlargement is often prominent because of parasite accumulation, macrophage proliferation, vascular congestion, and altered splenic architecture.
+
+**Immune response**
+Protection depends mainly on cell-mediated immunity, especially activation of macrophages by a Th1-type response.
+
+A weak or inadequate cellular immune response allows:
+
+- Persistent intracellular multiplication.
+- High parasite burden.
+- Progressive splenomegaly.
+- Bone-marrow suppression.
+- Increased susceptibility to secondary infections.
+
+##### Clinical features
+The incubation period is variable, commonly several weeks to months, although longer intervals may occur.
+
+**Classical visceral leishmaniasis**
+
+The major features are:
+- Prolonged irregular fever.
+- Massive or moderate splenomegaly.
+- Hepatomegaly.
+- Lymphadenopathy, especially in some geographical regions.
+- Pallor due to anemia.
+- Weight loss.
+- Weakness and fatigue.
+- Darkening of skin, traditionally associated with the name kala-azar.
+- Pancytopenia.
+- Hypergammaglobulinemia.
+- Recurrent bacterial infections.
+- Bleeding tendency in advanced disease.
+
+
+**Laboratory abnormalities**
+
+|Parameter|Typical finding|Mechanism|
+|---|---|---|
+|Hemoglobin|Decreased|Bone-marrow suppression, hypersplenism, inflammation|
+|Total leukocyte count|Decreased|Hypersplenism and marrow involvement|
+|Platelet count|Decreased|Hypersplenism and marrow suppression|
+|RBC morphology|Usually normocytic normochromic anemia|Chronic disease and marrow involvement|
+|ESR|Increased|Inflammation and hypergammaglobulinemia|
+|Total protein|Increased|Polyclonal immunoglobulin production|
+|Albumin|Decreased|Chronic illness and altered hepatic function|
+|Globulin|Increased|Persistent immune stimulation|
+|Liver enzymes|May be elevated|Hepatic involvement|
+|Bone marrow|Increased macrophages; LD bodies may be present|Parasite infiltration|
+
+
+##### Post-kala-azar dermal leishmaniasis
+
+**Post-kala-azar dermal leishmaniasis (PKDL)** may occur after treatment of visceral leishmaniasis, especially in parts of East Africa and the Indian subcontinent.
+
+Features include:
+- Hypopigmented macules.
+- Erythematous patches.
+- Papules or nodules.
+- Facial involvement.
+- Variable parasite load.
+- Usually little or no systemic illness.
+
+PKDL is epidemiologically important because skin lesions may contain parasites and can contribute to transmission through sand flies.
+
+##### 10. Laboratory diagnosis
+Diagnosis may involve:
+1. Demonstration of the parasite.
+2. Serological testing.
+3. Molecular testing.
+4. Supportive hematological and biochemical findings.
+
+Parasitological demonstration remains highly specific, while rapid serological and molecular tests are useful according to the clinical setting and local guidelines.
+
+**A. Specimens**
+Common specimens include:
+
+- Splenic aspirate.
+- Bone marrow aspirate.
+- Lymph-node aspirate.
+- Peripheral blood or buffy coat in selected molecular methods.
+- Skin lesion material in PKDL.
+- Liver aspirate or biopsy in selected cases.
+
+**Splenic aspirate**
+- Often has a high diagnostic yield.
+- May be dangerous because of bleeding risk.
+- Should be performed only by trained personnel with appropriate facilities.
+
+**Bone-marrow aspirate**
+- Safer than splenic aspiration.
+- Commonly used for microscopic diagnosis.
+- Particularly useful when splenic aspiration is contraindicated.
+
+**Lymph-node aspirate**
+- Useful when lymphadenopathy is present.
+- Diagnostic sensitivity varies with geography and parasite burden.
+
+**B. Direct microscopy**
+Procedure
+1. Prepare thin smears from aspirated material.
+2. Air-dry the smears.
+3. Stain with Giemsa or Leishman stain.
+4. Examine under the oil-immersion objective.
+5. Search for intracellular and extracellular amastigotes.
+
+Microscopic appearance
+LD bodies appear as:
+
+- Small round or oval bodies.
+- Pale blue cytoplasm.
+- Red-purple nucleus.
+- Small dark violet kinetoplast.
+- Usually located within macrophages.
+
+The kinetoplast is the most useful identifying feature because it distinguishes _Leishmania_ amastigotes from many artifacts.
+
+**C.Histopathology**
+Tissue sections may show:
+- Numerous macrophages.
+- Intracellular amastigotes.
+- Reticuloendothelial hyperplasia.
+- Splenic and hepatic architectural changes.
+- Granulomatous or inflammatory responses in some tissues.
+
+**D. Culture**
+Promastigotes may be cultured from clinical material using specialized media, such as:
+- Novy–MacNeal–Nicolle medium.
+- Schneider’s insect medium.
+- Other Leishmania culture systems.
+
+Culture is less commonly used for routine diagnosis because it is slower and requires specialized laboratory facilities.
+
+E. Serology
+Serological tests detect antibodies against _Leishmania_ antigens.
+
+|Test|Principle|Important point|
+|---|---|---|
+|rK39 rapid test|Detects antibodies against recombinant kinesin-related antigen|Rapid and useful in endemic areas|
+|Direct agglutination test|Parasite antigen agglutinates in the presence of patient antibodies|Useful but requires reagents and interpretation|
+|ELISA|Detects specific antibodies using enzyme-linked antigen or antibody systems|Useful in reference laboratories|
+|Indirect fluorescent antibody test|Detects antibodies by fluorescence|Requires fluorescence microscopy|
+
+The rK39 test is widely used because it is rapid, equipment-light, and can provide results in approximately 10–20 minutes. However, performance varies by geographical region, and a positive serology may reflect previous infection because antibodies can persist after cure.[
+
+F. Molecular diagnosis
+Molecular methods include:
+- Conventional PCR.
+- Real-time PCR.
+- Loop-mediated isothermal amplification, or LAMP.
+
+PCR can detect parasite DNA in:
+
+- Bone marrow.
+- Blood.
+- Tissue aspirates.
+- Skin lesions.
+
+Molecular tests are especially useful when microscopy is negative or inconclusive, but they require validated assays and suitable laboratory facilities.
+
+
+
+##### Differential diagnosis
+
+|Disease|Similar features|Helpful distinction|
+|---|---|---|
+|Malaria|Fever, anemia, splenomegaly|Malaria parasites are found in RBCs; LD bodies are intracellular in macrophages|
+|Enteric fever|Prolonged fever and systemic illness|Blood culture and clinical pattern differ|
+|Tuberculosis|Fever, weight loss, lymphadenopathy|AFB testing, imaging, and tissue findings|
+|Hematological malignancy|Splenomegaly, pancytopenia|Bone-marrow morphology and immunophenotyping|
+|Brucellosis|Fever and hepatosplenomegaly|Exposure history and serology/culture|
+|HIV-related infection|Fever, weight loss, cytopenias|HIV testing and broader opportunistic-infection work-up|
+|Tropical splenomegaly syndrome|Massive spleen and high immunoglobulins|No demonstrable Leishmania parasite; diagnosis is by exclusion|
+
+
+
+##### High-yield comparison
+
+|Feature|_Leishmania donovani_|
+|---|---|
+|Disease|Visceral leishmaniasis|
+|Common name|Kala-azar|
+|Vector|Female phlebotomine sand fly|
+|Indian vector|_Phlebotomus argentipes_|
+|Reservoir in South Asia|Mainly humans|
+|Mammalian form|Amastigote|
+|Insect form|Promastigote|
+|Site in humans|Macrophages of reticuloendothelial organs|
+|Diagnostic form|Leishman-Donovan body|
+|Main organs affected|Spleen, liver, bone marrow, lymph nodes|
+|Classical symptoms|Prolonged fever, splenomegaly, hepatomegaly, pancytopenia|
+|Important rapid test|rK39 immunochromatographic test|
+|Confirmatory test|Demonstration of amastigotes in tissue aspirate|
+|Molecular test|PCR or LAMP|
+|Reproduction|Binary fission|
+|Serious outcome|Fatal systemic disease if untreated|
+
+Memory aid
+**“Kala-azar attacks the RES.”**
+- **K** — Kinetoplast present.
+- **A** — Amastigote in macrophages.
+- **L** — Long fever.
+- **A** — Anemia.
+- **A** — Affected spleen and liver.
+- **Z** — Zone of transmission: sand-fly areas.
+- **A** — Antibody test: rK39.
+- **R** — Reticuloendothelial system.
+
+
 #### Ciliate | Balantidium Coli
 ![Pasted image 20260901191138.png\|394](/img/user/Attachments/Pasted%20image%2020260901191138.png)
 ##### 1. Introduction & History
@@ -517,6 +862,7 @@ other parasite that cause traveler's diarrhea : cryptosporidum parvum , entamoeb
 - fluorescent staining
 - biopsy
 - serodiagnosis: ELISA
+
 
 
 ## 2. Helminths

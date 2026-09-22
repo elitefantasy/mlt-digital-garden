@@ -19,10 +19,11 @@ A living repository of notes, clinical protocols, reference ranges, and laborato
 
 ### 3. Histology
 - [[docs/Histology\|Histology]]
-- [[Histology Staining\|Histology Staining]]
+- [[docs/Histology Staining\|Histology Staining]]
 
 ### 4. Immunology
 - [[docs/Anemia\|Anemia]]
+- [[Leukemia\|Leukemia]]
 
 ### 5. Parasitology
 - [[docs/Parasitology\|Parasitology]]

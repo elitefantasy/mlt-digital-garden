@@ -42,6 +42,7 @@ levels:
     - 3.9 Sporothrix Schenckii
 - 4. Systemic Mycoses (Deep Mycoses)
 - 5. Opportunistic Mycoses
+    - Candida albicans
 - Mycotoxicosis
 ```
 
@@ -884,7 +885,84 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 * **Agents/Examples**:  
 	* Candidiasis: *Candida* species (e.g., *Candida albicans*)  
 	* Cryptococcosis: *Cryptococcus neoformans* and *Cryptococcus gattii*  
-	* Aspergillosis: *Aspergillus* species (e.g., *A. fumigatus*, *A. flavus*, *A. niger*)  
+	* Aspergillosis: *Aspergillus* species (e.g., *A. fumigatus*, *A. flavus*, *A. niger*). 
+
+## Candida albicans
+- are generally commensal germs that develop in the skin, inside the body, in the mouth, throat, intestines, vagina, without causing problems.
+- Immunosuppression remains one of the most prevalent risk factors.
+
+Morphology
+- Small, oval, measuring 2-4 µm in diameter. 
+- Yeast form, unicellular, reproduce by budding. 
+- Single budding of the cells may be seen. 
+- Both yeast and pseudohyphae are gram-positive. 
+- Encapsulated and diploid, also form true hyphae. 
+- Polymorphic fungus (yeast and pseudohyphae form) 
+- Can form biofilms 
+- Normal condition Yeast 
+- Special condition (pH, Temperature): Pseudohyphae 
+- 80-90% of cell wall is carbohydrate
+
+Culture
+- SDA 
+	- Creamy, pasty colonies, smooth after 24-48 hours at 25-37°C 
+	- Yeast smell(odor)
+- Blood Agar 
+	- White creamy colored 
+	- Foot-like extensions from the margin.
+- PDA 
+	- Smooth creamy colonies after 24-48 hours 
+- CHROMAGAR
+	- Green colonies
+
+### Life Cycle of Candida albicans
+
+#### Main life cycle
+Yeast cell→Budding→Pseudohyphae/true hyphae→Yeast cells
+
+1. **Yeast (blastoconidial) phase**  
+    The organism exists as oval, unicellular yeast cells called **blastoconidia**. Under favourable conditions, it reproduces asexually by **budding**, producing a daughter blastoconidium from the mother cell.
+2. **Pseudohyphal phase**  
+    When buds elongate but do not completely separate, chains of elongated cells with constrictions at their junctions form **pseudohyphae**. This form helps colonization and is often seen in infected specimens.
+3. **True hyphal phase**  
+    Environmental signals such as body temperature, serum, neutral pH, and tissue contact can induce formation of **true hyphae**—long, parallel-sided filaments without constrictions at septa. Hyphae promote adhesion and penetration of epithelial tissues, contributing to invasion.
+4. **Chlamydospore formation**  
+    Under nutritionally poor conditions, especially on cornmeal agar, _C. albicans_ can form large, thick-walled resting cells called **chlamydospores**. These are useful for laboratory identification and are not the main reproductive form.
+    
+
+#### Parasexual cycle
+
+Unlike many fungi, _C. albicans_ does not normally undergo meiosis. Instead, it can undergo a **parasexual cycle**:
+
+Diploid white cells→Opaque cells→Mating→Tetraploid cell→Chromosome loss→Diploid cell
+
+- Diploid cells of opposite mating types first switch from the common **white phenotype** to the mating-competent **opaque phenotype**
+- Two compatible opaque cells fuse to form a **tetraploid** cell.
+- The tetraploid subsequently loses chromosomes in a non-meiotic manner, eventually returning mainly to the **diploid state**.
+
+#### Biofilm cycle
+
+On catheters, dentures, and other surfaces, _C. albicans_ may form a biofilm through: **adhesion of yeast cells → multiplication and filament formation → mature biofilm with extracellular matrix → dispersal of yeast cells to new sites**. This explains its persistence on medical devices and relative resistance to antifungal therapy.
+
+### Virulence Factor
+- Polymorphism
+- adhesins: helps with biofilm formation also
+- invasins
+- biofilm formation: resistance
+- hydrolase secrete: membrane degradation helps invasion
+
+### Stages of infection
+- colonization, superficial infection, deep seated infection, disseminated infection
+
+### Types of candidiasis
+- Mucosal candidiasis
+- cutaneous candidiasis
+- superficial
+- chronic mucocutaneous
+- invasive
+- candidemia
+
+---
 # Mycotoxicosis
 * **Description**: Diseases resulting from the ingestion or inhalation of preformed toxic fungal metabolites (mycotoxins) rather than direct tissue invasion.  
 * **Agents/Examples**:  
