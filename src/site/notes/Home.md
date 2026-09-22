@@ -23,7 +23,7 @@ A living repository of notes, clinical protocols, reference ranges, and laborato
 
 ### 4. Immunology
 - [[docs/Anemia\|Anemia]]
-- [[Leukemia\|Leukemia]]
+- [[docs/Leukemia\|Leukemia]]
 
 ### 5. Parasitology
 - [[docs/Parasitology\|Parasitology]]
