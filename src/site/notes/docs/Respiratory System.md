@@ -10,7 +10,7 @@
 3. **Internal Respiration:** The exchange of gases between the systemic capillaries and the tissues/cells, where oxygen is used for metabolic processes.
 **What is cellular respiration**
 Cellular respiration refers to the actual oxidation or breakdown of food within the cells to produce energy .
-<!--SR:!2026-09-20,6,250-->
+<!--SR:!2026-10-13,20,270-->
 
 
 Depending on oxygen availability, respiration can be **aerobic** (using oxygen to produce high amounts of energy, mainly in the mitochondria) or **anaerobic** (occurring in the absence of oxygen, producing less energy and converting pyruvate to lactic acid, commonly seen in skeletal muscles during heavy exercise).

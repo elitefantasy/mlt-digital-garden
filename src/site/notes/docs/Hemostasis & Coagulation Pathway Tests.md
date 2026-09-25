@@ -8,7 +8,7 @@
 # 1 Coagulation Factor
 
 Coagulation factors are plasma or tissue proteins that participate in **secondary hemostasis**, ultimately converting fibrinogen into a stable fibrin clot. Most are synthesized in the liver; important exceptions include **tissue factor**, which is produced by  :: extravascular cells, **factor VIII**, produced mainly by endothelial cells and hepatic sinusoidal endothelial cells, and **factor IV**, which is calcium rather than a protein.
-<!--SR:!2026-09-16,2,190-->
+<!--SR:!2026-09-28,5,210-->
 
 | Factor   | Common name                                      | Main function                                                                                                                             | Principal site of production                                                                               | Important notes                                                                                                            |
 | -------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ Coagulation factors are plasma or tissue proteins that participate in **secondar
 | **XI**   | ==1;;Plasma thromboplastin antecedent==          | Activated XIa activates factor IX                                                                                                         | Mainly liver; also produced by other tissues                                                               | Intrinsic-pathway factor; deficiency causes hemophilia C; does not require vitamin K                                       |
 | **XII**  | ==1;;Hageman factor==                            | Contact with negatively charged surfaces activates XII to XIIa; activates XI and prekallikrein                                            | Liver                                                                                                      | Initiates the contact pathway in laboratory testing; deficiency prolongs aPTT but usually does not cause bleeding          |
 | **XIII** | ==1;;Fibrin-stabilizing factor==                 | Cross-links fibrin strands, producing a mechanically stable and insoluble clot                                                            | Liver, megakaryocytes and platelets; factor XIII is also associated with monocytes/macrophages             | Activated by thrombin and calcium; deficiency can cause delayed bleeding and poor wound healing despite normal PT and aPTT |
-<!--SR:!2026-08-25,3,250-->
+<!--SR:!2026-09-25,2,230-->
 
 
 ## Vitamin K–Dependent Factors
@@ -90,7 +90,10 @@ A **coagulation profile** is a group of laboratory tests used to evaluate the bl
 | **Fibrinogen**         | Substrate converted to fibrin                           | About 200–400 mg/dL                         | DIC, liver disease, severe bleeding                         |
 | **Thrombin time (TT)** | Conversion of fibrinogen to fibrin                      | Usually about 14–19 seconds                 | Heparin or fibrinogen abnormalities                         |
 | **D-dimer**            | Breakdown product of cross-linked fibrin                | Often <500 ng/mL FEU                        | Evaluation of suspected venous thromboembolism or DIC       |
-<!--SR:!2026-09-19,5,250-->
+<!--SR:!2026-10-06,13,250-->
+
+**Ques**: among these which are used for warfarin and which one for heparin ? (PT, INR, aPTT, TT):: warfarin(PT, INR), heparin(aPTT, TT)
+
 
 **Ques**: Factor 13 deff which is prolonged
 a. PT
@@ -101,7 +104,7 @@ d. none of above
 none of the above
 Standard tests (PT, APTT, TT, CT, and BT) only monitor the process up to the formation of a **soluble, loose fibrin mesh**. Because Factor XIII functions **after** this stage to cross-link the strands into an insoluble, stable clot, routine screening panels will show normal times.
 The clinical issue in patients is not a failure or delay in _forming_ a clot, but a failure to _maintain_ it, resulting in delayed secondary bleeding hours to days later.
-<!--SR:!2026-09-16,2,250-->
+<!--SR:!2026-09-30,7,270-->
 
 **Quest**: combined factor deficiency commonly seen in
 a. factor 5 and 7
@@ -126,7 +129,7 @@ normal prothrombin time (PT) is typically 12 seconds plus or minus 2 seconds. Th
 - **Specimen:** Platelet-poor citrated plasma.
 - **Tube:** Light-blue-top tube containing **3.2% sodium citrate**.
 - **Blood-to-anticoagulant ratio:** :: 9:1.
-<!--SR:!2026-09-20,6,250-->
+<!--SR:!2026-10-14,21,270-->
 - Fill the tube to the marked level; underfilling can falsely prolong clotting times.
 - Mix gently by inversion; do not shake.
 - Avoid clotted or hemolyzed samples.
@@ -170,7 +173,7 @@ D-dimer is not specific for thrombosis; it can also increase with infection, inf
 - **Alternative Name:** The **Tourniquet Test** is also widely referred to as the **Capillary Fragility Test**.
 - **Classification:** It is an important diagnostic test in hematology, categorized under the **coagulation profile**.
 - **Primary Utility:** It is most commonly used in the clinical evaluation of patients suspected of having vector-borne viral diseases such as ==**Dengue** or **Chikungunya**==.
-<!--SR:!2026-09-16,2,250-->
+<!--SR:!2026-09-30,7,270-->
 
 ---
 
@@ -181,7 +184,7 @@ To understand why the Tourniquet Test is performed, it is essential to understan
 1. **Capillary Vulnerability:** Capillaries are the body’s smallest and most delicate blood vessels. During normal daily physical activities (such as writing, walking, running, or minor mechanical impact), these fragile vessels frequently rupture or break.
 2. **The Repair Mechanism:** Under normal physiological conditions,==1;; **platelets**== act immediately to seal and repair these tiny capillary ruptures. This continuous maintenance is a primary and highly critical function of platelets.
 3. **The Effect of Thrombocytopenia:** In diseases like Dengue, the patient develops ==1;;**thrombocytopenia**== (an abnormally low platelet count). When platelet counts drop significantly, the body cannot repair the routinely ruptured capillaries. This lack of repair allows blood to leak into the surrounding tissues, resulting in visible internal bleeding under the skin.
-<!--SR:!2026-09-15,15,290-->
+<!--SR:!2026-11-21,59,310-->
 
 ---
 

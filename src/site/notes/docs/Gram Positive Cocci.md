@@ -69,7 +69,7 @@
 -   **Staphylococcal Scalded Skin Syndrome (SSSS):**
     -   Exfoliative toxin splits desmoglein-1 in the stratum granulosum.
     -   Manifests as widespread intraepidermal flaccid bullae and Nikolsky sign positive (epidermis detaches easily upon light friction).
-<!--SR:!2026-09-04,4,230-->
+<!--SR:!2026-10-05,12,250-->
 
 
 **Quest:** Which Gram-positive cocci cause suppurative lesions?
@@ -96,7 +96,7 @@
 
 -   **Classification Systems for β-Hemolytic Streptococci:**
     -   **Lancefield Classification:** Based on :: cell-wall Group C Carbohydrate antigen. Divides strains into 20 groups designated A through V (excluding letters I and J).
-<!--SR:!2026-09-18,3,230-->
+<!--SR:!2026-09-25,2,210-->
     -   **Griffith Typing:** Based on :: surface M protein types. Subdivides Group A streptococci into ~100 M serotypes (1 to 100).
 <!--SR:!2026-09-14,0,190-->
 
@@ -108,7 +108,7 @@
 -   **Selective Media:** Crystal Violet Blood Agar, PNF Blood Agar (Polymyxin B, Neomycin, Fusidic acid).
 -   **Transport Media:** Pike's Medium.
 -   **Diagnostic Features:** :: Catalase negative....... PYR (Pyrrolidonyl Arylamidase) test positive (pink color reaction)........and Bacitracin Sensitive (differentiates Group A from all other β-hemolytic streptococci).
-<!--SR:!2026-09-17,2,190-->
+<!--SR:!2026-09-24,1,170-->
 
 **Toxins and Virulence Factors:**
 
@@ -139,7 +139,7 @@ Non superative infection of s.pyogenes
 -   **Key Features:**
     -   Bacitracin Resistant and PYR Negative.
     -   which gram positive bacteria is the  common cause of <mark style="background: #FF5582A6;">neonatal sepsis and neonatal meningitis</mark> (in infants <28 days of age). :: s.agalactiae
-<!--SR:!2026-09-17,2,170-->
+<!--SR:!2026-09-24,1,150-->
     - which biochemical test are positive for s.agalactiae :: (1.) **Hippurate Hydrolysis Test** Positive: Enzyme hippurase hydrolyzes sodium hippurate to glycine, turning green media to deep purple...... (2) **CAMP Test** Positive: When streaked perpendicular to *Staphylococcus aureus* on blood agar, produces synergistic, arrowhead-shaped / butterfly-shaped β-hemolysis.
 <!--SR:!2026-09-18,3,170-->
 
@@ -177,9 +177,9 @@ The test is primarily used for the presumptive identification of:
 - **Morphology:** Gram-positive, flame-shaped / lanceolate diplococci occurring in pairs with a single capsule enveloping each pair. 95 capsular serotypes exist.
     -   **Capsule Demonstration:** India Ink (negative staining) and Quellung Reaction (capsule swell).
     -   **Culture Appearance:** Blood agar displays appearence like :: ==Carom Coin appearance or Draughtsman appearance (colonies with central umbonation/depression and concentric ringed edges).==
-<!--SR:!2026-09-21,6,210-->
+<!--SR:!2026-10-11,18,230-->
 - confirmatory test is:: ==Bile solubility Test==
-<!--SR:!2026-09-01,3,230-->
+<!--SR:!2026-09-25,2,210-->
 -   **Key Biochemical Characteristics (Bank of India - BOI):**
         -   **B:** Bile Soluble (Bile salts activate autolytic enzyme amidase, resulting in lysis and dissolution of colonies).
         -   **O:** Optochin Sensitive.
@@ -192,7 +192,7 @@ The test is primarily used for the presumptive identification of:
 -   Alpha-hemolytic oral commensal organism.
 -   **BOI Negative:** Bile insoluble, Optochin resistant, Inulin non-fermenting.
 -   **Associated Pathologies:** :: <mark style="background: #FF5582A6;">Dental caries</mark> (specifically *Streptococcus mutans*) and Subacute Bacterial Endocarditis (SBE) (following dental extraction in patients with pre-existing valvular heart disease).
-<!--SR:!2026-09-06,15,290-->
+<!--SR:!2026-09-23,0,270-->
 
 ### Gamma-Hemolytic Streptococci: 🩸 Enterococcus
 

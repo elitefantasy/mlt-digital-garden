@@ -65,7 +65,7 @@ PRBC are stored at **1–6°C** in preservative solution (CPDA‑1 or additive) 
 * **Bleeding due to clotting disorders** where specific tests or factors are unavailable; temporary replacement.
 
 Shelf life is :: 1 year when stored at –18°C or colder, but it can last up to 3 years if kept at –25°C or lower.
-<!--SR:!2026-08-26,3,210-->
+<!--SR:!2026-10-03,10,230-->
 
 ---
 
@@ -79,7 +79,7 @@ Shelf life is :: 1 year when stored at –18°C or colder, but it can last up to
 * **Step 2 – hard spin of PRP**: PRP → **platelet pellet \+ PPP** using higher speed (\~5000 g for 5–10 minutes at 20–22°C).  
 * Remove PPP, leaving \~50–60 mL plasma suspending platelets → **platelet concentrate**.  
 * Platelets stored at **20–24°C with continuous agitation**, shelf‑life is :: \~5–7 days.
-<!--SR:!2026-09-15,17,250-->
+<!--SR:!2026-09-26,3,250-->
 
 (You may also mention **apheresis platelets** as machine‑collected single‑donor units. )
 
@@ -113,7 +113,7 @@ Shelf life is :: 1 year when stored at –18°C or colder, but it can last up to
 * Thaw FFP slowly at **1–6°C**; during cold thawing, cold‑insoluble proteins precipitate (fibrinogen, factor VIII, vWF, factor XIII, fibronectin).  
 * Cold‑insoluble precipitate is collected by **hard spin at low temperature** (e.g., \~5000 g for a few minutes).  
 * Supernatant plasma removed; precipitate resuspended in small volume of plasma → **cryoprecipitate** unit; refrozen at :: ≤ –18°C.
-<!--SR:!2026-09-04,15,290-->
+<!--SR:!2026-11-23,61,310-->
 
 **Main uses**
 

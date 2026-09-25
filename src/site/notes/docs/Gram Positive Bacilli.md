@@ -214,7 +214,7 @@ c. acinetobacter
 d. staph aureu
 ?
 c
-<!--SR:!2026-09-16,2,230-->
+<!--SR:!2026-09-30,7,250-->
 
 Ques: which of the following is not true about HUSP/ HUS
 a. may present with hemorhagic colitis

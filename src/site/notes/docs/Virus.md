@@ -31,13 +31,13 @@ mnemonic :  **HHAPPPy**: *Herpesviridae*, **H**epadnaviridae, *Adenoviridae*, **
     *   **Exception:** ==Parvovirus== is the only **Single-Stranded (ssDNA)** virus . *(Hint: It's the smallest, so it only has one strand).*
 *   **Envelope (Naked vs. Enveloped):**
     *   **Non-Enveloped (Naked) DNA Viruses:** Remember the mnemonic :: **PAP** (**P**apova, **A**deno, **P**arvo)
-<!--SR:!2026-09-16,1,150-->
+<!--SR:!2026-09-24,1,130-->
     *   **Enveloped DNA Viruses:** The rest (Herpes, Hepadna, Pox) have envelopes
 *   **Symmetry:**
     *   **Rule:** All DNA viruses have **Icosahedral** symmetry
     *   **Exception:** ==Poxvirus== has **Complex** symmetry
     *   *Note: There are no helical DNA viruses*
-<!--SR:!2026-08-30,1,150-->
+<!--SR:!2026-09-24,1,130-->
 
 #### 2. RNA Viruses
 [[docs/RNA Specific Virus\|RNA Specific Virus]]
@@ -101,7 +101,7 @@ These inclusions form inside the nucleus of the host cell and are sub-classified
 #### 3. Both Intranuclear & Intracytoplasmic Inclusions
 Most viruses form inclusions in *either* the nucleus or the cytoplasm, but some are capable of forming them in both locations simultaneously:
 *   ==Measles Virus==: Uniquely produces both nuclear and cytoplasmic inclusions, which are known as **Warthin-Finkeldey bodies**
-<!--SR:!2026-09-09,11,250--> 
+<!--SR:!2026-09-26,3,250--> 
 
 # in depth Master Note
 

@@ -34,7 +34,7 @@
 * **Glacial Acetic Acid (1.5% to 2%):** Lyses the red blood cells, which would otherwise obscure the WBCs due to their vastly higher numbers (approx. 5 million vs 7,000).
 * **Gentian Violet or Methyl Violet (1%):** Colors the fluid and stains the nuclei of the white blood cells to make them easily visible.
 * **Distilled Water (97%):** Acts as the solvent.
-<!--SR:!2026-08-31,2,190-->
+<!--SR:!2026-09-24,1,170-->
 
 ## Procedure
 * Discard the first few drops from the pipette as they mostly contain unmixed diluting fluid.  
@@ -78,7 +78,7 @@
 **Automated Methods**
 * Utilizes flow cytometry with fluorescent dyes like **Acridine Orange, Auramine O, Thiazole Orange**, or non-fluorescent dyes like **Oxazine**.
 * RNA fluoresces ==1;;**orange-red**== while DNA fluoresces ==1;;**yellow**==. Fluorescence intensity is directly proportional to RNA content. Routine manual fluorescence microscopy is rarely used due to rapid signal fading upon light exposure.
-<!--SR:!2026-09-17,17,230-->
+<!--SR:!2026-10-02,9,210-->
 
 
 # 4. RBC Count
@@ -90,7 +90,7 @@
 # 5. Platelate Count
 - RBC pipette or WBC pipette (Dacie & Lewis recommend the WBC pipette for a 1:20 dilution).
 - Preferred diluting fluid: ==**1% Ammonium Oxalate**.==
-<!--SR:!2026-09-02,10,250-->
+<!--SR:!2026-10-28,35,270-->
 
 
 # Normal Reference Range

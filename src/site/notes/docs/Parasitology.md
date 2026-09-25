@@ -146,10 +146,10 @@ classification
 	1. flagellated
 		1. intestinal: giardia lambila
 		2. hemoflagellates: leishmania
-		3. genital :
+		3. genital : trichomonas vaginalis
 	2. amoebiod: entamoeba histolytica
 	3. ciliated: balantidium coli
-	4. sporozoans: plasmodium
+	4. sporozoans: [[docs/plasmodium\|plasmodium]]
 2. helminths
 	1. nematode
 		1. intestinal: ascaris lumbricoides
@@ -180,30 +180,7 @@ Unicellular, simplest forms of life.
 - _Encystation:_ Transformation of a trophozoite into a cyst
 - _Excystation:_ Transformation of a cyst back into an active trophozoite
 
-### Types of Protozoa
-Protozoa are single-celled eukaryotes that alternate between two key life cycle stages.
-
-1. **Amoeba**
-	- Entamoeba Histolytica
-	- Entamoeba Coli ( non pathogenic)
-2. **Flagellates** 
-	1. Intestinal , oral and genital
-		1. Giardia Lambila
-	2. Urogenital Flagellates
-		1. trichomonas vaginalis
-	3. hemoflagellates
-		1. leishmania
-		2. typanosomes 
-3. **Sporozoa**
-	- [[docs/plasmodium\|plasmodium]] species:
-		- *P. vivax*
-		- *P. falciparum*
-		- *P. ovale*
-		- *P. malariae*
-	- *Toxoplasma* species
-4. **Ciliates**
-	- *Balantidium coli*
-
+### Types of protozoa
 **Quest | which protozoan parasite is found in small intestine and which one in large intestine**
 ?
 - small intestine : *giardia flagellate* primary habitat is duodenum and upper jejunum , *cryptosporidium parvum sporozoan*

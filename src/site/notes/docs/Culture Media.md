@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/docs/culture-media/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/culture-media/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
 ---
 
-#flashcards
-#microbiology
+
+
+The commonly used culture media in Indian hospital laboratories are blood agar, MacConkey agar, chocolate agar, CLED agar, Sabouraud dextrose agar, and Lowenstein–Jensen medium. Blood agar and MacConkey agar are the basic routine media, while CLED is particularly important for urine culture
 
 # Key terms
 - Culture Media: A nutrient material or mixture prepared in the laboratory specifically for the growth, survival, and reproduction of microorganisms,,,,.
@@ -20,9 +21,6 @@
 - Agar (Agar-Agar): A complex long-chain polysaccharide solidifying agent extracted from the cell walls of red algae seaweeds, used to make media solid or semi-solid,,,,,.
 - Lactose Fermenters (LF): Bacteria capable of fermenting lactose sugar, producing acid and altering the color of indicator media (e.g., yielding pink colonies on MacConkey agar),,,,.
 - Non-Lactose Fermenters (NLF): Bacteria incapable of fermenting lactose, resulting in colorless or pale yellow colonies on indicator media,,.
-- Hemolysis: The breakdown or lysis of red blood cells (hemoglobin) by bacterial enzymes when grown on Blood Agar.
-- Aerobic Bacteria: Bacteria that grow exclusively in the presence of oxygen,,.
-- Anaerobic Bacteria: Bacteria that grow exclusively in the absence of oxygen
 
 # Basic Constituents of Culture Media
 - **water**
@@ -121,7 +119,7 @@ Solid media analogous to Enrichment media. Contains inhibitory substances (antib
 
 6. **Thayer Martin Agar**:
 Contains antibiotics (like trimethoprim to inhibit Proteus) to selectively isolate ==Neisseria gonorrhoea, Neisseria menigitidis==
-<!--SR:!2026-09-17,2,150-->
+<!--SR:!2026-09-27,4,170-->
 
 It has VCN Inhibitor
 Vancomycin: targets gram positive bacteria 
@@ -153,7 +151,7 @@ containing an indicator that changes color to visually distinguish between diffe
 3. Mannitol Salt Agar:
 	1. Specific for ==Staphylococcus aureus==, which ferments mannitol to produce yellow colonies,,.
 4. Blood Agar: Also acts as a differential medium by identifying hemolysis patterns
-<!--SR:!2026-09-20,6,250-->
+<!--SR:!2026-09-26,3,230-->
     
 ### F. Transport Medium
 used to safely transport delicate, fragile organisms from the collection site to the laboratory without allowing them to multiply, ensuring they remain viable
@@ -168,7 +166,17 @@ For bacteria (like Clostridium) intolerant to oxygen. These media contain reduci
 
 1. Robertson's Cooked Meat (RCM) Broth: Contains chopped beef heart pieces providing glutathione (a reducing agent) and unsaturated fatty acids. Shows saccharolytic reactions (red/pink color - ==1;;C. perfringens==) or proteolytic reactions (black color - ==1;;C. tetani==)
 2. Thioglycollate Broth: Uses sodium thioglycollate to reduce oxygen
-<!--SR:!2026-09-16,1,130-->
+<!--SR:!2026-09-24,1,130-->
+
+**Name Culture Techniques used for anaerobic bacteria**
+?
+1. **Roll Tube Method**: Inoculated molten agar is rolled inside an oxygen-free tube; useful for strict anaerobes
+2. Anaerobic Jar Method: Oxygen is removed/replaced with gases; culture plates are incubated in the sealed jar
+3. GasPak System : Commercial system generates H₂ and CO₂; H₂ combines with O₂ to form water
+4. Anaerobic Chamber/Glove Box : Culturing and handling are performed in an oxygen-free atmosphere
+5. Deep Agar/Stab Culture : Organism is inoculated deep into agar, where oxygen concentration is low
+6. Reducing Media Method Media containing reducing agents such as thioglycollate remove dissolved oxygen
+
 
 ### H. Synthetic Medium
 prepared exclusively from pure chemicals where the exact composition and concentration of every ingredient are known. Utilized primarily for research purposes and to study specific nutritional requirements of bacteria

@@ -50,7 +50,7 @@ Storage Durations by Solution
 - Stored blood cannot be kept indefinitely; as it ages, red blood cells lose energy, waste products accumulate, and cell membranes weaken.
 - The World Health Organization mandates that after transfusion, at least ==75== percent of the red blood cells must remain alive in the recipient's circulation for 24 hours.
 - Transfusions are considered ineffective if the survival rate falls significantly below this threshold
-<!--SR:!2026-09-03,14,290-->
+<!--SR:!2026-09-30,7,270-->
     
 ## C. Blood bank collection criteria 
 ### C.1 HB Criteria

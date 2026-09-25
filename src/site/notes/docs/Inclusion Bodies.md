@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/inclusion-bodies/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/inclusion-bodies/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 # **Inclusion Bodies** 
@@ -42,12 +42,10 @@
 
 # **RBC Inclusion Bodies**
 
-### **Howell–Jolly bodies**
-
-* **Composition:**  
-* **DNA remnants** (nuclear fragments).  
+### Howell–Jolly bodies
+* **Composition:**  ==1;;**DNA remnants** (nuclear fragments).  ==
 * **Appearance:** Small, round, dark purple/blue dots, usually single per RBC.  
-* **Associations:**  
+* **Associations:**  ==1;;post splenectomy, megaloblastic anemia==
   * **Post-splenectomy / hyposplenism / asplenia** (spleen normally removes them)  
   * **Megaloblastic anemia** (ineffective erythropoiesis, nuclear–cytoplasmic asynchrony)
 
@@ -94,10 +92,8 @@
 
 * **Location:** Cytoplasm of **neutrophils** (sometimes other granulocytes).  
 * **Appearance:** Pale blue, peripheral, irregular patches.  
-* **Composition:** Aggregates of rough endoplasmic reticulum (RNA).  
-* **Associations:**  
-  * **Infection / inflammation** (toxic changes)  
-  * Pregnancy, burns, May–Hegglin anomaly
+* **Composition:** ==1;;Aggregates of rough endoplasmic reticulum (RNA).  ==
+* **Associations:**  ==1;;Infection / inflammation (toxic changes)  , Pregnancy, burns.==
 
 ### **Auer rods**
 

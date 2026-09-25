@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/carbohydrate-metabolism/","tags":["biochemistry"],"dg-note-properties":{"Subject":"Biochemistry","tags":["biochemistry"]}}
+{"dg-publish":true,"permalink":"/docs/carbohydrate-metabolism/","tags":["flashcards"],"dg-note-properties":{"Subject":"Biochemistry","tags":["flashcards"]}}
 ---
 
 ---
@@ -136,6 +136,14 @@ C6H12O6 \+ 2 NAD\+ \+ 2 ADP \+ 2 Pi → 2 Pyruvate \+ 2 NADH \+ 2 H\+ \+ 2 ATP \
   
   
 
+# Glycogenesis
+**Q. Which hormone stimulates glycogenesis?**
+?
+**Ans:** **Insulin** stimulates glycogenesis by promoting conversion of **glucose → glycogen**, mainly in the **liver and skeletal muscles**.
+.
+**Opposite:**
+- **Insulin → Glycogenesis ↑**
+- **Glucagon → Glycogenolysis ↑**
 # Hexose Monophosphate (HMP) Shunt
 
 _Also known as the **Pentose Phosphate Pathway (PPP)** or **Phosphogluconate Pathway**_

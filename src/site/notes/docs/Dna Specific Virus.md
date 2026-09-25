@@ -20,7 +20,7 @@ The *Herpesviridae* family includes several clinically significant viruses:
 *   Varicella-Zoster Virus (VZV) - causes Chickenpox
 *   Cytomegalovirus (CMV)
 *   Epstein-Barr Virus (EBV)
-<!--SR:!2026-08-25,2,230-->
+<!--SR:!2026-09-24,1,210-->
 
 **Fetal varicella syndrome**, also called congenital varicella syndrome, is a rare condition. It happens when a pregnant person gets a chickenpox infection (caused by the varicella-zoster virus) during the first half of pregnancy, usually before 20 weeks
 characteristic features are : ==scarring of arms, legs, body ; hypoplasia limb, micropthalimia, low weight==
@@ -34,7 +34,7 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 *   **Transplacental Route:** Herpes viruses, including HSV, VZV, and CMV, can cross the placenta from mother to fetus, making them part of the dangerous <mark style="background: #FFB8EBA6;">TORCH</mark> complex of infections . meaning before birth infection
 
 ## IV. Cultivation & Laboratory Diagnosis**
-*   **Cultivation:** For the cultivation and isolation of HSV, the **Chorioallantoic Membrane (CAM)** of an embryonated egg is the preferred site 
+* which membrane is used for harvesting/cultivating HSV :: **Chorioallantoid membrane** of an embryonated egg  
 *   **Diagnostic Smear:** The **Tzanck smear** is specifically utilized in the clinical diagnosis of Herpes Simplex Virus (HSV) 
 *   **Inclusion Bodies:** 
     *   Herpes infections produce distinct Intranuclear Inclusion Bodies 
@@ -60,7 +60,7 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 **II. Cultivation and Isolation**
 *   **Gold Standard Medium:**  The ==human fibroblast cell line (specifically derived from lungs)== is considered the **"gold standard"** for the cultivation, isolation, and replication of CMV
 *   **Cultivation Challenges:** Because CMV is highly sensitive, it does not reside or replicate well in standard host cells, normal tissue cultures, or chick embryos, unlike other common viruses . It gives the best growth and shows its characteristic effects purely within human fibroblast cell lines
-<!--SR:!2026-09-16,2,190-->
+<!--SR:!2026-09-28,5,210-->
 
 **III. Microscopic Findings & Cytopathic Effects**
 CMV produces distinct **cytopathic effects**, meaning it severely damages or alters the structure and function of the host cells it infects, which can be clearly visualized under a microscope 

@@ -962,6 +962,22 @@ On catheters, dentures, and other surfaces, _C. albicans_ may form a biofilm thr
 - invasive
 - candidemia
 
+C. albicans can cause: Oral candidiasis ,Esophageal candidiasis , Vulvovaginal candidiasis , Cutaneous candidiasis , Nail and periungual infections , Urinary candidiasis , Chronic mucocutaneous candidiasis , Candidemia , Disseminated candidiasis , Deep-organ candidiasis
+
+### Lab Diagnosis
+1. Specimen: Exudate , tissue , Scraping
+2. KOH Mount: pseudohyphae, budding yeast 
+3. gram stain : +ve
+4. Culture
+	1. SDA: creamy white , smooth colonies
+	2. Chromagar: green colonies
+5. Germ tube test: produce germ tube within 2hr , 37$^o C$ , tube like growth without a constriction at the point of orgin
+6. chlamydospore: produced on corn meal agar
+7. biochemical test
+	1. glucose and maltose fermenting
+	2. MALDI-TOF mass spectrometry(uses characteristic protein spectral profile)
+8. ELISA and RIA
+
 ---
 # Mycotoxicosis
 * **Description**: Diseases resulting from the ingestion or inhalation of preformed toxic fungal metabolites (mycotoxins) rather than direct tissue invasion.  

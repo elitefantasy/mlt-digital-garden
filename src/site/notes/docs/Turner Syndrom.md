@@ -9,7 +9,7 @@
 - **Definition:** **Turner Syndrome** is a genetic chromosomal disorder that primarily affects females.
 - **Chromosomal Abnormality:** While a typical human has 46 chromosomes, individuals with Turner Syndrome possess **only 45 chromosomes**.
 - **Karyotype:** This condition is medically denoted as **45, X** (or 45, X0), indicating that one of the sex chromosomes (an X chromosome) is completely or partially missing.
-<!--SR:!2026-09-22,8,250-->
+<!--SR:!2026-09-27,4,230-->
 
 ---
 
@@ -50,7 +50,7 @@ The loss of the second X chromosome stops normal somatic development, presenting
 - **Broad Chest:** Often described clinically as a broad or shield-like chest.
 - **Webbed Neck:** The neck appears abnormally broad, wide, or webbed.
 - **Abnormal/Impaired Development:** Overall bodily growth and development do not proceed normally, resulting in congenital abnormalities.
-<!--SR:!2026-09-21,6,250-->
+<!--SR:!2026-10-08,15,250-->
 
 ---
 
