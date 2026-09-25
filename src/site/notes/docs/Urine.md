@@ -351,7 +351,7 @@ These crystals typically precipitate in urine with a high pH.
 - components: lactose, beef extract, enzymatic digest of gelatin and casein, L Cystein leads to the growth of dwarf colonies(coliforms), bromothymol blue, agar
 - quality control: EColi(lactose fermenter , yellow colonies), proteus mirabilis(restricted swarming), s.aureus(g+ve bacterium growth)
 - bromothymol blue changes : turns yellow in acidic medium indicating lactose fermenting
-![Pasted image 20260925121649.png\|418](/img/user/Attachments/Pasted%20image%2020260925121649.png)
+![Pasted image 20260925125713.png\|451](/img/user/Attachments/Pasted%20image%2020260925125713.png)
 
 examples of LF and NLF Colony
 ?
