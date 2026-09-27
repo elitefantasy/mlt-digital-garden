@@ -10,7 +10,7 @@
 * **Myeloid phase (bone marrow):** Bone marrow becomes the primary site of hematopoiesis starting from the 5th month of gestation and remains the principal site throughout adult life. In adults, active marrow is found primarily in the axial skeleton (vertebrae, ribs, sternum, pelvis, skull) and the proximal ends of long bones (femur, humerus).
 
 
-# . General Properties of Blood
+# General Properties of Blood
 
 * **Volume:** A healthy adult typically has approximately 5 litres of blood, which accounts for roughly 8% of total body weight.  
 * **Gender Variations:** Females generally have a slightly lower blood volume, averaging about 4.5 litres.  
@@ -50,24 +50,7 @@ When blood is centrifuged with an anticoagulant, it separates into three distinc
 **2. In which conditions are burr cells commonly seen?**  ==1;;Uremia / chronic renal disease, Liver disease, Pyruvate kinase deficiency, Electrolyte imbalance==
 
 
-## Leukocytes (White Blood Cells)
-* **Normal Reference Range:** The total adult WBC count typically ranges from 4,000 to 11,000/µL.  
-
-### WBC Classification
-Granulocytes and Agranulocytes. 
-
-| Granulocyte   | Features                                                                                                                                                                                                                                                                                                       |                                                 |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 1. Basophil   | - rarest<br>- allergic rexn , inflamatory response increase<br>- **nucleus**: Bilobed , s shape<br>- **granule** release histamine, heparin<br>- role in type 1 hypersensitivity rexn <br>- enhance inflamatory response by releaseing cytokine and activating other immune cells<br>- defense agains parasite | ![Pasted image 20260913125430.png\|130](/img/user/Attachments/Pasted%20image%2020260913125430.png)<1%    |
-| 2. Easinophil | - parasitic infection<br>- regulate inflammation<br>- **nuceus** is bilobed<br>- **granules** Red-Orange<br>- survive 8-12hr                                                                                                                                                                                   | ![Pasted image 20260913130059.png\|115](/img/user/Attachments/Pasted%20image%2020260913130059.png)1-7%   |
-| 3. Neutrophil | - **nucleus**: multilobed , 3-5, PMNs<br>- **granules** : enzymem antimicrobial protein(bacterial)<br>- survive : 6-8hr in blood and 1- days in tissue<br>- functions (1) phacocytosis (2) degranulation (3) chemotaxis                                                                                        | ![Pasted image 20260913130359.png\|112](/img/user/Attachments/Pasted%20image%2020260913130359.png)60-70% |
-
-| Agranulocyte  | Features                                                                                           |                                                     |
-| ------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| 1. Monocyte   | - becomes macrophage<br>- single lobed, kidney shaped<br>- largest in size                         | ![Pasted image 20260913130656.png\|116](/img/user/Attachments/Pasted%20image%2020260913130656.png)<br>2-10%  |
-| 2. Lymphocyte | - Immunity : B cell , T cell , NK cell<br>- single lobe<br>- spherical<br>- faintly blue cytoplasm | ![Pasted image 20260913130903.png\|116](/img/user/Attachments/Pasted%20image%2020260913130903.png)<br>20-40% |
-
-**Which WBC is called the first line of defence** :: Neutrophil
+## Leukocytes (White Blood Cells) [[docs/wbc\|Click Here]]
 
 ## Thrombocytes (Platelets)
 - Size is :: 1.5-3 um
@@ -78,46 +61,47 @@ Granulocytes and Agranulocytes.
 # Multipotent Hematopoietic Stem Cells
 
 1. **Common myeloid progenitor:**   
-   2. Megakaryoblast \-\> platelets  
-   3. Proerythroblast \-\> rbc  
-   4. Myeloblast \- \> Monocyte, Basophil, easinophil, neutrophil  
-5. **Common lymphoid progenitor:**   
-   6. Lymphoblast \-\> T cell, B cell, NK cell
+	1. Megakaryoblast \-\> platelets  
+	2. Proerythroblast \-\> rbc  
+	3. Myeloblast \- \> Monocyte, Basophil, easinophil, neutrophil  
+2. **Common lymphoid progenitor:**   
+	1. Lymphoblast \-\> T cell, B cell, NK cell
 
-# Stages of Erythropoiesis
+# Erythropoiesis
+![Pasted image 20260927084225.png](/img/user/Attachments/Pasted%20image%2020260927084225.png)
 
-1. **Proerythroblast (Pronormoblast) ![][image1]**  
+1. **Proerythroblast (Pronormoblast)**
    2. Large , immature nuclear Chromatin   
    3. Cytoplasm is deeply basophilic   
    4. 1-2 nucleoli   
    5. Size 15-20 um  
-6. **basophilic erythroblast (Early normoblast) ![][image2]**  
+6. **basophilic erythroblast (Early normoblast)**
    7. Large,  Chromatin condense   
    8. Basophilic cytoplasm   
    9. No nucleoli   
    10. Size is 14-18 um   
-11. **Polychromatophilic erythroblast (Intermediate normoblast) ![][image3]**  
+11. **Polychromatophilic erythroblast (Intermediate normoblast)**  
    12. Medium , round nucleus with mature(clumped chromatin)  
    13. Cytoplasm is grayish ( hb synthesis at this stage )  
    14. Cell division start to cease  
    15. size is 12-15 um   
-16. **Orthochromatic erythroblast (Late normoblast) ![][image4]**  
+16. **Orthochromatic erythroblast (Late normoblast)**  
    17. Slightly smaller , pyknotic nucleus with well hemoglobanized  
    18. Cytoplasm is reddish   
    19. Nucleus extruder out  
    20. Size is 10 \- 12 um  
-21. **Reticulocyte ![][image5]**  
+21. **Reticulocyte**  
    22. Has bluish tinge due to rna presence   
    23. Reddish pink cytoplasm   
    24. Size is 9-11 um   
    25. Matures into rbc in 1-2 days   
-26. **Mature Erythrocyte (RBC) ![][image6]**  
+26. **Mature Erythrocyte (RBC)**  
    27. Lacks nucleus   
    28. Central pallor ⅓ of d of cell   
    29. Fully hemoglobanized   
    30. Biconcave share and size is 7-9 um
 
-## **Changes in Erythropoiesis** 
+## Changes in Erythropoiesis 
 
 * Size decreases  
 * Nucleus become smaller , more condensed,  expelled out  
@@ -126,7 +110,7 @@ Granulocytes and Agranulocytes.
 * Hb increases   
 * Organelles lost : nucleus , mitochondria , and ribosome are removed
 
-## **Regulation of Erythropoiesis**
+## Regulation of Erythropoiesis
 
 The production of red blood cells is a tightly controlled process to ensure oxygen delivery meets metabolic demands.
 
@@ -147,16 +131,15 @@ The production of red blood cells is a tightly controlled process to ensure oxyg
 
 Note: supravital stain is used for staining reticulocyte
 
-# 
 
-# **Leukopoiesis**
+# Leukopoiesis
 
 Leukopoiesis is divided into two main types:
 
 1) **Myelopoiesis:** Includes granulopoiesis (basophils, eosinophils, neutrophils) and monopoiesis (monocytes).  
 2) **Lymphopoiesis:** Includes the production of lymphocytes (T cells, B cells, NK cells).
 
-## **Stages of Granulopoiesis**
+## Stages of Granulopoiesis
 
 1. **Myeloblast:** Large cell (≈14–20 µm), high N:C ratio, round/oval nucleus with fine chromatin and 2–4 nucleoli, scant light blue cytoplasm, no visible granules.  
 2. **Promyelocyte:** Largest cell of neutrophil series, more cytoplasm, round nucleus with relatively immature chromatin and possible nucleoli, basophilic cytoplasm with abundant primary (azurophilic, non-specific) granules.  
@@ -165,7 +148,7 @@ Leukopoiesis is divided into two main types:
 5. **Band cell:** Horseshoe-shaped, non-segmented nucleus with condensed chromatin; abundant pink cytoplasm with secondary granules (immature neutrophil).  
 6. **Segmented neutrophil:** Mature granulocyte with 3–5 nuclear lobes connected by thin filaments, very condensed chromatin, abundant pink cytoplasm rich in secondary (specific) granules.
 
-## **Stages of Monopoiesis**
+## Stages of Monopoiesis
 
 Monopoiesis (monocytopoiesis) progresses through three morphologically recognizable stages: monoblast → promonocyte → monocyte → tissue macrophage, each with characteristic nuclear and cytoplasmic changes.
 
@@ -189,7 +172,7 @@ Overview of stages
    \- Larger than blood monocytes, with abundant cytoplasm rich in lysosomes and other inclusions; nucleus typically round to oval.  
    \- Highly phagocytic, long-lived, key in antigen presentation and tissue cleanup.
 
-## **Core stages of lymphopoiesis**
+## Core stages of lymphopoiesis
 
 1\. **Lymphoblast**  
     \- Earliest recognizable precursor in the lymphoid series.  
@@ -216,7 +199,7 @@ Overview of stages
     \- Larger than small lymphocyte, abundant **deeply basophilic** cytoplasm.  
     \- Nucleus: eccentric, round/oval, with coarse “clock-face” chromatin; characteristic **paranuclear halo (Golgi zone)** adjacent to nucleus.
 
-## **Developmental pathway context (brief)**
+## Developmental pathway context (brief)
 
 \- All lymphocytes arise from **hematopoietic stem cells → common lymphoid progenitor (CLP)** in bone marrow.  
 \- **B cells** complete antigen-independent development (pro-B, pre-B, immature B, mature B) in bone marrow; **T cells** develop from CLP in thymus (double-negative, double-positive, single-positive stages).  

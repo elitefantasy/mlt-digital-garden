@@ -101,7 +101,7 @@ Liquid broths that selectively favor the growth of specific target pathogens whi
 
 #### C.1 Alkaline Peptone Water (APW):
 Strictly alkaline pH (8.2-9.6) tailored specifically for isolating ==Vibrio cholerae==
-<!--SR:!2026-09-17,2,150-->
+<!--SR:!2026-09-26,1,130-->
 
 #### C.2 Selenite F Broth and Tetrathionate Broth
 Used to isolate ==Salmonella and Shigella== from stool samples
@@ -166,7 +166,7 @@ For bacteria (like Clostridium) intolerant to oxygen. These media contain reduci
 
 1. Robertson's Cooked Meat (RCM) Broth: Contains chopped beef heart pieces providing glutathione (a reducing agent) and unsaturated fatty acids. Shows saccharolytic reactions (red/pink color - ==1;;C. perfringens==) or proteolytic reactions (black color - ==1;;C. tetani==)
 2. Thioglycollate Broth: Uses sodium thioglycollate to reduce oxygen
-<!--SR:!2026-09-24,1,130-->
+<!--SR:!2026-09-26,1,130-->
 
 **Name Culture Techniques used for anaerobic bacteria**
 ?

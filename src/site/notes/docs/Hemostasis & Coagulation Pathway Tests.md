@@ -25,7 +25,7 @@ Coagulation factors are plasma or tissue proteins that participate in **secondar
 | **XI**   | ==1;;Plasma thromboplastin antecedent==          | Activated XIa activates factor IX                                                                                                         | Mainly liver; also produced by other tissues                                                               | Intrinsic-pathway factor; deficiency causes hemophilia C; does not require vitamin K                                       |
 | **XII**  | ==1;;Hageman factor==                            | Contact with negatively charged surfaces activates XII to XIIa; activates XI and prekallikrein                                            | Liver                                                                                                      | Initiates the contact pathway in laboratory testing; deficiency prolongs aPTT but usually does not cause bleeding          |
 | **XIII** | ==1;;Fibrin-stabilizing factor==                 | Cross-links fibrin strands, producing a mechanically stable and insoluble clot                                                            | Liver, megakaryocytes and platelets; factor XIII is also associated with monocytes/macrophages             | Activated by thrombin and calcium; deficiency can cause delayed bleeding and poor wound healing despite normal PT and aPTT |
-<!--SR:!2026-09-25,2,230-->
+<!--SR:!2026-09-30,5,230-->
 
 
 ## Vitamin K–Dependent Factors

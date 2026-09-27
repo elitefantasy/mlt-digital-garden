@@ -14,7 +14,7 @@ d. iron overload
 Correct: **b. Febrile non-hemolytic transfusion reaction (FNHTR):** This is classified as an **acute** transfusion reaction because it typically occurs during or within 1 to 4 hours after the cessation of the transfusion. It is characterized by an unexplained rise in body temperature (at least 1°C or 1.8°F) often accompanied by chills or rigors, and is caused by cytokines released from donor white blood cells during storage.
 .
 Incorrect: **c. Alloimmunization:** This is a **delayed** immune complication. It happens when the recipient’s immune system recognizes foreign antigens on the donor's red cells, white cells, or platelets and begins producing antibodies against them. This process takes days to weeks to develop.
-<!--SR:!2026-09-06,15,290-->
+<!--SR:!2026-11-24,60,310-->
 
 # **Blood Transfusion Reactions: Overview**
 

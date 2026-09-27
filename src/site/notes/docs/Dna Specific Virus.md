@@ -88,6 +88,6 @@ CMV produces distinct **cytopathic effects**, meaning it severely damages or alt
 
 #### IV. Clinical & Practical Significance
 *   Simian 40 is practically utilized in the production of the :: **polio virus vaccine**
-<!--SR:!2026-09-16,1,150-->
+<!--SR:!2026-09-26,1,130-->
 *  One of the most important characteristics of this virus is that ::  its genome is quite **small and easily modifiable**  Because it can be easily altered, it serves as a highly beneficial and important tool in the field of **gene therapy**
-<!--SR:!2026-09-15,1,230-->
+<!--SR:!2026-09-28,3,250-->

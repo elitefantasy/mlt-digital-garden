@@ -19,6 +19,9 @@
 
 * Jyadatar  spores gram negative bacilli dete he 
 
+[[ E Test Epsilometer Test\| E Test Epsilometer Test]]
+
+
 ## Comprehensive Core Modules / Themes
 
 ### Module 1: Factors Affecting Sterilization and Disinfection
@@ -94,7 +97,7 @@ C
 Other indicators
 - <span style="color:rgb(255, 0, 0)">Bowie Dick Test</span> : Tests **air removal and steam penetration** in pre-vacuum autoclaves
 - <span style="color:rgb(255, 0, 0)">Geobacillus stearothermophilus spores</span>: **Biological indicator** for steam sterilization(autocalve) ⭐
-<!--SR:!2026-09-15,1,230-->
+<!--SR:!2026-09-26,1,210-->
 
 ### Module 3: Physical Methods – Filtration, Radiation, and Vibration
 #### 1. Filtration

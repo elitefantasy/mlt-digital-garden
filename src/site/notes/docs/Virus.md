@@ -62,7 +62,7 @@ There are about 15 major medically important RNA virus families, including Picor
     *   **Rule 1:** All Non-enveloped RNA viruses (PCR group) are **Icosahedral**
     *   **Rule 2:** All Enveloped RNA viruses are **Helical**.
     *   *Note: There are no complex RNA viruses*
-<!--SR:!2026-09-16,1,170-->
+<!--SR:!2026-09-26,1,150-->
 
 
 
@@ -96,7 +96,7 @@ These inclusions form inside the nucleus of the host cell and are sub-classified
     *   **Torres Bodies:** Another specific acidophilic inclusion associated with ==1;;Yellow Fever==
 *   **Basophilic Intranuclear Inclusions:**
     *   These are classically produced by the ==1;;Adenovirus==
-<!--SR:!2026-08-30,1,170--> 
+<!--SR:!2026-09-26,1,150--> 
 
 #### 3. Both Intranuclear & Intracytoplasmic Inclusions
 Most viruses form inclusions in *either* the nucleus or the cytoplasm, but some are capable of forming them in both locations simultaneously:

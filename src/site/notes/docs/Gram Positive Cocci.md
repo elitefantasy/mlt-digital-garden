@@ -96,7 +96,7 @@
 
 -   **Classification Systems for β-Hemolytic Streptococci:**
     -   **Lancefield Classification:** Based on :: cell-wall Group C Carbohydrate antigen. Divides strains into 20 groups designated A through V (excluding letters I and J).
-<!--SR:!2026-09-25,2,210-->
+<!--SR:!2026-09-26,1,190-->
     -   **Griffith Typing:** Based on :: surface M protein types. Subdivides Group A streptococci into ~100 M serotypes (1 to 100).
 <!--SR:!2026-09-14,0,190-->
 
@@ -192,7 +192,7 @@ The test is primarily used for the presumptive identification of:
 -   Alpha-hemolytic oral commensal organism.
 -   **BOI Negative:** Bile insoluble, Optochin resistant, Inulin non-fermenting.
 -   **Associated Pathologies:** :: <mark style="background: #FF5582A6;">Dental caries</mark> (specifically *Streptococcus mutans*) and Subacute Bacterial Endocarditis (SBE) (following dental extraction in patients with pre-existing valvular heart disease).
-<!--SR:!2026-09-23,0,270-->
+<!--SR:!2026-09-29,4,290-->
 
 ### Gamma-Hemolytic Streptococci: 🩸 Enterococcus
 

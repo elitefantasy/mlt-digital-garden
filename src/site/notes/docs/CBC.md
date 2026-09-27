@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/docs/cbc/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/cbc/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["haematology"]}}
 ---
 
-# The Complete Blood Count (CBC): A Clinical Overview
 
-#haematology
 
 # 1\. Introduction and Overview
 
@@ -32,23 +30,34 @@ RBC indices are calculated parameters provided by modern automated analyzers. Th
 
 ## B. White Blood Cell (WBC) & Differential
 
-The WBC count represents the total number of leukocytes in the blood. The **differential count** (automated or manual) breaks this down into the five major types, each with distinct roles in immunity:
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-* **Neutrophils:** Primary responders to bacterial/fungal infections.  
-* **Lymphocytes:** Key to viral defense and adaptive immunity.  
-* **Monocytes:** "Cleanup" cells that process debris and alert the immune system.  
-* **Eosinophils:** Active in parasitic infections and allergic reactions.  
-* **Basophils:** Release histamine/heparin in allergic/inflammatory responses.
 
-| Parameter | Normal Range | Clinical Significance |
-| ----- | ----- | ----- |
-| **Total WBC** | 4.5–11.0 x 10^9/L | Indicator of immune status; elevated in infection/inflammation, decreased in bone marrow suppression. |
-| **Neutrophils** | 40–70% | Primary defense against bacterial/fungal infections. |
-| **Lymphocytes** | 20–45% | Key for viral defense and adaptive immunity. |
-| **Monocytes** | 2–10% | Involved in phagocytosis and immune response regulation. |
-| **Eosinophils** | 1–6% | Active in parasitic infections and allergic reactions. |
-| **Basophils** | 0–1% | Release histamine/heparin during allergic/inflammatory responses. |
 
+**Normal Reference Range:** The total adult WBC count typically ranges from 4,000 to 11,000/µL.  
+
+## WBC Classification
+Granulocytes and Agranulocytes. 
+
+| Granulocyte   | Features                                                                                                                                                                                                                                                                                                       |                                                 |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1. Basophil   | - rarest<br>- allergic rexn , inflamatory response increase<br>- **nucleus**: Bilobed , s shape<br>- **granule** release histamine, heparin<br>- role in type 1 hypersensitivity rexn <br>- enhance inflamatory response by releaseing cytokine and activating other immune cells<br>- defense agains parasite | ![Pasted image 20260913125430.png\|130](/img/user/Attachments/Pasted%20image%2020260913125430.png)<1%    |
+| 2. Easinophil | - parasitic infection<br>- regulate inflammation<br>- **nuceus** is bilobed<br>- **granules** Red-Orange<br>- survive 8-12hr                                                                                                                                                                                   | ![Pasted image 20260913130059.png\|115](/img/user/Attachments/Pasted%20image%2020260913130059.png)1-7%   |
+| 3. Neutrophil | - **nucleus**: multilobed , 3-5, PMNs<br>- **granules** : enzymem antimicrobial protein(bacterial)<br>- survive : 6-8hr in blood and 1- days in tissue<br>- functions (1) phacocytosis (2) degranulation (3) chemotaxis                                                                                        | ![Pasted image 20260913130359.png\|112](/img/user/Attachments/Pasted%20image%2020260913130359.png)60-70% |
+
+| Agranulocyte  | Features                                                                                           |                                                     |
+| ------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 1. Monocyte   | - becomes macrophage<br>- single lobed, kidney shaped<br>- largest in size                         | ![Pasted image 20260913130656.png\|116](/img/user/Attachments/Pasted%20image%2020260913130656.png)<br>2-10%  |
+| 2. Lymphocyte | - Immunity : B cell , T cell , NK cell<br>- single lobe<br>- spherical<br>- faintly blue cytoplasm | ![Pasted image 20260913130903.png\|116](/img/user/Attachments/Pasted%20image%2020260913130903.png)<br>20-40% |
+
+**Which WBC is called the first line of defence** :: Neutrophil
+
+
+
+</div></div>
+
+
+check out Absolute Easinophil Count : [[docs/AEC\|AEC]]
 ## C. Platelets (PLT)
 
 Essential for primary hemostasis. A low count (**thrombocytopenia**) increases bleeding risk, while a high count (**thrombocytosis**) can predispose patients to inappropriate clotting.
@@ -78,4 +87,3 @@ When analyzing results, always consider that **physiological factors** (age, sex
 | **WBC Count** | 4.5–11.0 x 10^9/L | Elevated in infection/inflammation (leukocytosis); low in marrow suppression (leukopenia). |
 | **Platelet Count** | 150–450 x 10^9/L | Low indicates thrombocytopenia (bleeding risk); high indicates thrombocytosis (clotting risk). |
 
-#
