@@ -28,30 +28,34 @@ chronic: more mature cells
 	- acute: children / ALL
 	- chronic: elder / CLL
 
-
+auer rods are seen in which condition
+?
 **Key Diagnostic Differences:**
 1\. AML
 - myeloblast accumulation
 - diagnosis require more then 20% blasts
 - pathophysiology: myeloid precursor fail to mature. presence of ***auer rods***  
 - clinical features: anemia features, bleeding , brusing, bone pain , hepatosplenomegalt
-
+.
 2\. ALL
 - lymphoid precursor cells
 - children
 - lymphoblast proliferate in bone marrow and may spread to lymp nodes, liver and spleen, CNS
 - clinical features: fever and weakness, bone pain , LYMPH NODE ENLARGEMENT, CNS INVOLVEMENT
-- ***PAS POSITIVE***
-
+- ***PAS POSITIVE*** in which leukemia type :: ALL
+.
 3\. CML
 - MATURE AND IMMATURE myeloid cells
 - caused by chromosomal translocation, formation of ***Philadelphia chromosome***
+- leukocyte alkaline phosphatase score is decreased in ::  CML
 - clinical features: fatigue, weight loss, NIGHT SWEATS, splenomegally
-
+.
 4\. CLL
 - mature dysfunctional B lymphocyte malignancy
 - clinical features: asymptomatic, lymphadenopathy, recurrent infection, hepatosplenomegally
 - ***SMUDGE CELLS***
+
+
 
 ## Pathophsiology
 Normally, the bone marrow contains Pluripotent Hematopoietic Stem Cells (PHSC) that divide into two main lineages:

@@ -36,7 +36,7 @@ Q1. Which stain is preferred for air-dried cytological smear :: PAP Stain
 # 1. Hematology Staining (Blood & Bone Marrow)
 
 ## 1.1 Romanowsky Stains
-Question: Name four major romanowsky stain :: Leishman , Geimsa, Wright Stain, May-Grünwald-Giemsa (MGG) Stain
+Question: Name four major romanowsky stain :: Romanowsky stains are polychromatic hematological stains based mainly on eosin + methylene blue/azure dyes. Leishman , Geimsa, Wright Stain, May-Grünwald-Giemsa (MGG) Stain
 <!--SR:!2026-09-17,3,250-->
 
 -   **Nature:** Neutral stains (a balanced mixture of acidic and basic dyes).

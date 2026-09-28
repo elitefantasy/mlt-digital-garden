@@ -45,17 +45,17 @@ Vitamin K is required for post-translational **`\gamma`-carboxylation** of these
 
 Some substances involved in hemostasis are not numbered coagulation factors but are essential for coagulation regulation.
 
-|Protein or substance|Function|Principal production site|Key note|
-|---|---|---|---|
-|**von Willebrand factor**|Mediates platelet adhesion to exposed subendothelium and carries factor VIII in plasma|Vascular endothelial cells and megakaryocytes|Deficiency or dysfunction causes von Willebrand disease and may reduce factor VIII stability|
-|**Antithrombin**|Inhibits thrombin and factors Xa, IXa, XIa and XIIa|Liver and vascular endothelial cells|Its action is markedly accelerated by heparin|
-|**Protein C**|Activated protein C inactivates Va and VIIIa|Liver|Vitamin K–dependent anticoagulant protein|
-|**Protein S**|Cofactor for activated protein C|Liver, endothelial cells and other tissues|Vitamin K–dependent; circulates partly bound to C4b-binding protein|
-|**Tissue factor pathway inhibitor**|Inhibits tissue-factor–VIIa activity and factor Xa|Endothelial cells, platelets and megakaryocytes|Regulates initiation of coagulation|
-|**Prekallikrein**|Participates with factor XII and HMWK in contact activation|Liver|Also called Fletcher factor|
-|**High-molecular-weight kininogen**|Cofactor that supports activation of XII, XI and prekallikrein|Liver|Also called Fitzgerald factor|
-|**Plasminogen**|Precursor of plasmin, the main fibrin-degrading enzyme|Liver|Part of fibrinolysis rather than clot formation|
-|**Alpha-2 antiplasmin**|Inhibits plasmin and limits fibrinolysis|Liver|Helps preserve the fibrin clot|
+| Protein or substance                | Function                                                                               | Principal production site                       | Key note                                                                                                                                                                        |
+| ----------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **von Willebrand factor**           | Mediates platelet adhesion to exposed subendothelium and carries factor VIII in plasma | Vascular endothelial cells and megakaryocytes   | Deficiency or dysfunction causes von Willebrand disease and may reduce factor VIII stability; <span style="color:rgb(255, 0, 0)">Most Common inherited </span>bleeding disorder |
+| **Antithrombin**                    | Inhibits thrombin and factors Xa, IXa, XIa and XIIa                                    | Liver and vascular endothelial cells            | Its action is markedly accelerated by heparin                                                                                                                                   |
+| **Protein C**                       | Activated protein C inactivates Va and VIIIa                                           | Liver                                           | Vitamin K–dependent anticoagulant protein                                                                                                                                       |
+| **Protein S**                       | Cofactor for activated protein C                                                       | Liver, endothelial cells and other tissues      | Vitamin K–dependent; circulates partly bound to C4b-binding protein                                                                                                             |
+| **Tissue factor pathway inhibitor** | Inhibits tissue-factor–VIIa activity and factor Xa                                     | Endothelial cells, platelets and megakaryocytes | Regulates initiation of coagulation                                                                                                                                             |
+| **Prekallikrein**                   | Participates with factor XII and HMWK in contact activation                            | Liver                                           | Also called Fletcher factor                                                                                                                                                     |
+| **High-molecular-weight kininogen** | Cofactor that supports activation of XII, XI and prekallikrein                         | Liver                                           | Also called Fitzgerald factor                                                                                                                                                   |
+| **Plasminogen**                     | Precursor of plasmin, the main fibrin-degrading enzyme                                 | Liver                                           | Part of fibrinolysis rather than clot formation                                                                                                                                 |
+| **Alpha-2 antiplasmin**             | Inhibits plasmin and limits fibrinolysis                                               | Liver                                           | Helps preserve the fibrin clot                                                                                                                                                  |
 
 ## High-Yield Laboratory Correlations
 
@@ -76,8 +76,7 @@ Some substances involved in hemostasis are not numbered coagulation factors but 
 ![Pasted image 20260820115030.png\|546](/img/user/Attachments/Pasted%20image%2020260820115030.png)
 
 # 3 Coagulation profile
-
-A **coagulation profile** is a group of laboratory tests used to evaluate the blood-clotting system, investigate bleeding or thrombosis, monitor anticoagulant therapy, and assess liver function or disseminated intravascular coagulation (DIC). Common tests include PT/INR, aPTT, platelet count, fibrinogen, thrombin time, and sometimes D-dimer.
+- diagnosis: bleeding or thrombosis, monitor anticoagulant therapy, and assess liver function or disseminated intravascular coagulation (DIC)
 
 ## 1.1 Main tests
 
@@ -88,11 +87,11 @@ A **coagulation profile** is a group of laboratory tests used to evaluate the bl
 | **aPTT**               | Intrinsic and common pathways                           | ==1;;About 25–35 seconds==                  | Unfractionated heparin monitoring, hemophilia investigation |
 | **Platelet count**     | Primary hemostasis                                      | Approximately 150–450 × 10⁹/L               | Thrombocytopenia and bleeding-risk assessment               |
 | **Fibrinogen**         | Substrate converted to fibrin                           | About 200–400 mg/dL                         | DIC, liver disease, severe bleeding                         |
-| **Thrombin time (TT)** | Conversion of fibrinogen to fibrin                      | Usually about 14–19 seconds                 | Heparin or fibrinogen abnormalities                         |
+| **Thrombin time (TT)** | Conversion of ==fibrinogen to fibrin==                  | Usually about 14–19 seconds                 | Heparin or fibrinogen abnormalities                         |
 | **D-dimer**            | Breakdown product of cross-linked fibrin                | Often <500 ng/mL FEU                        | Evaluation of suspected venous thromboembolism or DIC       |
 <!--SR:!2026-10-06,13,250-->
 
-**Ques**: among these which are used for warfarin and which one for heparin ? (PT, INR, aPTT, TT):: warfarin(PT, INR), heparin(aPTT, TT)
+**Ques**: among these which are used for warfarin and which one for heparin ? (PT, INR, aPTT, TT) :: warfarin(PT, INR), heparin(aPTT, TT)
 
 
 **Ques**: Factor 13 deff which is prolonged
@@ -123,6 +122,19 @@ d. factor 5 and 10
 ?
 **Correct Answer:** **B**
 normal prothrombin time (PT) is typically 12 seconds plus or minus 2 seconds. This corresponds to a normal baseline International Normalized Ratio (INR) of approximately 1.0 in healthy individuals
+
+### Platelate aggregation studies
+Platelet function and the response of platelets to specific agonists are directly assessed by <span style="color:rgb(255, 0, 0)">platelet aggregation studies</span>, especially light-transmission aggregometry (LTA)
+**Principle**
+- In LTA, platelet-rich plasma is exposed to agonists such as: ADP, Collagen, Epinephrine, Arachidonic acid, Ristocetin, Thrombin
+- When platelets are activated, they form aggregates. The plasma becomes clearer, causing increased light transmission, which is recorded as an aggregation curve. The maximum aggregation, slope, lag time, primary and secondary waves, and disaggregation can be assessed
+**What it Evaluates**
+- Inherited platelet function defects.
+- Acquired platelet dysfunction.
+- Defects in platelet activation and secretion.
+- Abnormalities of specific platelet receptors or signaling pathways.
+- Effects of antiplatelet drugs such as aspirin and clopidogrel.
+LTA is widely regarded as the reference or **“gold-standard”** laboratory method for investigating **platelet function disorders**, although results can be affected by platelet count, sample handling, medications, and preanalytical factors
 
 ## 1.2 Specimen and collection
 
