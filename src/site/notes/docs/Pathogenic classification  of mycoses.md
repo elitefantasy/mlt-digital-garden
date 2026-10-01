@@ -42,7 +42,8 @@ levels:
     - 3.9 Sporothrix Schenckii
 - 4. Systemic Mycoses (Deep Mycoses)
 - 5. Opportunistic Mycoses
-    - Candida albicans
+    - 5.1 Candida albicans
+    - 5.2 Cryptococcus neoformans
 - Mycotoxicosis
 ```
 
@@ -424,64 +425,6 @@ Rapid identification
 Higher specificity
 Useful for difficult-to-identify isolates
 
-### Lab Diagnosis of Trichophyton rubrum
-**Culture** 
-Typical features: White to cream colony 
-Cottony or powdery surface 
-Characteristic red/wine-red reverse pigmentation may occur 
-
-**Microscoру** 
-Numerous small teardrop/pyriform microconidia 
-Microconidia occur along hyphae 
-Macroconidia are usually few 
-Macroconidia are thin, pencil/cigar-shaped when present
-
-**Urease Test:** Detects urease production; useful in differentiating urease-positive species within the genus _Trichophyton_.
-
-
-### Lab diagnosis (Trichophyton mentagrophytes) 
-Culture 
-White to cream 
-Powdery/granular 
-May develop yellowish to brown reverse pigmentation 
-
-Microscoрy 
- Numerous microconidia 
- **Clusters of microconidia** 
- Spiral hyphae 
- Some macroconidia
-
-### Lab diagnosis (Microsporum canis)
-**Culture** 
-White to yellowish fluffy colony 
-Yellow pigmentation may be present 
-Reverse may show yellow pigmentation 
-
-**Microscopy** 
-Numerous 
-Large 
-Spindle-shaped 
-Thick-walled 
-Multiseptate 
-Microconidia are usually fewer.
-
-### Lab diagnosis (Epidermophyton floccosum)
-Culture 
-Slow-growing Khaki/olive to yellowish colony may develop 
-
-**Microscopy** 
- **Club-shaped macroconidia** 
- Smooth, thin-walled macroconidia 
- Usually 2-5 cells 
- **Microconidia absent**
-
-### General Characteristics of Dermatophyte Genera
-
-| Genus                | Macroconidia                                                                                    | Microconidia                | Tissue Tropism / Features                         |
-| -------------------- | ----------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------- |
-| **_Microsporum_**    | Numerous, thick-walled, rough-surfaced, spindle-shaped (e.g., _M. canis_ contains >6 cells) PDF | Rare, pyriform to claviform | Infects hair and skin                             |
-| **_Epidermophyton_** | Numerous, smooth-walled, club-shaped PDF                                                        | **Absent**                  | Infects skin and nails (does **not** infect hair) |
-| **_Trichophyton_**   | Rare, thin-walled, smooth-surfaced, pencil/cigar-shaped PDF                                     | **Abundant**                | Infects skin, hair, and nails                     |
 
 ## 2.4 Dermatophyte Classifcation by habitat
 
@@ -887,11 +830,11 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 	* Cryptococcosis: *Cryptococcus neoformans* and *Cryptococcus gattii*  
 	* Aspergillosis: *Aspergillus* species (e.g., *A. fumigatus*, *A. flavus*, *A. niger*). 
 
-## Candida albicans
+## 5.1 Candida albicans
 - are generally commensal germs that develop in the skin, inside the body, in the mouth, throat, intestines, vagina, without causing problems.
 - Immunosuppression remains one of the most prevalent risk factors.
 
-Morphology
+**Morphology**
 - Small, oval, measuring 2-4 µm in diameter. 
 - Yeast form, unicellular, reproduce by budding. 
 - Single budding of the cells may be seen. 
@@ -903,7 +846,7 @@ Morphology
 - Special condition (pH, Temperature): Pseudohyphae 
 - 80-90% of cell wall is carbohydrate
 
-Culture
+**Culture**
 - SDA 
 	- Creamy, pasty colonies, smooth after 24-48 hours at 25-37°C 
 	- Yeast smell(odor)
@@ -962,7 +905,18 @@ On catheters, dentures, and other surfaces, _C. albicans_ may form a biofilm thr
 - invasive
 - candidemia
 
-C. albicans can cause: Oral candidiasis ,Esophageal candidiasis , Vulvovaginal candidiasis , Cutaneous candidiasis , Nail and periungual infections , Urinary candidiasis , Chronic mucocutaneous candidiasis , Candidemia , Disseminated candidiasis , Deep-organ candidiasis
+
+
+**Clinical Features**
+- creamy white plaque on oral mucosa
+- pseudomembranous oral candidiasis also called as oral thrush
+- angular cheilitis: inflammation, red , swollen, cracked sores at both corner of mouth
+- esophageal candidiases
+- vulvovaginal candidiasis
+- cutaneous candidiasis
+- diaper candidiasis
+- candida paronychia : infection involving nail foldings
+
 
 ### Lab Diagnosis
 1. Specimen: Exudate , tissue , Scraping
@@ -978,7 +932,59 @@ C. albicans can cause: Oral candidiasis ,Esophageal candidiasis , Vulvovaginal c
 	2. MALDI-TOF mass spectrometry(uses characteristic protein spectral profile)
 8. ELISA and RIA
 
+
 ---
+## 5.2 Cryptococcus neoformans
+- basidiomycete
+- reprodution
+	- sexual reproduction forming dikaryotic hyphae and basidiospore, **Club shaped** basidium
+- Species: C.neoformans, C.gatti, C.albidus, C.laurentil, C.uniguttulatus
+- most pathogenic: C.neoforman
+- d/f from other fungus as it has **polysacharide capsule**
+
+### morphology
+- dried yeast cell, mildly encapsulated
+- in culture they are whitis mucoid colony, they lack hyphae
+
+### Life cycle
+- uses human phagocytes to spread within body
+- colonize phagocytic cell , escapes phagocytosis 
+- in lungs c.neoforman can survive oxidative reaction and remain latent in macrophages
+
+- sexual reproduction
+	- Hyphae of compatible mating types fuse and form **diploid cells called blastospores**.
+	- Blastospores undergo **meiosis** to produce **haploid cells**.
+	- During meiosis, **DNA repair** may occur to overcome cellular stress.
+	- This process produces **monokaryotic fruiting structures**, which may contribute to **fungal virulence**.
+### Pathogenesis
+affects immuno compromised patient
+- yeast cell inhale or basidiospore
+- enters respiratory tract and reach alveoli
+- minimal pulmonary infection: asymptomatic, mild
+- alveolar macrophage can phagocytose yeast but c.neoforman posses mechanism(capsule + melanin`(`protection against oxidative stress`)`) that allow it to survive
+- for immunocompromised: yeast cell replicate and spread to other body parts
+- when CNS is affected C.meningitis
+
+Dissemination to CNS
+- After **pulmonary infection**, _C. neoformans_ may enter the **bloodstream** and reach the **CNS**.
+- It can cross the blood–brain barrier by:
+    1. **Transcellular** – through endothelial cells.
+    2. **Paracellular** – between endothelial cells.
+    3. **Trojan horse** – carried inside macrophages.
+
+CNS Infection
+- Multiplies in the **subarachnoid space** and may cause:
+    - **Meningitis**
+    - **Meningoencephalitis**
+    - **Cryptococcomas**
+- In **immunocompromised patients**, inflammation may be **relatively weak**.
+
+### Virulence factor
+1. polysacharide capsule
+2. melanin
+3. urease: tissue invasion
+4. phospholipase: membrane damage
+
 # Mycotoxicosis
 * **Description**: Diseases resulting from the ingestion or inhalation of preformed toxic fungal metabolites (mycotoxins) rather than direct tissue invasion.  
 * **Agents/Examples**:  

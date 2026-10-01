@@ -225,3 +225,44 @@ Procedure (Basic Steps)
 - Eosin staining 
 - Dehydration 
 - Clearing and mounting
+
+## PAS Stain
+- demonstrates carbohydrate rich substances in tissue
+- detects glycogen , neutral mucins, basement membranes , glycoprotein , fungal cell wall
+- PAS positive appear as magenta 
+- blue nuclear counterstain used ( commonly mayer's hematoxylin)
+
+### Principle
+PAS staining works in two linked reactions:
+1. **Oxidation:** periodic acid oxidizes carbohydrate group(hydroxyl group) into aldehyde
+2. **Color reaction:** aldehyde react with  **Schiff reagent**, producing a **magenta-colored** end product.
+
+### Reagents
+- A. Periodic acid solution : periodic acid, distilled water
+- B. Schiff reagent : basic fuchsin , HCl, sodium metabisulfite
+- xylene : clearing agent
+- DPX mounting medium
+
+### Procedure
+1. deparaffinize using xylene wash
+2. hydrate through descending grade of alcohol(100->90->70) to water
+3. periodic acid for 5min
+4. wash with distill water
+5. schiff reagent 15 min
+6. tap water 5-10 min 
+7. counterstain with hematoxylin 1min
+8. wash and bluing
+9. dehydrate through ascending alcohol grades
+10. xylene clear
+11. mount with dpx
+
+### Result and interpretation
+- A positive PAS reaction indicates the presence of oxidizable carbohydrate-containing substances, but it does **not** prove that the material is glycogen alone. For that reason, the PAS-diastase control is important
+- PAS Diastase Stain: One section is stained by ordinary PAS. A serial section is treated first with **diastase enzyme**, then stained with PAS. Diastase digests glycogen.
+- findings: PAS-positive material disappears after diastase digestion. The material was glycogen
+
+### Uses
+- glycogen in liver, skeletal muscle, and cardiac muscle
+- glycogen storage dx
+- fungal infection
+- renal glomerular and tubular basement membrane
