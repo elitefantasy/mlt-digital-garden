@@ -48,7 +48,7 @@ levels:
 
 ## Classification
 
-1. [[docs/protozoa\|protozoa]]
+1. protozoa
 	1. flagellated
 		1. intestinal: [Giardia Lambila ](<protozoa.md#Flagellate | Giardia Lambila>)
 		2. hemoflagellates: [[docs/Leishmania\|Leishmania]] , [[docs/Trypanosoma\|Trypanosoma]]
@@ -190,32 +190,27 @@ Exist in Two Forms
 - **Trophozoite:** Pear-shaped or **tennis-racket-shaped** ,  Contains **2 nuclei** (giving it a face-like appearance), 2 axostyles, and **4 pairs of flagella**. It moves forward in rapid, falling-leaf jerks 
 - **Cyst:** Oval (8-12 um), containing **2 to 4 nuclei clustered at one end** and refractile, S-shaped fibrils (flagellar remnants) placed lengthwise
 
-##### Life Cycle
+#### Life Cycle
 has a **simple, direct life cycle** with **two main stages**: the **infective cyst** and the **multiplying trophozoite**. No intermediate host is required. 
 
 1. **Infective stage and transmission**
 	- **Mature cysts** are passed in the **feces** of an infected person or animal. 
 	- Cysts are **environmentally resistant** and can survive for **weeks to months** in moist conditions (water, soil, surfaces).
-	- Infection occurs by **ingestion of cysts** via
-	    - Contaminated **drinking water** or **food**
-	    - **Fecal–oral** person‑to‑person spread (e.g., poor hand hygiene, diaper changes)
-	    - **Zoonotic** exposure (animals)
-	    - Certain **sexual practices** involving fecal–oral contact 
+	- Infection occurs by **ingestion of cysts**
 	- As few as **10 cysts** can cause infection. 
 2. **Excystation (in the host)**
 	- After ingestion, cysts pass through the **stomach** and reach the **duodenum/proximal small intestine**. 
-	- In response to **gastric acid, bile, and pancreatic enzymes**, each cyst undergoes **excystation**, releasing **two trophozoites** (sometimes described as “excyzoites” that quickly become trophozoites). 
+	- cyst -> excystation(cyst to trophozoite) releasing two trophozoite 
 3. **Trophozoite stage (pathogenic, replicative)**
-	- **Trophozoites** are **pear‑shaped, motile, flagellated** organisms with **two nuclei** and a characteristic **ventral sucking disc**. 
-	- They **attach** to the **duodenal and proximal jejunal mucosa** via the ventral disc, and may also exist free in the lumen. 
-	- They **multiply by longitudinal binary fission**, rapidly colonizing the upper small intestine (doubling time ~9–12 hours). 
-	- Trophozoites are responsible for **clinical disease** (malabsorption, diarrhea, bloating, etc.) but **do not survive** well outside the host. 
+	- pear shaped, motile, flagellated, two nuclei, ventral sucking disck
+	- attach to small intestin via ventral disc
+	- binary fission multiplication 
+	- cause dx like melabsorption , diarhea , bloating
+	- trophozoite do not survive outside host cell
 4. **Encystation (formation of cysts)**
-	- As trophozoites move **distally** toward the **colon**, changes in **pH, bile salts, and other luminal factors** trigger **encystation**. 
-	- During encystation:
-	    - Trophozoites **round up**, retract flagella/axonemes, condense cytoplasm, and secrete a **tough hyaline cyst wall**. 
-	    - Nuclear division occurs, producing a **mature quadrinucleate cyst**. 
-	- **Cysts** are the form passed in **stool** (especially formed stool) and are the only stage capable of surviving in the environment.
+	- secrete tough hyaline cyst wall
+	- nucleus divide -> mature quadrinucleate cyst
+	- cyst passed into stool
 
 ##### Clinical Features
 - Asymptomatic Cases: Common in many infections. 
@@ -249,21 +244,20 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 ### Ciliate | Balantidium Coli
 [Classification](<protozoa.md#Classification>)
 ![Pasted image 20260901191138.png\|394](/img/user/Attachments/Pasted%20image%2020260901191138.png)
-#### 1. Introduction & History
-- **Taxonomy:** Belongs to the Phylum _Ciliophora_ and Family _Balantiididae_.
-- **Classification:** It is the only ciliate protozoan parasite of humans.
-- **Size:** It is the largest protozoan parasite of humans.
-- **Location:** Largest protozoan parasite residing in the large intestine of man.
-#### 2. Habitat & Morphology
-- **Habitat:** Resides in the large intestine of humans, pigs, and monkeys.
-- **Morphological Stages:** Occurs in two distinct stages:
-    1. Trophozoite
-    2. Cyst
-##### A. Trophozoite
-- **Habitat/Feeding:** Lives in the large intestine, feeding on cell debris, bacteria, starch grains, and other particles.
-- **Function/Characteristics:** Actively motile; serves as the invasive stage of the parasite; found in dysenteric stool.
-- **Size:** Large ovoid cell, about 60–70 µm in length and 40–50 µm in breadth (very large cells measuring up to 200 µm are sometimes seen).
-- **Motility:** Covered with short, delicate cilia over the entire surface of the body.
+
+- only ciliate protozoan parasite of human
+- largest protozoan parasite of human
+- reside in large intestine of humans , **pigs**, monkeys
+
+stages
+- trophozoite
+- cyst
+
+#### A. Trophozoite
+- large intestine
+- motile, invasive, found in dysentric stool
+- covered with cilia
+
 ![Pasted image 20260901191243.png\|356](/img/user/Attachments/Pasted%20image%2020260901191243.png)
 - **Structure:** 
     - Anterior end is narrow; posterior end is broad.
@@ -274,11 +268,13 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
     1. A large kidney-shaped **macronucleus**.
     2. A small **micronucleus** lying in the concavity of the macronucleus.
 - **Cytoplasmic Contents:** Contains 1–2 contractile vacuoles and several food vacuoles.
-##### B. Cyst
+
+#### B. Cyst
 - **Shape & Size:** Spherical in shape, measuring 40–60 µm in diameter.
 - **Cyst Wall:** Thick and transparent double-layered wall.
 - **Contents:** Granular cytoplasm containing a macronucleus, micronucleus, and vacuoles.
 - **Significance:** The **infective stage** of _B. coli_; found in chronic cases and healthy carriers.
+
 #### 3. Life Cycle
 - **Host Requirement:** Completes its life cycle in **one host only** (single-host life cycle).
     - **Natural Host:** Pig
@@ -310,6 +306,7 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
     - Most cases are asymptomatic.
     - Symptomatic disease (balantidiasis) resembles amebiasis.
     - Presents with diarrhea or frank dysentery, abdominal colic, tenesmus, nausea, and vomiting.
+
 #### 5. Laboratory Diagnosis
 - **Stool Examination:**
     - Demonstration of trophozoites and cysts in feces.
@@ -322,6 +319,7 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 - **Prophylaxis:** Avoid food/water contamination; treat infected pigs and humans.
 
 ### Sporozoan | Cryptosporidium parvum
+![Pasted image 20261001120741.png\|431](/img/user/Attachments/Pasted%20image%2020261001120741.png)
 [Classification](<protozoa.md#Classification>)
 - unicellular protozoan
 - Reproduction
@@ -341,9 +339,10 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 
 **Life Cycle**
 - complete asexual and sexual cycle in single host 
+![Pasted image 20261001120933.png](/img/user/Attachments/Pasted%20image%2020261001120933.png)
 
 **Infective form**
-- oocyst contain 4 crescent shaped sporozoites which are released in small intestine
+- oocyst contain **4 crescent shaped sporozoites** which are released in small intestine
 - sporozoite develops into trophozoite and near brush border of intestine
 - trophpzoite undergo asexual(schizogony) -> type 1 meronts -> 8 x merozoites -> enters epithelial cell -> schizogony repeats -> type 2 meronts -> undergoes gametogony -> 4 merozoites -> enters host cell to form sexual stages microgamete and macrogamet
 - gamet fertilization -> zygote -> oocyst
