@@ -35,4 +35,48 @@ h5 {
 h6 {
   color: #134e6f !important;
 }
+
+/* Link & Highlight Colors using #2f75bf */
+
+/* Internal Note Links (Obsidian [[wikilinks]]) */
+a.internal-link {
+  color: #2f75bf !important;
+  text-decoration-color: #2f75bf !important;
+}
+
+a.internal-link:hover {
+  color: #245c96 !important; /* Slightly darker shade on hover */
+  background-color: rgba(47, 117, 191, 0.15) !important; /* Soft highlight background */
+}
+
+/* External Links */
+a.external-link,
+.content a:not(.internal-link) {
+  color: #2f75bf !important;
+  text-decoration-color: #2f75bf !important;
+}
+
+a.external-link:hover,
+.content a:not(.internal-link):hover {
+  color: #245c96 !important;
+  background-color: rgba(47, 117, 191, 0.15) !important;
+}
+
+/* Active Page in File Tree / Sidebar */
+.filetree-item.active,
+.filetree-item:hover {
+  background-color: rgba(47, 117, 191, 0.2) !important;
+}
+
+/* Mouse Text Selection Highlight */
+::selection {
+  background-color: rgba(47, 117, 191, 0.35) !important;
+  color: inherit !important;
+}
+
+/* Markdown ==Highlighted Text== */
+/* mark {
+  background-color: rgba(47, 117, 191, 0.25) !important;
+  color: inherit !important;
+} */
 }
