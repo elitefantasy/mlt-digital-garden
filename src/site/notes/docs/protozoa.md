@@ -50,12 +50,12 @@ levels:
 
 1. protozoa
 	1. flagellated
-		1. intestinal: [Giardia Lambila ](<protozoa.md#Flagellate | Giardia Lambila>)
+		1. intestinal:[[docs/protozoa#Flagellate Giardia Lambila \| Giardia Lambila]]
 		2. hemoflagellates: [[docs/Leishmania\|Leishmania]] , [[docs/Trypanosoma\|Trypanosoma]]
 		3. genital : trichomonas vaginalis
-	2. amoebiod: [Entamoeba Histolytica](<protozoa.md#Amoeba | Entamoeba Histolytica>)
-	3. ciliated: [Balantidium Coli](<protozoa.md#Ciliate | Balantidium Coli>)
-	4. sporozoans: [[docs/plasmodium\|plasmodium]] , [Cryptosporidium parvum](<protozoa.md#Sporozoan | Cryptosporidium parvum>)
+	2. amoebiod:[[docs/protozoa#Amoeba Entamoeba Histolytica \| E.Histolytica]]
+	3. ciliated: [[docs/protozoa#Ciliate Balantidium Coli\|Balantidium Coli]]
+	4. sporozoans: [[docs/plasmodium\|plasmodium]] , [[docs/protozoa#Sporozoan Cryptosporidium parvum \| Cryptosporidium parvum]]
 
 **Quest | which protozoan parasite is found in small intestine and which one in large intestine**
 ?
@@ -178,7 +178,7 @@ levels:
  * **Prophylaxis**: Safe disposal of human feces, avoiding fecal contamination of food/water, and treatment of asymptomatic carriers.
 
 ### Flagellate | Giardia Lambila
-[Classification](<protozoa.md#Classification>)
+[[docs/protozoa#Classification\|protozoa#Classification]]
 - First identified by Antonie van Leeuwenhoek
 - Only Parasite which Affects Small Intestine
 - Leading cause of traveler's' diarrhea
@@ -242,7 +242,7 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 	- Sedimentation Technique Formalin Ethyl Acetate
 
 ### Ciliate | Balantidium Coli
-[Classification](<protozoa.md#Classification>)
+[[docs/protozoa#Classification\|protozoa#Classification]]
 ![Pasted image 20260901191138.png\|394](/img/user/Attachments/Pasted%20image%2020260901191138.png)
 
 - only ciliate protozoan parasite of human
@@ -318,9 +318,10 @@ stages
 - **Treatment:** **Tetracycline** is the drug of choice.
 - **Prophylaxis:** Avoid food/water contamination; treat infected pigs and humans.
 
+
 ### Sporozoan | Cryptosporidium parvum
 ![Pasted image 20261001120741.png\|431](/img/user/Attachments/Pasted%20image%2020261001120741.png)
-[Classification](<protozoa.md#Classification>)
+[[docs/protozoa#Classification\|protozoa#Classification]]
 - unicellular protozoan
 - Reproduction
 	- sexual: sporogonic phase
