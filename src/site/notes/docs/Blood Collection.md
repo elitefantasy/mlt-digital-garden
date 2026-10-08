@@ -29,7 +29,7 @@
 * **Arterial Collection:** Sites: Radial or femoral artery. Performed by trained clinicians for Arterial Blood Gas (ABG) analysis.  
 * **Universal Safety Rule:** Treat all patient specimens as potentially infectious. Wear gloves, lab coat, mask; no mouth pipetting; perform hand washing.
 
-### **B. Anticoagulants & Color Coding**
+### B. Order of draw
 
 In sequence of order of draw 
 

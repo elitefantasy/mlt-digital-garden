@@ -9,7 +9,7 @@
 - **Definition:** **Turner Syndrome** is a genetic chromosomal disorder that primarily affects females.
 - **Chromosomal Abnormality:** While a typical human has 46 chromosomes, individuals with Turner Syndrome possess **only 45 chromosomes**.
 - **Karyotype:** This condition is medically denoted as **45, X** (or 45, X0), indicating that one of the sex chromosomes (an X chromosome) is completely or partially missing.
-<!--SR:!2026-09-27,4,230-->
+<!--SR:!2026-10-08,2,210-->
 
 ---
 

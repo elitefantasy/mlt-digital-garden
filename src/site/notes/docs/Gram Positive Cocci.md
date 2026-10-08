@@ -69,7 +69,7 @@
 -   **Staphylococcal Scalded Skin Syndrome (SSSS):**
     -   Exfoliative toxin splits desmoglein-1 in the stratum granulosum.
     -   Manifests as widespread intraepidermal flaccid bullae and Nikolsky sign positive (epidermis detaches easily upon light friction).
-<!--SR:!2026-10-05,12,250-->
+<!--SR:!2026-11-18,43,270-->
 
 
 **Quest:** Which Gram-positive cocci cause suppurative lesions?
@@ -96,9 +96,9 @@
 
 -   **Classification Systems for β-Hemolytic Streptococci:**
     -   **Lancefield Classification:** Based on :: cell-wall Group C Carbohydrate antigen. Divides strains into 20 groups designated A through V (excluding letters I and J).
-<!--SR:!2026-09-26,1,190-->
+<!--SR:!2026-10-18,10,230-->
     -   **Griffith Typing:** Based on :: surface M protein types. Subdivides Group A streptococci into ~100 M serotypes (1 to 100).
-<!--SR:!2026-09-14,0,190-->
+<!--SR:!2026-10-09,3,210-->
 
 ### Group A Beta-Hemolytic Streptococcus (Streptococcus pyogenes) 🩸
 
@@ -108,7 +108,7 @@
 -   **Selective Media:** Crystal Violet Blood Agar, PNF Blood Agar (Polymyxin B, Neomycin, Fusidic acid).
 -   **Transport Media:** Pike's Medium.
 -   **Diagnostic Features:** :: Catalase negative....... PYR (Pyrrolidonyl Arylamidase) test positive (pink color reaction)........and Bacitracin Sensitive (differentiates Group A from all other β-hemolytic streptococci).
-<!--SR:!2026-09-24,1,170-->
+<!--SR:!2026-10-09,1,130-->
 
 **Toxins and Virulence Factors:**
 
@@ -131,7 +131,7 @@ Non superative infection of s.pyogenes
     1.  **<mark style="background: #FF5582A6;">Acute Rheumatic Fever (ARF):</mark>** Acute rheumatic fever (ARF) is an immune-mediated non-suppurative sequel to streptococcal pharyngitis, caused by antibodies against bacterial M protein cross-reacting with human tissues like the heart, brain, and joints.
 	    1.  **Lab Diagnosis:** <mark style="background: #FF5582A6;">ASO test.</mark>
     2.  **Post-Streptococcal Glomerulonephritis (PSGN):** Follows streptococcal pharyngitis or impetigo/skin infection. Immune complexes deposit on podocytes along the glomerular basement membrane, causing complement activation and acute nephritic syndrome.
-<!--SR:!2026-09-06,6,230-->
+<!--SR:!2026-10-11,3,210-->
 
 ### Group B Beta-Hemolytic Streptococcus (Streptococcus agalactiae) 🩸
 
@@ -141,7 +141,7 @@ Non superative infection of s.pyogenes
     -   which gram positive bacteria is the  common cause of <mark style="background: #FF5582A6;">neonatal sepsis and neonatal meningitis</mark> (in infants <28 days of age). :: s.agalactiae
 <!--SR:!2026-09-24,1,150-->
     - which biochemical test are positive for s.agalactiae :: (1.) **Hippurate Hydrolysis Test** Positive: Enzyme hippurase hydrolyzes sodium hippurate to glycine, turning green media to deep purple...... (2) **CAMP Test** Positive: When streaked perpendicular to *Staphylococcus aureus* on blood agar, produces synergistic, arrowhead-shaped / butterfly-shaped β-hemolysis.
-<!--SR:!2026-09-18,3,170-->
+<!--SR:!2026-10-11,7,190-->
 
 #### Hippurate Hydrolysis Test
 
@@ -165,7 +165,7 @@ The test is primarily used for the presumptive identification of:
 -   *Streptococcus agalactiae*: Group B are hippurate positive.
 -   *Campylobacter jejuni*: Distinguishes *C. jejuni* (positive) from *C. coli* (negative).
 -   *Listeria monocytogenes* and *Gardnerella vaginalis*.
-<!--SR:!2026-09-02,2,170-->
+<!--SR:!2026-10-09,5,190-->
 
 ##### Interpretation & Limitations
 
@@ -179,7 +179,7 @@ The test is primarily used for the presumptive identification of:
     -   **Culture Appearance:** Blood agar displays appearence like :: ==Carom Coin appearance or Draughtsman appearance (colonies with central umbonation/depression and concentric ringed edges).==
 <!--SR:!2026-10-11,18,230-->
 - confirmatory test is:: ==Bile solubility Test==
-<!--SR:!2026-09-25,2,210-->
+<!--SR:!2026-10-10,6,230-->
 -   **Key Biochemical Characteristics (Bank of India - BOI):**
         -   **B:** Bile Soluble (Bile salts activate autolytic enzyme amidase, resulting in lysis and dissolution of colonies).
         -   **O:** Optochin Sensitive.
@@ -192,12 +192,12 @@ The test is primarily used for the presumptive identification of:
 -   Alpha-hemolytic oral commensal organism.
 -   **BOI Negative:** Bile insoluble, Optochin resistant, Inulin non-fermenting.
 -   **Associated Pathologies:** :: <mark style="background: #FF5582A6;">Dental caries</mark> (specifically *Streptococcus mutans*) and Subacute Bacterial Endocarditis (SBE) (following dental extraction in patients with pre-existing valvular heart disease).
-<!--SR:!2026-09-29,4,290-->
+<!--SR:!2026-10-08,2,270-->
 
 ### Gamma-Hemolytic Streptococci: 🩸 Enterococcus
 
 -   **Morphology:** Gram-positive pairs, Spectacle / Goggle appearance.
 -   **Culture:** Gamma-hemolytic (non-hemolytic) on blood agar.
 -   **Biochemical Identification:** :: Bile Esculin Test Positive (hydrolyzes esculin in presence of 40% bile to produce black/brown precipitate).
-<!--SR:!2026-09-15,0,190-->
+<!--SR:!2026-10-10,2,190-->
 -   **Survival in Extreme Environments:** Grows in 6.5% NaCl, 40% bile, temperatures up to 60°C, and high alkaline pH up to 9.6.

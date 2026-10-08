@@ -8,6 +8,7 @@
 # 1 Coagulation Factor
 
 Coagulation factors are plasma or tissue proteins that participate in **secondary hemostasis**, ultimately converting fibrinogen into a stable fibrin clot. Most are synthesized in the liver; important exceptions include **tissue factor**, which is produced by  :: extravascular cells, **factor VIII**, produced mainly by endothelial cells and hepatic sinusoidal endothelial cells, and **factor IV**, which is calcium rather than a protein.
+
 <!--SR:!2026-09-28,5,210-->
 
 | Factor   | Common name                                      | Main function                                                                                                                             | Principal site of production                                                                               | Important notes                                                                                                            |
@@ -25,7 +26,7 @@ Coagulation factors are plasma or tissue proteins that participate in **secondar
 | **XI**   | ==1;;Plasma thromboplastin antecedent==          | Activated XIa activates factor IX                                                                                                         | Mainly liver; also produced by other tissues                                                               | Intrinsic-pathway factor; deficiency causes hemophilia C; does not require vitamin K                                       |
 | **XII**  | ==1;;Hageman factor==                            | Contact with negatively charged surfaces activates XII to XIIa; activates XI and prekallikrein                                            | Liver                                                                                                      | Initiates the contact pathway in laboratory testing; deficiency prolongs aPTT but usually does not cause bleeding          |
 | **XIII** | ==1;;Fibrin-stabilizing factor==                 | Cross-links fibrin strands, producing a mechanically stable and insoluble clot                                                            | Liver, megakaryocytes and platelets; factor XIII is also associated with monocytes/macrophages             | Activated by thrombin and calcium; deficiency can cause delayed bleeding and poor wound healing despite normal PT and aPTT |
-<!--SR:!2026-09-30,5,230-->
+<!--SR:!2026-10-16,12,230-->
 
 
 ## Vitamin K–Dependent Factors
@@ -38,7 +39,6 @@ The principal vitamin K–dependent coagulation factors are:
 - **Factor X — Stuart–Prower factor**
 
 Vitamin K is required for post-translational **`\gamma`-carboxylation** of these factors in the liver. This modification allows them to bind calcium and phospholipid surfaces. The anticoagulant proteins **protein C and protein S** are also vitamin K–dependent.
-
 
 
 ## Important Cofactors and Related Proteins
@@ -56,6 +56,7 @@ Some substances involved in hemostasis are not numbered coagulation factors but 
 | **High-molecular-weight kininogen** | Cofactor that supports activation of XII, XI and prekallikrein                         | Liver                                           | Also called Fitzgerald factor                                                                                                                                                   |
 | **Plasminogen**                     | Precursor of plasmin, the main fibrin-degrading enzyme                                 | Liver                                           | Part of fibrinolysis rather than clot formation                                                                                                                                 |
 | **Alpha-2 antiplasmin**             | Inhibits plasmin and limits fibrinolysis                                               | Liver                                           | Helps preserve the fibrin clot                                                                                                                                                  |
+
 
 ## High-Yield Laboratory Correlations
 
@@ -89,7 +90,7 @@ Some substances involved in hemostasis are not numbered coagulation factors but 
 | **Fibrinogen**         | Substrate converted to fibrin                           | About 200–400 mg/dL                         | DIC, liver disease, severe bleeding                         |
 | **Thrombin time (TT)** | Conversion of ==fibrinogen to fibrin==                  | Usually about 14–19 seconds                 | Heparin or fibrinogen abnormalities                         |
 | **D-dimer**            | Breakdown product of cross-linked fibrin                | Often <500 ng/mL FEU                        | Evaluation of suspected venous thromboembolism or DIC       |
-<!--SR:!2026-10-06,13,250-->
+<!--SR:!2026-11-08,33,250-->
 
 **Ques**: among these which are used for warfarin and which one for heparin ? (PT, INR, aPTT, TT) :: warfarin(PT, INR), heparin(aPTT, TT)
 
@@ -103,7 +104,7 @@ d. none of above
 none of the above
 Standard tests (PT, APTT, TT, CT, and BT) only monitor the process up to the formation of a **soluble, loose fibrin mesh**. Because Factor XIII functions **after** this stage to cross-link the strands into an insoluble, stable clot, routine screening panels will show normal times.
 The clinical issue in patients is not a failure or delay in _forming_ a clot, but a failure to _maintain_ it, resulting in delayed secondary bleeding hours to days later.
-<!--SR:!2026-09-30,7,270-->
+<!--SR:!2026-11-01,26,290-->
 
 **Quest**: combined factor deficiency commonly seen in
 a. factor 5 and 7

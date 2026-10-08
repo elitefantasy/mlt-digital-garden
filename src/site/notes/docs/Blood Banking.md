@@ -28,7 +28,7 @@ The universal color codes used on these blood bags are as follows
 - A Blood Group: yellow color code
 - B Blood Group: pink color code
 - AB Blood Group: white color code
-<!--SR:!2026-09-19,5,230-->
+<!--SR:!2026-10-11,3,210-->
 
 ## b. Anticoagulants
 Storage Durations by Solution
@@ -50,7 +50,7 @@ Storage Durations by Solution
 - Stored blood cannot be kept indefinitely; as it ages, red blood cells lose energy, waste products accumulate, and cell membranes weaken.
 - The World Health Organization mandates that after transfusion, at least ==75== percent of the red blood cells must remain alive in the recipient's circulation for 24 hours.
 - Transfusions are considered ineffective if the survival rate falls significantly below this threshold
-<!--SR:!2026-09-30,7,270-->
+<!--SR:!2026-11-03,26,290-->
     
 ## C. Blood bank collection criteria 
 ### C.1 HB Criteria
@@ -86,7 +86,7 @@ Collection Volume: 350 ml or 450 ml
 |                                            | Chronic Conditions             | Patients with chronic conditions like Diabetes or Heart disease                                                                                                                                                                                                                                                                                                                               |
 
 deferal period for hepatitis is :: permanent
-<!--SR:!2026-09-22,8,270-->
+<!--SR:!2026-10-12,4,250-->
 
   
 

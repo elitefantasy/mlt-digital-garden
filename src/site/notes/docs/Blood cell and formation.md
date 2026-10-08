@@ -54,7 +54,7 @@ When blood is centrifuged with an anticoagulant, it separates into three distinc
 
 ## Thrombocytes (Platelets)
 - Size is :: 1.5-3 um
-<!--SR:!2026-08-31,2,250-->
+<!--SR:!2026-10-09,1,230-->
 * **Hemostasis:** These are cell fragments originating from megakaryocytes that are essential for blood clotting.  
 * **Mechanism:** They aggregate at injury sites to form a temporary plug, initiating the coagulation cascade.
 

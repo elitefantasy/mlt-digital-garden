@@ -11,39 +11,80 @@
 * **Leukocytosis:** Involves an increased count of completely **mature** WBCs.  
 * **Leukemia:** Involves the uninhibited proliferation of **premature or immature** WBCs, which are clinically referred to as **"blast cells"**.
 
-## Classification
-four primary types based on two factors: the *series of cells affected* (Myeloid or Lymphoid) and the *rate of disease progression* (Acute or Chronic).
+## Clinical Features in general
+- Anemia
+- low wbc, low platelate, organ accumulation
+- swollen lymph node, bleeding gum, petechiae(tiny red spot on skin)
 
+## Classification
 Acute: immature blast cells
 chronic: more mature cells
 
-1. **Acute Lymphoid Leukemia (ALL):** Rapidly progressing, affecting the lymphoid series.  
-2. **Chronic Lymphoid Leukemia (CLL):** Slowly progressing, affecting the lymphoid series.  
-3. **Acute Myeloid Leukemia (AML):** Rapidly progressing, affecting the myeloid series.  
-4. **Chronic Myeloid Leukemia (CML):** Slowly progressing, affecting the myeloid series.
-
-**Age-Specific Prevalence** According to epidemiological trends noted in the text, specific types of leukemia predominantly affect different age groups:
+**Age-Specific Prevalence** 
 - myeloid series: adult
 - lymphoid
 	- acute: children / ALL
 	- chronic: elder / CLL
 
-auer rods are seen in which condition
-?
-**Key Diagnostic Differences:**
-1\. AML
-- myeloblast accumulation
-- diagnosis require more then 20% blasts
-- pathophysiology: myeloid precursor fail to mature. presence of ***auer rods***  
-- clinical features: anemia features, bleeding , brusing, bone pain , hepatosplenomegalt
-.
-2\. ALL
-- lymphoid precursor cells
-- children
-- lymphoblast proliferate in bone marrow and may spread to lymp nodes, liver and spleen, CNS
-- clinical features: fever and weakness, bone pain , LYMPH NODE ENLARGEMENT, CNS INVOLVEMENT
-- ***PAS POSITIVE*** in which leukemia type :: ALL
-.
+
+### 1.  AML Acute myeloid leukemia
+- originate in bone marrow
+- accumulation of immature myeloblast(bone marrow and bloodstream)
+- abnormal activation of tyrosine kinase enzyme(uncontrolled cell growth)
+- **Auer Rods**
+- Promyelocytic type is more abundant in certain AML subtype
+
+Special Stains used to identify cell lineage
+- Myeloperoxidase positive
+- Sudan Black B Positive
+
+Coagulation abnormalities
+- Activation of clotting system -> DIC
+
+Common marker in AML
+- CD13 , CD33
+
+### Myeloid sarcoma
+- solid tumor of immature myeloid cell occuring outside the bone marrow
+- affects myeloid cell development
+
+### 2. ALL Acute lymphoid leukemia
+- immature lymphoblast accumulation
+- arise from early beta cell lineage or T cell lineage
+- mainly found in bone marrow and blood
+- common in **CHILDREN**
+
+don't confuse with lymphoma
+- disorder of lymph nodes, extranodal tissues (outside bone marrow)
+---
+
+- mutation in NOTCH1 gene, leads to abnormal T cell development
+- **PHILADELPHIA** chromosome : translocation between chromosome 9 and 22
+- forms **BCR-ABL1** fusion gene
+- produces abnormally tyrosine kinase protein 
+
+**Clinical features**
+- lymphadenopathy 75% case
+- hepatosplenomegaly
+- CNS involvement
+
+**Cytochemical Features**
+- PAS Stain: Block like cytoplasmic activity
+- MPO negative
+- sudan black B negative
+
+**Immunophenotyping**
+- Terminal deoxynucleotidyl transferase TdT is marker of immature lymphoid cell required to differentiate B cell ALL vs T cell ALL
+
+
+
+
+guess the characteristic feature of which leukemia it is
+1. auer rods -> AML
+2. PAS +ve -> ALL , Children
+3. philadelphia chromosome -> CML
+4. smudge cells -> CLL
+
 3\. CML
 - MATURE AND IMMATURE myeloid cells
 - caused by chromosomal translocation, formation of ***Philadelphia chromosome***

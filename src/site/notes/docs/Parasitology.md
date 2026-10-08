@@ -3,7 +3,7 @@
 ---
 
 links
-1. [[Basics To parasitology\|Basics To parasitology]]
+1. [[docs/Basics To parasitology\|Basics To parasitology]]
 2. [[docs/Parasitology Examples\|Parasitology Examples]]
 
 # Classification

@@ -8,7 +8,7 @@
 
 
 Q1. Which stain is preferred for air-dried cytological smear :: PAP Stain
-<!--SR:!2026-09-01,12,270-->
+<!--SR:!2026-10-12,6,250-->
 
 
 ### 1. Definition and Purpose of Staining

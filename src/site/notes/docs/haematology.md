@@ -5,7 +5,7 @@
 
 
 - blood to body weight contribution is :: 7%
-<!--SR:!2026-09-25,2,210-->
+<!--SR:!2026-10-09,3,210-->
 
 the main protein found in plasma is
 a. albumin
@@ -17,4 +17,4 @@ albumin
 <!--SR:!2026-11-22,60,310-->
 
 what is the contribution of rbc to the total number of blood cell? :: 99%
-<!--SR:!2026-09-30,7,270-->
+<!--SR:!2026-11-03,26,290-->

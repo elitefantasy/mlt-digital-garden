@@ -78,7 +78,7 @@
 **Automated Methods**
 * Utilizes flow cytometry with fluorescent dyes like **Acridine Orange, Auramine O, Thiazole Orange**, or non-fluorescent dyes like **Oxazine**.
 * RNA fluoresces ==1;;**orange-red**== while DNA fluoresces ==1;;**yellow**==. Fluorescence intensity is directly proportional to RNA content. Routine manual fluorescence microscopy is rarely used due to rapid signal fading upon light exposure.
-<!--SR:!2026-10-02,9,210-->
+<!--SR:!2026-10-11,5,190-->
 
 
 # 4. RBC Count

@@ -2,33 +2,6 @@
 {"dg-publish":true,"permalink":"/docs/protozoa/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
 ---
 
-```insta-toc
----
-title:
-  name:
-  level:
-  center:
-exclude:
-style:
-  listType:
-omit:
-levels:
-  min:
-  max: 3
----
-
-# Table of Contents
-
-- Reproduction
-- life cycle
-- Classification
-    - E.Histolytica, Giardia, B.Coli Summary
-    - Amoeba | Entamoeba Histolytica
-    - Flagellate | Giardia Lambila
-    - Ciliate | Balantidium Coli
-    - Sporozoan | Cryptosporidium parvum
-```
-
 
 - Unicellular, simplest forms of life.
 
@@ -59,10 +32,10 @@ levels:
 
 **Quest | which protozoan parasite is found in small intestine and which one in large intestine**
 ?
-- small intestine : *flagellate| giardia* primary habitat is duodenum and upper jejunum , *sporozoan| cryptosporidium parvum*
+- small intestine : *giardia lambila* primary habitat is duodenum and upper jejunum , *cryptosporidium parvum*
 - large intestine : entamoeba histolytica   , balantidium coli (ciliate)
-- both intestine : balantidumundergoes **excystation** in the small intestine, then migrates to the large intestine where trophozoites colonize.
-<!--SR:!2026-09-19,3,205-->
+- both intestine : balantidum undergoes **excystation** in the small intestine, then migrates to the large intestine where trophozoites colonize.
+<!--SR:!2026-10-10,2,185-->
 
 ### E.Histolytica, Giardia, B.Coli Summary
 
@@ -136,7 +109,7 @@ levels:
 	- Mature cysts are passed in **formed stool**.
 	- They survive outside the body better than trophozoites.
 	- Another person becomes infected by ingesting these cysts.
-<!--SR:!2026-09-20,4,270-->
+<!--SR:!2026-10-15,7,270-->
 
 #### Pathogenesis & Clinical Features
 1. **Intestinal Amoebiasis**
@@ -336,7 +309,7 @@ stages
 - infective form is ==oocyst. oocyst ==does not stain with iodine and is acid fast
 - wall of oocyst is thick or can be thin. these thin walled oocyst are responsible for autoinfection
 - oocyst is very hard and is resistant to most disinfectants and temp up to 60 degree celsius
-<!--SR:!2026-09-17,1,230-->
+<!--SR:!2026-10-11,3,230-->
 
 **Life Cycle**
 - complete asexual and sexual cycle in single host 

@@ -65,7 +65,7 @@ PRBC are stored at **1–6°C** in preservative solution (CPDA‑1 or additive) 
 * **Bleeding due to clotting disorders** where specific tests or factors are unavailable; temporary replacement.
 
 Shelf life is :: 1 year when stored at –18°C or colder, but it can last up to 3 years if kept at –25°C or lower.
-<!--SR:!2026-10-03,10,230-->
+<!--SR:!2026-10-11,5,210-->
 
 ---
 
@@ -79,7 +79,7 @@ Shelf life is :: 1 year when stored at –18°C or colder, but it can last up to
 * **Step 2 – hard spin of PRP**: PRP → **platelet pellet \+ PPP** using higher speed (\~5000 g for 5–10 minutes at 20–22°C).  
 * Remove PPP, leaving \~50–60 mL plasma suspending platelets → **platelet concentrate**.  
 * Platelets stored at **20–24°C with continuous agitation**, shelf‑life is :: \~5–7 days.
-<!--SR:!2026-09-26,3,250-->
+<!--SR:!2026-10-17,11,270-->
 
 (You may also mention **apheresis platelets** as machine‑collected single‑donor units. )
 

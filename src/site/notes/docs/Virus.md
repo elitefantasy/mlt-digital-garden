@@ -31,13 +31,14 @@ mnemonic :  **HHAPPPy**: *Herpesviridae*, **H**epadnaviridae, *Adenoviridae*, **
     *   **Exception:** ==Parvovirus== is the only **Single-Stranded (ssDNA)** virus . *(Hint: It's the smallest, so it only has one strand).*
 *   **Envelope (Naked vs. Enveloped):**
     *   **Non-Enveloped (Naked) DNA Viruses:** Remember the mnemonic :: **PAP** (**P**apova, **A**deno, **P**arvo)
-<!--SR:!2026-09-24,1,130-->
+<!--SR:!2026-10-10,2,150-->
     *   **Enveloped DNA Viruses:** The rest (Herpes, Hepadna, Pox) have envelopes
 *   **Symmetry:**
     *   **Rule:** All DNA viruses have **Icosahedral** symmetry
+      ![Pasted image 20261006205621.png\|149](/img/user/Attachments/Pasted%20image%2020261006205621.png)
     *   **Exception:** ==Poxvirus== has **Complex** symmetry
     *   *Note: There are no helical DNA viruses*
-<!--SR:!2026-09-24,1,130-->
+<!--SR:!2026-10-07,1,130-->
 
 #### 2. RNA Viruses
 [[docs/RNA Specific Virus\|RNA Specific Virus]]
@@ -62,7 +63,7 @@ There are about 15 major medically important RNA virus families, including Picor
     *   **Rule 1:** All Non-enveloped RNA viruses (PCR group) are **Icosahedral**
     *   **Rule 2:** All Enveloped RNA viruses are **Helical**.
     *   *Note: There are no complex RNA viruses*
-<!--SR:!2026-09-26,1,150-->
+<!--SR:!2026-10-09,1,130-->
 
 
 
@@ -85,7 +86,7 @@ These inclusions are restricted to the cytoplasm of the host cell:
 *   **Poxvirus (Variola and Vaccinia):** Characterized by the presence of ==1;;Guarnieri bodies==
 *   **Fowlpox Virus:** Produces inclusions known as ==1;;Bollinger bodies==
 *   **Molluscum Contagiosum Virus:** Produces ==1;;Henderson-Paterson bodies==
-<!--SR:!2026-08-30,1,170-->
+<!--SR:!2026-10-07,1,150-->
 
 #### 2. Intranuclear Inclusion Bodies
 These inclusions form inside the nucleus of the host cell and are sub-classified by their staining properties
@@ -96,7 +97,7 @@ These inclusions form inside the nucleus of the host cell and are sub-classified
     *   **Torres Bodies:** Another specific acidophilic inclusion associated with ==1;;Yellow Fever==
 *   **Basophilic Intranuclear Inclusions:**
     *   These are classically produced by the ==1;;Adenovirus==
-<!--SR:!2026-09-26,1,150--> 
+<!--SR:!2026-10-09,1,130--> 
 
 #### 3. Both Intranuclear & Intracytoplasmic Inclusions
 Most viruses form inclusions in *either* the nucleus or the cytoplasm, but some are capable of forming them in both locations simultaneously:

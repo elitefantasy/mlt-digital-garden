@@ -2,47 +2,50 @@
 {"dg-publish":true,"permalink":"/docs/histology-staining/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"],"Sem4Sub":["Histology"]}}
 ---
 
-general procedure
-1. Drying: slide is dried completely in hot air oven
-2. Deparaffinization: slide is placed in xylene for 5 min and again for additional 5 minute in another xylene path
-3. Hydration: slides are passed through decreasing concentration 90,80,70%. finally these slide are washed in distilled water 
-4. Staining: Slide immersed in hematoxylin solution (5-15 min). What happens here: Hematein-mordant complex enters tissue Binds to nuclei Nuclei become red-purple initially
-5. Washing (Rinsing) : Tap water wash Removes excess stain
-6. Bluing reaction (VERY IMPORTANT) : Slide placed in alkaline solution: • Ammonia water OR • Scott's tap water substitute . Chemical change: Hematoxylin converts from reddish-purple → blue . This stabilizes nuclear staining
-7. Differentiation (optional in regressive staining) Acid alcohol dip Removes excess stain from cytoplasm Leaves only strong nuclear stain
-8. Counterstaining (if H&E method used):  Eosin applied . Stains cytoplasm pink
-9. Dehydration again : Alcohol series removes water
-10. Clearing : Xylene used again
-11. Mounting : DPX or resin added Coverslip placed Permanent slide ready
+**general procedure**
+1. **Drying**: slide is dried completely in hot air oven
+2. **Deparaffinization**: slide is placed in xylene for 5 min and again for additional 5 minute in another xylene path
+3. **Hydration**: slides are passed through decreasing concentration 90,80,70% of alcohol. finally these slide are washed in distilled water 
+4. **Staining**: Slide immersed in hematoxylin solution (5-15 min). What happens here: Hematein-mordant complex enters tissue Binds to nuclei Nuclei become red-purple initially
+5. **Washing (Rinsing)** : Tap water wash Removes excess stain
+6. **Bluing reaction** (VERY IMPORTANT) : Slide placed in alkaline solution: • Ammonia water OR • Scott's tap water substitute . Chemical change: Hematoxylin converts from reddish-purple → blue . This stabilizes nuclear staining
+7. **Differentiation** (optional in regressive staining) Acid alcohol dip Removes excess stain from cytoplasm Leaves only strong nuclear stain
+8. **Counterstaining** (if H&E method used):  Eosin applied . Stains cytoplasm pink
+9. **Dehydration** again : Alcohol series removes water
+10. **Clearing** : Xylene used again
+11. **Mounting** : DPX or resin added Coverslip placed Permanent slide ready
 
+# heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### heading 5
+##### Heading 6
 ## Hematoxylin Stain and Eosin Stain
+### Hematoxylin
+- natural dye : logwood tree *Haematoxylum campechianum*
+- gets activated (oxidized) in presence of air or sun into *hematin*
+- needs metal mordant(aluminum , iron, tungsten) to form a **dye–mordant–tissue complex**, giving strong, stable nuclear staining. 
 
-- **Hematoxylin** is a natural dye extracted from the heartwood of the logwood tree **_Haematoxylum campechianum_** 
-- By itself, hematoxylin is **not** the active stain. It must be **oxidized** to ***hematein***, which is the true chromogen that binds to tissue.
-- Hematein is a weak anionic dye that needs a **metal mordant** (usually **aluminum**, **iron**, or **tungsten**) to form a **dye–mordant–tissue complex**, giving strong, stable nuclear staining. 
-
-### Key terms
 - **Progressive vs regressive:** Way the stain is used, not a different dye.
     - **Progressive:** Stain until nuclei reach desired intensity; no differentiation.
     - **Regressive:** Deliberately overstain, then **differentiate** in acid alcohol to remove excess from cytoplasm/background, leaving crisp nuclei. 
+#### Steps
+1. oxidation
+2. dye mordant complex
+3. complex act as basic dye
+4. stains nuclei (acidic component)
 
-### Steps
-1. oxidation: Hematoxylin → Hematein (active form) This oxidation can occur: . Naturally (slow aging) . Chemically (using sodium iodate, mercuric oxide, etc.)
-2. Step 2: Formation of dye-mordant complex : Hematein binds with a mordant (metal ion) such as: Aluminum (Al) → most common Iron (Fe³+) . This forms a hematein-mordant complex
-3. Step 3: Nature of dye : This complex acts as a: Basic dye (cationic dye)
-4. Step 4: Binding mechanism : Cell nuclei contain nucleic acids (DNA, RNA) These have negatively charged phosphate groups The positively charged dye binds electrostatically This is called basophilic reaction
-
-### 2) Classification of hematoxylin stains
-
+### Classification of hematoxylin stains
 #### A) By mordant (most important for exams)
 1. **Alum hematoxylins (Aluminum mordants)** – “hemalums”
     - Most commonly used in routine H&E.
     - Give **blue‑purple nuclei** after bluing.
-    - Examples: **Ehrlich’s, Harris’s, Mayer’s, Gill’s, Delafield’s, Carazzi’s, Cole’s**. 
+    - Examples: *Ehrlich’s*, *Harris’s*, Mayer’s, Gill’s, Delafield’s, Carazzi’s, Cole’s
 2. **Iron hematoxylins (Ferric mordants)**
     - Very intense, black‑blue nuclear staining; often used for **special techniques** and when strong contrast is needed.
     - More resistant to decolorization; often used in combination with other stains.
-    - Examples: **Heidenhain’s, Weigert’s** (iron hematoxylin used for connective tissue/fibrin stains). 
+    - Examples: Heidenhain’s, Weigert’s (iron hematoxylin used for connective tissue/fibrin stains). 
 3. **Tungsten / other metal hematoxylins**
     - Less common in routine work; used in some specialized protocols. 
 
@@ -50,8 +53,7 @@ general procedure
 - **Progressive hematoxylins**
     - Lower dye concentration; selective for nuclei.
     - Examples: **Mayer’s, Gill’s (some formulations), Carazzi’s**. 
-- **Regressive hematoxylins**
-    - Higher dye concentration; stain nuclei + cytoplasm intensely, then differentiated.
+- **Regressive hematoxylins**    - Higher dye concentration; stain nuclei + cytoplasm intensely, then differentiated.
     - Examples: **Harris’s, Ehrlich’s (often used regressively), some Heidenhain protocols**. 
 
 ### 3) Major alum hematoxylins: composition and features
@@ -257,7 +259,7 @@ PAS staining works in two linked reactions:
 11. mount with dpx
 
 ### Result and interpretation
-- A positive PAS reaction indicates the presence of oxidizable carbohydrate-containing substances, but it does **not** prove that the material is glycogen alone. For that reason, the PAS-diastase control is important
+- A positive PAS reaction indicates the presence of oxidizable carbohydrate-containing substances, but it does **not** prove that the material is glycogen alone. For that reason, the ==PAS-diastase== control is important
 - PAS Diastase Stain: One section is stained by ordinary PAS. A serial section is treated first with **diastase enzyme**, then stained with PAS. Diastase digests glycogen.
 - findings: PAS-positive material disappears after diastase digestion. The material was glycogen
 
@@ -266,3 +268,31 @@ PAS staining works in two linked reactions:
 - glycogen storage dx
 - fungal infection
 - renal glomerular and tubular basement membrane
+
+## Mason Trichrome Stain
+- differentaites connective tissue especially collagen from muscle and other tissue 
+- helps in
+	- fibrosis, liver cirhosis, renal febrosis
+
+**principle**
+- 3 different dye is used
+	- 1. weighert's iron hematoxylin : nuclei black
+	- 2. biebrich scarlet acid fuchsin: muscle , cytoplasm, keratin -> RED
+	- 3. aniline blue : collagen fiber -> GREEN
+- based on differential staining and tissue permeability
+- seperates tissue based on there chemical and structural property
+
+**Reagents**
+- 3 stains
+- phosphotungstic acid
+- acetic acid
+
+**Procedure**
+- deparafinizie and hydration
+- nuclear staining with weigerts iron hematoxylin then wash
+- cytoplasmic staining acid fuchsin
+- differentiation : treat with phosphotungstic acid , removes stain from collagen
+- collagen staining : aniline blue
+- dehydration
+- clearing
+- mounting

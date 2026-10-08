@@ -20,7 +20,7 @@ The *Herpesviridae* family includes several clinically significant viruses:
 *   Varicella-Zoster Virus (VZV) - causes Chickenpox
 *   Cytomegalovirus (CMV)
 *   Epstein-Barr Virus (EBV)
-<!--SR:!2026-09-24,1,210-->
+<!--SR:!2026-10-10,2,190-->
 
 **Fetal varicella syndrome**, also called congenital varicella syndrome, is a rare condition. It happens when a pregnant person gets a chickenpox infection (caused by the varicella-zoster virus) during the first half of pregnancy, usually before 20 weeks
 characteristic features are : ==scarring of arms, legs, body ; hypoplasia limb, micropthalimia, low weight==
@@ -45,7 +45,7 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 *   **Latency:** Herpes viruses, notably ==Hsv-1, HSV-2, CMV, and EBV==, are characterized by their ability to cause **latent infections**, meaning the virus can remain dormant in the host's body for long periods
 *   **HSV-1 Characteristics:** Oropharyngeal involvement is highly common in HSV-1 infections
 *   **HSV-2 Characteristics:** HSV-2 is classically associated with recurrent genital involvement
-<!--SR:!2026-09-19,5,230--> 
+<!--SR:!2026-10-09,3,210--> 
 
 ## VI. Treatment**
 *   **Acyclovir** is the primary and highly effective antiviral drug used to treat Herpes Simplex Virus (HSV) infections, particularly in primary stages, as well as associated complications like encephalopathy 
@@ -60,7 +60,7 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 **II. Cultivation and Isolation**
 *   **Gold Standard Medium:**  The ==human fibroblast cell line (specifically derived from lungs)== is considered the **"gold standard"** for the cultivation, isolation, and replication of CMV
 *   **Cultivation Challenges:** Because CMV is highly sensitive, it does not reside or replicate well in standard host cells, normal tissue cultures, or chick embryos, unlike other common viruses . It gives the best growth and shows its characteristic effects purely within human fibroblast cell lines
-<!--SR:!2026-09-28,5,210-->
+<!--SR:!2026-10-09,3,190-->
 
 **III. Microscopic Findings & Cytopathic Effects**
 CMV produces distinct **cytopathic effects**, meaning it severely damages or alters the structure and function of the host cells it infects, which can be clearly visualized under a microscope 
@@ -76,7 +76,7 @@ CMV produces distinct **cytopathic effects**, meaning it severely damages or alt
 #### I. Classification & Viral Nature
 *   **Viral Family:** The Simian 40 virus belongs to the **Polyomavirus** group 
 *   **Nucleic Acid:** :: Unlike many other common viruses (such as Ebola or Rabies, which are RNA viruses), Simian 40 is a **Double-Stranded (DS) DNA virus**
-<!--SR:!2026-09-10,12,270-->
+<!--SR:!2026-10-12,4,270-->
 
 #### II. Genomic Characteristics & Structure
 *   **Genome Structure:** It contains **DS circular DNA** 
@@ -90,4 +90,4 @@ CMV produces distinct **cytopathic effects**, meaning it severely damages or alt
 *   Simian 40 is practically utilized in the production of the :: **polio virus vaccine**
 <!--SR:!2026-09-26,1,130-->
 *  One of the most important characteristics of this virus is that ::  its genome is quite **small and easily modifiable**  Because it can be easily altered, it serves as a highly beneficial and important tool in the field of **gene therapy**
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-10-13,7,250-->

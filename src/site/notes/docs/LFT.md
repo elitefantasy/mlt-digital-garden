@@ -30,7 +30,7 @@ The liver is the sole site of synthesis for major plasma proteins like albumin a
 * **Total Protein (Normal: 5.0–8.5 g/dL):** Measured via the ==1;;**Biuret method** (cupric ions react with protein in alkaline medium to form a violet complex at 540 nm==).
 * **Albumin (Normal: ==1;;3.5–5.0== g/dL):** Measured via the ==1;;Bromocresol Green (BCG) method== (turns from yellow-green to blue-green at 630 nm).
 * **Albumin-Globulin (A:G) Ratio (Normal: 1.2–1.5):** In chronic liver disease, albumin synthesis drops, leading to a reversed ratio (<1.0).
-<!--SR:!2026-09-28,5,210-->
+<!--SR:!2026-10-09,3,190-->
 
 ## 3.b Prothrombin Time (PT) and INR
 [[docs/Hemostasis & Coagulation Pathway Tests#3 Coagulation profile\| PT and INR , Coagulation profile]]

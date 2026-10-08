@@ -129,7 +129,7 @@ The liver makes three main ketone bodies when it breaks down fatty acids for ene
 <!--SR:!2026-11-02,40,210-->
 
 **Q) Why Ketone bodies are found in urine in case of  diabetes mellitus** :: less insulin means cant break sugar for energy. so liver breaks fats(fatty acid) into ketone bodies.
-<!--SR:!2026-10-06,38,290-->
+<!--SR:!2027-03-10,153,310-->
 
 
 **Detection Methods:**
