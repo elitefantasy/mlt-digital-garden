@@ -9,35 +9,14 @@ Linked: [[docs/CBC\|CBC]]
 Hematology test list
 
 1.  [[docs/blood cell count\|blood cell count]]
-2.  [[docs/Anemia#RBC Indices \| RCI]]
-3.  Retic count
-4.  OFT
-5.  Schilling test
-6.  Sickle cell test
-7.  Coagulation test : Pt ,aptt , BT , CT
+2. [[docs/CBC\|CBC]]
+3.  [[docs/CBC#A. Red Cell Indices \| RCI]]
+4.  Retic count
+5.  OFT
+6.  Schilling test
+7.  Sickle cell test
+8.  Coagulation test : Pt ,aptt , BT , CT
 
-## 1. Primary Screening & Basic Panels
-
-These tests provide a bird’s-eye view of a patient’s overall cellular health, oxygen-carrying capacity, and immune status.
-
-### 1.1 Complete Blood Count (CBC) with Differential
-
--   Specimen: EDTA (Lavender top)
--   Parameters Included:
-    -   Hemoglobin (Hb / Hgb): Measures oxygen-carrying protein capacity.
-    -   Hematocrit (Hct / PCV - Packed Cell Volume): Percentage of total blood volume occupied by red cells.
-    -   Red Blood Cell Count (RBC): Absolute count of circulating erythrocytes.
-    -   White Blood Cell Count (WBC): Total leukocyte count.
-    -   Differential WBC Count: Relative and absolute percentages of Neutrophils, Lymphocytes, Monocytes, Eosinophils, and Basophils.
-    -   Platelet Count (PLT): Crucial for initial hemostasis assessment.
-
-### 1.2 Red Cell Indices (RBC Indices)
-
-> -   Essential for classifying anemias (Microcytic, Normocytic, Macrocytic).
-> -   MCV (Mean Corpuscular Volume): Average size/volume of a single RBC (fL).
-> -   MCH (Mean Corpuscular Hemoglobin): Average weight of Hb per RBC (pg).
-> -   MCHC (Mean Corpuscular Hemoglobin Concentration): Average concentration of Hb in a given volume of packed RBCs (g/dL).
-> -   RDW (Red Cell Distribution Width): Quantifies variation in RBC size (Anisocytosis).
 
 ## 2. Red Blood Cell & Anemia Diagnostics
 

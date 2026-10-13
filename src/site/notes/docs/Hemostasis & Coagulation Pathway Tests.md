@@ -113,7 +113,7 @@ c. factor 5 and 9
 d. factor 5 and 10
 ?
 **Combined Factor V and VIII Deficiency (F5F8D)** is a well-known, distinct inherited bleeding disorder.
-<!--SR:!2026-09-16,16,290-->
+<!--SR:!2026-12-12,64,310-->
 
 **Question:** A patient’s PT/INR is reported to be 6.6. What is the most appropriate first action the laboratory technician or clinician should take?
 - A) Increase the dose of Warfarin
@@ -186,7 +186,7 @@ D-dimer is not specific for thrombosis; it can also increase with infection, inf
 - **Alternative Name:** The **Tourniquet Test** is also widely referred to as the **Capillary Fragility Test**.
 - **Classification:** It is an important diagnostic test in hematology, categorized under the **coagulation profile**.
 - **Primary Utility:** It is most commonly used in the clinical evaluation of patients suspected of having vector-borne viral diseases such as ==**Dengue** or **Chikungunya**==.
-<!--SR:!2026-09-30,7,270-->
+<!--SR:!2026-11-05,27,290-->
 
 ---
 

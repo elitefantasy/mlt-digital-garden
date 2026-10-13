@@ -21,7 +21,7 @@ Depending on oxygen availability, respiration can be **aerobic** (using oxygen t
 **Alveolar ventilation** refers to the volume of **fresh air that successfully reaches the alveoli** in the lungs.
 .
 In a clinical context, if a patient experiences a **decrease in their tidal volume** (the amount of air taken in during a normal breath) while their overall respiration rate remains constant, their **alveolar ventilation will also decrease**. This reduction happens because a shallower breath means **less fresh air is able to travel deep enough to reach the alveoli** for gas exchange.
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-08,60,310-->
 
 ### Anatomy of the Respiratory System
 

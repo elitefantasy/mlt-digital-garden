@@ -5,7 +5,7 @@
 
 
 - blood to body weight contribution is :: 7%
-<!--SR:!2026-10-09,3,210-->
+<!--SR:!2026-10-18,9,230-->
 
 the main protein found in plasma is
 a. albumin

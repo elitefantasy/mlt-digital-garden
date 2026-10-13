@@ -137,7 +137,7 @@ Q) What is the detection method of ketone bodies
 ?
 -   **Rothera's Test**: Detects acetone and acetoacetic acid. The addition of Sodium nitroprusside and liquid ammonia creates a purple ring at the junction.
 -   **Reagent Strip Method**: Uses an alkaline pH pad that turns purple or magenta.
-<!--SR:!2026-09-25,2,190-->
+<!--SR:!2026-10-10,1,170-->
 
 #### Bilirubin | Urine Based Test
 [[docs/bilirubin\|bilirubin]]

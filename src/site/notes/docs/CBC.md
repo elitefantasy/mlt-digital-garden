@@ -15,6 +15,7 @@ Question
 - you must follow [[docs/Blood Collection#B. Order of draw\|Blood Collection#B. Order of draw]]
 - sample: EDTA
 
+
 | Parameter                   | Typical Adult Normal Range         | Units                 | Notes / Clinical Relevance                                                    |
 | --------------------------- | ---------------------------------- | --------------------- | ----------------------------------------------------------------------------- |
 | **RBC's Parameter**         |                                    |                       |                                                                               |

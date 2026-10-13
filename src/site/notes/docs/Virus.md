@@ -38,7 +38,7 @@ mnemonic :  **HHAPPPy**: *Herpesviridae*, **H**epadnaviridae, *Adenoviridae*, **
       ![Pasted image 20261006205621.png\|149](/img/user/Attachments/Pasted%20image%2020261006205621.png)
     *   **Exception:** ==Poxvirus== has **Complex** symmetry
     *   *Note: There are no helical DNA viruses*
-<!--SR:!2026-10-07,1,130-->
+<!--SR:!2026-10-10,1,130-->
 
 #### 2. RNA Viruses
 [[docs/RNA Specific Virus\|RNA Specific Virus]]
@@ -86,7 +86,7 @@ These inclusions are restricted to the cytoplasm of the host cell:
 *   **Poxvirus (Variola and Vaccinia):** Characterized by the presence of ==1;;Guarnieri bodies==
 *   **Fowlpox Virus:** Produces inclusions known as ==1;;Bollinger bodies==
 *   **Molluscum Contagiosum Virus:** Produces ==1;;Henderson-Paterson bodies==
-<!--SR:!2026-10-07,1,150-->
+<!--SR:!2026-10-10,1,130-->
 
 #### 2. Intranuclear Inclusion Bodies
 These inclusions form inside the nucleus of the host cell and are sub-classified by their staining properties
@@ -97,12 +97,12 @@ These inclusions form inside the nucleus of the host cell and are sub-classified
     *   **Torres Bodies:** Another specific acidophilic inclusion associated with ==1;;Yellow Fever==
 *   **Basophilic Intranuclear Inclusions:**
     *   These are classically produced by the ==1;;Adenovirus==
-<!--SR:!2026-10-09,1,130--> 
+<!--SR:!2026-10-10,1,130--> 
 
 #### 3. Both Intranuclear & Intracytoplasmic Inclusions
 Most viruses form inclusions in *either* the nucleus or the cytoplasm, but some are capable of forming them in both locations simultaneously:
 *   ==Measles Virus==: Uniquely produces both nuclear and cytoplasmic inclusions, which are known as **Warthin-Finkeldey bodies**
-<!--SR:!2026-09-26,3,250--> 
+<!--SR:!2026-10-11,2,230--> 
 
 # in depth Master Note
 

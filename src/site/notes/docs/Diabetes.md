@@ -11,7 +11,7 @@ Diabetes Mellitus (DM) is a chronic metabolic disorder characterized by persiste
 
 * When fasting blood sugar exceeds **125 mg/dL** its diabetes
 * Normal FBS is ==**70 to 110== mg/dL**
-<!--SR:!2026-10-02,30,270-->
+<!--SR:!2027-01-30,113,290-->
 
 Note: myocardial infarctions (heart attacks) triggered by complications of diabetes are uniquely **painless (silent)**.
 

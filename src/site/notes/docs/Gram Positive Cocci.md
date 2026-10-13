@@ -76,7 +76,7 @@
 ?
 **Staphylococcus aureus** – Most common cause of suppurative skin lesions including folliculitis, furuncles/boils, carbuncles, abscesses, impetigo, and cellulitis.
 **Streptococcus pyogenes** (Group A β-hemolytic Streptococcus) – Causes suppurative infections such as pharyngitis/tonsillitis with exudates, impetigo, and scarlet fever.
-<!--SR:!2026-09-05,5,230-->
+<!--SR:!2026-10-26,17,250-->
 
 ### 🦠 Coagulase-Negative Staphylococci (CoNS)
 -   Produce non-pigmented white colonies; commensals of skin and mucous membranes.
@@ -98,7 +98,7 @@
     -   **Lancefield Classification:** Based on :: cell-wall Group C Carbohydrate antigen. Divides strains into 20 groups designated A through V (excluding letters I and J).
 <!--SR:!2026-10-18,10,230-->
     -   **Griffith Typing:** Based on :: surface M protein types. Subdivides Group A streptococci into ~100 M serotypes (1 to 100).
-<!--SR:!2026-10-09,3,210-->
+<!--SR:!2026-10-19,10,230-->
 
 ### Group A Beta-Hemolytic Streptococcus (Streptococcus pyogenes) 🩸
 
@@ -108,7 +108,7 @@
 -   **Selective Media:** Crystal Violet Blood Agar, PNF Blood Agar (Polymyxin B, Neomycin, Fusidic acid).
 -   **Transport Media:** Pike's Medium.
 -   **Diagnostic Features:** :: Catalase negative....... PYR (Pyrrolidonyl Arylamidase) test positive (pink color reaction)........and Bacitracin Sensitive (differentiates Group A from all other β-hemolytic streptococci).
-<!--SR:!2026-10-09,1,130-->
+<!--SR:!2026-10-11,2,150-->
 
 **Toxins and Virulence Factors:**
 
@@ -123,7 +123,7 @@ Suppurative Infections of s.pyogenes
     -   **Respiratory:**  Pharyngitis and tonsillitis (throat erythema, tonsillar exudates, petechiae).
     -   **Skin Infections:** Impetigo (red sores and blisters which leave hone colored crusts )
     -   **Toxigenic:** Scarlet Fever. scarlet fever ke features S: Sore Throat , C: Circumolar pallor, A: Anticubital fossa petechiae , R: Rash , L: Lymphadenopathy, E: Erythrogenic Toxin , T: Tongue strawberry
-<!--SR:!2026-09-02,4,170-->
+<!--SR:!2026-10-19,10,190-->
 
 Non superative infection of s.pyogenes
 ?
@@ -139,7 +139,7 @@ Non superative infection of s.pyogenes
 -   **Key Features:**
     -   Bacitracin Resistant and PYR Negative.
     -   which gram positive bacteria is the  common cause of <mark style="background: #FF5582A6;">neonatal sepsis and neonatal meningitis</mark> (in infants <28 days of age). :: s.agalactiae
-<!--SR:!2026-09-24,1,150-->
+<!--SR:!2026-10-11,2,170-->
     - which biochemical test are positive for s.agalactiae :: (1.) **Hippurate Hydrolysis Test** Positive: Enzyme hippurase hydrolyzes sodium hippurate to glycine, turning green media to deep purple...... (2) **CAMP Test** Positive: When streaked perpendicular to *Staphylococcus aureus* on blood agar, produces synergistic, arrowhead-shaped / butterfly-shaped β-hemolysis.
 <!--SR:!2026-10-11,7,190-->
 
@@ -165,7 +165,7 @@ The test is primarily used for the presumptive identification of:
 -   *Streptococcus agalactiae*: Group B are hippurate positive.
 -   *Campylobacter jejuni*: Distinguishes *C. jejuni* (positive) from *C. coli* (negative).
 -   *Listeria monocytogenes* and *Gardnerella vaginalis*.
-<!--SR:!2026-10-09,5,190-->
+<!--SR:!2026-10-23,14,210-->
 
 ##### Interpretation & Limitations
 
@@ -192,7 +192,7 @@ The test is primarily used for the presumptive identification of:
 -   Alpha-hemolytic oral commensal organism.
 -   **BOI Negative:** Bile insoluble, Optochin resistant, Inulin non-fermenting.
 -   **Associated Pathologies:** :: <mark style="background: #FF5582A6;">Dental caries</mark> (specifically *Streptococcus mutans*) and Subacute Bacterial Endocarditis (SBE) (following dental extraction in patients with pre-existing valvular heart disease).
-<!--SR:!2026-10-08,2,270-->
+<!--SR:!2026-10-16,7,290-->
 
 ### Gamma-Hemolytic Streptococci: 🩸 Enterococcus
 

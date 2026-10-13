@@ -34,7 +34,7 @@
 * **Glacial Acetic Acid (1.5% to 2%):** Lyses the red blood cells, which would otherwise obscure the WBCs due to their vastly higher numbers (approx. 5 million vs 7,000).
 * **Gentian Violet or Methyl Violet (1%):** Colors the fluid and stains the nuclei of the white blood cells to make them easily visible.
 * **Distilled Water (97%):** Acts as the solvent.
-<!--SR:!2026-09-24,1,170-->
+<!--SR:!2026-10-11,2,190-->
 
 ## Procedure
 * Discard the first few drops from the pipette as they mostly contain unmixed diluting fluid.  

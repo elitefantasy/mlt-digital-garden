@@ -43,7 +43,7 @@
     * Add **additive solution** to RBCs (optional) → **PRBC**.
 
 PRBC are stored at **1–6°C** in preservative solution (CPDA‑1 or additive) for up to about **==35–42 daysNote that cpda shelf life is 35 days and sagm along with cpda is 42 days.==**
-<!--SR:!2026-09-01,12,270-->
+<!--SR:!2026-11-25,47,290-->
 
 **Main uses**
 

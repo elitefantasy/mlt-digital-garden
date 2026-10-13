@@ -42,7 +42,7 @@ Cylindrical, unsegmented worms with a complete digestive tract.
 	1. lung flukes : ==1;;paragonimus westermani==
 	2. liver fluke : ==1;;Fasciola Hepatica==
 	3. intestinal fluke : ==1;;Fasciolopsis buski==
-<!--SR:!2026-09-17,1,130-->
+<!--SR:!2026-10-11,2,150-->
 
 
 Leaf-shaped flatworms.

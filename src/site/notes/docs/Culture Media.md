@@ -89,11 +89,11 @@ Contains 3 parts serum and 1 part nutrient broth. Used specifically to isolate C
 Key Advantage: It promotes rapid growth (often within 6–8 hours), making it ideal for the early observation of bacterial morphology.
 
 Diagnostic Purpose: ==metachromatic granules of C. diphtheriae when stained with Neisser’s or Albert’s stain==
-<!--SR:!2026-10-08,0,250-->
+<!--SR:!2026-10-10,1,230-->
 
 #### B.4 Dorset Egg medium
 Used for ==Mycobacterium tuberculosis.==
-<!--SR:!2026-10-09,1,130-->
+<!--SR:!2026-10-10,1,130-->
 
 
 ### C. Enrichment Media (liquid)
@@ -101,7 +101,7 @@ Liquid broths that selectively favor the growth of specific target pathogens whi
 
 #### C.1 Alkaline Peptone Water (APW):
 Strictly alkaline pH (8.2-9.6) tailored specifically for isolating ==Vibrio cholerae==
-<!--SR:!2026-10-06,2,150-->
+<!--SR:!2026-10-13,4,170-->
 
 #### C.2 Selenite F Broth and Tetrathionate Broth
 Used to isolate ==Salmonella and Shigella== from stool samples
@@ -119,7 +119,7 @@ Solid media analogous to Enrichment media. Contains inhibitory substances (antib
 
 6. **Thayer Martin Agar**:
 Contains antibiotics (like trimethoprim to inhibit Proteus) to selectively isolate ==Neisseria gonorrhoea, Neisseria menigitidis==
-<!--SR:!2026-10-08,2,150-->
+<!--SR:!2026-10-10,1,130-->
 
 It has VCN Inhibitor
 Vancomycin: targets gram positive bacteria 
@@ -164,9 +164,9 @@ used to safely transport delicate, fragile organisms from the collection site to
 ### G. Anaerobic Culture Media
 For bacteria (like Clostridium) intolerant to oxygen. These media contain reducing substances that consume oxygen and lower redox potential,
 
-1. Robertson's Cooked Meat (RCM) Broth: Contains chopped beef heart pieces providing glutathione (a reducing agent) and unsaturated fatty acids. Shows saccharolytic reactions (red/pink color - ==1;;C. perfringens==) or proteolytic reactions (black color - ==1;;C. tetani==)
+1. Robertson's Cooked Meat (RCM) Broth: Contains chopped beef heart pieces providing glutathione (a reducing agent) and unsaturated fatty acids. Shows saccharolytic reactions (red/pink color - ==1;;C. perfringens==) or proteolytic reactions (black color - ==1;;C. tetani==). Clostridium generally kispe grow karaya jata he ? Clostridium colony appearance ?
 2. Thioglycollate Broth: Uses sodium thioglycollate to reduce oxygen
-<!--SR:!2026-10-07,1,130-->
+<!--SR:!2026-10-10,1,130-->
 
 **Name Culture Techniques used for anaerobic bacteria**
 ?

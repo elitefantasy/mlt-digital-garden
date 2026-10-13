@@ -50,7 +50,7 @@ The loss of the second X chromosome stops normal somatic development, presenting
 - **Broad Chest:** Often described clinically as a broad or shield-like chest.
 - **Webbed Neck:** The neck appears abnormally broad, wide, or webbed.
 - **Abnormal/Impaired Development:** Overall bodily growth and development do not proceed normally, resulting in congenital abnormalities.
-<!--SR:!2026-10-08,15,250-->
+<!--SR:!2026-12-01,53,270-->
 
 ---
 

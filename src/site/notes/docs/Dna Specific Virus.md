@@ -45,7 +45,7 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 *   **Latency:** Herpes viruses, notably ==Hsv-1, HSV-2, CMV, and EBV==, are characterized by their ability to cause **latent infections**, meaning the virus can remain dormant in the host's body for long periods
 *   **HSV-1 Characteristics:** Oropharyngeal involvement is highly common in HSV-1 infections
 *   **HSV-2 Characteristics:** HSV-2 is classically associated with recurrent genital involvement
-<!--SR:!2026-10-09,3,210--> 
+<!--SR:!2026-10-19,10,230--> 
 
 ## VI. Treatment**
 *   **Acyclovir** is the primary and highly effective antiviral drug used to treat Herpes Simplex Virus (HSV) infections, particularly in primary stages, as well as associated complications like encephalopathy 
@@ -60,7 +60,7 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
 **II. Cultivation and Isolation**
 *   **Gold Standard Medium:**  The ==human fibroblast cell line (specifically derived from lungs)== is considered the **"gold standard"** for the cultivation, isolation, and replication of CMV
 *   **Cultivation Challenges:** Because CMV is highly sensitive, it does not reside or replicate well in standard host cells, normal tissue cultures, or chick embryos, unlike other common viruses . It gives the best growth and shows its characteristic effects purely within human fibroblast cell lines
-<!--SR:!2026-10-09,3,190-->
+<!--SR:!2026-10-17,8,210-->
 
 **III. Microscopic Findings & Cytopathic Effects**
 CMV produces distinct **cytopathic effects**, meaning it severely damages or alters the structure and function of the host cells it infects, which can be clearly visualized under a microscope 
@@ -88,6 +88,6 @@ CMV produces distinct **cytopathic effects**, meaning it severely damages or alt
 
 #### IV. Clinical & Practical Significance
 *   Simian 40 is practically utilized in the production of the :: **polio virus vaccine**
-<!--SR:!2026-09-26,1,130-->
+<!--SR:!2026-10-11,2,150-->
 *  One of the most important characteristics of this virus is that ::  its genome is quite **small and easily modifiable**  Because it can be easily altered, it serves as a highly beneficial and important tool in the field of **gene therapy**
 <!--SR:!2026-10-13,7,250-->
