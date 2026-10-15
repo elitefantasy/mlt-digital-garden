@@ -11,7 +11,7 @@ A living repository of notes, clinical protocols, reference ranges, and laborato
 
 ## Must know topics for MLT
 - **Hematology:** [[docs/PBS Peripheral Blood Smear\|PBS Peripheral Blood Smear]],  [[docs/CBC\|CBC]], [[docs/Hemoglobin\|Hemoglobin]] , [[docs/ESR and PCV\|ESR and PCV]], [[docs/Hemostasis & Coagulation Pathway Tests\|Hemostasis & Coagulation Pathway Tests]] , [[docs/List of Haemoatology Test\|List of Haemoatology Test]] , [[docs/Anemia\|Anemia]] , [[docs/Leukemia\|Leukemia]], [[docs/Quality Control\|Quality Control]]
-- **Clinical Biochemistry:** [[docs/LFT\|LFT]], [[docs/KFT\|KFT]], [[lipid profile\|lipid profile]], [[docs/Carbohydrate Metabolism\|Carbohydrate Metabolism]], [[docs/Diabetes\|Diabetes]], [[docs/Cardiac Markers\|Cardiac Markers]], [[electrolyte and blood gas\|electrolyte and blood gas]], [[docs/instruments and techniques\|instruments and techniques]]
+- **Clinical Biochemistry:** [[docs/LFT\|LFT]], [[docs/KFT\|KFT]], [[lipid profile\|lipid profile]], [[docs/Carbohydrate Metabolism\|Carbohydrate Metabolism]], [[docs/Diabetes\|Diabetes]], [[docs/Cardiac Markers\|Cardiac Markers]], [[docs/electrolyte and blood gas\|electrolyte and blood gas]], [[docs/instruments and techniques\|instruments and techniques]]
 - **Clinical Pathology:** [[docs/Urine\|Urine]], [[docs/Stool Analysis\|Stool Analysis]], [[semen analysis\|semen analysis]], [[pregnancy test\|pregnancy test]], [[docs/Body Fluids\|Body Fluids]]
 - **Histopathology:** [[docs/Histology\|Histology]], [[docs/Histology Staining\|Histology Staining]]
 - **Cytology**: [[pap smear\|pap smear]], [[docs/FNAC\|FNAC]], [[Sputum Cytology\|Sputum Cytology]]

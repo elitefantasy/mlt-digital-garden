@@ -15,12 +15,6 @@
 10. **Clearing** : Xylene used again
 11. **Mounting** : DPX or resin added Coverslip placed Permanent slide ready
 
-# heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### heading 5
-##### Heading 6
 ## Hematoxylin Stain and Eosin Stain
 ### Hematoxylin
 - natural dye : logwood tree *Haematoxylum campechianum*
@@ -59,7 +53,7 @@
 ### 3) Major alum hematoxylins: composition and features
 - most common used stain : Harris Hematoxylin
 #### 1) Ehrlich’s hematoxylin (1886)
-- **Type:** Alum hematoxylin; traditionally **natural ripening** (slow oxidation by air/light). Often used **regressively**.
+- **Type:** , regressive,  natural ripening
 - **Mordant:** **Potassium alum** (or ammonium alum) → provides **Al³⁺**.
 - **Typical composition (classic formula):**
     - Hematoxylin
@@ -296,3 +290,6 @@ PAS staining works in two linked reactions:
 - dehydration
 - clearing
 - mounting
+
+## zn stain
+[[docs/Staining#3.2 Ziehl-Neelsen (ZN) / Acid-Fast Stain\|Staining#3.2 Ziehl-Neelsen (ZN) / Acid-Fast Stain]]
