@@ -114,13 +114,14 @@ Assesses:
 ### RBC Inclusion Bodies
 
 - **Howell–Jolly bodies:** :: Composed of **DNA remnants** (nuclear fragments). They are often associated with post-splenectomy, hyposplenism, or megaloblastic anemia.
-<!--SR:!2026-09-25,11,190-->
+<!--SR:!2026-11-15,30,210-->
 
 - **Heinz bodies:** :: Composed of denatured hemoglobin precipitates. They are typically associated with **G6PD deficiency** and other hemoglobinopathies or exposure to oxidative chemicals.
 <!--SR:!2026-11-04,44,210-->
 
 - **Pappenheimer bodies:** :: Composed of **iron-containing granules (hemosiderin)**. They are seen in sideroblastic anemia, hyposplenism, and iron-loading states.
-<!--SR:!2026-09-23,2,150-->
+- ![sideroblastic anemia.png\|491](/img/user/Attachments/sideroblastic%20anemia.png)
+<!--SR:!2026-10-19,2,150-->
 
 - **Basophilic stippling:** :: Composed of aggregates of ribosomal RNA and ribosomes. Common associations include lead poisoning, thalassemia, and megaloblastic anemia.
 <!--SR:!2026-11-10,64,310-->
@@ -180,12 +181,12 @@ Used for:
 
 Calculated parameters used to define RBC size and hemoglobin content:
 
-| Index | Formula & Calculation | Normal Range | Clinical Interpretation |
-|---|---|---:|---|
-| **MCV (Mean Corpuscular Volume)** | (PCV × 10) / RBC count (in millions/µL) | 76–96 fL | <76 fL: Microcytic (iron deficiency, thalassemia); >96 fL: Macrocytic (megaloblastic anemia – vitamin B12/folate deficiency) |
-| **MCH (Mean Corpuscular Hemoglobin)** | (Hb in g/dL × 10) / RBC count | 27–32 pg | Measures average weight of Hb per single RBC. Decreased in hypochromic anemias. |
-| **MCHC (Mean Corpuscular Hb Concentration)** | (Hb in g/dL × 100) / PCV | 31–36 g/dL (%) | Average Hb concentration per packed cell volume. Truly diagnostic for hypochromia. |
-| **RDW (Red Cell Distribution Width)** | Standard deviation of MCV / Mean MCV × 100 | 11.5–14.5% | Quantifies **anisocytosis** (variation in RBC size). Elevated in iron deficiency anemia; normal in uncomplicated thalassemia trait. |
+| Index                                        | Formula & Calculation                      |   Normal Range | Clinical Interpretation                                                                                                             |
+| -------------------------------------------- | ------------------------------------------ | -------------: | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **MCV (Mean Corpuscular Volume)**            | (PCV × 10) / RBC count (in millions/µL)    |      80-100 fL | <76 fL: Microcytic (iron deficiency, thalassemia); >96 fL: Macrocytic (megaloblastic anemia – vitamin B12/folate deficiency)        |
+| **MCH (Mean Corpuscular Hemoglobin)**        | (Hb in g/dL × 10) / RBC count              |       27–32 pg | Measures average weight of Hb per single RBC. Decreased in hypochromic anemias.                                                     |
+| **MCHC (Mean Corpuscular Hb Concentration)** | (Hb in g/dL × 100) / PCV                   | 31–36 g/dL (%) | Average Hb concentration per packed cell volume. Truly diagnostic for hypochromia.                                                  |
+| **RDW (Red Cell Distribution Width)**        | Standard deviation of MCV / Mean MCV × 100 |     11.5–14.5% | Quantifies **anisocytosis** (variation in RBC size). Elevated in iron deficiency anemia; normal in uncomplicated thalassemia trait. |
 
 
 # Complications
@@ -213,8 +214,8 @@ Calculated parameters used to define RBC size and hemoglobin content:
 - Defective DNA synthesis.
 - Abnormal RBC precursor (megaloblast).
 - Causes:
-  - Vitamin B12 deficiency
-  - Folic acid deficiency
+	- Vitamin B12 deficiency
+	- Folic acid deficiency
 - MCV , MCH , RDW incr 
 - PBS: macrocytic , hypochromic , anisocytosis, poikilocytosis, howel jolly bodies , cabot rings, basophillic stipling, hypersegmented neutrophils
 - Retic count decreased
@@ -231,7 +232,7 @@ Calculated parameters used to define RBC size and hemoglobin content:
 - D. Pyridoxine deficiency
 ?
 Folate is required for the remethylation of homocysteine to methionine , causing isolated elevated homocysteine and normal methylmalonic acid.
-<!--SR:!2026-10-14,23,250-->
+<!--SR:!2027-01-05,81,270-->
 
 
 **Quest: A patient with macrocytic anemia and normal vitamin B12 levels is found to have**
@@ -247,7 +248,7 @@ vitamin B12 deficiency anemia.
 Despite normal vitamin B12 levels, functional deficiency can cause these elevations.
 Folate deficiency anemia presents with elevated homocysteine but normal
 methylmalonic acid.
-<!--SR:!2026-09-20,11,270-->
+<!--SR:!2026-10-22,6,250-->
 
 **Quest: A patient with anemia presents with a history of chronic alcohol use and macrocytic anemia. What is the most likely cause of his anemia**
 A. Iron deficiency anemia.
@@ -256,7 +257,7 @@ C. Vitamin B12 deficiency anemia.
 D. Anemia of chronic disease
 ?
 Alcohol induces folate deficiency anemia through a combination of poor intake, intestinal malabsorption, impaired liver storage, and increased urinary excretion. Because hepatic folate reserves only last about 2 to 4 months, chronic heavy drinking can deplete stores rapidly.
-<!--SR:!2026-09-19,10,270-->
+<!--SR:!2026-10-21,5,250-->
 
 ### 2. Non-Megaloblastic Anemia
 
@@ -397,7 +398,7 @@ Examples:
 - [[docs/G6PD deficiency\|G6PD deficiency]]
 - [[docs/Hereditary Spherocytosis\|Hereditary Spherocytosis]]
 - [[docs/Paroxysmal Nocturnal Hemoglobinuria (PNH)\|Paroxysmal Nocturnal Hemoglobinuria (PNH)]]
-<!--SR:!2026-10-09,18,250-->
+<!--SR:!2026-10-25,9,230-->
 
 
 | **Feature**                      | **Hereditary Spherocytosis (HS)**       | **G6PD Deficiency**                  | **Paroxysmal Nocturnal Hemoglobinuria (PNH)** |
@@ -460,18 +461,18 @@ Examples:
 - Serum iron decreased.
 - Serum ferritin normal or increased.
 - CBC:
-  - PCV decreased
-  - RBC count decreased
-  - Hb decreased
+	- PCV decreased
+	- RBC count decreased
+	- Hb decreased
 - RCI mostly normal.
 - RDW mildly increased.
 - PBS:
-  - Normocytic
-  - Normochromic
+	- Normocytic
+	- Normochromic
 - Reticulocyte count decreased, indicating reduced bone marrow response.
 - Bone marrow examination:
-  - Increased hemosiderin
-  - Increased iron stores
+	- Increased hemosiderin
+	- Increased iron stores
 
 # 6. Iron Deficiency Anemia (IDA)
 
@@ -483,7 +484,7 @@ Examples:
 
 ## Etiology
 Question : what is the role of hepcidin in IDA ::Hepcidin is the iron regulator in body ; when iron store decrease hepcidin decrease thus more iron absorption by gut; ;; in inflamation hepcindin increase despite low iron ; high hepcidin locks iron inside storgage cells preventing body from using it ;
-<!--SR:!2026-09-18,10,250-->
+<!--SR:!2026-11-20,35,270-->
 
 ### A. Physiological Iron Loss
 
@@ -564,7 +565,7 @@ RBCs undergo extra cell division, resulting in:
 
 ### Specific Tissue Manifestations
 In which type of anemia koilonychia(spoon shaped nails) and pica(abnormal craving for non food substance like ice , diet , chalk ) is characteristic feature :: IDA
-<!--SR:!2026-10-16,41,290-->
+<!--SR:!2027-03-30,165,310-->
 
 - **Glossitis:** A smooth, sore tongue.
 - **Angular Cheilitis:** Inflammation/cracking at the corners of the mouth.
@@ -589,7 +590,7 @@ In which type of anemia koilonychia(spoon shaped nails) and pica(abnormal cravin
 - **Serum Ferritin:** Decreased first (<10 μg/L; normal ranges are ==40–300 μg/L for men and 20–200 μg/L for women==).
 - **Total Iron-Binding Capacity (TIBC):** Increased.
 - **Transferrin Saturation:** Decreased below 15%.
-<!--SR:!2026-09-19,4,230-->
+<!--SR:!2026-10-29,13,250-->
 
 ### Peripheral Blood Smear
 
@@ -635,7 +636,7 @@ D. Hemolytic anemia.
 A ✔️
 B. ACD: normal RDW
 C. Sickle Cell Anemia & D. Hemolytic Anemia: While active hemolysis and reticulocytosis can occasionally raise RDW due to larger young cells (reticulocytes), an elevated RDW is the classic hallmark   specifically tested to identify **Iron Deficiency Anemia** among microcytic/normocytic anemias.
-<!--SR:!2026-09-24,15,290-->
+<!--SR:!2026-10-24,8,270-->
 
 **Quest: A patient with anemia is found to have a high reticulocyte count and low serum**
 **ferritin. What is the most likely cause of his anemia?**
@@ -650,7 +651,7 @@ count suggests the bone marrow is responding to the anemia.
 Hemolytic anemia would present with evidence of hemolysis, anemia of chronic
 disease typically has normal or slightly low reticulocyte count, and aplastic anemia
 shows pancytopenia.
-<!--SR:!2026-09-24,15,290-->
+<!--SR:!2026-10-23,7,270-->
 
 **Quest: A patient with anemia presents with a history of chronic blood loss from heavy**
 **menstrual periods. What is the most likely type of anemia?**
@@ -661,7 +662,7 @@ D. Aplastic anemia.
 ?
 Correct: A : **Mechanism of Iron Loss:** The majority of the body's iron resides in red blood cell hemoglobin. Chronic blood loss—such as from heavy menstrual periods (**menorrhagia**)—depletes the body's iron stores (ferritin) faster than dietary absorption can replenish them.
 Why B is Wrong : **B. Anemia of Chronic Disease:** Driven by sustained systemic inflammation (e.g., rheumatoid arthritis, chronic infections, malignancy) that increases **hepcidin** levels and traps iron inside macrophages. Menorrhagia is an external blood loss problem, not an inflammatory disorder.
-<!--SR:!2026-09-25,16,290-->
+<!--SR:!2026-12-18,63,310-->
 
 # 7. Sideroblastic Anemia
 - iron does not incorporate into heme due to which defective heme synthesis. Due to which iron deposit in erythroblast mitochondria.  And bone marrow produces **ringed sideroblast** rather than healthy rbc
@@ -681,13 +682,13 @@ Types
 		2. Chronic alcoholism :
 
 Question : chronic alcohol consumption se ringed sideroblast kaise ho skta he :: alcohol consumption can interfere with Pyridoxine metabolism (vit B6). Vitamin b6 helps in red blood cell production
-<!--SR:!2026-09-30,14,210-->
+<!--SR:!2026-10-23,7,190-->
 
 **question** : drugs associated with sideroblastic changes include :: isoniazid , chloramphenicol
-<!--SR:!2026-09-23,18,250-->
+<!--SR:!2026-10-26,10,230-->
 
 **question** : how lead interfere with heme synthesis :: by inhibiting ALA Dehydratase , ferrochelatase ; associated finding is basophilic stippling(remnant of rna)
-<!--SR:!2026-09-23,2,170-->
+<!--SR:!2026-10-18,1,130-->
 
 ## Heme synthesis 
 
@@ -700,8 +701,8 @@ Question : chronic alcohol consumption se ringed sideroblast kaise ho skta he ::
 | 5    | Cytosol                           | Uroporphyrinogen III → coproporphyrinogen III        | Uroporphyrinogen decarboxylase (UROD)                                      |
 | 6    | Mitochondrial intermembrane space | Coproporphyrinogen III → protoporphyrinogen IX       | Coproporphyrinogen oxidase (CPOX)                                          |
 | 7    | Inner mitochondrial membrane      | Protoporphyrinogen IX → protoporphyrin IX            | Protoporphyrinogen oxidase (PPOX)                                          |
-| 8    | Inner mitochondrial membrane      | Protoporphyrin IX + Fe2+ → heme                      | **==1;;Ferrochelatase (FECH)==**                                           |
-<!--SR:!2026-09-28,23,250-->
+| 8    | Inner mitochondrial membrane      | Protoporphyrin IX + Fe2+ → heme                      | ==1;;Ferrochelatase (FECH)==                                           |
+<!--SR:!2026-10-27,11,230-->
 
 Role of iron in hemesynthesis 
 1. Iron entererythroid cells

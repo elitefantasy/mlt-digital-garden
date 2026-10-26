@@ -44,6 +44,8 @@ A useful memory link is:
 
 - **Reduced globin production -> unbalanced chains -> damaged RBCs -> anemia + hemolysis + marrow expansion.**
 
+![alpha-thalassemia-vs-beta.png\|700](/img/user/Attachments/alpha-thalassemia-vs-beta.png)
+
 # 3 Types
 **q: a patient with thalassemia major presents with sever anemia and hepatosplenomegaly. what is the definitive treatment for this patient ?**
 a. blood transfusion
@@ -53,15 +55,16 @@ d. folic acid supplementation
 ?
 C
 blood transfuision and iron chelation therapy are supportive treatments
-<!--SR:!2026-09-25,16,290--> 
+<!--SR:!2026-12-19,64,310--> 
 
 ## 3.1 Alpha-Thalassemia
 
 Alpha-thalassemia results from mutations or deletions in the genes encoding alpha-globin chains, primarily HBA1 and HBA2, located on chromosome 16
 - inherited blood disorder
 
-Loss of one or two alpha-globin genes leads to the **alpha-thalassemia trait or alpha-thalassemia minor**
-loss of three or four genes results in more severe forms, including **Hb H disease and hydrops fetalis**
+one  or two alpha gene loss ->  **alpha-thalassemia trait or alpha-thalassemia minor**
+three or four gene loss -> HbH dx and hydrops detalis
+
 
 **Genetic Defect:**
 - Deficiency or absence of alpha (α) chains
@@ -79,7 +82,7 @@ loss of three or four genes results in more severe forms, including **Hb H disea
 ## 3.2 Beta-Thalassemia
 
 Beta-thalassemia results from mutations affecting the beta-globin gene on chromosome ==11==. Unlike alpha-thalassemia, beta-thalassemia is commonly due to **point mutations** rather than gene deletions
-<!--SR:!2026-10-15,40,290-->
+<!--SR:!2026-11-04,19,270-->
 
 Mutations may cause:
 
@@ -213,9 +216,9 @@ Across the thalassemia spectrum, the underlying globin chain imbalance leads to 
 
 | **Thalassemia Subtype** | **HbA**               | **HbA2​**                              | **HbF**                             | **Variant Hemoglobin**                                   |
 | ----------------------- | --------------------- | -------------------------------------- | ----------------------------------- | -------------------------------------------------------- |
-| **Normal Adult**        | $96\text{–}98\%$      | $1.5\text{–}3.5\%$                     | $<1\%$                              | —                                                        |
-| **$\beta$-Thal Minor**  | Normal / $\downarrow$ | $\mathbf{\uparrow (3.5\text{–}7.0\%)}$ | Normal / $\uparrow (1\text{–}3\%)$  | —[cite: 1, 2]                                            |
-| **$\beta$-Thal Major**  | Absent or Trace       | Variable / $\uparrow$                  | $\mathbf{\uparrow\uparrow (>90\%)}$ | —[cite: 1, 2]                                            |
+| **Normal Adult**        | $96\text{–}98\%$      | $1.5\text{–}3.5\%$                     | $<1\%$                              |                                                          |
+| **$\beta$-Thal Minor**  | Normal / $\downarrow$ | $\mathbf{\uparrow (3.5\text{–}7.0\%)}$ | Normal / $\uparrow (1\text{–}3\%)$  |                                                          |
+| **$\beta$-Thal Major**  | Absent or Trace       | Variable / $\uparrow$                  | $\mathbf{\uparrow\uparrow (>90\%)}$ |                                                          |
 | **$\alpha$-Thal Minor** | Normal                | Normal                                 | Normal                              | — (Requires DNA PCR)                                     |
 | **HbH Disease**         | $\downarrow$          | $\downarrow$                           | Variable                            | $\mathbf{HbH (\beta_4) \text{ } [5\text{–}30\%]}$        |
 | **Hb Bart's Hydrops**   | Absent                | Absent                                 | Absent                              | $\mathbf{Hb \text{ Bart's} (\gamma_4) \text{ } [>80\%]}$ |
@@ -332,7 +335,7 @@ After splenectomy, infection and thrombosis risk increase, so vaccination and pr
 - Iron should not be prescribed for microcytosis until iron deficiency is confirmed.
 - The major long-term complication in transfusion-dependent patients is **iron overload**.
 - Definitive potentially curative treatment is **hematopoietic stem-cell transplantation** in suitable patients
-<!--SR:!2026-10-10,29,230-->
+<!--SR:!2026-10-30,14,210-->
 
 **Question:** Target Cells are seen in
 A) Thalassemia
@@ -342,4 +345,4 @@ d) G6PD
 ?
 Target cells (codocytes) in thalassemia are abnormal red blood cells that look like a bull's eye. They form because faulty hemoglobin production creates an imbalance between the cell surface area and its low volume, leaving an extra floppy membrane that flattens out on a blood smear.
 ![Pasted image 20260816191620.png\|365](/img/user/Attachments/Pasted%20image%2020260816191620.png)
-<!--SR:!2026-09-21,7,270-->
+<!--SR:!2026-10-20,4,250-->

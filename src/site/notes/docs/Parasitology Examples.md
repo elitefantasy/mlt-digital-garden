@@ -83,7 +83,7 @@
 - if human gets infected with this , a cyst is formed in liver called hydatid cyst
 - diagnosis: casoni intradermal test
 - **Quest** the **casoni test antigen** is derived from  :: is a skin test: this echinococcus granulas antigen is collected from human or animal and is sterlized   using seitz or membrane filtration, left with small amount of antigen. now this fluid(0.2ml) intradermally is injected to a suspected person with infection and we also inject normal saline in other hand. if person is infected then rexn will be positive, rexn 5cm swollen see in half hour.
-<!--SR:!2026-09-18,9,250-->
+<!--SR:!2026-10-21,5,230-->
 
 ---
 
@@ -94,7 +94,7 @@
 - **_Schistosoma haematobium_ (Bladder Fluke):** Large, spindle-shaped eggs  with a **prominent, sharp terminal spine** at one pole Excreted primarily in **urine**.  also known as ==vesicle fluke and bilharzia==
 - **_Schistosoma mansoni_:** Large, oval eggs (150 um) with a **prominent, sharp lateral spine** pointing backward Excreted primarily in **stool**
 - **_Schistosoma japonicum_:** Round or oval eggs (70-80 um) with a very **small, inconspicuous lateral knob/spine**  Excreted primarily in **stool**
-<!--SR:!2026-09-17,2,150-->
+<!--SR:!2026-10-19,2,150-->
 
 #### B. Hermaphroditic Flukes
 

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/docs/chromatography/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"],"Sem4Sub":["Biochemical-technique"]}}
+{"dg-publish":true,"permalink":"/docs/chromatography/","tags":["flashcards/sem4","sem4"],"dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Biochemical-technique"]}}
 ---
 
+Linked : [[docs/Chromatography Multiple Choice Questions (MCQs)\|Chromatography Multiple Choice Questions (MCQs)]]
 # Chromatography
 
 Introduction and Definition
-* **Definition:** Chromatography is a **chemical analysis laboratory technique** used to separate a mixture into its individual components. Historically, this separation was often done with the help of colors.
+* **Definition:** Chromatography is a **chemical analysis laboratory technique** used to separate a mixture into its individual components. 
 
 parts of chromatography
 - sample or analyte
@@ -14,12 +15,11 @@ parts of chromatography
 - chromatography column
 - detector
 
- ## Principle and Purpose
- 
-* **Basic Principle:** The fundamental principle of chromatography is that **different compounds within a mixture move at different rates** or speeds depending on their specific nature.  
+#### Principle and Purpose
+* **Basic Principle:** different compounds within a mixture move at different rates or speeds depending on their specific nature.  
 * **Purpose:** This technique is primarily used to **separate, identify, and quantify** the individual components of a mixture.
 
-The Two Phases of Chromatography
+#### The Two Phases of Chromatography
 Every chromatographic system relies on the interaction between two distinct phases:
 
 1. **Stationary Phase:**  
@@ -32,35 +32,65 @@ Every chromatographic system relies on the interaction between two distinct phas
 	2. It is **always a fluid**, meaning it can be either a **liquid or a gas**.  
 	3. *Common examples:* Water, liquid solvents, and gases like helium or nitrogen. The choice of mobile phase depends entirely on the type of chromatography being used.
 
-## Factors Influencing Separation
-
-The separation of components in chromatography can be affected by various parameters, including:
-
+#### Factors Influencing Separation
 * The type of **stationary phase**  
 * The type of **mobile phase**  
 * The **flow rate** of the mobile phase  
 * The **temperature**
 
+## Main Classification
+1. **seperation mechanism** : adsorption , partition , ion exchange , size exclusion , affinity
+2. **Mobile phase** : gas chromatography , liquid , supercritical
+3. **Shape** : planar , column
+
+### Adsorption
+- principle: seperation based on adsorption to solid stationery phase
+- Stationary phase : Solid adsorbent, e.g., silica gel, alumina
+- application : drug analysis , pigment separation
+- Example : [[docs/Chromatography#Thin Layer Chromatography (TLC)\| TLC]], column chromatography
+
+### Partition
+- principle: Components distribute between two liquid phases according to partition coefficient , component distributed based on **solubility difference**
+- Stationary phase : Liquid film supported on solid support
+- application : amino acid seperation , clinical diagnostic
+
+1. **paper chromatography** : stationary phase is water in cellulose , mobile phase is liquid solvent , Rf Value(distance travelled by substance / distance travelled by solvent)
+2. **Gas Liquid Chromatography** : seperate and analyze volatile compounds ; stationaery phase is liquid coated on solid support ; mobile phase is inert gas ; principle is that components vaporize and seperate based on different retention time ; application is analaysis of lipuid , driugs , vitamins , and volatile organic compiunds
+
+### Ion Exchange Chromatography
+- Separation by reversible electrostatic attraction between charged analytes and oppositely charged resin
+- Cation- or anion-exchange resin
+- Separation of amino acids, proteins, ions
+
+### Size-exclusion chromatography
+- Separation by molecular size; larger molecules elute first
+- Porous gel beads
+- Gel filtration, gel permeation chromatography
+
+### Affinity chromatography
+- Specific biological interaction between analyte and immobilized ligand
+- Ligand bound to matrix
+- Purification of antibodies, enzymes, receptors
+
+### Types by shape
+
+#### 1. Planar chromatography
+1. **paper chromatography** : Filter paper acts as the stationary phase; useful for separating pigments, amino acids, and sugars
+2. [[docs/Chromatography#Thin Layer Chromatography (TLC)\|Chromatography#Thin Layer Chromatography (TLC)]]
+#### 2. Column chromatography
+- The stationary phase is packed in a vertical column, and the mobile phase flows through it by gravity or pressure. It includes ordinary *column chromatography, HPLC, ion-exchange chromatography, gel filtration, and affinity chromatography.*
+
+Key Steps in column chromatography
+- glass column is plugged with cotton followed by a thin sand layer. stationery phase is packed uniformly
+- sample is loaded
+	- wet loading : dissolving sample in a solvent 
+	- dry loading : dissolving the sample , adding silica , evaporating to a powder and placing on top
+- Elution : mobile phase is added continuosly to top
+- fraction collection : eluate collected
+- analysis and purification
+
+
 ## Types of Chromatography
-
-There are many variations of chromatography, each with its own specific applications and requirements \[2, 4\]. The main types include:
-
-* **Gas Chromatography (GC)** (Uses a gas mobile phase like helium or nitrogen)  
-* **Liquid Chromatography (LC)** (Uses a liquid solvent mobile phase)  
-* **Thin Layer Chromatography (TLC)**  
-* **High-Performance Liquid Chromatography (HPLC)**
-
-Based on the geometry of the system
-- Planar chromatography
-- paper chromatography
-- Thin Layer Chromatography
-
-Based on the retention mechanism
-- Adsorption Chromatography , Partition Chromatography , Size-Exclusion Chromatography (SEC) , lon Exchange Chromatography (IEC) , Cation exchange chromatography , Anion exchange chromatography , Affinity Chromatography
-
-Based on the phases involved
-- Gas Chromatography (GC) , Liquid Chromatography (LC) , High-Performance Liquid Chromatography (HPLC)
-
 
 ### Paper Chromatography
 - **Paper chromatography** is a type of **partition chromatography** in which the **stationary phase** is water held in the cellulose fibers of special filter paper, and the **mobile phase** is a solvent (or solvent mixture) that moves through the paper by **capillary action**.
@@ -119,31 +149,24 @@ Based on the phases involved
 #### Types of paper chromatography (by direction of solvent flow)
 
 1) Ascending paper chromatography
-- Solvent moves **upwards** from the bottom of the paper by capillary action.
-- Paper is suspended vertically; lower edge dips in solvent; sample spot above solvent level.
-- **Advantages:** simple setup, commonly used in teaching and routine analysis.
-- **Disadvantages:** slower; limited length of travel.
-
-
-1) Descending paper chromatography
-- Solvent moves **downwards** from a trough at the top of the chamber; gravity assists capillary action.
-- Paper hangs from a solvent reservoir at the top; solvent flows down over the sample.
-- **Advantages:** faster development; longer run possible.
-- **Disadvantages:** more complex setup; risk of uneven flow if not properly arranged.
-
-
-1) Radial (circular) paper chromatography
-- A circular filter paper is used; sample is spotted at the **center**.
-- Solvent is introduced at the center (via wick) and moves **outwards radially**, forming concentric rings of separated components.
-- **Uses:** quick qualitative analysis; demonstration of separation of dyes/pigments.
-
----
-
+	- Solvent moves **upwards** from the bottom of the paper by capillary action.
+	- Paper is suspended vertically; lower edge dips in solvent; sample spot above solvent level.
+	- **Advantages:** simple setup, commonly used in teaching and routine analysis.
+	- **Disadvantages:** slower; limited length of travel.
+2) Descending paper chromatography
+	- Solvent moves **downwards** from a trough at the top of the chamber; gravity assists capillary action.
+	- Paper hangs from a solvent reservoir at the top; solvent flows down over the sample.
+	- **Advantages:** faster development; longer run possible.
+	- **Disadvantages:** more complex setup; risk of uneven flow if not properly arranged.
+3) Radial (circular) paper chromatography
+	- A circular filter paper is used; sample is spotted at the **center**.
+	- Solvent is introduced at the center (via wick) and moves **outwards radially**, forming concentric rings of separated components.
+	- **Uses:** quick qualitative analysis; demonstration of separation of dyes/pigments.
 4) Two‑dimensional (2D) paper chromatography
-- Rectangular paper is used.
-- First run: develop in **one solvent** in one direction (e.g., ascending).
-- Dry the paper, rotate it by **90°**, then develop in a **second solvent** in the perpendicular direction.
-- **Use:** separates complex mixtures where components have **similar Rf values** in a single solvent system (e.g., amino acid mixtures, metabolic extracts).
+	- Rectangular paper is used.
+	- First run: develop in **one solvent** in one direction (e.g., ascending).
+	- Dry the paper, rotate it by **90°**, then develop in a **second solvent** in the perpendicular direction.
+	- **Use:** separates complex mixtures where components have **similar Rf values** in a single solvent system (e.g., amino acid mixtures, metabolic extracts).
 
 
 #### 7) Factors affecting separation (high‑yield for MCQs/short notes)
@@ -224,22 +247,16 @@ $$R_f = \frac{\text{Distance travelled by substance (from origin)}}{\text{Distan
 
 
 #### Applications (high‑yield for exams)
-a) Pharmaceutical analysis
-- **Identity and purity testing** of drugs and intermediates.
-- **Monitoring reactions** (checking completion, by‑products).
-- **Stability studies** and degradation product detection.
-
-b) Clinical biochemistry & forensic
-- Detection of **drugs and metabolites** in urine, blood, and other biological fluids.
-- Screening for **inborn errors of metabolism** (e.g., aminoacidurias like **PKU**, cystinuria, maple syrup urine disease) – historically important; now often replaced by HPLC/GC‑MS but conceptually tested.
-
-c) General analytical uses
-- Checking **purity of compounds**.
-- Selecting solvent systems for **column chromatography**.
-- Separating **pigments, lipids, steroids, alkaloids**, and other natural products.
+- drug purity testing
+- product degradation detect
+- drug detection in urine, blood
+- inborn error of metabolism (PKU)
+- purity of compound
+- seperate pigment , lipid, steroid, alkaloid
 
 
 ### HPLC
+![Pasted image 20261016133647.png\|551](/img/user/Attachments/Pasted%20image%2020261016133647.png)
 -  laboratory technique used to separate, identify, and quantify components in a liquid mixture. It uses high-pressure pumps to force a liquid solvent carrying the sample through a tight column packed with fine particles, achieving fast and precise separation  
 - Different types of hemoglobin identify. For example HbS increase in sickle cell anemia  
 - Two phases   

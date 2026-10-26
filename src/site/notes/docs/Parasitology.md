@@ -6,28 +6,49 @@ links
 1. [[docs/Basics To parasitology\|Basics To parasitology]]
 2. [[docs/Parasitology Examples\|Parasitology Examples]]
 
+# Introduction
+Common specimen used 
+1. Urine for blood fluke infection 
+2. Blood for blood parasite 
+3. Urogenital swab for trichomonas
+4. Sputum for some roundworm
+5. 
+
 # Classification
 classification
 ?
 1. [[docs/protozoa\|protozoa]]
 	1. flagellated
-		1. intestinal: giardia lambila
-		2. hemoflagellates: leishmania , Trypanosoma
+		1. intestinal:[[docs/protozoa#Flagellate Giardia Lambila \| Giardia Lambila]]
+		2. hemoflagellates: [[docs/Leishmania\|Leishmania]] , [[docs/Trypanosoma\|Trypanosoma]]
 		3. genital : trichomonas vaginalis
-	2. amoebiod: entamoeba histolytica
-	3. ciliated: balantidium coli
-	4. sporozoans: plasmodium
+	2. amoebiod:[[docs/protozoa#Amoeba Entamoeba Histolytica \| E.Histolytica]]
+	3. ciliated: [[docs/protozoa#Ciliate Balantidium Coli\|Balantidium Coli]]
+	4. sporozoans: [[docs/plasmodium\|plasmodium]] , [[docs/protozoa#Sporozoan Cryptosporidium parvum \| Cryptosporidium parvum]] , [[docs/protozoa#Sporozoan Toxoplasma Gondi \| Toxoplasma Gondi]]
 2. [[docs/helminths\|helminths]]
-	1. nematode
-		1. intestinal: ascaris lumbricoides
-		2. tissue:
-		3. Blood:
-	2. trematode
-		1. blood fluke: shistocomes(haematobium)
-		2. hermaphroditic flukes: lung fluke, liver fluke, intestinal fluke
-	3. cestode
-		1. echinococcus granulosa, taenia species
-<!--SR:!2026-09-17,1,185-->
+	1. **nematode (roundworm)**
+		1. intestinal: [[docs/helminths#Ascaris Lumbricoides \| Ascaris Lumbricoides]]
+		2. tissue: Trichinella spiralis , Dracunculus medinensis
+		3. Blood: wucheria bancrofti , loa loa, brugia malayi
+	2. **trematode (Flukes)**
+		1. blood fluke :  [[docs/Parasitology Examples#A. Schistosomes (Blood Flukes)\| Schistomsome]]
+			1. schistosoma haematobium
+			2. shistosoma mansoni
+			3. schistosoma japonicum
+		2. [[docs/Parasitology Examples#B. Hermaphroditic Flukes \| Hermaphroditic Flukes]]
+			1. lung fluke : paragonimus westermani
+			2. liver fluke : fasciola hepatica
+			3. intestinal fluke : fasciolopsis buski
+	3. **cestode (tapeworm)**
+		1. Pseudophyllidea
+			1. [[docs/Parasitology Examples#Diphyllobothrium latum\|Diphyllobothrium DLatum]] / Fish tapeworm
+		2. Cyclophyllidea
+			1. hymenolepis nana
+			2. [[docs/Parasitology Examples#Echinococcus granulosa\|Echinococcus Granulosa]]
+			3. Diphylidium caninum : also known as flea tapeworm
+			4. Taenia species : Taenia Saginata(Beef Tapeworm) , Taenia solium (pork tapeworm)
+		3. echinococcus granulosa, taenia species
+<!--SR:!2026-10-18,2,185-->
 
 
 

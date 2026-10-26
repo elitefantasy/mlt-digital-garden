@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/docs/histology-staining/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"],"Sem4Sub":["Histology"]}}
+{"dg-publish":true,"permalink":"/docs/histology-staining/","tags":["flashcards/sem4","sem4"],"dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Histology"]}}
 ---
+
 
 **general procedure**
 1. **Drying**: slide is dried completely in hot air oven
 2. **Deparaffinization**: slide is placed in xylene for 5 min and again for additional 5 minute in another xylene path
-3. **Hydration**: slides are passed through decreasing concentration 90,80,70% of alcohol. finally these slide are washed in distilled water 
+3. **Hydration**: slides are passed through decreasing concentration 90, 80, 70% of alcohol. finally these slide are washed in distilled water. 
 4. **Staining**: Slide immersed in hematoxylin solution (5-15 min). What happens here: Hematein-mordant complex enters tissue Binds to nuclei Nuclei become red-purple initially
 5. **Washing (Rinsing)** : Tap water wash Removes excess stain
 6. **Bluing reaction** (VERY IMPORTANT) : Slide placed in alkaline solution: • Ammonia water OR • Scott's tap water substitute . Chemical change: Hematoxylin converts from reddish-purple → blue . This stabilizes nuclear staining
@@ -15,15 +16,26 @@
 10. **Clearing** : Xylene used again
 11. **Mounting** : DPX or resin added Coverslip placed Permanent slide ready
 
-## Hematoxylin Stain and Eosin Stain
-### Hematoxylin
+
+# Hematoxylin Stain and Eosin Stain
+## Hematoxylin
 - natural dye : logwood tree *Haematoxylum campechianum*
 - gets activated (oxidized) in presence of air or sun into *hematin*
 - needs metal mordant(aluminum , iron, tungsten) to form a **dye–mordant–tissue complex**, giving strong, stable nuclear staining. 
 
 - **Progressive vs regressive:** Way the stain is used, not a different dye.
-    - **Progressive:** Stain until nuclei reach desired intensity; no differentiation.
-    - **Regressive:** Deliberately overstain, then **differentiate** in acid alcohol to remove excess from cytoplasm/background, leaving crisp nuclei. 
+    - **Progressive:** Tissue is left in a dilute stain just long enough to reach the exact desired intensity , **Differentiation** step is not required . Ex: *Mayer’s hematoxylin, Gill’s hematoxylin (Gill 1, 2, 3).*
+    - **Regressive:** Tissue is intentionally over-stained with a concentrated dye, then selectively de-stained. **Differentiation** step is required. Ex:  *Harris hematoxylin, Ehrlich’s hematoxylin, Delafield’s hematoxylin.*
+
+| Feature              | Progressive hematoxylins                        | Regressive hematoxylins                   |
+| -------------------- | ----------------------------------------------- | ----------------------------------------- |
+| Dye concentration    | Lower                                           | Higher                                    |
+| Staining pattern     | Selective for nuclei; cytoplasm lightly stained | Intense staining of nuclei + cytoplasm    |
+| Control of intensity | By **time in stain**                            | By **differentiation** in acid alcohol    |
+| Differentiation step | Usually **not required**                        | **Required** (acid alcohol)               |
+| Examples             | Mayer’s, Gill I/II, Carazzi’s                   | Harris’s, Ehrlich’s (often), Heidenhain’s |
+| Typical use          | IHC, cytology, some routine H&E                 | Routine H&E in histopathology, Pap stain  |
+
 #### Steps
 1. oxidation
 2. dye mordant complex
@@ -55,14 +67,7 @@
 #### 1) Ehrlich’s hematoxylin (1886)
 - **Type:** , regressive,  natural ripening
 - **Mordant:** **Potassium alum** (or ammonium alum) → provides **Al³⁺**.
-- **Typical composition (classic formula):**
-    - Hematoxylin
-    - Potassium alum (or ammonium alum)
-    - Glycerol
-    - Ethanol (alcohol)
-    - Distilled water
-    - Sometimes **glacial acetic acid** to sharpen nuclear detail
-    - No chemical oxidant originally (ripens naturally over weeks). 
+- **Typical composition (classic formula):** Hematoxylin, Potassium alum (or ammonium alum), Glycerol, Ethanol (alcohol), Distilled water, Sometimes **glacial acetic acid** to sharpen nuclear detail, No chemical oxidant originally (ripens naturally over weeks). 
 - **Features / uses:**
     - Deep, stable nuclear staining.
     - Good for H&E and some special stains.
@@ -181,16 +186,7 @@
     - Nuclei in **connective tissue stains** (e.g., **Weigert’s iron hematoxylin + Van Gieson** for collagen).
     - Some fungal and elastic fiber protocols.
 
-### 5) Progressive vs regressive hematoxylins
 
-|Feature|Progressive hematoxylins|Regressive hematoxylins|
-|---|---|---|
-|Dye concentration|Lower|Higher|
-|Staining pattern|Selective for nuclei; cytoplasm lightly stained|Intense staining of nuclei + cytoplasm|
-|Control of intensity|By **time in stain**|By **differentiation** in acid alcohol|
-|Differentiation step|Usually **not required**|**Required** (acid alcohol)|
-|Examples|Mayer’s, Gill I/II, Carazzi’s|Harris’s, Ehrlich’s (often), Heidenhain’s|
-|Typical use|IHC, cytology, some routine H&E|Routine H&E in histopathology, Pap stain|
 
 
 ### Eosin
@@ -256,6 +252,7 @@ PAS staining works in two linked reactions:
 - A positive PAS reaction indicates the presence of oxidizable carbohydrate-containing substances, but it does **not** prove that the material is glycogen alone. For that reason, the ==PAS-diastase== control is important
 - PAS Diastase Stain: One section is stained by ordinary PAS. A serial section is treated first with **diastase enzyme**, then stained with PAS. Diastase digests glycogen.
 - findings: PAS-positive material disappears after diastase digestion. The material was glycogen
+<!--SR:!2026-10-20,4,270-->
 
 ### Uses
 - glycogen in liver, skeletal muscle, and cardiac muscle
@@ -269,10 +266,11 @@ PAS staining works in two linked reactions:
 	- fibrosis, liver cirhosis, renal febrosis
 
 **principle**
-- 3 different dye is used
-	- 1. weighert's iron hematoxylin : nuclei black
-	- 2. biebrich scarlet acid fuchsin: muscle , cytoplasm, keratin -> RED
-	- 3. aniline blue : collagen fiber -> GREEN
+3 different dye is used
+?
+- 1. weighert's iron hematoxylin : nuclei black
+- 2. biebrich scarlet acid fuchsin: muscle , cytoplasm, keratin -> RED
+- 3. aniline blue : collagen fiber -> GREEN
 - based on differential staining and tissue permeability
 - seperates tissue based on there chemical and structural property
 
@@ -293,3 +291,83 @@ PAS staining works in two linked reactions:
 
 ## zn stain
 [[docs/Staining#3.2 Ziehl-Neelsen (ZN) / Acid-Fast Stain\|Staining#3.2 Ziehl-Neelsen (ZN) / Acid-Fast Stain]]
+
+## Silver Stain
+- demonstrates delicate tissue structure and microorganism especially fungi
+- visualizes reticulin fibers , highlights basement membranes
+
+**Principle**
+- tissue component are first oxidized to form aldehyde , silver ion bind to these site , silver is reduced to metallic silver , this gets deposited on structure appear black this is called silver impregnation
+
+**types of silver stain**
+1. Gamori methenamine Silver -> Fungi
+2. Reticulin Stain -> Connective tissue fibers
+
+**Reagents**
+- oxidizing agen : chromic acid, periodic acid
+- silver nitrate or methenamine silver
+- reducing agent (formalin)
+- gold chloride(toning)
+- sodium thiosulfate (fixing)
+
+**procedure**
+- depparafininze and hydration
+- tissue oxidize
+- wash
+- apply silver solution (impregnation)
+- reduce silver to metallic form
+- tone with gold chloride
+- fix with sodium thiosulfate
+- wash , dehydrate and mount
+
+**Application**
+- fungal infection
+- liver biopsy (reticulin framework)
+- kidney biopsy (basement membrane)
+
+# Mounting Medium
+
+- to mount stained tissue section or smear on glass slide with coverslip
+- help in specimen preserve, clarity , transparency, increased shelf life
+
+an ideal mounting medium should
+- transparent and colorless
+- dry quickly
+- preserve stain permanently
+- have refractive index close to glass
+- not react with stain or tissue
+
+**types of mounting medium**
+1. aqueous 
+	1. used for water soluble stain
+	2. example: Glycerine jelly
+2. Resinous or non aqueous
+	1. used after dehydration and clearing
+	2. example: DPX , Canada Balsam
+
+### DPX
+- component : Distrene(hardness) , Plasticizer(prevent cracks) , Xylene(Clearing agent)
+
+**Procedure**
+1. tissue section stained
+2. dehydration using alcohol
+3. clearing with xylene
+4. 1 drop of DPX placed on section
+5. coverslip applied carefully
+6. allow to dry
+
+### Canada Balsam
+- clear, yellowish green natural resin harvested from balsam fir tree
+
+**Procedure**
+1. tissue stained
+2. dehydrate with alcohol
+3. cleared in xylene
+4. drop of canada balsam added
+5. coverslip
+6. dry
+
+**disadvantages**
+- dry slow
+- may become yellow with age
+- more expensive than DPX

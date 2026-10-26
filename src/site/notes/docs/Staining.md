@@ -157,116 +157,7 @@ Field stain is a rapid staining technique explicitly designed for staining thick
 
 # 2. Histopathology & Cytopathology Stains
 
-## 2.1 Routine Stains (The Gold Standards)
-
-### 2.1.1 H&E (Hematoxylin and Eosin) Stain
-
-This is the universal, most common routine stain used in histopathology to view tissue biopsies.
-![Pasted image 20260815180926.png](/img/user/Attachments/Pasted%20image%2020260815180926.png)
-
-
-**1. The Basics**
-
--   **Purpose:** The "Gold Standard" routine stain for tissue biopsies.
--   **Hematoxylin (Primary Stain):**
-    -   **Target:** Nucleus (DNA/RNA).
-    -   **Color:** Blue/Purple.
-    -   **Property:** Basophilic.
-    -   **Origin:** Logwood tree (*Haematoxylum campechianum*).
-    -   **Key Requirement:** Needs oxidation (into **Hematin**) + a **mordant** (Alum/Aluminum) to bind.
--   **Eosin Y (Counterstain):**
-    -   **Target:** Cytoplasm & connective tissue.
-    -   **Color:** Pink/Red.
-    -   **Property:** Acidophilic / Eosinophilic.
-
-**2. Staining Methods (Quick Comparison)**
-
-1.  **Regressive method**
-    -   Over stain then remove excess.
-    -   Uses 1% acid alcohol followed by blueing to restore blue color.
-2.  **Progressive**
-    -   Stain to exact intensity.
-    -   No differentiation required.
-
-### 2.1.2 PAP (Papanicolaou) Stain
-
--   Used for cervical cancer (Pap smears / exfoliative cytology) and evaluating other body fluids.
--   Cellular material of cervix is taken as specimen and slide is prepared.
--   **Fixation:** Smears must be wet-fixed immediately in **95% Ethanol** to prevent cell damage.
--   **Composition (5 Dyes in 3 Solutions):**
-    1.  **Harris Hematoxylin:** Primary stain colors **nucleus blue to black**. 5-10 min.
-    2.  **OG-6 (Orange G):** First acidic counterstain. 10-12 min. The "6" denotes the concentration of phosphotungstic acid. It stains the cytoplasm of **mature, keratinized squamous cells orange to pink**.
-    3.  **Eosin Azure:** Second counterstain, 3-5 min stain.
-        -   **Eosin dye**
-        -   **Light green SF**
-        -   **Bismarck Brown:** Stains the cytoplasm of **non-keratinized squamous cells blue to green**.
-
-## 2.2 Carbohydrate & Mucin Stains
-
-### 2.2.1 PAS (Periodic Acid-Schiff) Stain
-
-Used primarily to detect glycogen, carbohydrates, mucin, basement membranes, and fungal elements (like *Pneumocystis* or *Candida*).
-
--   **Principle:** Periodic acid oxidizes the carbon-to-carbon bonds in carbohydrates, converting them into **aldehydes**. The Schiff reagent then reacts with these aldehydes to produce a bright **magenta or purplish-red color**. The nucleus is usually counterstained blue with Hematoxylin.
--   **Schiff Reagent Preparation:** It is made by boiling 1g of Basic Fuchsin in 200ml of distilled water, cooling it to 50°C, adding 1N HCl and Sodium Metabisulfite, storing it in the dark overnight, and finally adding activated charcoal to clear the solution before filtering.
-
-### 2.2.2 Mucin Stains (Alcian Blue & Mucicarmine)
-
--   **Alcian Blue:** Stains acidic mucopolysaccharides (mucin fibers) **blue**. Highly useful in detecting GI (gastrointestinal) tumors.
--   **Mucicarmine:** Contains carmine and aluminum chloride. It specifically stains epithelial mucins **pink to red** (useful for detecting adenocarcinomas). It is also the best tissue stain for visualizing the capsule of the *Cryptococcus* fungus.
-
----
-
-## 2.3 Connective Tissue Stains
-
-### 2.3.1. Masson’s Trichrome Stain
-
-A three-color stain used to measure fibrosis and differentiate between collagen and smooth muscle in tumors.
-
--   **Components & Results:**
-    -   Weigert’s Iron Hematoxylin stains **nuclei black/blue**.
-    -   Biebrich Scarlet-Acid Fuchsin stains **muscle, cytoplasm, and fibrin red**.
-    -   Aniline Blue (or Light Green) specifically stains **collagen fibers blue or green**.
-
-### 2.3.2 Van Gieson & Verhoeff Stains
-
--   **Van Gieson:** Uses a mixture of Picric Acid and Acid Fuchsin. It stains **collagen red** and **muscle/cytoplasm yellow**.
--   **Verhoeff Stain (Elastic Van Gieson):** Modifies the technique using Ferric Chloride and Iodine to specifically stain **elastic fibers black** (useful in vascular pathology).
-
-### 2.3.3 Silver Impregnation (Reticulin Stains like Gomori's)
-
-Used to demonstrate delicate reticular fibers that provide soft tissue support in organs like the liver and bone marrow.
-
--   **Principle:** Reticular fibers have a naturally low affinity for silver salts. The tissue must undergo pre-treatment: oxidation (Potassium Permanganate), bleaching (Oxalic Acid), and sensitization (Ferric Chloride).
--   Ammoniacal Silver Nitrate is applied, which deposits onto the sensitized fibers. A reducing agent (Formalin) makes the deposits visible. Gold Chloride is then added for "toning" to make the stain permanent.
--   **Result:** Reticulin fibers appear **black or dark brown**.
--   *Note:* Other silver stains include **Grocott’s Methenamine Silver (GMS)** for detecting fungi (*Pneumocystis*) and **Warthin-Starry** for *Helicobacter pylori* and spirochetes.
-
----
-
-## 2.4 Pigment, Mineral, and Deposit Stains
-
--   **Perl's Prussian Blue:** Detects iron overload (hemosiderin) in tissues. Uses Potassium Ferrocyanide and HCl to react with iron, staining it **blue**.
--   **Von Kossa Stain:** A silver nitrate stain used to detect calcium salts/calcification in tissues. Calcium deposits appear **black**.
--   **Fontana Masson Stain:** An ammoniacal silver stain used to detect melanin pigment (e.g., in melanoma skin cancers). Melanin appears **dark brown or black**.
--   **Rhodanine Stain:** A fluorescent dye used to detect Copper stores. Useful in diagnosing Wilson’s disease. Copper appears **brown/red**.
--   **Congo Red:** The gold standard for detecting Amyloid (misfolded protein) deposits. Under a light microscope, amyloid appears red/orange, but under a polarized microscope, it displays a unique **apple-green birefringence** (a glowing green effect).
-
----
-
-## 2.5 Lipid (Fat) Stains
-
-Routine histopathology processing uses alcohols and xylene, which actively dissolve and wash away fats. Therefore, to stain lipids, **frozen tissue sections** must be used instead of paraffin-embedded tissue.
-
--   **Sudan Black B:** Dissolved in alcohol; stains lipids/fats **blue-black**. Useful for detecting fat embolisms.
--   **Oil Red O:** Uses fat-soluble azo dyes to stain triglycerides and lipid stores (like in fatty liver disease) a **bright red**.
-
----
-
-## 2.6 Nervous System (CNS) Stains
-
--   **Luxol Fast Blue:** Specifically used to stain the **myelin sheath** of neurons in the brain and spinal cord.
--   **Cresyl Violet / Toluidine Blue:** Used to stain the **Nissl granules** (rough ER) in the cell bodies of neurons.
+[[docs/Histology Staining\|Histology Staining]]
 
 # 3. Microbiology Staining (Bacteria & Fungi)
 
@@ -353,13 +244,6 @@ The standard stain for examining fungal morphology (like hyphae, conidia, spores
     -   **Lactic Acid:** Acts as a clearing agent and strictly preserves the delicate fungal structures.
     -   **Cotton Blue:** Actively binds to and heavily stains the **chitin** present in the fungal cell wall, turning the structures deep blue.
 
-## 3.8 Special Fungal Tissue Stains
-
-If the fungal elements are trapped inside a human tissue biopsy, standard stains won't work well.
-
--   **GMS (Grocott’s Methenamine Silver):** The most sensitive stain for detecting fungal hyphae and specific pathogens like *Pneumocystis* within tissue. It relies on a silver nitrate reaction that outlines the fungi in **black**.
--   **PAS (Periodic Acid-Schiff):** Can also be used to stain fungal elements **magenta/purplish-red** within tissues.
-
 # 4. Advanced Techniques
 
 ## 4.1 Fluorescent Staining Techniques
@@ -392,12 +276,3 @@ The traditional Gram stain has several specific modifications designed for parti
 
 -   **Jensen’s Modification:** This method uses absolute alcohol as the decolorizer and a weak **Neutral Red** as the counterstain (instead of Safranin). It is specifically recommended for diagnosing fragile Gram-negative cocci like ***Neisseria gonorrhoeae*** and ***Neisseria meningitidis***.
 -   **Preston and Morrell’s Modification:** To eliminate the risk of a technician over-decolorizing a smear (which would make Gram-positive bacteria falsely appear Gram-negative), this modification mixes the **mordant (Iodine) and the decolorizer (Acetone) together** into a single step.
-
-# 5. Crucial Quality Control & Troubleshooting Facts
-
-Examiners love to ask *why* a stain might fail or how to test if reagents are still good.
-
--   **Schiff’s Reagent QC (For PAS Stain):** Schiff's reagent must be stored in a dark, amber bottle because UV light destroys it. Normally, it is a clear, transparent liquid. **If the solution turns pink in the bottle, it has oxidized and must be discarded immediately**.
-    -   *Reactivity Test:* To verify if Schiff's reagent is still active, add a few drops to 10ml of formaldehyde; it should turn **purple immediately**.
--   **H&E Blueing Troubleshooting:** During H&E staining, after using acid to differentiate the tissue, an alkaline "blueing" agent (like tap water, Scott's tap water, or Ammonia water) is used to turn the nucleus crisp blue. However, if the alkalinity is too strong (like using strong Ammonia water), or if the slide is left in it for too long, the **tissue section can detach (dislodge) and wash right off the glass slide**.
--   **"Toning" in Silver Impregnation:** In silver stains (used for reticular fibers), the initial silver deposits are not permanent and can wash away. To lock the black/brown stain in permanently, the tissue must undergo a process called **Toning** using **0.2% Gold Chloride**. This is followed by a final fixation using **5% Sodium Thiosulfate**.

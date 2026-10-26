@@ -5,6 +5,7 @@
 ## Introduction
 - **Trypanosoma** is a **blood and tissue flagellate**.
 - possess a special mitochondrial DNA-containing structure called the **kinetoplast**.
+![Pasted image 20261015174444.png\|169](/img/user/Attachments/Pasted%20image%2020261015174444.png)
 
 Two medically important groups are:
 - **Salivaria:** Parasites transmitted in the saliva of a biting insect, e.g., _T. brucei_.
@@ -22,10 +23,10 @@ The major human pathogens are _Trypanosoma brucei gambiense_, _T. brucei rhodesi
 
 
 ### Important forms:
-- **Trypomastigote:** bloodstream form ; infective or diagnostic form depending on species.
+- **Trypomastigote:** bloodstream form ; <span style="color:rgb(255, 0, 0)"><b>infective</b></span> or diagnostic form depending on species.
 - **Epimastigote:** Multiplying form in insect vector.
-- **Amastigote:** without flagellum ; characteristic of _T. cruzi_ in human tissues.
-- **Metacyclic trypomastigote:** Infective stage transmitted to humans.
+- **Amastigote:** without flagellum ; <span style="color:rgb(255, 0, 0)"><b>characteristic</b></span> of _T. cruzi_ in human tissues.
+- **Metacyclic trypomastigote:** <span style="color:rgb(255, 0, 0)">Infective stage</span> transmitted to humans.
 
 ## African trypanosomiasis | sleeping sickness | brucei
 - africal sleeping sickness

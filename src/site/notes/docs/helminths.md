@@ -19,50 +19,49 @@ Multicellular parasites.
 1. **Monoecious:** Male and female reproductive organs occur in the same organism.
    - Examples: Cestodes and trematodes.
 
-### 2.1 Nematodes (Roundworms)
-Cylindrical, unsegmented worms with a complete digestive tract.
+## Classification
+1. **nematode (roundworm)**
+	1. intestinal: [[docs/helminths#Ascaris Lumbricoides \| Ascaris Lumbricoides]]
+	2. tissue: Trichinella spiralis , Dracunculus medinensis
+	3. Blood: wucheria bancrofti , loa loa, brugia malayi
+2. **trematode (Flukes)**
+	1. blood fluke :  [[docs/Parasitology Examples#A. Schistosomes (Blood Flukes)\| Schistomsome]]
+		1. schistosoma haematobium 
+		2. shistosoma mansoni 
+		3. schistosoma japonicum
+	2. [[docs/Parasitology Examples#B. Hermaphroditic Flukes \| Hermaphroditic Flukes]]
+		1. lung fluke : paragonimus westermani
+		2. liver fluke : fasciola hepatica
+		3. intestinal fluke : fasciolopsis buski
+3. **cestode (tapeworm)**
+	1. Pseudophyllidea
+		1. [[docs/Parasitology Examples#Diphyllobothrium latum\|Diphyllobothrium DLatum]] / Fish tapeworm
+	2. Cyclophyllidea
+		1. hymenolepis nana
+		2. [[docs/Parasitology Examples#Echinococcus granulosa\|Echinococcus Granulosa]]
+		3. Diphylidium caninum : also known as flea tapeworm
+		4. Taenia species : Taenia Saginata(Beef Tapeworm) , Taenia solium (pork tapeworm)
+	3. echinococcus granulosa, taenia species
 
-- **Intestinal:**
-	- [[docs/Parasitology Examples#**A. _Ascaris lumbricoides_ (Giant Roundworm)**\| Ascaris lumbricoides]]
-- **Tissue:**
-	- *Trichinella spiralis*
-	- *Dracunculus medinensis*
-- **Blood:**
-	- *Wuchereria bancrofti*
-	- *Loa loa*
-	- *Brugia malayi*
 
-### 2.2 Trematodes (Flukes)
-4 types of flukes
-1. blood flukes  [[docs/Parasitology Examples#**A. Schistosomes (Blood Flukes)**\|Schistosomes]]
-	1. Schistosomea haematobium
-	2. schistosma mansoni
-	3. schistosoma japonicum
-2.  [[docs/Parasitology Examples#B. Hermaphroditic Flukes\|Hermaphroditic Flukes]]
-	1. lung flukes : ==1;;paragonimus westermani==
-	2. liver fluke : ==1;;Fasciola Hepatica==
-	3. intestinal fluke : ==1;;Fasciolopsis buski==
-<!--SR:!2026-10-11,2,150-->
+## Ascaris Lumbricoides
+[[docs/helminths#Classification\|helminths#Classification]]
+![Pasted image 20261015194925.png\|376](/img/user/Attachments/Pasted%20image%2020261015194925.png)
+- Habitat : small intestine of human , mostly in jejunum
+- free in intestinal lumen , not attached to mucosa
+- Morphology : cylindrical , tapered at both ends, Mouth has 3 lips with tiny tooth like projection
+- male is smaller than female
+- female : large, vulvar waist 
+- egg type : fertilized(infective larvae) , unfertilized (non infective)
 
+**Life Cycle**
+- complete entirely in humans
+- infective stage: embryonated egg with rhabditiform larva
+- egg hatches in duodenum -> larva invade intestinal wall -> blood stream
+- travels liver -> heart -> lung , breaks into alveoli , ascend trachea , swallowed, return to small intestine and becomes adult
 
-Leaf-shaped flatworms.
-- *Fasciola*
-- *Schistosoma*
-
-### 2.3 Cestodes (Tapeworms)
-Tape-like and segmented worms.
-
-**2.3.1 Pseudophyllidea**
-- [[docs/Parasitology Examples#Diphyllobothrium latum\|Diphyllobothrium DLatum]] / Fish tapeworm
-
-**2.3.2 Cyclophyllidea**
-- *hymenolepis nana*
-- [[docs/Parasitology Examples#Echinococcus granulosa\|Echinococcus Granulosa]]
-	- Common name: Dog tapeworm
-	- Causes hydatid disease.
-- *Dipylidium caninum*
-	- Also known as flea tapeworm or cucumber tapeworm.
-- *Taenia* species:
-	- *Taenia saginata* — Beef tapeworm
-	- *Taenia solium* — Pork tapeworm
-
+**Lab Diagosis**
+- worms in stool , sputum , imaging
+- larvae in : sputum 
+- Egg in feces
+- Serology: ELISA, IHA, IFA

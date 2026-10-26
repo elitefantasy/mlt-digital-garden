@@ -85,7 +85,7 @@ NOTE:
 * Network of hyphae is called mycelium
 * Example   
 	* Dermatophytes examples:: Trichophyton, Microsporum, and Epidermophyton.
-<!--SR:!2026-09-22,8,175-->
+<!--SR:!2026-10-20,4,155-->
 	* Aspergillus , penicillium , rhizopus , mucor
 
 ### 4 Dimorphic fungi
@@ -97,7 +97,7 @@ Two forms
 * **Pathogenicity**: highly virulent  , systemic mycoses.  
 * **Transmission**: inhaling spores
 * **Examples** :: *Histoplasma* capsulatum, *Blastomyces* dermatitidis, *Coccidioides* species, Paracoccidioides, Penicillium marneffei, and Sporothrix schenckii.
-<!--SR:!2026-09-17,1,130-->
+<!--SR:!2026-10-18,1,130-->
 
 
 ## Taxonomical Classification
@@ -111,7 +111,7 @@ Zygomycetes (also historically referred to as Phycomycetes)
 	* **Sexual Spores (Teleomorph)**: Zygospores and oospores.  
 	* **Asexual Spores (Anamorph)**: Sporangiospores, which are produced endogenously inside a sac-like structure called a sporangium.  
 * **Representative Genera** :: *Rhizopus*, *Mucor*, and *Absidia*.
-<!--SR:!2026-10-08,33,278-->
+<!--SR:!2027-02-21,128,298-->
 * **Specialized Structures**: They are noted for having **rhizoids**, which are root-like, highly branched vegetative structures used to anchor the fungus and absorb nutrients.
 
 ### 2 Ascomycets
@@ -123,7 +123,7 @@ Zygomycetes (also historically referred to as Phycomycetes)
 	* **Asexual Spores (Anamorph)**: They reproduce asexually by producing **conidia**, which are formed exogenously.
 * **Dikaryon Phase**: Similar to Basidiomycetes, Ascomycetes can exhibit a "dikaryon phase" (n+n state). This is a transitional condition where plasmogamy (fusion of cytoplasm) occurs, but karyogamy (fusion of nuclei) is delayed, resulting in cells containing two separate haploid nuclei.
 * **Representative Genera**:  ==Trichophyton, Microsporum, and *Aspergillus*, *Penicillium*==
-<!--SR:!2026-09-20,9,250-->
+<!--SR:!2026-10-21,5,230-->
 
 ### 3 Basidiomycetes 
 
@@ -163,7 +163,7 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 * **Dikaryotic Stage**: Occurs between plasmogamy and karyogamy. Common in Ascomycetes and Basidiomycetes; can persist for long periods before nuclear fusion.
 * **Karyogamy**: Fusion of two haploid nuclei to form a **diploid nucleus (2n)**. Occurs in specialized reproductive structures and marks the completion of nuclear fusion.
 * **Meiosis**: Reduction division that restores the haploid state. The diploid nucleus undergoes division to produce haploid sexual spores, ensuring genetic variation. These spores germinate to form new fungal mycelium.
-<!--SR:!2026-09-27,16,258-->
+<!--SR:!2026-10-24,8,238-->
 
 ### II. Asexual Reproduction
 * **Conidia**: Produced externally on conidiophores. Examples: *Aspergillus*, *Penicillium*.  
@@ -186,7 +186,7 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 	* **Definition**: These are structured as chains of elongated, newly budded yeast cells that remain attached end-to-end without detaching.
 	* **Characteristics**: They form thread-like structures that feature clear, constricted junctions between the cells.
 	* **Example**: Found in ==1;;*Candida albicans*.==
-<!--SR:!2026-10-01,10,250-->
+<!--SR:!2026-10-21,5,230-->
 
 # Stains Used in Mycology 
 
@@ -199,7 +199,7 @@ Sexual reproduction involves the fusion of nuclei and the formation of specializ
 * *Lactic acid*: Preserves the fungal structure.
 * *Cotton blue*: Stains the chitin present in the fungal cell wall.
 	* **Uses**: It is used to demonstrate hyphae and spores.
-<!--SR:!2026-09-20,12,274-->
+<!--SR:!2026-10-22,6,254-->
 
 
 2\. **KOH Preparation (10-20%)**  
@@ -216,20 +216,20 @@ Procedure
 3\.**Gram Stain**  
 * **Overview**: Used because some fungi stain Gram-positive.  
 * which fungi appear as Gram-positive budding yeast when Gram stain is applied. :: Candida
-<!--SR:!2026-09-18,10,255-->
+<!--SR:!2026-10-21,5,235-->
 
 4. **India Ink Stain**
 * **Uses**: It is specifically used to detect the presence of a capsule.
 * **Appearance**: The capsule is visualized as a clear halo around the fungus.
 * **Example**: Used to detect fungus like ==Cryptococcus neoformans==
-<!--SR:!2026-09-23,7,250-->
+<!--SR:!2026-10-20,4,230-->
 
 
 5. **PAS Stain (Periodic Acid-Schiff)**
 * **Appearance**: It stains the fungal cell wall a ==magenta or pink== color.
 * **Used in**: Histopathology tissue sections.
 * Reacts with aldehyde group
-<!--SR:!2026-09-18,7,250-->
+<!--SR:!2026-11-10,25,270-->
 
 6. **Gomori Methenamine Silver (GMS)**  
 * **Overview**: Recognized as a highly sensitive fungal stain.  
@@ -238,7 +238,7 @@ Procedure
 7. **Calcofluor White Stain**
 * **Principle**: It is a chemofluorescent dye that binds selectively to ==chitin and cellulose== in fungal cell walls.
 * **Observation**: Under a fluorescence microscope, the fungal elements fluoresce a bright green, allowing for rapid and highly sensitive detection of fungi.
-<!--SR:!2026-09-26,15,290-->
+<!--SR:!2026-10-24,8,270-->
 
 # Structure of Fungal Cells
 
@@ -257,7 +257,7 @@ The fungal cell wall is a rigid outer layer that typically ranges from 100 to 20
 	* **Mannoproteins**: Glycoproteins containing **mannose sugars** located on the **outer layer** of the cell wall. They function in host **cell adhesion**, act as antigenic determinants, and interact with the host's immune system.
 	* **Other Components**: Glycoproteins, lipids, and minor amounts of proteins and pigments (such as melanin in certain fungi).
 ![433](/img/user/Attachments/Structure%20of%20funal%20cell.png)
-<!--SR:!2026-09-19,10,255-->
+<!--SR:!2026-10-21,5,235-->
 
 ## 2\. Fungal Cell Membrane 
 
@@ -293,7 +293,7 @@ Fungal structures differ drastically from bacterial cell structures across sever
 
 # Fungal Growth Media 
 name few media in which fungus can grow :: Sabouraud dextrose agar, Potato dextrose agar, Corn Meal agar , czapek dox agar , brain heart infusion
-<!--SR:!2026-09-21,10,250-->
+<!--SR:!2026-10-21,5,230-->
 
 **1\. Sabouraud Dextrose Agar (SDA)**
 * **Overview:** The most commonly used primary isolation medium for fungi.  

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/docs/tissue-processing/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":["Histology"],"Subject":["Histology"],"tags":["sem4","flashcards/sem4"]}}
+{"dg-publish":true,"permalink":"/docs/tissue-processing/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":["Histology"],"tags":["sem4","flashcards/sem4"]}}
 ---
 
 <-  [[docs/Histology\|Histology]]
 
 Key Steps of tissue processing are :: Dehydration -> Clearing -> Infiltration
-<!--SR:!2026-09-23,12,250-->
+<!--SR:!2026-10-22,6,230-->
 
 # 1. Dehydration
 
@@ -23,7 +23,7 @@ Key Steps of tissue processing are :: Dehydration -> Clearing -> Infiltration
 
 ## Dehydrating Agents
 name the dehydrating agents used in histology :: ethanol, isopropyl alcohol, acetone
-<!--SR:!2026-09-19,3,210-->
+<!--SR:!2026-10-18,2,190-->
 ### A. Ethanol
 The most commonly used dehydrating agent.
 -   **Advantages:**
@@ -150,7 +150,7 @@ If clearing is incomplete, paraffin will not infiltrate properly, leading to. So
 	1. slow clearing, less shrinkage 🟢, **delicate tissue**
 4. cedarwood oil (natural agent)
 	1. very gentle, **brain and eye tissues**, very slow and expensive
-<!--SR:!2026-09-25,9,150-->
+<!--SR:!2026-10-21,5,130-->
 
 
 **Duration of Clearing**
@@ -161,23 +161,11 @@ large specimen: 1-2hr x 2 changes
 temp, agitation, freshness , thickness
 
 # 3. Infiltration (Impregnation)
-
-### Definition & Aim
-* **Definition:** The process in which the clearing agent (xylene) is completely replaced by molten paraffin wax inside all tissue spaces
-* **Aim:** To provide internal support to the tissue prior to section cutting
-
-### Scientific Principle & Mechanism
-* Following clearing, the tissue spaces are filled with xylene
-* Because xylene is miscible with paraffin, placing tissue into molten wax causes **xylene to diffuse out** and **paraffin to diffuse in**
-* Molten paraffin penetrates intercellular spaces, cavities, and connective tissue, forming a solid matrix upon cooling to support the specimen for microtomy
-
-### Purpose & Benefits of Proper Infiltration
-* Completely replaces clearing agents
-* supports tissue for thin sectioning and prevents collapse or distortion of delicate structures
-* Enables uniform sectioning ($3\text{--}5\,\mu\text{m}$) and optimal staining quality
-* Maintains tissue architecture and cell morphology while reducing sectioning artifacts
-
----
+- Xylene is replaced by paraffin wax
+- we do this to provide internal support to tissue 
+- Molten paraffin penetrates intercellular spaces, cavities, and connective tissue, forming a solid matrix upon cooling to support the specimen for microtomy
+- prevents collapse or distortion of delicate structures
+- Maintains tissue architecture and cell morphology
 
 ## 3.2 Infiltration Media & Characteristics
 
@@ -193,7 +181,7 @@ temp, agitation, freshness , thickness
 2. **Plastic Resins** *(e.g., Glycol methacrylate, Epoxy)* : High-resolution media ;;; Bone, small biopsies
 3. **Celloidin** *(Nitrocellulose)* : Thick, slow-penetrating medium ;;; Brain and nervous tissue
 4. **Polyethylene Glycol (PEG)** : Water-soluble paraffin alternative ;;; Special tissues, rapid processing
-<!--SR:!2026-09-18,7,170-->
+<!--SR:!2026-10-20,4,150-->
 
 
  **Paraffin Wax Composition**
@@ -271,7 +259,7 @@ temp, agitation, freshness , thickness
 4. **Electrolytic Method**
 	1. Feature: Uses electric current to accelerate ion transfer
 	2. Disadvantage: Rarely used due to technical complexity
-<!--SR:!2026-09-22,8,250-->
+<!--SR:!2026-11-05,20,250-->
 
 ---
 

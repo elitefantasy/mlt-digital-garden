@@ -5,47 +5,38 @@
 
 [[docs/Mycology\|Mycology]]
 
-```insta-toc
----
-title:
-  name:
-  level:
-  center:
-exclude:
-style:
-  listType:
-omit:
-levels:
-  min:
-  max: 2
----
-
-# Table of Contents
-
-- 1. Superficial Mycoses
-    - A. Skin Infection
-    - B. Infection of Hair ( piedra )
-- 2. Cutaneous Mycoses
-    - 2.1. Introduction to Cutaneous Mycoses
-    - 2.2. Clinical Types of Dermatophytosis
-    - exam ready points on Lab Diagnosis of Dermatophytes
-    - 2.3. Laboratory Diagnosis of Dermatophytosis
-    - 2.4 Dermatophyte Classifcation by habitat
-    - 2.6. Pathogenesis & Mechanism of Infection
-    - 2.7. Host Immune Response
-- 3. Subcutaneous Mycoses
-    - 3.2. Risk Factors and etiology
-    - 3.4. Classification & General Characteristics
-    - 3.5. General Clinical Features
-    - 3.6. Detailed Clinical Syndromes & Entity Comparison
-    - 3.7. Differential Diagnosis & Diagnostic Principles
-    - 3.9 Sporothrix Schenckii
-- 4. Systemic Mycoses (Deep Mycoses)
-- 5. Opportunistic Mycoses
-    - 5.1 Candida albicans
-    - 5.2 Cryptococcus neoformans
-- Mycotoxicosis
-```
+# Table of Content
+- [[docs/Pathogenic classification  of mycoses#1. Superficial Mycoses\|1. Superficial Mycoses]]
+	- [[docs/Pathogenic classification  of mycoses#1. Superficial Mycoses\|A. Skin Infection]]
+		- [[docs/Pathogenic classification  of mycoses#A. Skin Infection\|Malasezia furfur / tinea Versicolor]]
+	- [[docs/Pathogenic classification  of mycoses#1. Superficial Mycoses\|B. Infection of Hair ( piedra )]]
+- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|2. Cutaneous Mycoses]]
+	- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|2.1\. Introduction to Cutaneous Mycoses]]
+	- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|2.2\. Clinical Types of Dermatophytosis]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|A. Tinea Pedis]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|B. Tinea Cruris]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|C. Tinea Unguium]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|D. Tinea Corporis]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|E. Tinea Capitis -> hair ka infection / scalp infection]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|Tinea Barbae:]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|Tinea Faciei:]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|Tinea Manuum:]]
+		- [[docs/Pathogenic classification  of mycoses#2.2\. Clinical Types of Dermatophytosis\|Tinea Imbricata:]]
+	- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|exam ready points on Lab Diagnosis of Dermatophytes]]
+	- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|2.3\. Laboratory Diagnosis of Dermatophytosis]]
+	- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|2.4 Dermatophyte Classifcation by habitat]]
+	- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|2.6\. Pathogenesis & Mechanism of Infection]]
+	- [[docs/Pathogenic classification  of mycoses#2. Cutaneous Mycoses\|2.7\. Host Immune Response]]
+- [[docs/Pathogenic classification  of mycoses#3. Subcutaneous Mycoses\|3. Subcutaneous Mycoses]]
+	- [[docs/Pathogenic classification  of mycoses#3. Subcutaneous Mycoses\|3.4. Classification & General Characteristics]]
+		- [[docs/Pathogenic classification  of mycoses#3.4. Classification & General Characteristics\|Mycetoma / madura foot]]
+		- [[docs/Pathogenic classification  of mycoses#3.4. Classification & General Characteristics\|Chromablastomycosis]]
+	- [[docs/Pathogenic classification  of mycoses#3. Subcutaneous Mycoses\|3.9 Sporothrix Schenckii]]
+- [[docs/Pathogenic classification  of mycoses#4. Systemic Mycoses (Deep Mycoses)\|4. Systemic Mycoses (Deep Mycoses)]]
+- [[docs/Pathogenic classification  of mycoses#5. Opportunistic Mycoses\|5. Opportunistic Mycoses]]
+	- [[docs/Pathogenic classification  of mycoses#5. Opportunistic Mycoses\|5.1 Candida albicans]]
+	- [[docs/Pathogenic classification  of mycoses#5. Opportunistic Mycoses\|5.2 Cryptococcus neoformans]]
+- [[docs/Pathogenic classification  of mycoses#Mycotoxicosis\|Mycotoxicosis]]
 
 # 1. Superficial Mycoses
 ![272](/img/user/Attachments/Pasted%20image%2020260815083621.png)
@@ -66,7 +57,7 @@ Tinea nigra : hortae wernecki
 **Hair infections**
 Black piedra : piedra hortae
 White piedra : trichosporon beigali
-<!--SR:!2026-09-17,2,150-->
+<!--SR:!2026-10-18,1,130-->
 
 ## A. Skin Infection
 i) **Tinea versicolor** 
@@ -216,7 +207,7 @@ Tinea pedis - ==1;;feet==
 Tinea manuum - ==1;;hands==
 Tinea barbae - ==1;;beard==
 Tinea unguium/onychomycosis - ==1;;nails==
-<!--SR:!2026-10-13,29,210-->
+<!--SR:!2026-10-19,2,190-->
 
 ### A. Tinea Pedis
 -   **Common Name:** Athlete’s foot.
@@ -545,7 +536,7 @@ The primary clinical diseases(7) caused by subcutaneous mycoses include:
 	- **Etiology:** broad, ribbon-like, non-septate (coenocytic) hyphae and divided into two categories:
 	    - **Entomophthoromycosis:** Localized subcutaneous infections caused by _Basidiobolus ranarum_ or _Conidiobolus coronatus_.
 	    - **Subcutaneous Mucormycosis:** Rare, localized subcutaneous presentations of zygomycosis caused by _Rhizopus arrhizus_, _Mucor_, or _Lichtheimia_ species
-<!--SR:!2026-09-17,2,150-->
+<!--SR:!2026-10-18,1,130-->
 
 ### Mycetoma / madura foot
 - affects feet mainly
@@ -554,6 +545,7 @@ The primary clinical diseases(7) caused by subcutaneous mycoses include:
 - classic triad: ==tumefaction(swelling), multiple discharging sinuses, granules in discharge==
 - caused by fungi or filamentous bact
 - occurs via traumatic implantation
+<!--SR:!2026-10-18,1,210-->
 
 **Classification**
 - based on causative agent
@@ -803,7 +795,7 @@ It is a subacute to chronic infections It is common in persons with Chronic Obst
 - C. gatti healthy +  immunocompetent host.
 	- takes over immune system
 - Both C. neoformans and C. gatti are ==encapsulated== yeasts, an attribute that ensures their survival in the gut of pigeons and also increases their pathogenicity
-<!--SR:!2026-09-23,7,250-->
+<!--SR:!2026-10-20,4,230-->
 
 2.2 **Aspergillosis**
 - examples: A. fumigatus, A. niger, A. flavus and A. nidulans. 
@@ -935,18 +927,20 @@ On catheters, dentures, and other surfaces, _C. albicans_ may form a biofilm thr
 
 ---
 ## 5.2 Cryptococcus neoformans
+[[docs/Pathogenic classification  of mycoses#Table of Content\|Pathogenic classification  of mycoses#Table of Content]]
 - basidiomycete
 - reprodution
 	- sexual reproduction forming dikaryotic hyphae and basidiospore, **Club shaped** basidium
 - Species: C.neoformans, C.gatti, C.albidus, C.laurentil, C.uniguttulatus
 - most pathogenic: C.neoforman
-- d/f from other fungus as it has **polysacharide capsule**
+- d/f from other fungus as it has ==polysacharide== capsule
+<!--SR:!2026-10-21,4,270-->
 
-### morphology
+**morphology**
 - dried yeast cell, mildly encapsulated
 - in culture they are whitis mucoid colony, they lack hyphae
 
-### Life cycle
+**Life cycle**
 - uses human phagocytes to spread within body
 - colonize phagocytic cell , escapes phagocytosis 
 - in lungs c.neoforman can survive oxidative reaction and remain latent in macrophages
@@ -956,14 +950,16 @@ On catheters, dentures, and other surfaces, _C. albicans_ may form a biofilm thr
 	- Blastospores undergo **meiosis** to produce **haploid cells**.
 	- During meiosis, **DNA repair** may occur to overcome cellular stress.
 	- This process produces **monokaryotic fruiting structures**, which may contribute to **fungal virulence**.
-### Pathogenesis
+
+**Pathogenesis**
 affects immuno compromised patient
 - yeast cell inhale or basidiospore
 - enters respiratory tract and reach alveoli
 - minimal pulmonary infection: asymptomatic, mild
-- alveolar macrophage can phagocytose yeast but c.neoforman posses mechanism(capsule + melanin`(`protection against oxidative stress`)`) that allow it to survive
+- alveolar macrophage can phagocytose yeast but c.neoforman posses mechanism(capsule + ==melanin==`(`protection against oxidative stress`)`) that allow it to survive
 - for immunocompromised: yeast cell replicate and spread to other body parts
 - when CNS is affected C.meningitis
+<!--SR:!2026-10-18,1,230-->
 
 Dissemination to CNS
 - After **pulmonary infection**, _C. neoformans_ may enter the **bloodstream** and reach the **CNS**.
@@ -979,12 +975,48 @@ CNS Infection
     - **Cryptococcomas**
 - In **immunocompromised patients**, inflammation may be **relatively weak**.
 
-### Virulence factor
+
+**Virulence factor**
 1. polysacharide capsule
 2. melanin
 3. urease: tissue invasion
 4. phospholipase: membrane damage
 
+**Lab Diagnosis**
+- CSF fluid, tissue exudates, sputum , blood, urine
+- gram stain : round, gram positive granular or gram negative lipoid bodies
+- India Ink : polysaccharide capsule
+- negative staining
+- mucicarmine stain : identifies polysacharide cell wall
+- Culture examination : SDA , 
+- biochemical : urease positive , not ferment sugar , brown pigment on bird seed type culture
+- Serological
+	- CrAg Cryptococcal Antigen : detect capsular polysacaride Ag
+		- methods : latex aglutination , Enzyme Immunoassay , Lateral flow assay
+- Histopathology
+	- MALDI-TOF MS can help identify Cryptococcus species
+	- Matrix Assisted Laser Desoption / ionization Time of flight mass Spectrometry
+
+## 5.3 Aspergillus Spp
+[[docs/Pathogenic classification  of mycoses#Table of Content\|Pathogenic classification  of mycoses#Table of Content]]
+
+### Intro
+- soil, saprophytic
+- produce enzyme amylase which is absorbed by vegetative hyphae
+- high amylase means continuous degradation of organic material
+- spore forming mold , reproduce asexually 
+- conidia can germinate to form hyphae -> fungal mycelium
+- common species : A.fumigatus , A.niger, A.flavus, A.nidulans, A.clavans
+- A.fumigatus : disease , found in manure and decomposing plant material
+- A.flavus : peanuts and grain , produce aflatoxin
+- A.niger : black mold
+- A.terreus : invasive aspergilosis
+
+### A.fumigatus
+- morphology: hyphal conidia and conidiophore
+- spiked conidia
+- septate hyphae
+- colony : powdery / velvety
 # Mycotoxicosis
 * **Description**: Diseases resulting from the ingestion or inhalation of preformed toxic fungal metabolites (mycotoxins) rather than direct tissue invasion.  
 * **Agents/Examples**:  

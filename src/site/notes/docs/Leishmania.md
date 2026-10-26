@@ -50,12 +50,9 @@ _Leishmania_ occurs in two important forms:
 
 The **amastigote** contains a nucleus and a small rod-like **kinetoplast**, a key feature for microscopy. 
 
-
-
 ---
 
 ## Life Cycle
-
 1. An infected female sandfly bites a human and injects **metacyclic promastigotes** into the skin.
 2. Promastigotes are phagocytosed by macrophages.
 3. Inside macrophages, promastigotes transform into **amastigotes**.
@@ -151,11 +148,6 @@ Mucocutaneous disease occurs mainly in the Americas and is commonly associated w
 ---
 
 # Laboratory Diagnosis
-**which aldehyde is commonly used in aldehyde test to detect visceral leishmaniasis**
-?
-The aldehyde test for visceral leishmaniasis is **Napier’s formol-gel test**. It uses **formaldehyde**, usually added as **commercial formalin (40% formaldehyde solution)** to the patient’s serum.
-.
-Formaldehyde reacts with the markedly increased serum gamma globulins in kala-azar, causing **opacification and jelly-like coagulation** of serum in a positive test. This is a nonspecific test because gamma globulins may also be raised in other chronic diseases
 
 ## Specimens
 
@@ -199,9 +191,6 @@ Microscopy rapidly detects amastigotes but cannot reliably identify the parasite
 |Lymph node aspirate|Variable|Useful when nodes are enlarged, especially in some regions|
 
 A bone marrow smear may show clusters of amastigotes in macrophages.
-
-
-
 
 ---
 
@@ -363,3 +352,4 @@ India reached the WHO-defined public-health elimination threshold for kala-azar 
 |Best diagnostic approach|Parasitology plus serology|Lesion microscopy/biopsy|Mucosal lesion microscopy/biopsy|
 |Serology|Useful|Limited usefulness|Limited usefulness|
 |Untreated outcome|Often fatal|May self-heal but scar|May cause major disfigurement|
+

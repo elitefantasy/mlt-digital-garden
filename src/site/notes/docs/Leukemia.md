@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/leukemia/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"],"Sem4Sub":["Immunology"],"Subject":null}}
+{"dg-publish":true,"permalink":"/docs/leukemia/","tags":["flashcards/sem4","sem4"],"dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Immunology"]}}
 ---
 
 - blood cancer
@@ -80,7 +80,7 @@ don't confuse with lymphoma
 - CNS involvement
 
 **Cytochemical Features**
-- PAS Stain: Block like cytoplasmic activity
+- PAS Stain: <span style="color:rgb(255, 0, 0)">Block like</span> cytoplasmic activity
 - MPO negative
 - sudan black B negative (granules in myeloid)
 
@@ -92,6 +92,9 @@ don't confuse with lymphoma
 - occurs without lymph node enlargement or lymphoma features
 - considered a precursosr to CLL / SLL
 
+### APL
+APL is classically associated with t(==1;;15;17==), creating the ==1;;PML:RARA== fusion. It is associated with a high risk of disseminated intravascular coagulation.
+
 ### 3. CML
 - MATURE AND IMMATURE myeloid cells
 - *philadelphia chromosome*(chromosomal translocation 9;22)
@@ -101,6 +104,7 @@ don't confuse with lymphoma
 - ABL1 gene function is to encode tyrosine kinase enzyme
 - abnormal amount of tyrosine kinase enzyme
 - diagnostic markers : CD5 and CD23
+<!--SR:!2026-10-20,4,270-->
 
 #### Treatment
 - Imatinib main treatment, inhibits BCR-ABL1 tyrosine kinase
@@ -115,6 +119,10 @@ guess the characteristic feature of which leukemia it is
 2. PAS +ve -> ==1;;ALL , Children==
 3. philadelphia chromosome -> ==1;;CML==
 4. smudge cells -> ==1;;CLL==
+<!--SR:!2026-10-18,1,190-->
+
+
+Typical CLL cells express B-cell markers such as ==1;;CD19== and aberrantly co-express ==1;;CD5 and CD23.==
 
 
 ## Cytochemistry
@@ -192,5 +200,4 @@ interpretation
 
 ### TRAP
 - tartarate resistant acid phosphatase
-- associated with hairy cell leukemia
-- 
+- associated with ==hairy cell leukemia==

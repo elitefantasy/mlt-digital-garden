@@ -4,6 +4,8 @@
 
 
 - Unicellular, simplest forms of life.
+- pinocytosis is a method of ingesting nutrient materials . Ingested material become enclosed within a membrane to form a blood vessel.
+- 
 
 ### Reproduction
 **Asexual Reproduction**
@@ -19,16 +21,18 @@
 - _Encystation:_ Transformation of a trophozoite into a cyst
 - _Excystation:_ Transformation of a cyst back into an active trophozoite
 
+
 ## Classification
 
-1. protozoa
+1. [[docs/protozoa\|protozoa]]
 	1. flagellated
 		1. intestinal:[[docs/protozoa#Flagellate Giardia Lambila \| Giardia Lambila]]
 		2. hemoflagellates: [[docs/Leishmania\|Leishmania]] , [[docs/Trypanosoma\|Trypanosoma]]
 		3. genital : trichomonas vaginalis
 	2. amoebiod:[[docs/protozoa#Amoeba Entamoeba Histolytica \| E.Histolytica]]
 	3. ciliated: [[docs/protozoa#Ciliate Balantidium Coli\|Balantidium Coli]]
-	4. sporozoans: [[docs/plasmodium\|plasmodium]] , [[docs/protozoa#Sporozoan Cryptosporidium parvum \| Cryptosporidium parvum]]
+	4. sporozoans: [[docs/plasmodium\|plasmodium]] , [[docs/protozoa#Sporozoan Cryptosporidium parvum \| Cryptosporidium parvum]] , [[docs/protozoa#Sporozoan Toxoplasma Gondi \| Toxoplasma Gondi]]
+
 
 **Quest | which protozoan parasite is found in small intestine and which one in large intestine**
 ?
@@ -53,10 +57,47 @@
 | **Extraintestinal Spread**           | **Yes** (travels via portal blood to **liver**, lungs, or brain)                                             | **No** (confined to intestinal lumen/gallbladder)                                                                | **No** (does **not** invade the liver or extraintestinal sites)                                                           |
 | **Diagnostic Stool Findings**        | Trophozoites containing **ingested RBCs**; Charcot-Leyden crystals; iodine mount shows golden-brown glycogen | Pale, fatty stool floating on water; cysts/trophozoites in wet mounts or zinc sulfate flotation                  | Ciliated motile trophozoites or large cysts with a kidney-shaped macronucleus in stool                                    |
 
+
+### infective stages 
+
+#### **1. Amoebae**
+*   ***Entamoeba histolytica***: **Mature quadrinucleate cyst** (ingested via contaminated food or water) 
+*   ***Entamoeba coli*** *(non-pathogenic)*: **Mature 8-nucleated cyst** (ingested via the fecal-oral route) 
+*   ***Naegleria fowleri*** *(free-living amoeba)*: **Trophozoite** (enters the central nervous system via the nasal mucosa during swimming/diving in warm fresh water).
+*   ***Acanthamoeba* species**: **Both Trophozoites and Cysts** can cause infection (enters via damaged cornea/contact lens use, skin, or respiratory tract).
+*   ***Entamoeba gingivalis***: **Trophozoite** (lacks a cyst stage; transmitted directly via oral contact/saliva).
+
+---
+
+### **2. Flagellates**
+*   ***Giardia lamblia***: **Mature quadrinucleate cyst** (ingested via contaminated water or food; as few as 10 cysts can establish infection) 
+*   ***Trichomonas vaginalis***: **Trophozoite** (lacks a cyst stage entirely; transmitted via direct sexual contact) 
+*   ***Leishmania donovani*** *(and other Leishmania spp.)*: **Promastigote** (flagellated form injected into human skin by the female sandfly vector, *Phlebotomus*)
+*   ***Trypanosoma brucei*** *(African Sleeping Sickness)*: **Metacyclic trypomastigote** (injected into humans by the bite of the Tsetse fly, *Glossina*) 
+*   ***Trypanosoma cruzi*** *(Chagas Disease)*: **Metacyclic trypomastigote** (passed in feces of the Reduviid / Triatomine / Kissing bug and rubbed into the bite wound or mucous membranes) 
+
+---
+
+### **3. Ciliates**
+*   ***Balantidium coli***: **Cyst** (ingested via food or water contaminated with pig or human feces) 
+
+---
+
+### **4. Sporozoans / Apicomplexa**
+*   ***Plasmodium* species** (*P. falciparum, P. vivax, P. malariae, P. ovale*):
+    *   **Infective stage for humans**: **Sporozoite** (injected by the female *Anopheles* mosquito during a blood meal) 
+    *   **Infective stage for mosquito**: **Gametocyte** (ingested from human blood during a bite) 
+*   ***Toxoplasma gondii***: All three morphological stages can be infectious to humans depending on the transmission route 
+    1. **Mature Sporulated Oocyst** (ingested from cat feces/soil/water)
+    2. **Tissue Cyst containing Bradyzoites** (ingested in raw or undercooked infected meat)
+    3. **Tachyzoite** (transplacental/congenital transmission from mother to fetus) 
+*   ***Cryptosporidium parvum* / *C. hominis***: **Mature sporulated Oocyst** containing 4 sporozoites (ingested via contaminated food/water) . *(Note: Thin-walled oocysts cause autoinfection within the same host) .*
 ### Amoeba | Entamoeba Histolytica
 ![entamoeba histolytica.png\|294](/img/user/Attachments/entamoeba%20histolytica.png)
 #### introduction
 - amoebiasis(dysentry)
+- it is an anaerobic parasite
+- 
 
 #### morphology
 3 forms
@@ -73,6 +114,9 @@
 	- food vacuole disappears
 	- develops into immature cyst -> then mature cycst **quadrinucleate cyst**
 - 3. cystic
+	- cyst stage is surrounded by highly refractile membrane
+	- contain spehrical nucleus , chromatin bodies (not stained with iodine) and glycogen vacuole (stains brown with iodine)
+	- each cyst liberates one ameba with 4 nuclei
 	- dormant , infective stage
 	- immature cyst: chromatid bars, glycogen mass , nucleus(1-2 nuclei)
 	- mature cyst : ~~chromatid bars~~, ~~glycogen mass~~ , nucleus -> division -> quadrinucleate cyst
@@ -122,6 +166,7 @@
 	* **Cerebral**: Brain abscesses (often fatal).
 	* **Cutaneous**: 
 	* **Splenic**: Splenic abscesses.
+* note : e.histolytica invade glandular epithelium by means of an extra cellular cysteine proteinase that Degrades collagen , elastin .
 
 
 #### Laboratory Diagnosis
@@ -150,6 +195,20 @@
  * **Supportive Care:** Fluid and electrolyte therapy.
  * **Prophylaxis**: Safe disposal of human feces, avoiding fecal contamination of food/water, and treatment of asymptomatic carriers.
 
+#### amoebic and bacillary dysentry 
+
+
+|                        | Amoebic                   | Bacillary                                                |
+| ---------------------- | ------------------------- | -------------------------------------------------------- |
+| Reaction               | Acidic                    | Alkaline                                                 |
+| Consistency            | No adherence to container | Adherence to container                                   |
+| Nature                 | Blood mucus with feces    | No fecal matter , blood , water and mucus may be present |
+| Odor                   | Offensive                 | Odorless                                                 |
+| Rbc                    | In clumps                 | Discrete                                                 |
+| Pus cell               | Scanty                    | Plenty                                                   |
+| Charcot Leyden crystal | Present                   | Absent                                                   |
+
+
 ### Flagellate | Giardia Lambila
 [[docs/protozoa#Classification\|protozoa#Classification]]
 - First identified by Antonie van Leeuwenhoek
@@ -157,6 +216,9 @@
 - Leading cause of traveler's' diarrhea
 - Primary Habitat: Human small intestine
 - Specific Location: Duodenum and upper jejunum
+- giardia does not spread via bloodstream and does not spread to other parts of GIT
+- giardia trophozoite are anaerobe 
+- giardia cyst are resistant to chlorination and ozonolysis 
 ![Pasted image 20260831194155.png\|423](/img/user/Attachments/Pasted%20image%2020260831194155.png)
 
 Exist in Two Forms
@@ -221,6 +283,8 @@ has a **simple, direct life cycle** with **two main stages**: the **infectiv
 - only ciliate protozoan parasite of human
 - largest protozoan parasite of human
 - reside in large intestine of humans , **pigs**, monkeys
+- balantodiassis is a zoonotic disease 
+- 
 
 stages
 - trophozoite
@@ -243,6 +307,7 @@ stages
 - **Cytoplasmic Contents:** Contains 1–2 contractile vacuoles and several food vacuoles.
 
 #### B. Cyst
+- cytoplasm of cyst is granular , and contains kidney shaped macronucleus and vacuole 
 - **Shape & Size:** Spherical in shape, measuring 40–60 µm in diameter.
 - **Cyst Wall:** Thick and transparent double-layered wall.
 - **Contents:** Granular cytoplasm containing a macronucleus, micronucleus, and vacuoles.
@@ -291,10 +356,81 @@ stages
 - **Treatment:** **Tetracycline** is the drug of choice.
 - **Prophylaxis:** Avoid food/water contamination; treat infected pigs and humans.
 
+### Sporozoan | Toxoplasma Gondi
+[[docs/protozoa#Classification\|#Classification]]
 
+**Morphology**
+- exist in three forms : trophozoite , tissue cyst, and oocyst
+- trophozoites are boat shaped 
+- trophozoite and tissue cyst : involved in asexual reproduction (shizogony)
+- oocyst : formed through sexual repro(gametogony or sporogony)
+![Pasted image 20261015180229.png\|140](/img/user/Attachments/Pasted%20image%2020261015180229.png)
+![Pasted image 20261015180243.png\|371](/img/user/Attachments/Pasted%20image%2020261015180243.png)
+
+- Definitive host: cat
+- intermediate host: humans, bird
+- all three stages are infectious to humans
+- in case of congenital infection they fetus may get infected , infants may appear normal at birth but , later on , may have a higher incidence of learning disabilities
+- t.gondi may cause eye related infection 
+
+**trophozoite**
+- crescent shaped, nucleus is ovoid
+- stains well with geimsa stain , nucleus red, cytoplasm azure blue
+- Invades nucleated cell replicates in cytoplasm vacuole produces two daughter trophozoite within parent cell
+- hot cell rupture release trophozoites and infect other cell
+- in acute infection trophozoite may form pseudocyst
+- rapidly multiplying trophozoites are termed tachyzoites
+- sensitive to drying , freeze, gastric digestion
+
+**Tissue Cyst**
+- dormant stage
+- found during chronic stage
+- primarily in brain
+- cyst wall : eosinophilic and silver staining , stains weakly with PAS
+- contain bradyzoites which multiply slowly
+
+**Oocyst**
+- exclusively in intestine
+- not formed in humans
+- oval shape
+- surrounded by thick resistant wall
+- oocyst undergo sporulation -> form two sporocyst each containing 4 sporozoite
+
+**Life Cycle**
+- definitive host: cats , both sexual and asexual
+- intermediate host : humans , only asexual
+- two type of lifecycle : enteric(inside intestine), Exoenteric(outside intestine)
+
+
+
+Enteric Cycle
+- occurs in small intestine of cats and definitive host
+- both sexual and asexual
+- cats acquire infection by ingesting tissue cyst from infected meat or oocyst passed in their own feces
+- Asexual repro : bradyzoite released from cyst undergo schizogony producing merozoite
+- formation of tissue cyst , some merozoite travel to extraintestinal tissue
+
+Exoenteric Cycle
+- occurs in intermediate host
+- humans acquire infection through , uncooked food, oocyst ingestion , contaminated food
+- sporozoite from oocyst and bradyzoite from tissue cyst enter the intestinal mucosa after ingestion
+- tachyzoites formed though asexual reproduction
+- tachyzoites replicate and spread via blood and lymph
+- some tachyzoite disseminate to other organs
+- in these organs they form tissue cyst
+- inside tissue cyst parasite become bradyzoite which multiply and remain viable for years
+- dormant bradyzoite may reactivate during immune suppression
+
+**congenital toxoplasmosis**
+- T.gondi is transmitted from infected mother to fetus via placenta
+
+**Lab diagnosis**
+- indentification of cyst tropzoite and cyst
+- staining: geimsa , PAS, GMS
 ### Sporozoan | Cryptosporidium parvum
-![Pasted image 20261001120741.png\|431](/img/user/Attachments/Pasted%20image%2020261001120741.png)
 [[docs/protozoa#Classification\|protozoa#Classification]]
+
+![Pasted image 20261001120741.png\|431](/img/user/Attachments/Pasted%20image%2020261001120741.png)
 - unicellular protozoan
 - Reproduction
 	- sexual: sporogonic phase
@@ -303,6 +439,7 @@ stages
 - Symptoms
 	- diarhea
 - Species: C.hominis and c parvum
+- it is resistant to all practical chlorination 
 
 **habitat and morphology**
 - inhabits small intestine

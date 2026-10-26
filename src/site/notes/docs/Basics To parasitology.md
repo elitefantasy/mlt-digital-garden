@@ -82,18 +82,18 @@
 | Ascaris lumbricoides  | ==1;;Embryonated egg==      |
 | Trichrome trichiura   | ==1;;Embryonated egg==      |
 | Taenia solium         | ==1;;Egg -> cysticercosis== |
-<!--SR:!2026-09-22,24,270-->
+<!--SR:!2026-10-28,12,250-->
 
 ### 2. Food borne
 - Undercooked pork -> Taenia solium
 	- Infective Stage ==cysticercus cellulose==
 	- Disease : taeniasis
-<!--SR:!2026-10-01,20,250-->
+<!--SR:!2026-10-27,11,230-->
 
 - Undercooked beef -> Taenia saginata
 	- Infective Stage  ==cysticercus==
 	- Disease : taeniasis
-<!--SR:!2026-10-17,42,290--> 
+<!--SR:!2027-04-04,169,310--> 
 
 - Undercooked fish -> diphyllobothrium latum
 	- Infective Stage  ==plerocercoid==
@@ -109,10 +109,10 @@
 Parasite and its Vector
 **Plasmodium** -> Female Anopheles mosquito
 **Wuchereria bancrofti** ->  :: Mosquito, commonly Culex
-<!--SR:!2026-09-26,10,250-->
+<!--SR:!2026-10-21,5,230-->
 **Brugia malayi** -> Mosquito
 **Leishmania** ->  :: Female sandfly
-<!--SR:!2026-09-24,10,190-->
+<!--SR:!2026-10-21,5,170-->
 **Trypanosoma brucei** -> Tsetse fly
 **Trypanosoma cruzi** -> Triatomine/reduviid bug
 
