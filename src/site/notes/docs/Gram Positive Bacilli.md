@@ -169,12 +169,12 @@ These are typically produced by Enterotoxigenic _E. coli_ (ETEC) and are divided
 
 ---
 
-### **V. Major Clinical Infections**
+### V. Major Clinical Infections
 
-#### **1. Urinary Tract Infection (UTI)**
+#### 1. Urinary Tract Infection (UTI)
 - _E. coli_ is the **most common causative agent of UTI**. It is a resident/normal flora of the human gastrointestinal tract.
 - **Gender Prevalence:** UTIs are significantly **more common in females** due to an open and shorter urethral channel, allowing easy migration of the gut flora.
-- **Pyuria:** The presence of **leukocytes (WBCs/pus cells) in the urine** is a key diagnostic indicator of a UTI.
+- **Pyuria:** The presence of **leukocytes (WBCs/pus cells) in the urine** is a key diagnostic indicator of a UTI. Presence of more the ==5-10== pus cell per HPF(pyq).
 - **Classification of UTIs:**
     - **Lower UTI (==1;;Cystitis/Urethritis==):** Confined locally to the bladder and urethra. Symptoms include **dysuria** (painful/difficult urination), **urgency, and high frequency** (feeling a strong urge but only passing drops of urine).
         - _Virulence Factor:_ Driven primarily by adherence organs called **fimbriae (specifically P fimbriae)** or pili.

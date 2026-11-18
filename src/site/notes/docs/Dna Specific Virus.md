@@ -13,7 +13,7 @@
 *   **Structure:** Herpes is an enveloped virus 
 *   **Symmetry:** Exhibits Icosahedral symmetry 
 
-## II. Medically Important Members of the Family**
+## II. Medically Important Members of the Family
 The *Herpesviridae* family includes several clinically significant viruses:
 ?
 *   Herpes Simplex Virus (HSV)
@@ -26,14 +26,15 @@ The *Herpesviridae* family includes several clinically significant viruses:
 characteristic features are : ==scarring of arms, legs, body ; hypoplasia limb, micropthalimia, low weight==
 <!--SR:!2026-10-12,27,270-->
 
-## III. Transmission Routes**
+## III. Transmission Routes
 Herpes viruses can be transmitted through multiple routes depending on the specific type:
 *   **Respiratory Route:** Several herpes viruses (including CMV, EBV, and VZV) can spread via the respiratory route
 *   **Cutaneous Route (Skin):** Herpes Simplex Virus (HSV) can be transmitted through direct skin contact 
 *   **Sexual Route:** HSV is notably transmitted through sexual contact 
 *   **Transplacental Route:** Herpes viruses, including HSV, VZV, and CMV, can cross the placenta from mother to fetus, making them part of the dangerous <mark style="background: #FFB8EBA6;">TORCH</mark> complex of infections . meaning before birth infection
 
-## IV. Cultivation & Laboratory Diagnosis**
+All of the following virus are transmitted by blood except : hiv, herpes, HBV, HCV? :: Herpes
+## IV. Cultivation & Laboratory Diagnosis
 * which membrane is used for harvesting/cultivating HSV :: **Chorioallantoid membrane** of an embryonated egg  
 *   **Diagnostic Smear:** The **Tzanck smear** is specifically utilized in the clinical diagnosis of Herpes Simplex Virus (HSV) 
 *   **Inclusion Bodies:** 
@@ -41,15 +42,15 @@ Herpes viruses can be transmitted through multiple routes depending on the speci
     *   Specifically, they form acidophilic intranuclear inclusions known as **Cowdry Type A** bodies 
     *   A highly specific type of inclusion body seen in HSV infections is the **Lipschutz body**
 
-## V. Clinical Features & Pathology**
+## V. Clinical Features & Pathology
 *   **Latency:** Herpes viruses, notably ==Hsv-1, HSV-2, CMV, and EBV==, are characterized by their ability to cause **latent infections**, meaning the virus can remain dormant in the host's body for long periods
 *   **HSV-1 Characteristics:** Oropharyngeal involvement is highly common in HSV-1 infections
 *   **HSV-2 Characteristics:** HSV-2 is classically associated with recurrent genital involvement
 <!--SR:!2026-10-19,10,230--> 
 
-## VI. Treatment**
+## VI. Treatment
 *   **Acyclovir** is the primary and highly effective antiviral drug used to treat Herpes Simplex Virus (HSV) infections, particularly in primary stages, as well as associated complications like encephalopathy 
-## CMV Cytomegalo virus
+# CMV Cytomegalo virus
 
 **I. Basic Characteristics & Latency**
 *   **Viral Nature:** Cytomegalovirus (CMV) is a highly **sensitive virus** 

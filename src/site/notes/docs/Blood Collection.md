@@ -2,14 +2,15 @@
 {"dg-publish":true,"permalink":"/docs/blood-collection/","dg-note-properties":{}}
 ---
 
-## **Specimen Collection, Phlebotomy & Anticoagulants**
+## Specimen Collection, Phlebotomy & Anticoagulants
 
-### **A. Blood Collection Techniques**
+### A. Blood Collection Techniques
 
 * **Capillary Collection (Peripheral Blood):**  
   * Preferred site in adults: Ring finger of non-dominant hand (less frequent usage).  
   * Technique: Clean site with 70% alcohol/spirit, prick with sterile lancet, *discard the first drop* (contains tissue fluid), collect the second drop.  
   * Infants/Small Children: **Lateral or medial plantar surface of the heel, earlobe, or big toe.**  
+  * For a 1-year-old child, the preferred capillary blood collection site is the ==palmar (fleshy) surface of the distal segment of the middle (3rd) or ring (4th) finger, preferably the non-dominant hand (pyq)==
   * Applications: Blood grouping, peripheral smears, hemoglobin screening.
 
 **Q) Which of the following is the correct practice when collecting capillary blood from an infant (PYQ)?**

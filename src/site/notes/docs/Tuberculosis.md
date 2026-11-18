@@ -93,7 +93,7 @@ WHO recommends rapid molecular tests as the initial diagnostic test in people wi
 | ----------------------------------- | ------------------------------------------------------------------- | -------------------------------------- |
 | Ziehl-Neelsen stain                 | Detects acid-fast bacilli in sputum smear                           | Rapid but less sensitive               |
 | Fluorescent microscopy              | Auramine-stained bacilli fluoresce                                  | Faster screening of many smears        |
-| NAAT/CBNAAT                         | Detects TB DNA and may identify rifampicin resistance               | Rapid molecular test                   |
+| NAAT/CBNAAT                         | Detects ==TB DNA== and may identify rifampicin resistance           | Rapid molecular test                   |
 | Culture on Lowenstein-Jensen medium | Grows mycobacteria for confirmation and drug susceptibility testing | Slow; colonies may take weeks          |
 | Liquid culture                      | Faster culture-based detection                                      | Requires specialized system            |
 | Drug susceptibility testing         | Detects resistance to anti-TB drugs                                 | Crucial in suspected drug-resistant TB |

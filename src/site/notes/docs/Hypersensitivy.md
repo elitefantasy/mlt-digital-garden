@@ -3,31 +3,15 @@
 ---
 
 
-## 1. Introduction and Classification Overview
-Hypersensitivity is defined as an exaggerated or inappropriate immune response that causes tissue damage, disease, or inflammation. 
-- Foreign antigens
-- Environmental allergens
-- Drugs
-- Sometimes self-antigens
+## Introduction 
+- exaggerated immune response or inappropriate reaction harmful to host 
+- types :: according to gel and combs classification : type 1 immediate or anaphylactic, type 2 cytotoxic hypersensitivity , type 3 immune complex hypersensitivity, type 4 delayed (cell mediated hypersensitivity ). First three type are antibody mediated
+<!--SR:!2026-11-09,4,270-->
 
- **Gell and Coombs Classification system**
-
-| Type         | Name                     | Primary Immune Components                 |
-| ------------ | ------------------------ | ----------------------------------------- |
-| **Type I**   | Immediate / Anaphylactic | ==1;;IgE antibodies, Mast cells==         |
-| **Type II**  | Cytotoxic                | ==1;;IgG or IgM antibodies==              |
-| **Type III** | Immune Complex-Mediated  | ==1;;Antigen-Antibody (Ag-Ab) complexes== |
-| **Type IV**  | Delayed Type             | ==1;;T-lymphocytes/ cell mediated==       |
-
-## 2. Type I Hypersensitivity: Immediate / Anaphylactic
-
- rapid allergic responses,  within minutes of exposure.
-
-
-- **Primary Mediators:** IgE antibodies, mast cells, and basophils.
-- **Chemical Mediators:** Histamine, leukotrienes, and prostaglandins.
-
-
+## type 1 hypersensitivity: immediate / Anaphylactic 
+- immediate when antigen bind to IgE on surface of mast cell
+- this induces release of mediators such as histamine , serotonin, leukotrienes , prostaglandins , thromboxane etc
+- clinical manifestations: eczema , rhinitis , conjunctivitis , urticaria and asthma.
 ### Biphasic Mechanism
 1. **Sensitization Phase:** Initial exposure triggers B cells to produce allergen-specific IgE. These antibodies bind to **high-affinity Fc receptors** on the surface of mast cells and basophils, sensitizing the individual.
 2. **Effector Phase:** Upon re-exposure, the allergen cross-links the IgE already bound to the mast cells, triggering explosive degranulation and the release of inflammatory mediators.
@@ -48,10 +32,11 @@ Common conditions include allergic rhinitis, bronchial asthma, urticaria (hives)
 
 - **Urgent Protocol:** Immediate administration of **Adrenaline (Epinephrine)**, followed by antihistamines and corticosteroids to manage the late-phase response.
 
-**what is schultz dale phenomenon** :: The Schultz-Dale phenomenon is a laboratory technique that demonstrates Type I (immediate) hypersensitivity reactions by showing that sensitized smooth muscle contracts when exposed to a specific antigen.
+**what is schultz dale phenomenon** :: The Schultz-Dale phenomenon is a laboratory technique that demonstrates Type I (immediate) hypersensitivity reactions by showing that sensitized smooth muscle contracts when exposed to a specific antigen. It is used to detect **anaphylaxis in vitro**
+<!--SR:!2026-11-09,4,270-->
 
 
-## 3. Type II Hypersensitivity: Cytotoxic / Antibody-Mediated
+## Type II Hypersensitivity: Cytotoxic / Antibody-Mediated
 
 Type II reactions involve IgG or IgM antibodies reacting against antigens present on the host's cell surfaces or fixed tissue components.
 
@@ -68,10 +53,13 @@ Type II reactions involve IgG or IgM antibodies reacting against antigens presen
 - Goodpasture syndrome (antibodies attacking the glomerular basement membrane).
 - Autoimmune hemolytic anemia and drug-induced hemolytic anemia.
 - **grave's disease**
+<!--SR:!2026-11-09,4,270-->
+
+- drugs such as penicillin, phenacetin and quinidine can attach to surface protein on rbc and initiate antibody formation.
 
 **Laboratory Alert:**  **Direct Antiglobulin Test (DAT)** 
 
-## 4. Type III Hypersensitivity: Immune Complex-Mediated
+## Type III Hypersensitivity: Immune Complex-Mediated
 
 Type III reactions are caused by the deposition of soluble, free-floating antigen-antibody complexes.
 
@@ -86,9 +74,10 @@ Soluble complexes form in the circulation and, rather than being cleared, they s
 
 ### Clinical Examples
 ?
-- ==Serum Sickness and Systemic Lupus Erythematosus (SLE).(chronic autoimmune, widespread inflammation), Arthus reaction(buildup of immune complexes under the skin)==
+- ==Serum Sickness and Systemic Lupus Erythematosus (SLE).(chronic autoimmune, widespread inflammation), Arthus reaction(buildup of immune complexes under the skin), arthritis , nephritis , vasculitis ,endocarditis , dengue hemorrhagic fever , hepatitis b infection==
+<!--SR:!2026-11-09,4,270-->
 
-## 5. Type IV Hypersensitivity: Delayed-Type / Cell-Mediated
+## Type IV Hypersensitivity: Delayed-Type / Cell-Mediated
 
 Type IV is the only classification mediated entirely by T-lymphocytes (CD4+ and CD8+ cells) rather than antibodies.
 
@@ -104,10 +93,11 @@ Type IV is the only classification mediated entirely by T-lymphocytes (CD4+ and 
 - Allergic contact dermatitis (e.g., nickel or poison ivy).
 - Granulomatous inflammation (leprosy([[docs/Leprosy#Lepromin Test\|Lepromine Test]]), tuberculosis).
 - **Transplant rejection** and Type 1 diabetes.
+<!--SR:!2026-11-09,4,270-->
 
 **Laboratory Alert:** Because of the 24–72 hour delay, patients must return to the clinic for a manual reading of the Mantoux test. A negative result at 24 hours does not rule out a reaction.
 
-## 6. Type V Hypersensitivity: Antibody-Mediated Stimulatory
+## Type V Hypersensitivity: Antibody-Mediated Stimulatory
 
 While many authors classify these under Type II, Type V is frequently segregated into its own subcategory as the mechanism does not destroy the target cell, but rather alters its function.
 

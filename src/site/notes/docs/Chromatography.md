@@ -78,7 +78,7 @@ Every chromatographic system relies on the interaction between two distinct phas
 1. **paper chromatography** : Filter paper acts as the stationary phase; useful for separating pigments, amino acids, and sugars
 2. [[docs/Chromatography#Thin Layer Chromatography (TLC)\|Chromatography#Thin Layer Chromatography (TLC)]]
 #### 2. Column chromatography
-- The stationary phase is packed in a vertical column, and the mobile phase flows through it by gravity or pressure. It includes ordinary *column chromatography, HPLC, ion-exchange chromatography, gel filtration, and affinity chromatography.*
+- The stationary phase is packed in a vertical column, and the mobile phase flows through it by gravity or pressure. It includes ordinary *column chromatography, [[docs/Chromatography#HPLC\|#HPLC]] , ion-exchange chromatography, gel filtration, and affinity chromatography.* 
 
 Key Steps in column chromatography
 - glass column is plugged with cotton followed by a thin sand layer. stationery phase is packed uniformly
@@ -266,6 +266,13 @@ $$R_f = \frac{\text{Distance travelled by substance (from origin)}}{\text{Distan
 - Blood sample is mixed with mobile phase , this liquid mixed with blood goes with high pressure to Column( made of gel )  
 - Chemical that sticks to gel now move slower and get detected  by detector and converts to electrical signal and chemical in liquid move faster   
 - Now chromatograph displays it via graph
+- The minimum required resistivity of Type I ultrapure water used for High-Performance Liquid Chromatography (HPLC) is ==18.2== MΩ·cm at 25°C (which corresponds to a conductivity of 0.055 µS/cm).
+
+Why 18.2 MΩ·cm is Critical in HPLC
+ * Eliminates Baseline Noise & Ghost Peaks: 
+ * Protects the Analytical Column:
+ * Prevents Pump & Frit Blockage:
+
 
 
 

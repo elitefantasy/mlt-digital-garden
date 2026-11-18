@@ -6,6 +6,83 @@
 * **Virion**: A complete, fully assembled, and infectious virus particle existing outside a host cell, consisting of a ==1;;nucleic acid core and a protein coat (capsid), and sometimes an envelope.  ==
 * **Viroid**: An infectious agent consisting solely of ==1;;RNA without a protein coat (capsid) or envelope, primarily infecting plants.==
 * **Prion**: A highly resistant, infectious, ==1;;misfolded protein (e.g., causing Alzheimer's via beta-amyloid, or Parkinson's) that contains absolutely no DNA or RNA.==
+* viral capside is formed of ==protein==
+* envelop is made of lipoprotein bilayer.
+* spikes are made of glycoprotein.
+<!--SR:!2026-11-11,1,230-->
+
+# virus morphology 
+
+Viruses are obligate intracellular, sub-microscopic infectious agents. An intact, infectious viral particle outside a host cell is termed a virion. Their morphological organization revolves around a central genome enclosed within a protective protein shell, occasionally surrounded by an outer lipid bilayer.
+
+1. Size Range
+	* Most viruses range from 20 nm to 300 nm in diameter.
+	* Smallest viruses: Parvoviruses (~20 nm), Poliovirus (~30 nm).
+	* Largest clinical viruses: Poxviruses (~300–450 nm).
+	* Giant environmental viruses (e.g., Mimivirus, Pandoravirus) can exceed 500–1,000 nm.
+2. Essential Structural Components
+	* **Viral Genome (Core)**: Contains either DNA or RNA (never both in significant functional amounts). Genomes can be single-stranded (ss) or double-stranded (ds), linear, circular, or segmented.
+	 * **Capsid**: A protein shell that encloses and protects the nucleic acid core. It is composed of repeating morphological subunits called capsomeres. The combined structure of nucleic acid and capsid is termed the nucleocapsid.
+	 * **Envelope** (Present in Enveloped Viruses): A host-derived lipid bilayer acquired during budding through host membranes (plasma membrane, nuclear membrane, or endoplasmic reticulum).
+		* Viruses lacking this layer are referred to as naked or non-enveloped viruses.
+		* Naked viruses are generally more stable against heat, detergents, and desiccation than enveloped viruses.
+	 * **Peplomers** (Spikes): Glycoprotein projections embedded in the envelope (or protruding directly from the capsid in some naked viruses). They facilitate host cell receptor recognition and attachment (e.g., Hemagglutinin and Neuraminidase in Influenza virus).
+3. Capsid Symmetry
+Viruses exhibit four primary morphological symmetries:
+
+| Symmetry Type | Structural Features | Representative Examples |
+|---|---|---|
+| Icosahedral (Cubical) | 20 equilateral triangular faces, 12 vertices, and 30 edges. Highly efficient packing structure. | Adenovirus, Poliovirus, Herpesvirus |
+| Helical | Capsomeres wind around the viral genome in a continuous spiral or rod-like cylinder. Most animal helical viruses are enveloped. | Influenza virus, Rabies virus (Rhabdoviridae), Tobacco Mosaic Virus (TMV) |
+| Complex | Lacks strictly icosahedral or helical geometry; often possesses specialized internal or external structures. | Poxvirus (brick-shaped with lateral bodies), Bacteriophages (icosahedral head with helical tail) |
+| Pleomorphic | Variable or irregular spherical shape, commonly seen due to flexible lipid envelopes. | Orthomyxoviruses, Coronaviruses |
+- cytopathic effect :: Structural and morphological changes in host cells caused by viral infection, ultimately visible at the cellular level.
+- Primary microscope type for observing cytopathic effects (CPE) :: Standard light microscope (specifically an inverted brightfield or phase-contrast microscope).
+- virus and cytopathic effects
+	- enterovirus : cell death 
+	- measles virus : cell fusion 
+	- polyoma virus : transformation 
+	- adenovirus : inclusion bodies in nucleus
+	- papovavirus : inclusion bodies in nucleus 
+	- rabies virus : inclusion bodies in cytoplasm 
+	- cytomegalovirus : inclusion bodies in cytoplasm and nucleus
+- Microscope type required to visualize individual virions :: electron microscope. 
+# virus replication step
+ Viral replication is the obligate intracellular process by which a virus uses host cell machinery to produce new infectious virions. It proceeds through six sequential steps :: attachment, penetration, uncoating, biosynthesis, assembly, release.
+<!--SR:!2026-11-11,1,230-->
+
+![SmartSelect_20261107_085635_Google.jpg](/img/user/Attachments/SmartSelect_20261107_085635_Google.jpg)
+ 
+1. Attachment (Adsorption)
+	- The viral surface proteins or glycoprotein spikes bind specifically to complementary receptor molecules on the host cell surface.
+	* Mechanism: Electrostatic interaction followed by high-affinity receptor-ligand binding.
+	* Tissue Tropism: Determines host and tissue specificity (e.g., HIV gp120 binds to CD4 receptors on T helper cells; Influenza hemagglutinin binds to sialic acid residues on respiratory epithelial cells; SARS-CoV-2 spike binds to ACE2).
+2. Penetration (Entry)
+	- The virion crosses the host plasma membrane to gain entry into the cytoplasm. This occurs via one of three routes:
+	1. Receptor-mediated endocytosis (Viropexis): Common for both naked viruses (e.g., Poliovirus) and some enveloped viruses (e.g., Influenza). The virus is engulfed within an endosome. Penetration in naked virus is via ==endocytosis== it first enters other cell (endocytosis) then it does fusion. Enveloped virus directly not enter the host cell rather they first fuse with host cell
+	2. Membrane fusion: Enveloped viruses fuse their viral lipid envelope directly with the host plasma membrane (e.g., HIV, Herpes simplex).
+	3. Direct penetration / Genome injection: The capsid remains outside while only the viral nucleic acid enters (seen in bacteriophages and some naked enteroviruses).
+3. Uncoating
+	- The physical separation of the viral nucleic acid from its outer protective protein capsid.
+	* Mechanism: Mediated by host lysosomal enzymes, low endosomal pH, or viral enzymes.
+	* Eclipse Phase: From uncoating until the assembly of the first mature progeny virion, intact infectious viral particles cannot be detected inside the host cell.
+4. Biosynthesis (Replication and Transcription/Translation)
+	- The host cellular machinery is hijacked to synthesize viral components:
+	* Transcription & Translation:
+		* Early proteins: Non-structural enzymes required for viral genome replication (e.g., RNA-dependent RNA polymerase, viral thymidine kinase).
+		* Late proteins: Structural proteins that form the capsid, envelope glycoproteins, and matrix.
+	* Genome Replication:
+		* DNA viruses: Most replicate in the host cell nucleus using host or viral DNA polymerase (Exception: Poxviruses replicate in the cytoplasm).
+		* RNA viruses: Most replicate in the host cell cytoplasm using their own RNA-dependent RNA polymerase (Exception: Retroviruses and Orthomyxoviruses require nuclear phases).
+5. Assembly (Maturation)
+	- Packaging of newly synthesized viral genomes into nascent capsomeres to form the complete nucleocapsid.
+	* Site: Nucleus (e.g., Herpesviruses, Adenoviruses) or cytoplasm (e.g., Picornaviruses, Poxviruses).
+	* For enveloped viruses, viral envelope glycoproteins are inserted into host membranes (plasma, nuclear, or ER/Golgi membranes) ahead of virion budding.
+6. Release
+	- The exit of newly formed infectious virions from the host cell:
+	* Lysis (Cellular Rupture): Typical for naked viruses. The host cell bursts due to shutoff of cellular metabolism and membrane disruption (e.g., Poliovirus, Adenovirus).
+	* Budding (Exocytosis): Characteristic of enveloped viruses. Virions push through the modified host membrane, acquiring their lipid envelope and peplomers in the process (e.g., Influenza, HIV). The host cell may remain intact and release virions over an extended period.
+
 # virus classification 
 ### I. Basis of Classification
 Viruses are unique acellular organisms that act as a connecting link between living and non-living things Because of their unique nature, they are classified based on several key parameters:
@@ -20,8 +97,8 @@ Viruses are unique acellular organisms that act as a connecting link between liv
 
 #### 1. DNA Viruses
 [[Dna Specific Virus \|Dna Specific Virus ]]
-There are 6 main families of medically important DNA viruses. 
-mnemonic :  **HHAPPPy**: *Herpesviridae*, **H**epadnaviridae, *Adenoviridae*, **P**apovaviridae, *Parvoviridae*, and *Poxviridae* 
+There are 6 main families of medically important DNA viruses.  mnemonic ::  **HHAPPPy**: *Herpesviridae*, **H**epadnaviridae, *Adenoviridae*, **P**apovaviridae, *Parvoviridae*, and *Poxviridae*
+<!--SR:!2026-11-11,1,230-->
 
 *   **Size:**
     *   **Smallest DNA Virus:** ==1;;Parvovirus== 
@@ -31,14 +108,14 @@ mnemonic :  **HHAPPPy**: *Herpesviridae*, **H**epadnaviridae, *Adenoviridae*, **
     *   **Exception:** ==Parvovirus== is the only **Single-Stranded (ssDNA)** virus . *(Hint: It's the smallest, so it only has one strand).*
 *   **Envelope (Naked vs. Enveloped):**
     *   **Non-Enveloped (Naked) DNA Viruses:** Remember the mnemonic :: **PAP** (**P**apova, **A**deno, **P**arvo)
-<!--SR:!2026-10-10,2,150-->
+<!--SR:!2026-11-11,1,130-->
     *   **Enveloped DNA Viruses:** The rest (Herpes, Hepadna, Pox) have envelopes
 *   **Symmetry:**
     *   **Rule:** All DNA viruses have **Icosahedral** symmetry
       ![Pasted image 20261006205621.png\|149](/img/user/Attachments/Pasted%20image%2020261006205621.png)
     *   **Exception:** ==Poxvirus== has **Complex** symmetry
     *   *Note: There are no helical DNA viruses*
-<!--SR:!2026-10-10,1,130-->
+<!--SR:!2026-11-11,1,130-->
 
 #### 2. RNA Viruses
 [[docs/RNA Specific Virus\|RNA Specific Virus]]
@@ -63,7 +140,7 @@ There are about 15 major medically important RNA virus families, including Picor
     *   **Rule 1:** All Non-enveloped RNA viruses (PCR group) are **Icosahedral**
     *   **Rule 2:** All Enveloped RNA viruses are **Helical**.
     *   *Note: There are no complex RNA viruses*
-<!--SR:!2026-10-09,1,130-->
+<!--SR:!2026-11-11,1,130-->
 
 
 
@@ -86,7 +163,7 @@ These inclusions are restricted to the cytoplasm of the host cell:
 *   **Poxvirus (Variola and Vaccinia):** Characterized by the presence of ==1;;Guarnieri bodies==
 *   **Fowlpox Virus:** Produces inclusions known as ==1;;Bollinger bodies==
 *   **Molluscum Contagiosum Virus:** Produces ==1;;Henderson-Paterson bodies==
-<!--SR:!2026-10-10,1,130-->
+<!--SR:!2026-11-11,1,130-->
 
 #### 2. Intranuclear Inclusion Bodies
 These inclusions form inside the nucleus of the host cell and are sub-classified by their staining properties
@@ -97,12 +174,66 @@ These inclusions form inside the nucleus of the host cell and are sub-classified
     *   **Torres Bodies:** Another specific acidophilic inclusion associated with ==1;;Yellow Fever==
 *   **Basophilic Intranuclear Inclusions:**
     *   These are classically produced by the ==1;;Adenovirus==
-<!--SR:!2026-10-10,1,130--> 
+<!--SR:!2026-11-11,1,130--> 
 
 #### 3. Both Intranuclear & Intracytoplasmic Inclusions
 Most viruses form inclusions in *either* the nucleus or the cytoplasm, but some are capable of forming them in both locations simultaneously:
 *   ==Measles Virus==: Uniquely produces both nuclear and cytoplasmic inclusions, which are known as **Warthin-Finkeldey bodies**
-<!--SR:!2026-10-11,2,230--> 
+<!--SR:!2026-11-11,1,210--> 
+
+# amniotic cavity inoculation 
+Amniotic cavity inoculation is a specialized route of viral cultivation in embryonated chicken eggs (Gallus gallus domesticus). It involves introducing the viral inoculum directly into the amniotic fluid sac surrounding the developing chick embryo.
+1. Key Indications
+	* Primary isolation of Influenza viruses: Especially Influenza A, B, and C directly from clinical specimens (e.g., throat swabs, nasopharyngeal aspirates). Fresh field isolates replicate efficiently here before they adapt to the allantoic cavity.
+	* Mumps virus: Primary isolation and propagation.
+2. Egg Age and Incubation Parameters
+	* Incubation temperature:
+		* 33°C to 35°C for Influenza viruses (simulates human upper respiratory tract temperature).
+	* 35°C to 37°C for Mumps virus.
+		* Incubation duration: 48 to 72 hours (2 to 3 days).
+3. Procedure (Technique)
+	* Candling: The egg is candled inside a dark room to confirm embryo viability (active movement, intact prominent blood vessels) and to locate the embryo and air sac boundary.
+	* Surface Sterilization: The shell over the air sac is disinfected with 70% ethanol and iodine tincture.
+	* Drilling & Entry:
+		* A small hole is drilled through the eggshell over the air sac.
+		* Under direct transillumination (candling), a 1-inch to 1.5-inch 25-gauge needle attached to a syringe is guided past the allantoic membrane directly into the amniotic sac.
+		* When pierced correctly, the embryo slightly twitches, confirming penetration into the amniotic sac.
+	* Inoculation: Approximately 0.1 to 0.2 mL of viral inoculum (treated with antibiotics/antifungals to prevent bacterial contamination) is slowly injected.
+	* Sealing & Incubation: The puncture site is sealed with melted paraffin wax or sterile adhesive tape, and the egg is incubated blunt-end up.
+4. Harvesting and Detection
+	* Chilling: Prior to harvest, eggs are refrigerated overnight at 4°C to constrict blood vessels and kill the embryo without causing bleeding into the fluids.
+	* Harvest: The shell over the air sac is peeled back, the chorioallantoic membrane is opened, and amniotic fluid (typically 0.5–1.5 mL) is aspirated using a blunt needle or sterile Pasteur pipette.
+	* Detection of Growth:
+		* Hemagglutination (HA) Assay: Viral replication of Influenza or Mumps is confirmed by mixing harvested amniotic fluid with washed red blood cells (guinea pig, human 'O' group, or fowl RBCs). Agglutination indicates presence of hemagglutinating virions.
+		* Hemagglutination Inhibition (HAI) / RT-PCR: Used for specific typing and strain identification.
+
+# Questions 
+
+**Q1 : which virus maybe be seen under light microscopy**
+?
+Most viruses range between 20 nm and 200 nm—well below the resolving limit of a standard compound light microscope (~200 nm or 0.2 µm). However, a few exceptionally large viruses and diagnostic viral structures can be seen under light microscopy:
+1. Giant Viruses (Giruses)
+Discovered primarily in amoebae, these are the largest known viruses and are readily visible under an ordinary light microscope using a 100× oil immersion lens:
+ * Mimivirus : It was originally mistaken for a Gram-positive bacterium due to its size and staining characteristics.
+ * Pandoravirus: Measures roughly 1 µm (1,000 nm) in length and 0.5 µm in diameter, making it larger than some small bacteria.
+ * Pithovirus (Pithovirus sibericum): Around 1.5 µm in length, currently among the largest virions identified.
+ * Megavirus: Around 440 nm in capsid diameter.
+2\. Poxviruses (Clinically Relevant Human Viruses)
+Among medically significant animal viruses, members of the Poxviridae family are the largest:
+ * Vaccinia and Variola (Smallpox) Viruses: Measure approximately 300–450 nm × 200–250 nm (brick-shaped).
+ * Observation: Under maximum optical magnification (1000× oil immersion), individual virions appear as tiny, faint dots known as elementary bodies (or Paschen bodies). They typically require special staining techniques, such as Gutstein’s methyl violet stain or silver impregnation, to enhance contrast and make them discernible.
+3\. Viral Inclusion Bodies
+In clinical pathology and diagnostic virology, light microscopy is standard practice for detecting inclusion bodies—large intracellular aggregates of viral proteins and virions:
+<!--SR:!2026-11-14,4,270-->
+
+| Virus | Inclusion Body | Location |
+|---|---|---|
+| Rabies virus | Negri bodies | Intracytoplasmic (Purkinje & pyramidal cells) |
+| Molluscum contagiosum | Henderson-Paterson bodies | Intracytoplasmic |
+| Cytomegalovirus (CMV) | "Owl's eye" inclusions | Intranuclear with halo |
+| Herpes simplex / VZV | Cowdry A bodies | Intranuclear |
+| Poxviruses (Vaccinia/Variola) | Guarnieri bodies | Intracytoplasmic |
+
 
 # in depth Master Note
 
@@ -161,6 +292,7 @@ Rubeola virus causes _Measles_
 ⚠️ Don't confuse:
 - **Rubeola** → **Measles**
 - **Rubella virus** → **Rubella (German measles)**
+<!--SR:!2026-11-11,1,230-->
 
 
 ## 

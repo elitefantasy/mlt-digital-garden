@@ -20,7 +20,7 @@ classification
 1. [[docs/protozoa\|protozoa]]
 	1. flagellated
 		1. intestinal:[[docs/protozoa#Flagellate Giardia Lambila \| Giardia Lambila]]
-		2. hemoflagellates: [[docs/Leishmania\|Leishmania]] , [[docs/Trypanosoma\|Trypanosoma]]
+		2. hemoflagellates: [[Leishmania\|Leishmania]] , [[Trypanosoma\|Trypanosoma]]
 		3. genital : trichomonas vaginalis
 	2. amoebiod:[[docs/protozoa#Amoeba Entamoeba Histolytica \| E.Histolytica]]
 	3. ciliated: [[docs/protozoa#Ciliate Balantidium Coli\|Balantidium Coli]]

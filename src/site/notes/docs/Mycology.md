@@ -13,6 +13,20 @@
 - Reproduce by spores   
 - Example :  yeasts , moulds , dimorphic fungi
 
+Terms for fungi 
+- hyphae : filamentous, develop from spore, can be septate or aseptate, aerial, pectinate hyphae 
+- pseudohyphae : filament formed by buds 
+- blastospore : formed by budding process from hyphae 
+- Conidiophore : specialized hyphae that produce conidia
+- ascospore : following meiosis 4 to 8 spores form in ascus
+- basidiospore : following meiosis 4 spore formed on surface of basidium 
+- zygospore : in certain zygomycetes thick walked zygospore develop at fused tip of hyphae
+- oospore : special female structure on hyphae is fertilizer by male Nucleus of male structure close by 
+- Chlamydospores : round thick walled resting spore 
+- arthrospores : formed by segme ration of hyphae 
+![[JPEG_20261101_101806_3002922311724230280.jpg \|600]]
+
+
 
 
 **Prokaryotic vs eukaryotic** 
@@ -104,9 +118,8 @@ Two forms
 
 ### 1 zygomycetes
 ![Pasted image 20260905114211.png\|314](/img/user/Attachments/Pasted%20image%2020260905114211.png)
-Zygomycetes (also historically referred to as Phycomycetes) 
-
-* **Hyphal Structure**: only one with **non-septate (aseptate)** hyphae. resulting in a continuous, multinucleated cytoplasmic stream. 
+Zygomycetes (also historically referred to as Phycomycetes)
+- non septate hyphae 
 * **Reproduction**:  
 	* **Sexual Spores (Teleomorph)**: Zygospores and oospores.  
 	* **Asexual Spores (Anamorph)**: Sporangiospores, which are produced endogenously inside a sac-like structure called a sporangium.  
@@ -116,13 +129,18 @@ Zygomycetes (also historically referred to as Phycomycetes)
 
 ### 2 Ascomycets
 ![Pasted image 20260905114329.png\|431](/img/user/Attachments/Pasted%20image%2020260905114329.png)
-* **Hyphal Structure**: narrow septate hyphae
+* largest phylum includes about 85% of human pathogen
+* septate hyphae 
 * Include both yeast and filamentous fungi
-* **Reproduction**:
-	* **Sexual Spores (Teleomorph)**: They produce **ascospores**, which are generated endogenously within a specialized sac-like structure called an **ascus**.
-	* **Asexual Spores (Anamorph)**: They reproduce asexually by producing **conidia**, which are formed exogenously.
+* sexual repro : ascospore, ascus
+* asexual repro : conidial
 * **Dikaryon Phase**: Similar to Basidiomycetes, Ascomycetes can exhibit a "dikaryon phase" (n+n state). This is a transitional condition where plasmogamy (fusion of cytoplasm) occurs, but karyogamy (fusion of nuclei) is delayed, resulting in cells containing two separate haploid nuclei.
-* **Representative Genera**:  ==Trichophyton, Microsporum, and *Aspergillus*, *Penicillium*==
+* **Representative Genera**:  ==Trichophyton, Microsporum, and *Aspergillus*, *Penicillium*,  candida, saccharomyces, blastomyces, coccidiodes==
+* clinically important 
+	* histoplasma capsulatum : pulmonary infection 
+	* blastomyces dermatitis : skin and bone disease 
+	* candida : candidiasis 
+	* 
 <!--SR:!2026-10-21,5,230-->
 
 ### 3 Basidiomycetes 
@@ -132,6 +150,8 @@ Zygomycetes (also historically referred to as Phycomycetes)
 	* **Sexual Spores** : They produce basidiospores, which are generated exogenously on a specialized structure called a basidium.  
 * **Dikaryon Phase**: Similar to Ascomycetes, they can exhibit a "dikaryon phase" (n+n state).   
 * **Representative Examples**: This class primarily includes mushrooms., cryptococcus neoformans.
+* clinically important 
+	* cryptococcus
 
 ### 4 Dueteromycetes 
 - fungi imperfecti

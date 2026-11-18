@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/hepatitis/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/hepatitis/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
 ---
 
 [[docs/anatomy and physio of liver\|anatomy and physio of liver]]
@@ -16,22 +16,24 @@ Hepatitis F was previously identified but removed as it was discovered to be a m
 * **Hepatitis G Virus (HGV):** RNA virus, Flaviviridae family.
 
 ❓ the only hepatitis type caused by DNA virus family is :: Hepatitis B Virus
+<!--SR:!2026-11-14,4,270-->
 
 # Transmission
 
-* **Fecal-Oral Route:** ==1;;Hepatitis A and E== are transmitted when the virus sheds in feces and contaminates food and water, which is then consumed by another person.  
-* **Parenteral, Sexual, & Vertical Routes:** Hepatitis ==1;;B, C, D, and G== transmit primarily via blood/blood products, contaminated needles/syringes (parenteral), sexual intercourse, or from an infected pregnant mother to her fetus via the placenta (vertical/perinatal).  
-* **Average Incubation Periods:**  
-  * Hepatitis A: 30 days  
-  * Hepatitis E: 40 days  
-  * Hepatitis C: 50 days  
+* **Fecal-Oral Route:** ==1;;Hepatitis A and E== are transmitted when the virus sheds in feces and contaminates food and water, which is then consumed by another person.
+* **Parenteral, Sexual, & Vertical Routes:** Hepatitis ==1;;B, C, D, and G== transmit primarily via blood/blood products, contaminated needles/syringes (parenteral), sexual intercourse, or from an infected pregnant mother to her fetus via the placenta (vertical/perinatal).
+* **Average Incubation Periods:**
+  * Hepatitis A: 30 days
+  * Hepatitis E: 40 days
+  * Hepatitis C: 50 days
   * Hepatitis B & D: 60 to 90 days
+<!--SR:!2026-11-13,3,250-->
 
 # Clinical Outcomes: Acute vs. Chronic
 
-* **Acute Hepatitis:** Caused by **all five viruses** (A, B, C, D, E). Acute infections generally have a 98-99% recovery rate. However, 1-2% of acute cases can progress to **fulminant hepatitis** (severe, often fatal). HAV is the most common cause of acute hepatitis in children, while HEV is the most common in adults.  
+* **Acute Hepatitis:** Caused by **all five viruses** (A, B, C, D, E). Acute infections generally have a 98-99% recovery rate. However, 1-2% of acute cases can progress to **fulminant hepatitis** (severe, often fatal). ==2;;HAV== is the most common cause of acute hepatitis in children, while ==2;;HEV== is the most common in adults.
 * **Chronic Hepatitis:** Caused only by ==Hepatitis B, C, and D. Hepatitis A and E *never* cause chronic infections. Because HAV and HEV do not cause chronicity, they never result in a carrier state, cirrhosis, or hepatocellular carcinoma.  ==
-* **Complications of Chronicity:** Chronic infections are rarely cured and lead to three primary fates: an asymptomatic Carrier state, Hepatocellular Carcinoma (HCC/liver cancer), or Cirrhosis. While HBV is more prevalent globally, HCV has the highest rate of converting into a chronic state (80% of HCV cases become chronic vs. 10% for HBV).
+<!--SR:!2000-01-01,1,250!2026-11-14,4,270-->
 
 # Detailed Viral Profiles & Lab Diagnosis
 
@@ -41,10 +43,12 @@ Hepatitis F was previously identified but removed as it was discovered to be a m
 * **Diagnosis:** Tested via stool or blood. The virus alone is found in the stool. In the blood, you will find the virus alongside antibodies.  
 * **Antibodies:** IgM anti-HAV indicates a recent/acute infection. IgG anti-HAV indicates a past infection or recovery (this antibody remains forever).
 * which hepatitis is infectious hepatitis :: HAV ( feco oral route transmission), Most infectious hepatitis
+<!--SR:!2026-11-11,1,230-->
 
 ## Hepatitis B
 - HBV is an enveloped DNA virus that infects hepatocytes.
-- 3 antigens: **HBsAg** (surface), **HBeAg** (envelope), and **HBcAg** (core, deep inside). Only HBsAg and HBeAg leak into the blood; HBcAg never enters the blood.  
+- 3 antigens :: **HBsAg** (surface), **HBeAg** (envelope), and **HBcAg** (core, deep inside). Only HBsAg and HBeAg leak into the blood; HBcAg never enters the blood.
+<!--SR:!2026-11-14,4,270-->
 * produces 4 antibodies: Anti-HBs, Anti-HBe, IgM Anti-HBc, and IgG Anti-HBc.   
 * **Serological Marker Interpretation:**  
 	* **HBsAg vs. Anti-HBs:** Mutually exclusive. HBsAg means active *infection*. Anti-HBs means *recovery* or successful *vaccination*.  
@@ -54,8 +58,10 @@ Hepatitis F was previously identified but removed as it was discovered to be a m
 ## Hepatitis C
 - HCV is an enveloped RNA virus that primarily infects the liver.
 * **Diagnosis:** Antigens include Core, Envelope, and NS1-NS4 transmembrane proteins. In lab tests, 3rd generation antibodies (against NS5) appear earliest, followed by 2nd generation (C200/C33) and 1st generation (C100).
+* which hepatitis may remain asymptomatic for years and can present clinically even after 1 year due to chronic infection. :: Hepatitis C
 
-❓ which is the only hepatitis virus that causes **extra hepatic manifestation** ? ::  Hepatitis C, (involving other organs), such as mixed cryoglobulinemia, glomerulonephritis, and arthritis.  
+❓ which is the only hepatitis virus that causes **extra hepatic manifestation** ? ::  Hepatitis C, (involving other organs), such as mixed cryoglobulinemia, glomerulonephritis, and arthritis.
+<!--SR:!2026-11-11,1,230-->
 
 |Marker|Meaning|
 |---|---|
@@ -77,6 +83,7 @@ Anti-HCV usually becomes detectable approximately **30–60 days after infection
 
 ## Hepatitis E
 * which hepatitis is most common cause of fulminant hepatitis in pregnant women :: HAE
+<!--SR:!2026-11-11,1,230-->
 
 # Microscopic Pathology (Liver Biopsy)
 

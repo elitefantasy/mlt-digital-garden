@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/laboratory-instruments/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/laboratory-instruments/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":null}}
 ---
 
 ## Glassware Cleaning, Maintenance, and Safety
@@ -166,7 +166,7 @@ Spectrophotometers are used in clinical laboratories, biochemistry, microbiology
 ### II. Dark Field Microscope
 
 - **Principle:** In a standard microscope setup, if the **light source is covered or blocked**, the system effectively functions as a dark field microscope.
-- **Key Characteristic:** A major advantage of this technique is that **staining is never used or required** to visualize the specimens.
+- **Key Characteristic:** A major advantage of this technique is that ==staining is never used or required== to visualize the specimens.
 - **Clinical Applications:**
     - It is heavily utilized to detect and examine **spirochetes**.
     - It is also used to observe structures such as **capsules** and **metachromatic granules** without staining them.
@@ -199,7 +199,7 @@ Other forms of microscopes used for highly specific clinical or imaging tasks in
 
 - Human Eye Resolving Power: The limit of resolution of the unaided human eye is 0.2 mm (200 µm). This represents the minimum distance by which two distinct points must be separated to be seen as individual structures.
     
-- Phase Contrast Microscopy: A specialized microscopy technique designed to observe live, unstained specimens. It converts subtle shifts in phase caused by variations in the refractive index (µ) of cellular structures into visible amplitude (intensity) differences, providing depth and contrast without killing or staining cells.
+- Phase Contrast Microscopy: A specialized microscopy technique designed to observe ==live, unstained specimens==. It converts subtle shifts in phase caused by variations in the refractive index (µ) of cellular structures into visible amplitude (intensity) differences, providing depth and contrast without killing or staining cells.
     
 - Dark Ground (Darkfield) Microscopy: Uses a specialized condenser with an opaque disc (central stop) that blocks direct central light. Light strikes the specimen at oblique angles (e.g., 45° via angled mirrors). Only light scattered by the specimen enters the objective lens, producing a bright image of the object against a dark background.
     

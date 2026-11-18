@@ -41,8 +41,7 @@
 # 1. Superficial Mycoses
 ![272](/img/user/Attachments/Pasted%20image%2020260815083621.png)
 
-- Restricted to keratinized outermost layer of skin(stratum corneum)  , hair nails  
-* Common in tropical and subtropical environment   
+- Restricted to keratinized outermost layer of skin(stratum corneum)  , hair nails 
 * Non inflammatory   
 * Response well to topical antifungal drugs  
 * Culture : SDA   
@@ -66,10 +65,13 @@ i) **Tinea versicolor**
 * Site is chest, back , neck , shoulder   
 * Hypopigmented or hyper   
 * **Pathogenesis**: colonization , overgrowth under favourable condition, pigmented macules, fungal metabolites interfere with melanogenesis  
+* **Classic Appearance:** Pathognomonic **"Spaghetti and Meatballs"**
+* culture : Cream to yellowish, smooth surface., Soft, buttery consistency. 
 * **Lab diagnosis:**   
 	1. **Microscopy**: koh mount, shows yeast cell \+ short hyphae ( **spaghetti and meatball** )  
 	2. **Culture**: lipid enriched media, creamy colony in few days, budding yeast on microscopy  
 	3. **Wood lamps examination**: yellow to green fluorescence 
+- 
 
 
 ii) **Tinea Nigra**
@@ -83,16 +85,6 @@ ii) **Tinea Nigra**
 	2. Culture: yeast like colony, become darker and filamentous over time  
 
 ### Malasezia furfur / tinea Versicolor
-#### Morphology
-**A. Microscopic Morphology**
-- **Yeast Form:** Oval to spherical budding yeast cells.
-- **Hyphal Form:** Short, unbranched, curved hyphae.
-- **Classic Appearance:** Pathognomonic **"Spaghetti and Meatballs"** (or "banana and grapes") pattern formed by the combination of short hyphae and round yeast cells.
-    
-**B. Macroscopic / Cultural Morphology**
-- **Colony Appearance:** Cream to yellowish, smooth surface.
-- **Consistency:** Soft, buttery consistency.
-- **Growth Speed:** Slow-growing yeast-like colonies.
 
 #### Pathogenesis & Pathophysiology
 Pathogenic Stages:
@@ -115,7 +107,7 @@ Pathogenic Stages:
     - **Phospholipases:** Damage host cell membranes.
     - **Proteases:** Facilitate skin surface colonization and tissue breakdown.
     - **Indole Compounds:** Produce immunomodulatory and anti-inflammatory effects that evade host clearance.
-    - **Azelaic Acid:** Inhibits the enzyme **tyrosinase** (involved in melanin synthesis), leading directly to **hypopigmentation**.
+    - ==Azelaic Acid==: Inhibits the enzyme **tyrosinase** (involved in melanin synthesis), leading directly to **hypopigmentation**.
         
 
 #### Host Immune Response
@@ -126,23 +118,16 @@ Pathogenic Stages:
 #### Clinical Manifestations
 
 1. **Pityriasis Versicolor (Tinea Versicolor)**
-- **Description:** Most common clinical presentation; non-contagious superficial fungal infection.
-- **Lesion Characteristics:** Well-demarcated, finely scaly macules/patches.
-- **Color Variation ("Versicolor"):** Can range from **hypopigmented** (light) to **hyperpigmented** (dark brown or pink).
-- **Sun Exposure Effect:** Hypopigmented areas become more apparent after sun exposure because the affected areas cannot synthesize melanin and fail to tan.
-- **Symptoms:** Usually asymptomatic or accompanied by mild pruritus (itching).
-- **Anatomical Distribution:** Chest, back, shoulders, neck, and upper arms.
-    
-
-
+	- **Lesion Characteristics:** Well-demarcated, finely scaly macules/patches.
+	- **Color Variation ("Versicolor"):** Can range from **hypopigmented** (light) to **hyperpigmented** (dark brown or pink). 
+	- **Symptoms:** Usually asymptomatic or accompanied by mild pruritus (itching).
+	- **Anatomical Distribution:** Chest, back, shoulders, neck, and upper arms.
  2. **Seborrheic Dermatitis**
-- **Localization:** Scalp, eyebrows, nasolabial folds.
-- **Clinical Presentation:** Erythematous patches with oily, yellowish, greasy scales (dandruff-like flakes), pruritus, skin peeling, and localized hair loss in severe chronic cases.
-
-
+	- **Localization:** Scalp, eyebrows, nasolabial folds.
+	- **Clinical Presentation:** Erythematous patches with oily, yellowish, greasy scales (dandruff-like flakes), pruritus, skin peeling, and localized hair loss in severe chronic cases.
  3. **Malassezia Folliculitis (Pityrosporum Folliculitis**)
-- **Description:** Inflammation of hair follicles due to yeast proliferation inside the follicular duct.
-- **Lesions:** Pruritic follicular papules and pustules on the chest, back, and upper arms.
+	- **Description:** Inflammation of hair follicles due to yeast proliferation inside the follicular duct.
+	- **Lesions:** Pruritic follicular papules and pustules on the chest, back, and upper arms.
 
 #### Laboratory Diagnosis
 
@@ -217,8 +202,7 @@ Tinea unguium/onychomycosis - ==1;;nails==
     -   Peeling or flaking skin
     -   Dry skin
     -   Blisters or thick patches of dry red skin
--   **Causative Organisms:** Three species together account for the vast majority of cases worldwide:
-    -   _Trichophyton rubrum_, _Trichophyton mentagrophytes_, _Epidermophyton floccosum_
+-   **Causative Organisms:** _Trichophyton rubrum_, _Trichophyton mentagrophytes_, _Epidermophyton floccosum_
 -  **Tinea Pedis Patterns:** Presents in three specific patterns: _Interdigital_ (between toes), _Moccasin_ (diffuse plantar distribution), and _Vesiculobullous_.
 
 ### B. Tinea Cruris
@@ -475,8 +459,7 @@ Dermatophytes commonly grow outward from the initial site. The center may partia
 
 ## 3.2. Risk Factors and etiology
 **A. High-Risk Populations & Demographics**
-- **Primary Target Group:** Most frequently affects individuals between **30 and 50 years of age**, as this age group experiences maximum exposure to occupation-related injuries.
-- **Geographic Risk:** Rural communities and agricultural regions carry the highest burden of disease.
+- **Primary Target Group:** occupation-related injuries.
 - **Occupational Hazard:** Outdoor workers, farmers, gardeners, and agricultural laborers are at highest risk due to frequent contact with soil and vegetation.
 
 **B. Risk Factors**
@@ -997,7 +980,7 @@ CNS Infection
 	- MALDI-TOF MS can help identify Cryptococcus species
 	- Matrix Assisted Laser Desoption / ionization Time of flight mass Spectrometry
 
-## 5.3 Aspergillus Spp
+## 5.3 Aspergillus Species
 [[docs/Pathogenic classification  of mycoses#Table of Content\|Pathogenic classification  of mycoses#Table of Content]]
 
 ### Intro
@@ -1007,19 +990,23 @@ CNS Infection
 - spore forming mold , reproduce asexually 
 - conidia can germinate to form hyphae -> fungal mycelium
 - common species : A.fumigatus , A.niger, A.flavus, A.nidulans, A.clavans
-- A.fumigatus : disease , found in manure and decomposing plant material
-- A.flavus : peanuts and grain , produce aflatoxin
-- A.niger : black mold
-- A.terreus : invasive aspergilosis
+- for aspergillus species commonly tested drug for resistance is Itraconazole 
 
-### A.fumigatus
-- morphology: hyphal conidia and conidiophore
-- spiked conidia
-- septate hyphae
-- colony : powdery / velvety
-# Mycotoxicosis
-* **Description**: Diseases resulting from the ingestion or inhalation of preformed toxic fungal metabolites (mycotoxins) rather than direct tissue invasion.  
-* **Agents/Examples**:  
-	* Aflatoxicosis: *Aspergillus flavus* (produces Aflatoxin)  
-	* Ergotism: *Claviceps purpurea* (produces Ergot alkaloids)
+- A.fumigatus 
+	- found in manure and decomposing plant material
+	- colony: smoky blue green / velvety
+	- invasive aspergillosis 
+- A.flavus : 
+	- peanuts and grain , produce aflatoxin
+	- common cause of fungal keratitis and sinusitis 
+	- colony : yellow green to olive, reverse gold brown
+- A.niger : 
+	- colony : carbon black granular
+	- black mold
+	- primary agent of otomycosis, production of oxalic acid 
+- A.terreus : 
+	- invasive aspergilosis
+	- colony : cinnamon to sandy orange
+	- resistant to amphotrecin B 
+	- aggressive dessemination 
 

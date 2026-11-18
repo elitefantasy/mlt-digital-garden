@@ -8,6 +8,7 @@
 # 1 Coagulation Factor
 
 Coagulation factors are plasma or tissue proteins that participate in **secondary hemostasis**, ultimately converting fibrinogen into a stable fibrin clot. Most are synthesized in the liver; important exceptions include **tissue factor**, which is produced by  :: extravascular cells, **factor VIII**, produced mainly by endothelial cells and hepatic sinusoidal endothelial cells, and **factor IV**, which is calcium rather than a protein.
+<!--SR:!2026-11-15,1,230-->
 
 <!--SR:!2026-09-28,5,210-->
 
@@ -26,7 +27,7 @@ Coagulation factors are plasma or tissue proteins that participate in **secondar
 | **XI**   | ==1;;Plasma thromboplastin antecedent==          | Activated XIa activates factor IX                                                                                                         | Mainly liver; also produced by other tissues                                                               | Intrinsic-pathway factor; deficiency causes hemophilia C; does not require vitamin K                                       |
 | **XII**  | ==1;;Hageman factor==                            | Contact with negatively charged surfaces activates XII to XIIa; activates XI and prekallikrein                                            | Liver                                                                                                      | Initiates the contact pathway in laboratory testing; deficiency prolongs aPTT but usually does not cause bleeding          |
 | **XIII** | ==1;;Fibrin-stabilizing factor==                 | Cross-links fibrin strands, producing a mechanically stable and insoluble clot                                                            | Liver, megakaryocytes and platelets; factor XIII is also associated with monocytes/macrophages             | Activated by thrombin and calcium; deficiency can cause delayed bleeding and poor wound healing despite normal PT and aPTT |
-<!--SR:!2026-10-16,12,230-->
+<!--SR:!2026-11-20,6,210-->
 
 
 ## Vitamin K–Dependent Factors
@@ -90,9 +91,10 @@ Some substances involved in hemostasis are not numbered coagulation factors but 
 | **Fibrinogen**         | Substrate converted to fibrin                           | About 200–400 mg/dL                         | DIC, liver disease, severe bleeding                         |
 | **Thrombin time (TT)** | Conversion of ==fibrinogen to fibrin==                  | Usually about 14–19 seconds                 | Heparin or fibrinogen abnormalities                         |
 | **D-dimer**            | Breakdown product of cross-linked fibrin                | Often <500 ng/mL FEU                        | Evaluation of suspected venous thromboembolism or DIC       |
-<!--SR:!2026-11-08,33,250-->
+<!--SR:!2026-11-15,1,210-->
 
 **Ques**: among these which are used for warfarin and which one for heparin ? (PT, INR, aPTT, TT) :: warfarin(PT, INR), heparin(aPTT, TT)
+<!--SR:!2026-11-18,4,270-->
 
 
 **Ques**: Factor 13 deff which is prolonged
@@ -104,7 +106,7 @@ d. none of above
 none of the above
 Standard tests (PT, APTT, TT, CT, and BT) only monitor the process up to the formation of a **soluble, loose fibrin mesh**. Because Factor XIII functions **after** this stage to cross-link the strands into an insoluble, stable clot, routine screening panels will show normal times.
 The clinical issue in patients is not a failure or delay in _forming_ a clot, but a failure to _maintain_ it, resulting in delayed secondary bleeding hours to days later.
-<!--SR:!2026-11-01,26,290-->
+<!--SR:!2027-02-27,105,310-->
 
 **Quest**: combined factor deficiency commonly seen in
 a. factor 5 and 7
@@ -123,6 +125,7 @@ d. factor 5 and 10
 ?
 **Correct Answer:** **B**
 normal prothrombin time (PT) is typically 12 seconds plus or minus 2 seconds. This corresponds to a normal baseline International Normalized Ratio (INR) of approximately 1.0 in healthy individuals
+<!--SR:!2026-11-18,4,270-->
 
 ### Platelate aggregation studies
 Platelet function and the response of platelets to specific agonists are directly assessed by <span style="color:rgb(255, 0, 0)">platelet aggregation studies</span>, especially light-transmission aggregometry (LTA)
@@ -142,7 +145,7 @@ LTA is widely regarded as the reference or **“gold-standard”** laboratory me
 - **Specimen:** Platelet-poor citrated plasma.
 - **Tube:** Light-blue-top tube containing **3.2% sodium citrate**.
 - **Blood-to-anticoagulant ratio:** :: 9:1.
-<!--SR:!2026-10-14,21,270-->
+<!--SR:!2026-11-26,12,250-->
 - Fill the tube to the marked level; underfilling can falsely prolong clotting times.
 - Mix gently by inversion; do not shake.
 - Avoid clotted or hemolyzed samples.
@@ -186,7 +189,7 @@ D-dimer is not specific for thrombosis; it can also increase with infection, inf
 - **Alternative Name:** The **Tourniquet Test** is also widely referred to as the **Capillary Fragility Test**.
 - **Classification:** It is an important diagnostic test in hematology, categorized under the **coagulation profile**.
 - **Primary Utility:** It is most commonly used in the clinical evaluation of patients suspected of having vector-borne viral diseases such as ==**Dengue** or **Chikungunya**==.
-<!--SR:!2026-11-05,27,290-->
+<!--SR:!2027-03-03,109,310-->
 
 ---
 

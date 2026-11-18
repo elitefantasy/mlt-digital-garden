@@ -22,6 +22,13 @@
 
 **Immunity** is the ability of the body to **recognize, resist, and destroy foreign substances (antigens)** such as bacteria, viruses, fungi, parasites, and their toxins.
 
+
+## Herd Immunity 
+- overall Immunity of community 
+- helps prevent **epidemic** disease (pyq) 
+- Herd immunity can be achieved through vaccination 
+- Herd immunity varies among different population / subgroups 
+
 ## Types of Immunity
 
 Immunity is mainly divided into **two types:**

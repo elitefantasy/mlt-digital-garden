@@ -5,6 +5,8 @@
 
 A vaccine is a biological preparation that helps the body's immune system build protection against a specific disease.
 
+Main Regulatory body for approval of vaccine in India is CDSCO
+
 ## Vaccine contains
 A vaccine generally contains:
 - **Antigen** → produces an immune response ⭐
@@ -74,6 +76,7 @@ It stimulates:
 - **Rotavirus**
 - **Oral polio vaccine (OPV)**
 - Live attenuated influenza vaccine
+<!--SR:!2026-11-13,0,230-->
 
 #### Advantages
 - Produces **strong immune response** ⭐
@@ -85,7 +88,6 @@ It stimulates:
 - Generally unsuitable for many **severely immunocompromised** individuals.
 - Requires careful storage/cold chain.
 - Rarely, attenuation can be associated with reversion or vaccine-associated disease for particular vaccines.
-- Generally avoided during pregnancy for several live vaccines.
 
 ### 2. Inactivated Vaccine
 
@@ -101,6 +103,7 @@ The antigen is recognized by the immune system and stimulates mainly a **humoral
 - **Rabies vaccine**
 - **Inactivated influenza vaccine**
 - Whole-cell inactivated **pertussis** vaccine
+<!--SR:!2026-11-13,0,230-->
 
 #### Advantages
 - Cannot replicate in the host.
@@ -134,6 +137,7 @@ Toxin → Inactivation → Toxoid
 ?
 - **Diphtheria toxoid**
 - **Tetanus toxoid**
+<!--SR:!2026-11-14,1,230-->
 
 #### Advantages
 - Very effective against **toxin-mediated diseases**.
@@ -198,6 +202,7 @@ Immune response
 - **Recombinant hepatitis B vaccine** ⭐
 - **Recombinant HPV vaccines**
 - Recombinant zoster vaccine
+<!--SR:!2026-11-14,1,230-->
 
 #### Advantages
 - Does not require the whole pathogen.
@@ -222,19 +227,8 @@ A **polysaccharide antigen** from a bacterium is chemically linked (**conjugated
 
 The protein carrier converts a poorly immunogenic polysaccharide response into a more effective **T-cell-dependent immune response**.
 
-```text
-Polysaccharide antigen
-        +
-Protein carrier
-        ↓
-Conjugate vaccine
-        ↓
-T-cell help
-        ↓
-Strong B-cell response
-        ↓
-IgG + Memory B cells
-```
+![Pasted image 20261105114451.png](/img/user/Attachments/Pasted%20image%2020261105114451.png)
+
 
 #### Examples
 - **Hib vaccine** ⭐
@@ -283,6 +277,7 @@ The mRNA **does not need to enter the nucleus** to produce the antigen and does 
 ?
 - **Pfizer-BioNTech COVID-19 vaccine**
 - **Moderna COVID-19 vaccine**
+<!--SR:!2026-11-13,0,230-->
 
 #### Advantages
 - Rapid vaccine development and redesign.

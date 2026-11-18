@@ -65,3 +65,6 @@ Multicellular parasites.
 - larvae in : sputum 
 - Egg in feces
 - Serology: ELISA, IHA, IFA
+
+## wuchereria bancrofti 
+- causes ==genital filariasis== 

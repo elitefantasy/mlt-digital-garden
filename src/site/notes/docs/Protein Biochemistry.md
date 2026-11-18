@@ -2,11 +2,49 @@
 {"dg-publish":true,"permalink":"/docs/protein-biochemistry/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
 ---
 
-who coined the term Biochemistry :: **Carl Neuberg**
+## TOC
+- [[docs/Protein Biochemistry#Definition of Protein\|Definition of Protein]]
+- [[docs/Protein Biochemistry#Overview of Protein Functions\|Overview of Protein Functions]]
+- [[docs/Protein Biochemistry#Structure of Protein\|Structure of Protein]]
+- [[docs/Protein Biochemistry#Protein Folding\|Protein Folding]]
+	- [[docs/Protein Biochemistry#Protein Folding\|Definition]]
+	- [[docs/Protein Biochemistry#Protein Folding\|1. Diffusion–Collision Model]]
+	- [[docs/Protein Biochemistry#Protein Folding\|2. Nucleation–Condensation Model]]
+	- [[docs/Protein Biochemistry#Protein Folding\|Chaperones (Molecular Chaperones)]]
+- [[docs/Protein Biochemistry#Protein Classification\|Protein Classification]]
+	- [[docs/Protein Biochemistry#Protein Classification\|1. Fibrous Protein]]
+	- [[docs/Protein Biochemistry#Protein Classification\|2. Globular Protein]]
+- [[docs/Protein Biochemistry#Important properties of Protein\|Important properties of Protein]]
+- [[docs/Protein Biochemistry#Structure-Function Relationship of protein\|Structure-Function Relationship of protein]]
+	- [[docs/Protein Biochemistry#Structure-Function Relationship of protein\|Transport Protein]]
+	- [[docs/Protein Biochemistry#Structure-Function Relationship of protein\|Contractile Protein]]
+	- [[docs/Protein Biochemistry#Structure-Function Relationship of protein\|Structural Protein]]
+- [[docs/Protein Biochemistry#Various Types of protein\|Various Types of protein]]
+- [[docs/Protein Biochemistry#Role of other protein\|Role of other protein]]
+	- [[docs/Protein Biochemistry#Role of other protein\|Specific Functional Proteins & Enzymes]]
+- [[docs/Protein Biochemistry#Protein Digestion\|Protein Digestion]]
+	- [[docs/Protein Biochemistry#Protein Digestion\|1. Mouth: Mechanical only (no proteolysis)]]
+	- [[docs/Protein Biochemistry#Protein Digestion\|2. Stomach: Initial chemical digestion]]
+	- [[docs/Protein Biochemistry#Protein Digestion\|3. Small Intestine: Major digestion and completion]]
+	- [[docs/Protein Biochemistry#Protein Digestion\|End products available for absorption]]
+	- [[docs/Protein Biochemistry#Protein Digestion\|Quick exam table]]
+- [[docs/Protein Biochemistry#Proteinuria\|Proteinuria]]
+	- [[docs/Protein Biochemistry#Proteinuria\|1. Types of Proteinuria (by Mechanism)]]
+	- [[docs/Protein Biochemistry#Proteinuria\|2. Determination of Proteinuria]]
+	- [[docs/Protein Biochemistry#Proteinuria\|3. Microalbuminuria]]
+- [[docs/Protein Biochemistry#CSF Protein\|CSF Protein]]
+	- [[docs/Protein Biochemistry#CSF Protein\|1. Sources of CSF Protein]]
+	- [[docs/Protein Biochemistry#CSF Protein\|2. Causes of Increased CSF Protein]]
+	- [[docs/Protein Biochemistry#CSF Protein\|3. Clinical Significance of CSF Protein Determination]]
+- [[docs/Protein Biochemistry#Protein Related Experiments\|Protein Related Experiments]]
 
-building blocks of protein are [[docs/Amino Acid\|Amino Acid]]
+
 
 ## Definition of Protein
+who coined the term Biochemistry :: **Carl Neuberg**
+<!--SR:!2026-11-05,0,230-->
+
+building blocks of protein are [[docs/Amino Acid\|Amino Acid]]
 
 A **protein** is a large, complex biomolecule (macromolecule) made up of one or more long chains of amino acids linked together by peptide bonds. 
 
@@ -28,7 +66,7 @@ A **protein** is a large, complex biomolecule (macromolecule) made up of one or 
 | **Receptor/signaling proteins**   | Receive and transmit signals across cell membranes                            | Hormone receptors, neurotransmitter receptors                           |
 | **Gene regulatory proteins**      | Control gene expression by binding to DNA                                     | Transcription factors                                                   |
 
-
+protein that act as reservoir of oxygen in our body is ==myoglobin==
 ## Structure of Protein
 
 Proteins have four levels of structural organization—**primary, secondary, tertiary, and quaternary**—each building on the previous level to produce the functional three-dimensional shape of the protein.
@@ -50,12 +88,12 @@ Primary structure of protein
 
 ![hemoglobin quaternary structure.jpg\|314](/img/user/Attachments/hemoglobin%20quaternary%20structure.jpg) 
 
-| Level | Description | Bonds/Interactions | Example |
-|-------|-------------|--------------------|---------|
-| **Primary** | Linear sequence of amino acids | Peptide bonds (covalent) | Insulin sequence |
-| **Secondary** | Local folding (α-helix, β-sheet) | Hydrogen bonds (backbone) | α-keratin, silk fibroin |
-| **Tertiary** | 3D folding of a single polypeptide | H-bonds, ionic, hydrophobic, disulfide, van der Waals | Myoglobin, lysozyme |
-| **Quaternary** | Assembly of multiple polypeptide subunits | Same as tertiary (between subunits) | Hemoglobin (α₂β₂) |
+| Level          | Description                               | Bonds/Interactions                                    | Example                 |
+| -------------- | ----------------------------------------- | ----------------------------------------------------- | ----------------------- |
+| **Primary**    | Linear sequence of amino acids            | Peptide bonds (covalent)                              | Insulin sequence        |
+| **Secondary**  | Local folding (α-helix, β-sheet)          | Hydrogen bonds (backbone)                             | α-keratin, silk fibroin |
+| **Tertiary**   | 3D folding of a single polypeptide        | H-bonds, ionic, hydrophobic, disulfide, van der Waals | Myoglobin, lysozyme     |
+| **Quaternary** | Assembly of multiple polypeptide subunits | Same as tertiary (between subunits)                   | Hemoglobin (α₂β₂)       |
 
 
 ## Protein Folding
@@ -178,6 +216,7 @@ Driven by amino acid sequence; stabilized by H-bonds, hydrophobic interactions, 
 	1. conc of total protein in human plasma : 7-8 g/dl
 	2. consist of : albumin, globulins, fibrinogens , glycoproteins, lipoprotein, enzymes , coagulation factor
 	3. what enzymes are present in plasma :: a) functional enzyme: lipoprotein lipase, pseudocholinesterase (b) Non functional : intracellular enzyme leaks into plasma ALT, AST , CK, ALP, LDH etc
+<!--SR:!2026-11-09,4,270-->
 3. **Prealbumin and Retinol-Binding Protein RBP**
 	1. both are transport protein
 	2. prealbumin binds thyroxine and triiodothyronine
@@ -197,11 +236,12 @@ Driven by amino acid sequence; stabilized by H-bonds, hydrophobic interactions, 
 	4. transport of various substances(lipid, antibodies , harmones)
 
 ## Role of other protein
-- **Haptoglobin**: Haptoglobin is a protein made by your liver . It attaches to free hemoglobin to form a stable complex when rbc breakdown happen.  This binding stops free iron and hemoglobin from harming the kidneys. Low haptoglobin level means hemolytic anemia or liver disorder. 
+- **Haptoglobin**: Haptoglobin is a protein made by your liver . It attaches to free hemoglobin to form a stable complex when rbc breakdown happen.  This binding stops free iron and hemoglobin from harming the kidneys. Low haptoglobin level means hemolytic anemia or liver disorder.
 - **Transferrin**: Transferrin is a blood plasma glycoprotein produced by the liver.  It carries ferric iron (Fe³⁺) to tissues like the bone marrow for red blood cell production
 - **Ferritin**: storage form of iron. hemosedrin is partly degraded form of ferritin
-- **Ceruloplasmin**: Ceruloplasmin is a protein made by your liver that carries over 90% of the copper in your bloodstream and helps regulate iron metabolism. Acts as an enzyme to change iron into a form your body can use and move into circulation
+- **Ceruloplasmin**: Ceruloplasmin is a protein made by your liver that carries over 90% of the ==copper== in your bloodstream and helps regulate iron metabolism. Acts as an enzyme to change iron into a form your body can use and move into circulation
 - **CRP**: synthesized in liver, rise in inflammation and infection , crp binds mainly to polsacharide of pathogens, once binded crb becomes activator of **classical complement pathway** , CRP can initiate opsonization , phagocytosis
+<!--SR:!2026-11-09,4,270-->
 
 > [!Info] Note
 > - **Wilson's disease**: genetic disease, copper fail to excreted in bile and accumulate in liver, brain , kidney
@@ -363,6 +403,7 @@ Proteinuria is the abnormal excretion of protein in urine, defined as **>150 mg/
 
 ## CSF Protein
 Normal CSF total protein in adults is ==**15–45 mg/dL** (0.15–0.45 g/L)==; values are higher in neonates and infants and increase slightly with age.
+<!--SR:!2026-11-05,0,230-->
 
 
 ### 1. Sources of CSF Protein

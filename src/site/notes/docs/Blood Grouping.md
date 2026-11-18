@@ -2,32 +2,23 @@
 {"dg-publish":true,"permalink":"/docs/blood-grouping/","dg-note-properties":{}}
 ---
 
-# **Blood Grouping**
+# Blood Grouping
 
 **Questions**  
 **Q1) which blood group is known as the universal plasma donor ?**
-
 The **AB blood group** is known as the **universal plasma donor**. AB plasma can be given to people of any ABO blood group because it contains **no anti-A or anti-B antibodies**.
 
 Small exam note: for **plasma**, the compatibility rule is the **opposite** of red cell transfusion. So **O is the universal RBC donor**, while **AB is the universal plasma donor**
 
-## **Definition and overview**
 
-* **Blood group**: A system of antigens on RBC membranes controlled by specific genes; each system has multiple antigens and corresponding antibodies.  
-* **Blood type**: The phenotype within a blood group system (e.g., A, B, O, AB in ABO; Rh positive or negative in Rh).
+## 1\. ABO blood group system
 
-At present, dozens of blood group systems are known (\>30 systems and \>300 antigens), but ABO and Rh are the most clinically important for routine transfusion and blood grouping.
-
----
-
-## **1\. ABO blood group system**
-
-### **Basis of ABO grouping**
+### Basis of ABO grouping
 
 * Determined by presence/absence of **A and B carbohydrate antigens** on RBCs; controlled by the ABO gene on chromosome 9\.  
 * Plasma contains **naturally occurring antibodies (isoagglutinins)** against the antigens that are absent from the person’s own RBCs
 
-### **ABO phenotypes: antigens and antibodies**
+### ABO phenotypes: antigens and antibodies
 
 | Blood type | RBC surface antigens | Plasma antibodies | Key point |
 | ----- | ----- | ----- | ----- |
@@ -38,7 +29,7 @@ At present, dozens of blood group systems are known (\>30 systems and \>300 anti
 
 ABO antibodies are mainly **IgM**, efficient at causing agglutination and complement-mediated hemolysis, so mismatched transfusion can be rapidly fatal.
 
-### **Genetics (simple exam level)**
+### Genetics (simple exam level)
 
 * **Alleles**: A, B, O at the ABO locus. A and B are codominant; O is recessive (essentially “silent”).  
 * Examples:  
@@ -47,9 +38,9 @@ ABO antibodies are mainly **IgM**, efficient at causing agglutination and comple
   * AB → phenotype AB  
   * OO → phenotype O
 
-## **2\. Rh blood group system**
+## 2\. Rh blood group system
 
-### **Basic concept**
+### Basic concept
 
 * Rh system has \>50 antigens; clinically most important are **D, C, c, E, e**.  
 * In practice, Rh status refers mainly to **Rh(D)** antigen:  
@@ -58,25 +49,25 @@ ABO antibodies are mainly **IgM**, efficient at causing agglutination and comple
 
 Rh antigens are proteins in RBC membrane; they are highly immunogenic, especially D.
 
-### **Rh antibodies and immunization**
+### Rh antibodies and immunization
 
 * No **natural anti-D** antibodies; they are produced only after exposure (transfusion of Rh+ blood into Rh– person or fetomaternal hemorrhage in pregnancy).  
 * Rh antibodies are mainly **IgG**, can cross placenta and cause hemolysis in the fetus.
 
 ---
 
-## **4\. Blood Typing**
+## 4\. Blood Typing
 
-### **1\. Forward (cell) typing**
+### 1\. Forward (cell) typing
 
-* Detects **antigens on patient RBCs** using known antisera.  
+* Detects **antigens on patient RBCs** using known antisera(antibodies)
 * Procedure (conceptual):  
   * Patient RBCs mixed separately with **anti-A** and **anti-B** (and anti-D for Rh).  
   * Agglutination pattern indicates which antigens are present.
 
 Example: RBCs agglutinate with anti-A but not with anti-B → blood group A.
 
-### **2\. Reverse (serum) typing**
+### 2\. Reverse (serum) typing
 
 * Detects **antibodies in patient serum** using known reagent RBCs (A cells, B cells, O cells).  
 * Procedure:  
@@ -85,16 +76,16 @@ Example: RBCs agglutinate with anti-A but not with anti-B → blood group A.
 
 Forward and reverse typing results must be **concordant**; any discrepancy requires investigation before reporting blood group.
 
-### **3\. Rh typing**
+### 3\. Rh typing
 
 * Uses anti-D reagent; agglutination of patient RBCs with anti-D indicates **Rh positive**.  
 * Sometimes weak D testing may be required (e.g., indirect antiglobulin test) if D expression is weak.
 
 ---
 
-## **5\. Compatibility rules (ABO \+ Rh)**
+## 5\. Compatibility rules (ABO \+ Rh)
 
-### **ABO compatibility (RBC transfusion)**
+### ABO compatibility (RBC transfusion)
 
 Basic rule: **Recipient must not receive RBCs carrying antigens against which they have antibodies.**
 
@@ -103,21 +94,21 @@ Basic rule: **Recipient must not receive RBCs carrying antigens against which th
 * Group B: can receive B and O; can donate to B and AB.  
 * Group AB: can receive A, B, AB, O (universal recipient); can donate only to AB.
 
-### **Rh compatibility**
+### Rh compatibility
 
 * Rh– patients should **not receive Rh+ blood**, as they can form anti-D, leading to future hemolytic reactions.  
 * Rh+ patients can receive Rh– blood safely (no D antigen mismatch).
 
 ---
 
-## **6\. Clinical significance**
+## 6\. Clinical significance
 
-### **Transfusion reactions**
+### Transfusion reactions
 
 * **ABO incompatibility**: rapid intravascular hemolysis, hemoglobinuria, hypotension, DIC, acute renal failure; often due to clerical/identification error.  
 * **Rh (D) incompatibility**: mainly delayed hemolytic reaction or problem in subsequent exposure due to IgG anti-D.
 
-### **Hemolytic disease of the newborn (HDN)/erythroblastosis fetalis**
+### Hemolytic disease of the newborn (HDN)/erythroblastosis fetalis
 
 * Commonly due to **Rh incompatibility**: Rh– mother carrying Rh+ fetus; fetal cells enter maternal circulation → mother forms anti-D IgG.  
 * Subsequent Rh+ pregnancies: maternal IgG anti-D crosses placenta, destroys fetal RBCs → anemia, jaundice, hydrops fetalis.  
@@ -127,16 +118,16 @@ ABO HDN can occur (e.g., mother O, baby A or B), but usually milder because A/B 
 
 ---
 
-## **7\. Other blood group systems (exam overview)**
+## 7\. Other blood group systems (exam overview)
 
 Though not always detailed in basic exams, you should know names of some other clinically relevant systems: **MNS, Kell, Duffy, Kidd, Lewis, Lutheran**, etc., each with distinct membrane components and genes.  
 These systems mainly matter in **antibody screening, cross-matching, and cases of unexplained transfusion reactions or HDN**.
 
 ---
 
-## **8\. [Grading system of agglutination reaction](https://docs.google.com/document/d/1zvaZugfnc0ekZkeoozEvzLIETXZGgibWhficiB6Keew/edit?tab=t.0#heading=h.tnwt36vgsdm4%20)**
+## 8\. [Grading system of agglutination reaction](https://docs.google.com/document/d/1zvaZugfnc0ekZkeoozEvzLIETXZGgibWhficiB6Keew/edit?tab=t.0#heading=h.tnwt36vgsdm4%20)
 
-## **9\. Acquired B Antigen**
+## 9\. Acquired B Antigen
 
 Acquired B antigen is a **classic ABO discrepancy**, very exam‑friendly, especially for blood bank/MLT papers.
 
@@ -164,3 +155,8 @@ Common situations where acquired B is seen:
 **Blood bank / exam relevance**
 
 * *“Acquired B antigen causes ABO discrepancy in group A patients, often associated with GI disease and gram‑negative infection; it is due to bacterial deacetylase modifying A antigen sugar to a B‑like structure.*
+
+## Bombay Blood Group 
+The Bombay blood group (O_h) lacks A, B, and H antigens because the H antigen is the mandatory biochemical foundation required to build A and B antigens—and individuals with this phenotype inherit two non-functional recessive h alleles (hh) at the FUT1 gene, preventing them from making the H antigen in the first place.
+​
+Discovered in Mumbai (formerly Bombay) in 1952 by Dr. Y. M. Bhende, this phenomenon is a classic example of recessive epistasis, where the hh genotype completely masks the expression of any inherited A or B genes.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/vitamins/","tags":["biochemistry"],"dg-note-properties":{"tags":["biochemistry"]}}
+{"dg-publish":true,"permalink":"/docs/vitamins/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 
@@ -236,18 +236,17 @@ Synthesis:
 
 ## 1. Vitamin C — Ascorbic Acid
 
-### Chemical Name
+Chemical Name: **Ascorbic Acid**
 
-- **Ascorbic Acid**
-
-### Characteristics
-
+Characteristics
 - Highly heat-sensitive acid-form vitamin.
 - Excessive cooking, prolonged heat exposure, or solar exposure easily destroys it.
 - **Note:** Milk is a poor source of Vitamin C.
 
-### Sources
+Estimation 
+- blood sample is mixed with ==metaphosphoric acid== (pyq)
 
+### Sources
 - Citrus fruits:
   - Amla / Indian gooseberry — richest source
   - Guava
@@ -263,18 +262,14 @@ Synthesis:
 High levels are stored in the **adrenal glands and gonads**.
 
 ### Functions
-
 - **Wound Healing:** Promotes recovery by supporting the synthesis of collagen fibers/protein in skin and connective tissue.
 - **Antioxidant & Anti-carcinogenic:** Directly neutralizes carcinogenic elements and free radicals.
 - **Immune Booster:** Serves as the most effective vitamin for boosting the immune system.
 - **Iron Absorption:** Enhances the absorption of dietary iron in the bloodstream.
 
 ### Deficiency Disease
-
 #### Scurvy
-
 Marked by:
-
 - Weakened capillary walls
 - Loose teeth
 - Bleeding gums

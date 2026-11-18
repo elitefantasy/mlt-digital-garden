@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/blood-transfusion-reaction/","tags":["haematology","flashcards","clinical-pathology"],"dg-note-properties":{"tags":["haematology","flashcards","clinical-pathology"]}}
+{"dg-publish":true,"permalink":"/docs/blood-transfusion-reaction/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["haematology","Blood bank"]}}
 ---
 
 
@@ -11,39 +11,39 @@ b. febrile non hemolytic transfusion reaction
 c. alloimunization
 d. iron overload
 ?
-Correct: **b. Febrile non-hemolytic transfusion reaction (FNHTR):** This is classified as an **acute** transfusion reaction because it typically occurs during or within 1 to 4 hours after the cessation of the transfusion. It is characterized by an unexplained rise in body temperature (at least 1°C or 1.8°F) often accompanied by chills or rigors, and is caused by cytokines released from donor white blood cells during storage.
+Correct: **b. Febrile non-hemolytic transfusion reaction (FNHTR):** This is classified as an **acute** transfusion reaction because it typically occurs during or within 1 to 4 hours after the cessation of the transfusion. It is characterized by an unexplained **rise in body temperature** (at least 1°C or 1.8°F) often accompanied by **chills or rigors**, and is caused by cytokines released from donor white blood cells during storage.
 .
 Incorrect: **c. Alloimmunization:** This is a **delayed** immune complication. It happens when the recipient’s immune system recognizes foreign antigens on the donor's red cells, white cells, or platelets and begins producing antibodies against them. This process takes days to weeks to develop.
 <!--SR:!2026-11-24,60,310-->
 
-# **Blood Transfusion Reactions: Overview**
+# Blood Transfusion Reactions: Overview
 
 A transfusion reaction is any adverse event occurring during or after transfusion of whole blood or blood components.   
 Reactions may be **acute** (during transfusion or within 24 hours) or **delayed** (days to weeks later), and may be immunologic or non-immunologic.
 
-# **1\. General first step in any suspected transfusion reaction**
+# 1\. General first step in any suspected transfusion reaction
 
 * Stop transfusion immediately.  
 * Keep IV line open with **normal saline**.  
 * Check patient identity, blood bag label, and transfusion records.  
 * Inform blood bank and clinician; send blood bag/sample as per protocol.
 
-# **2\. Acute hemolytic transfusion reaction AHTR**
+# 2\. Acute hemolytic transfusion reaction AHTR
 
-## **Definition**
+## Definition
 
 An acute hemolytic transfusion reaction is a rapid hemolytic reaction that occurs during transfusion or within 24 hours, usually due to **incompatible RBC transfusion**, most commonly **ABO mismatch**.
 
-## **Cause**
+## Cause
 
 * ABO incompatibility is the commonest cause.  
 * Can also occur with other antibodies such as Rh, Kell, Duffy, Kidd, and others.
 
-## **Pathogenesis**
+## Pathogenesis
 
 Recipient antibodies react with donor RBC antigens → complement activation → intravascular hemolysis → hemoglobinemia, hemoglobinuria, DIC, shock, and acute renal failure.
 
-## **Clinical features**
+## Clinical features
 
 * Fever, chills, restlessness.  
 * Pain at infusion site.  
@@ -51,7 +51,7 @@ Recipient antibodies react with donor RBC antigens → complement activation →
 * Hypotension, tachycardia, dyspnea.  
 * Hemoglobinuria, bleeding, shock, oliguria.
 
-## **Management**
+## Management
 
 * Stop transfusion immediately.  
 * Maintain IV with saline.  
@@ -59,79 +59,79 @@ Recipient antibodies react with donor RBC antigens → complement activation →
 * Monitor urine output, renal function, coagulation, vitals.  
 * Treat shock and DIC if present.
 
-## **Prevention**
+## Prevention
 
 * Correct patient identification.  
 * Proper grouping, crossmatch, and bedside checking.  
 * Never transfuse uncrossmatched incompatible RBCs unless life-saving emergency protocol applies.
 
-# **3\. Febrile non-hemolytic transfusion reaction**
+# 3\. Febrile non-hemolytic transfusion reaction
 
-## **Definition**
+## Definition
 
-A febrile non-hemolytic transfusion reaction is a temperature rise during or shortly after transfusion **without hemolysis**.
+A febrile non-hemolytic transfusion reaction is a temperature rise during or shortly after transfusion without ==hemolysis==.
 
-## **Cause**
+## Cause
 
 * Most commonly due to recipient antibodies against **donor leukocytes or platelets**.  
 * Can also be due to cytokines accumulated during storage.
 
-## **Clinical features**
+## Clinical features
 
 * Fever, chills, rigors.  
 * Headache, malaise.  
 * Sometimes mild tachycardia.
 
-## **Management**
+## Management
 
 * Stop transfusion and assess severity.  
 * Give antipyretics if prescribed.  
 * Exclude hemolytic reaction and bacterial contamination.
 
-## **Prevention**
+## Prevention
 
 * Use **leukocyte-reduced blood products** in patients with previous FNHTR.  
 * Good storage and timely transfusion handling.
 
-# **4\. Allergic transfusion reaction**
+# 4\. Allergic transfusion reaction
 
-## **Definition**
+## Definition
 
 A mild hypersensitivity reaction to plasma proteins in the transfused component.
 
-## **Cause**
+## Cause
 
 Usually due to recipient sensitivity to donor plasma proteins.
 
-## **Clinical features**
+## Clinical features
 
 * Itching, urticaria, rash.  
 * Flushing.  
 * Mild localized edema.
 
-## **Management**
+## Management
 
 * Stop or temporarily pause transfusion depending on severity.  
 * Give antihistamines.  
 * If symptoms are mild and resolve, transfusion may sometimes continue under medical advice.
 
-## **Prevention**
+## Prevention
 
 * Premedication may be used in patients with previous reactions.  
 * In recurrent cases, washed cellular components may help.
 
-# **5\. Anaphylactic transfusion reaction**
+# 5\. Anaphylactic transfusion reaction
 
-## **Definition**
+## Definition
 
 A severe, life-threatening hypersensitivity reaction, often occurring within minutes of transfusion.
 
-## **Cause**
+## Cause
 
-* Classically associated with **IgA deficiency** with anti-IgA antibodies.  
+* can occur due to ==IgA deficiency with anti-IgA antibodies.==  
 * Can also occur due to other severe plasma protein hypersensitivities.
 
-## **Clinical features**
+## Clinical features
 
 * Sudden respiratory distress.  
 * Bronchospasm, wheezing.  
@@ -139,31 +139,31 @@ A severe, life-threatening hypersensitivity reaction, often occurring within min
 * Urticaria may be present or absent.  
 * Sense of impending doom, collapse.
 
-## **Management**
+## Management
 
 * Stop transfusion immediately.  
 * Give epinephrine, oxygen, IV fluids, antihistamines, corticosteroids as required.  
 * Emergency resuscitation may be needed.
 
-## **Prevention**
+## Prevention
 
 * Use washed RBCs or IgA-deficient products if known IgA deficiency is present.  
 * Careful transfusion history.
 
-# **6\. Transfusion-associated circulatory overload** 
+# 6\. Transfusion-associated circulatory overload 
 
-## **Definition**
+## Definition
 
 TACO is acute pulmonary edema due to volume overload after transfusion, usually within **6 to 12 hours**.
 
-## **Risk factors**
+## Risk factors
 
 * Elderly patients.  
 * Heart failure, renal failure, liver disease.  
 * Severe anemia.  
 * Rapid or large-volume transfusion.
 
-## **Clinical features**
+## Clinical features
 
 * Dyspnea, orthopnea.  
 * Hypertension.  
@@ -171,31 +171,31 @@ TACO is acute pulmonary edema due to volume overload after transfusion, usually 
 * Raised JVP, crackles, pulmonary edema.  
 * Positive fluid balance.
 
-## **Management**
+## Management
 
 * Stop transfusion.  
 * Sit the patient upright.  
 * Oxygen, diuretics, supportive care.  
 * Slow future transfusions and use careful volume assessment.
 
-## **Prevention**
+## Prevention
 
 * Transfuse slowly in high-risk patients.  
 * Consider split units or diuretic cover when appropriate.
 
-# **7\. Transfusion-associated graft-versus-host disease**
+# 7\. Transfusion-associated graft-versus-host disease
 
-## **Definition**
+## Definition
 
 A rare but often fatal complication where viable donor T lymphocytes engraft and attack recipient tissues.
 
-## **Who is at risk**
+## Who is at risk
 
 * Immunocompromised patients.  
 * Recipients of blood from HLA-matched or related donors.  
 * Neonates and marrow transplant patients.
 
-## **Clinical features**
+## Clinical features
 
 * Fever.  
 * Rash.  
@@ -203,92 +203,105 @@ A rare but often fatal complication where viable donor T lymphocytes engraft and
 * Hepatitis.  
 * Bone marrow suppression with pancytopenia.
 
-## **Prevention**
+## Prevention
 
 \- **Irradiation of cellular blood components** to inactivate donor lymphocytes.
 
-## **Key exam point**
+## Key exam point
 
 This is prevented by **irradiated blood**, not by leukoreduction alone.
 
-# **8\. Post-transfusion purpura**
+# 8\. Post-transfusion purpura
 
-## **Definition**
+## Definition
 
 A rare delayed immune thrombocytopenia occurring about **5–10 days** after transfusion.
 
-## **Cause**
+## Cause
 
 Most often due to alloantibodies against platelet antigens, classically **HPA-1a**.
 
-## **Clinical features**
+## Clinical features
 
 * Severe thrombocytopenia.  
 * Purpura, petechiae, mucosal bleeding.  
 * Usually dramatic fall in platelet count.
 
-## **Management**
+## Management
 
 * IVIG is commonly used.  
 * Avoid further incompatible platelet exposure.  
 * Platelet transfusion is usually ineffective unless specially selected.
 
-## **Prevention**
+## Prevention
 
 \- Difficult to prevent; important to recognize early.
 
-# **9\. Iron overload**
+# 9\. Iron overload
 
-## **Definition**
+## Definition
 
 Iron overload occurs after repeated transfusions because each unit of RBC contains iron that the body cannot actively excrete in large amounts.
 
-## **Who gets it**
+## Who gets it
 
 \- Chronic transfusion patients such as thalassemia major, sickle cell disease, aplastic anemia.
 
-## **Effects**
+## Effects
 
 * Liver damage.  
 * Endocrine dysfunction.  
 * Cardiomyopathy.  
 * Skin pigmentation.
 
-## **Management**
+## Management
 
 * Iron chelation therapy such as deferoxamine, deferasirox, or deferiprone depending on the clinical setting.  
 * Monitor ferritin and organ function.
 
-## **Prevention**
+## Prevention
 
 * Minimize unnecessary transfusions.  
 * Use component therapy and proper transfusion thresholds.
 
-# **10\. Hemolytic disease of the fetus and newborn**
+# 10\. Hemolytic disease of the fetus and newborn
 
-## **Definition**
+## Definition
 
 HDFN is fetal or neonatal hemolysis caused by maternal IgG antibodies crossing the placenta and destroying fetal RBCs.
 
-## **Common causes**
+## Common causes
 
 * Rh incompatibility is the classic and most important cause.  
 * ABO incompatibility can also cause HDFN, usually milder.
 
-## **Clinical features**
+## Clinical features
 
 * Anemia.  
 * Jaundice.  
 * Hepatosplenomegaly.  
 * In severe cases, hydrops fetalis and kernicterus.
 
-## **Prevention**
+## Prevention
 
 \- Anti-D immunoglobulin to unsensitized Rh-negative mothers after delivery or sensitizing events.
 
+## 11. TRALI Transfusion Related Acute Lung Injury
+- TRALI is an acute, life-threatening transfusion complication defined as the new onset of ==non-cardiogenic pulmonary oedema== and severe hypoxaemia occurring during or within 6 hours of a blood product transfusion, in the absence of circulatory overload or pre-existing acute lung injury (ALI/ARDS).
+- Pathophysiology (Two-Hit Hypothesis)
+	* First Hit : Underlying clinical conditions (sepsis, surgery, major trauma, burns) cause endothelial activation and the sequestration/priming of neutrophils in the pulmonary microvasculature.
+	* Second Hit (Transfusion Event):
+		* Immune TRALI (~80–85%): Infusion of donor antibodies directed against recipient leukocyte antigens:
+			 * Anti-HLA antibodies (Class I or II)
+			 * Anti-HNA antibodies (Human Neutrophil Antigen)
+			   (Common in multiparous female donors sensitised during pregnancy).
+	   * Non-Immune TRALI (~15%): Infusion of biological response modifiers (bioactive lipids, soluble CD40L) that accumulate during prolonged red cell/platelet storage.
+	 * Result: Primed neutrophils activate aggressively $\rightarrow$ release of reactive oxygen species (ROS) and elastase
+	 * $\rightarrow$ endothelial damage $\rightarrow$ microvascular permeability leak-> protein-rich alveolar exudate (non-cardiogenic pulmonary oedema).
+
 ### 
 
-### **Rh incompatibility**
+### Rh incompatibility
 
 **Definition**  
 Occurs when an **Rh-negative mother** carries an **Rh-positive fetus**. Fetal RBCs entering maternal circulation stimulate anti-D antibody formation.
@@ -307,7 +320,7 @@ Occurs when an **Rh-negative mother** carries an **Rh-positive fetus**. Fetal RB
 **Key difference**  
 Rh disease is usually **IgG-mediated** and affects **subsequent pregnancies** more severely.
 
-### **ABO incompatibility**
+### ABO incompatibility
 
 **Definition**  
 Occurs when maternal and fetal ABO groups are incompatible, most often **mother O with baby A or B**.
@@ -326,7 +339,7 @@ Maternal anti-A or anti-B antibodies may cross placenta, but ABO HDFN is usually
 * ABO HDFN can occur in first pregnancy.  
 * Rh HDFN is usually more severe and classically affects later pregnancies.
 
-# **11\. High-yield comparison table**
+# 11\. High-yield comparison table
 
 | Reaction/Condition | Main Cause | Timing | Key Features | Prevention/Management |
 | :---- | :---- | :---- | :---- | :---- |

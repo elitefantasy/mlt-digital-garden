@@ -15,7 +15,9 @@
 
 **Hb Estimation Methods:**  
 * **Sahli's Acid Hematin Method:** Blood mixed with N/10 HCl forms brown acid hematin; compared visually against standard comparator. Measures HbA; old manual method.  
-* **Cyanmethemoglobin Method (Drabkin's Reagent):** Reference / Gold Standard method. Potassium ferricyanide & potassium cyanide convert Hb forms to cyanmethemoglobin; measured at 540 nm on spectrophotometer. 
+* **Cyanmethemoglobin Method (Drabkin's Reagent):** Reference / Gold Standard method. Potassium ferricyanide & potassium cyanide convert Hb forms to cyanmethemoglobin; measured at 540 nm on spectrophotometer. Reagent used is drabkins solution .
+	* drabkin contains : Potassium ferrocyanide , potassium cyanide  , non Ionic detergent , potassium Dehydrogen phosphate .
+	* when blood is mixed with drabkin solution , non ionic detergent affect the zeta potential of rbc and hemolyses the rbc now hemoglobin is released from rbc and reacts with potassium ferrocyanide and converts to **methemoglobin**  this now reacts with potassium cyanide and convert to **cyanmethemoglobin**  this is proportional to HB concentration 
 
 **Abnormal Hb Derivatives:**  
   * **Carboxyhemoglobin:** Hb bound to Carbon Monoxide (CO). High affinity (200x \> O2). Causes toxic hypoxia.  

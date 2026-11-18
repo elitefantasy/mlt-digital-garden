@@ -183,7 +183,9 @@ The **thyroid gland** is the largest endocrine gland in the human body, known fo
 *   **Parafollicular Cells (C-cells):** Interspersed between the thyroid follicles are specialized cells called parafollicular cells or C-cells, which are responsible for secreting a separate hormone involved in calcium regulation .
 
 #### Hormones of the Thyroid Gland
-The thyroid gland secretes three primary hormones: two metabolic hormones from the follicles and one calcium-regulating hormone from the C-cells. The synthesis of the metabolic hormones heavily relies on the essential dietary element **iodine** and a protein called **thyroglobulin** 
+The thyroid gland secretes three primary hormones: two metabolic hormones from the follicles and one calcium-regulating hormone from the C-cells. The synthesis of the metabolic hormones heavily relies on the essential dietary element **iodine** and a protein called **thyroglobulin**
+
+Note : according to the national iodine deficiency disorder control program the iodine concentration in iodized salt should be :: 30ppm at production and 15 ppm at consumer level.
 
 **1. Tetraiodothyronine (T4) / Thyroxine**
 *   **Structure & Abundance:** T4 contains four iodine atoms and is the most abundantly produced hormone by the thyroid gland 

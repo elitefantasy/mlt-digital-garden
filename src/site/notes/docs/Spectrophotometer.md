@@ -28,6 +28,8 @@ A spectrophotometer typically consists of the following components:
 * **Detector (Photodetector):** Measures the intensity of light transmitted through the sample and converts it into an electrical signal.  
 * **Display/Readout System:** Converts the signal into numerical data (absorbance or transmittance).
 
+Which type of light is used in spectrophotometer for white colored solution :: visible light
+
 4\. Types of Spectrophotometers
 
 * **Based on Wavelength Range:**  

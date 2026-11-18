@@ -5,6 +5,7 @@
 
 -   define Coombs test :: antiglobulin test used to detect antibodies IgG / Complement molecules directed against red blood cells (RBCs).
 -   It is mainly used to diagnose immune‑mediated hemolysis (e.g. autoimmune hemolytic anemia, hemolytic disease of the newborn) and to check blood compatibility before transfusion.
+- concentration of albumin in coombs test is ==22%==
 
 Think of it as a test that asks: “Are there IgG / complement molecules on RBCs, or in serum, that can attack RBCs?”
 
@@ -84,3 +85,18 @@ So, Coombs test is essentially a “bridge” test: AHG bridges sensitized RBCs 
 -   Indirect = patient serum + reagent RBCs; used for antibody screening, crossmatch, antenatal testing.
 -   Principle: AHG bridges sensitized RBCs → agglutination.
 -   Essential quality control: Coombs control cells to confirm reagent activity and proper washing.
+
+
+**Difference in procedure of indirect coomb test and direct coomb test**
+The core procedural difference lies in where sensitization occurs: the Direct Coombs Test (Direct Antiglobulin Test / DAT) skips incubation and tests the patient’s own red blood cells (RBCs) directly for antibodies or complement already bound in vivo, whereas the Indirect Coombs Test (Indirect Antiglobulin Test / IAT) requires a 37°C incubation step to bind free-floating antibodies from the patient’s serum onto reagent RBCs in vitro before washing and adding Anti-Human Globulin (AHG).
+
+
+
+| Procedural Parameter  | Direct Coombs Test (DAT)                                                  | Indirect Coombs Test (IAT)                                                    |
+| --------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Primary Sample Tested | Patient’s RBCs (from an EDTA tube to prevent in vitro complement binding) | Patient’s serum or plasma + commercial Group O reagent RBCs (or donor RBCs)   |
+| Sensitization Site    | In vivo (inside the patient’s body)                                       | In vitro (inside the test tube)                                               |
+| Incubation at 37°C    | Not required (omitted completely)                                         | Required (incubated at 37°C for 15–30 minutes; 10–15 minutes if LISS is used) |
+| Timing of Saline Wash | Immediate (first step on patient RBCs before adding AHG)                  | Post-incubation (performed after the 37°C serum–cell incubation)              |
+| Addition of AHG       | Added directly to washed patient RBCs                                     | Added to washed reagent/donor RBCs after incubation                           |
+| Check Cells (Control) | Added to all negative tubes to validate AHG activity                      | Added to all negative tubes to validate AHG activity                          |
