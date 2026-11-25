@@ -2,6 +2,25 @@
 {"dg-publish":true,"permalink":"/docs/histology-staining/","tags":["flashcards/sem4","sem4"],"dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Histology"]}}
 ---
 
+- [[docs/Histology Staining#Hematoxylin Stain and Eosin Stain\|Hematoxylin Stain and Eosin Stain]]
+	- [[docs/Histology Staining#Hematoxylin Stain and Eosin Stain\|Hematoxylin]]
+		- [[docs/Histology Staining#Hematoxylin\|Classification of hematoxylin stains]]
+		- [[docs/Histology Staining#Hematoxylin\|3) Major alum hematoxylins: composition and features]]
+		- [[docs/Histology Staining#Hematoxylin\|4) Iron hematoxylins (high‑yield concept)]]
+		- [[docs/Histology Staining#Hematoxylin\|Eosin]]
+	- [[docs/Histology Staining#Hematoxylin Stain and Eosin Stain\|PAS Stain]]
+		- [[docs/Histology Staining#PAS Stain\|Principle]]
+		- [[docs/Histology Staining#PAS Stain\|Reagents]]
+		- [[docs/Histology Staining#PAS Stain\|Procedure]]
+		- [[docs/Histology Staining#PAS Stain\|Result and interpretation]]
+		- [[docs/Histology Staining#PAS Stain\|Uses]]
+	- [[docs/Histology Staining#Hematoxylin Stain and Eosin Stain\|Mason Trichrome Stain]]
+	- [[docs/Histology Staining#Hematoxylin Stain and Eosin Stain\|zn stain]]
+	- [[docs/Histology Staining#Hematoxylin Stain and Eosin Stain\|Silver Stain]]
+- [[docs/Histology Staining#Mounting Medium\|Mounting Medium]]
+		- [[docs/Histology Staining#Silver Stain\|DPX]]
+		- [[docs/Histology Staining#Silver Stain\|Canada Balsam]]
+
 
 **general procedure**
 1. **Drying**: slide is dried completely in hot air oven
@@ -22,6 +41,7 @@
 - natural dye : logwood tree *Haematoxylum campechianum*
 - gets activated (oxidized) in presence of air or sun into *hematin*
 - needs metal mordant(aluminum , iron, tungsten) to form a **dye–mordant–tissue complex**, giving strong, stable nuclear staining. 
+- hematoxylin is an basic dye that stains acidic component such as nucleus 
 
 - **Progressive vs regressive:** Way the stain is used, not a different dye.
     - **Progressive:** Tissue is left in a dilute stain just long enough to reach the exact desired intensity , **Differentiation** step is not required . Ex: *Mayer’s hematoxylin, Gill’s hematoxylin (Gill 1, 2, 3).*
@@ -50,7 +70,7 @@
     - Examples: *Ehrlich’s*, *Harris’s*, Mayer’s, Gill’s, Delafield’s, Carazzi’s, Cole’s
 2. **Iron hematoxylins (Ferric mordants)**
     - Very intense, black‑blue nuclear staining; often used for **special techniques** and when strong contrast is needed.
-    - More resistant to decolorization; often used in combination with other stains.
+    - More resistant to decolorization;
     - Examples: Heidenhain’s, Weigert’s (iron hematoxylin used for connective tissue/fibrin stains). 
 3. **Tungsten / other metal hematoxylins**
     - Less common in routine work; used in some specialized protocols. 
@@ -127,20 +147,6 @@
     - Glacial acetic acid: **20 mL**
     - Ethylene glycol: **250 mL**
     - Distilled water to 1 L
-    **Gill II (intermediate):**
-    - Hematoxylin: **4 g**
-    - Sodium iodate: **0.4 g**
-    - Aluminum sulfate: **35.2 g**
-    - Glacial acetic acid: **40 mL**
-    - Ethylene glycol: **250 mL**
-    - Water to 1 L
-    **Gill III (stronger, histology):**
-    - Hematoxylin: **6 g**
-    - Sodium iodate: **0.6 g**
-    - Aluminum sulfate: ~**54 g**
-    - Glacial acetic acid: **60 mL**
-    - Ethylene glycol: **250 mL**
-    - Water to 1 L 
 - **Features / uses:**
     - Very **stable**, long shelf life; does not form surface “scum” easily.
     - Gill I/II: often **progressive**, good for cytology and some IHC.

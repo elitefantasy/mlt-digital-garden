@@ -2,6 +2,31 @@
 {"dg-publish":true,"permalink":"/docs/mycology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Clinical-biochem-and-microbio","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"],"share_link":"https://share.note.sx/ecsiz55k#nmRRHDBq/mM7Of1bvOP2Pw","share_updated":"2026-09-08T10:05:56+05:30"}}
 ---
 
+- [[docs/Mycology#Introduction\|Introduction]]
+	- [[docs/Mycology#Introduction\|Mycoses]]
+- [[docs/Mycology#Classification\|Classification]]
+	- [[docs/Mycology#Classification\|Morphological Classification]]
+		- [[docs/Mycology#Morphological Classification\|1 Yeast]]
+		- [[docs/Mycology#Morphological Classification\|2 yeast like]]
+		- [[docs/Mycology#Morphological Classification\|3 Molds]]
+		- [[docs/Mycology#Morphological Classification\|4 Dimorphic fungi]]
+	- [[docs/Mycology#Classification\|Taxonomical Classification]]
+		- [[docs/Mycology#Taxonomical Classification\|1 zygomycetes]]
+		- [[docs/Mycology#Taxonomical Classification\|2 Ascomycets]]
+		- [[docs/Mycology#Taxonomical Classification\|3 Basidiomycetes]]
+		- [[docs/Mycology#Taxonomical Classification\|4 Dueteromycetes]]
+	- [[docs/Mycology#Classification\|Pathogenic classification  of mycoses]]
+	- [[docs/Mycology#Classification\|Classification Based on Reproduction]]
+		- [[docs/Mycology#Classification Based on Reproduction\|I. Sexual Reproduction]]
+		- [[docs/Mycology#Classification Based on Reproduction\|II. Asexual Reproduction]]
+	- [[docs/Mycology#Classification\|Classification based on hyphal structure]]
+- [[docs/Mycology#Stains Used in Mycology\|Stains Used in Mycology]]
+- [[docs/Mycology#Structure of Fungal Cells\|Structure of Fungal Cells]]
+	- [[docs/Mycology#Structure of Fungal Cells\|1\. Fungal Cell Wall]]
+	- [[docs/Mycology#Structure of Fungal Cells\|2\. Fungal Cell Membrane]]
+	- [[docs/Mycology#Structure of Fungal Cells\|4\. Cytoplasm and Internal Organelles]]
+	- [[docs/Mycology#Structure of Fungal Cells\|5\. Structural Comparison: Fungi vs. Bacteria]]
+- [[docs/Mycology#Fungal Growth Media\|Fungal Growth Media]] 
 
 
 # Introduction  

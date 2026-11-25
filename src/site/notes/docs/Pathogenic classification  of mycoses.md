@@ -36,7 +36,7 @@
 - [[docs/Pathogenic classification  of mycoses#5. Opportunistic Mycoses\|5. Opportunistic Mycoses]]
 	- [[docs/Pathogenic classification  of mycoses#5. Opportunistic Mycoses\|5.1 Candida albicans]]
 	- [[docs/Pathogenic classification  of mycoses#5. Opportunistic Mycoses\|5.2 Cryptococcus neoformans]]
-- [[docs/Pathogenic classification  of mycoses#Mycotoxicosis\|Mycotoxicosis]]
+- [[docs/Pathogenic classification  of mycoses#Mycotoxicosis\|Mycotoxicosis]] 
 
 # 1. Superficial Mycoses
 ![272](/img/user/Attachments/Pasted%20image%2020260815083621.png)
