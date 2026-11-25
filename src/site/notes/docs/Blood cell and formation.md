@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/blood-cell-and-formation/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/blood-cell-and-formation/","tags":["flashcards"],"created":"2026-10-13T19:14:29.000+05:30","updated":"2026-10-09T07:10:48.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

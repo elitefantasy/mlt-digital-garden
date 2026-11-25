@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/helminths/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/helminths/","tags":["flashcards"],"created":"2026-11-25T18:44:42.470+05:30","updated":"2026-11-25T20:21:08.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

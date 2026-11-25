@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/histology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Histology","tags":["sem4","flashcards/sem4"],"Subject":["Histology"]}}
+{"dg-publish":true,"permalink":"/docs/histology/","tags":["sem4","flashcards/sem4"],"created":"2026-10-17T09:23:02.480+05:30","updated":"2026-10-24T08:05:40.000+05:30","dg-note-properties":{"Sem4Sub":"Histology","tags":["sem4","flashcards/sem4"],"Subject":["Histology"]}}
 ---
 
 

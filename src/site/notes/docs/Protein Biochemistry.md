@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/protein-biochemistry/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
+{"dg-publish":true,"permalink":"/docs/protein-biochemistry/","tags":["flashcards"],"created":"2026-09-18T20:33:49.630+05:30","updated":"2026-11-05T11:39:46.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
 ---
 
 ## TOC

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/staining/","tags":["flashcards"],"dg-note-properties":{"Sem4Sub":"Histology","tags":["flashcards"],"share_link":"https://share.note.sx/6n6kil3y#+7WHv+/UHdwtb4Ygzr2G4Q","share_updated":"2026-09-07T09:05:10+05:30"}}
+{"dg-publish":true,"permalink":"/docs/staining/","tags":["flashcards"],"created":"2026-10-13T19:14:29.600+05:30","updated":"2026-10-15T20:10:32.000+05:30","dg-note-properties":{"Sem4Sub":"Histology","tags":["flashcards"],"share_link":"https://share.note.sx/6n6kil3y#+7WHv+/UHdwtb4Ygzr2G4Q","share_updated":"2026-09-07T09:05:10+05:30"}}
 ---
 
 

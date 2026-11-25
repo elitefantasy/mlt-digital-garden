@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/enzymes/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Biochemical-technique","tags":["sem4","flashcards/sem4"],"Subject":["Biochemistry"]}}
+{"dg-publish":true,"permalink":"/docs/enzymes/","tags":["sem4","flashcards/sem4"],"created":"2026-10-16T09:12:11.680+05:30","updated":"2026-10-16T08:40:28.000+05:30","dg-note-properties":{"Sem4Sub":"Biochemical-technique","tags":["sem4","flashcards/sem4"],"Subject":["Biochemistry"]}}
 ---
 
 

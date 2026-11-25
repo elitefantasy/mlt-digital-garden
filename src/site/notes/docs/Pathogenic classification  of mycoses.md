@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/pathogenic-classification-of-mycoses/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"],"Subject":["Microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/pathogenic-classification-of-mycoses/","tags":["flashcards/sem4"],"created":"2026-11-24T18:14:38.960+05:30","updated":"2026-11-23T10:25:20.000+05:30","dg-note-properties":{"tags":["flashcards/sem4"],"Subject":["Microbiology"]}}
 ---
 
 

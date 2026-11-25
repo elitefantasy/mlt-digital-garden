@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/hemoglobin/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/hemoglobin/","created":"2026-11-13T12:46:29.640+05:30","updated":"2026-11-12T08:40:58.000+05:30","dg-note-properties":{}}
 ---
 
 ## Hemoglobin: Structure, Variants, Estimation & Disorders**

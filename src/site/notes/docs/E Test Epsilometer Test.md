@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/e-test-epsilometer-test/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/e-test-epsilometer-test/","tags":["flashcards"],"created":"2026-09-27T09:07:48.790+05:30","updated":"2026-09-27T09:11:48.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

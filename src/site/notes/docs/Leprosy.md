@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/leprosy/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/leprosy/","tags":["flashcards"],"created":"2026-09-13T11:39:39.320+05:30","updated":"2026-09-16T21:58:52.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

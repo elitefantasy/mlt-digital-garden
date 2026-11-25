@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/bacteriology/","tags":["flashcards","microbiology"],"dg-note-properties":{"tags":["flashcards","microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/bacteriology/","tags":["flashcards","microbiology"],"created":"2026-08-18T18:21:09.130+05:30","updated":"2026-09-13T20:29:06.000+05:30","dg-note-properties":{"tags":["flashcards","microbiology"]}}
 ---
 
 # Intro

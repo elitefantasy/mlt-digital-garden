@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/hb-estimation/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/hb-estimation/","created":"2026-08-16T08:09:28.180+05:30","updated":"2026-09-08T20:12:38.000+05:30","dg-note-properties":{}}
 ---
 
 ### **The Definitive Master Study Note on Hemoglobin (Hb) Estimation**

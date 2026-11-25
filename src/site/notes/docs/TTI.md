@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/tti/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/tti/","tags":["flashcards"],"created":"2026-08-16T08:09:29.480+05:30","updated":"2026-09-27T08:13:32.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 ## 1\. TTI

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/cytology-fixative/","dg-note-properties":{"Sem4Sub":"Histology"}}
+{"dg-publish":true,"permalink":"/docs/cytology-fixative/","created":"2026-08-20T11:08:03.630+05:30","updated":"2026-09-08T20:12:38.000+05:30","dg-note-properties":{"Sem4Sub":"Histology"}}
 ---
 
 

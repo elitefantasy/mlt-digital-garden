@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/bone-marrow-aspiration/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Sem4Sub":["Biochemical-technique"]}}
+{"dg-publish":true,"permalink":"/docs/bone-marrow-aspiration/","tags":["flashcards"],"created":"2026-08-16T08:09:27.970+05:30","updated":"2026-09-08T20:12:38.000+05:30","dg-note-properties":{"tags":["flashcards"],"Sem4Sub":["Biochemical-technique"]}}
 ---
 
 

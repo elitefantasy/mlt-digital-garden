@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/histology-fixative/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"tags":["sem4","flashcards/sem4"],"Sem4Sub":["Histology"]}}
+{"dg-publish":true,"permalink":"/docs/histology-fixative/","tags":["sem4","flashcards/sem4"],"created":"2026-10-24T07:53:51.190+05:30","updated":"2026-10-24T08:11:34.000+05:30","dg-note-properties":{"tags":["sem4","flashcards/sem4"],"Sem4Sub":["Histology"]}}
 ---
 
 ## 1\. Introduction to Fixatives

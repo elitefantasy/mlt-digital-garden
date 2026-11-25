@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/agglutination/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/agglutination/","tags":["flashcards"],"created":"2026-08-16T17:59:43.980+05:30","updated":"2026-09-13T19:26:46.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 1. What is agglutination reaction  

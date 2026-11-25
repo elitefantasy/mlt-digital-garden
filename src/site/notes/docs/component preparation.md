@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/component-preparation/","tags":["haematology","flashcards"],"dg-note-properties":{"Subject":null,"tags":["haematology","flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/component-preparation/","tags":["haematology","flashcards"],"created":"2026-10-13T19:14:28.700+05:30","updated":"2026-10-09T07:12:48.000+05:30","dg-note-properties":{"Subject":null,"tags":["haematology","flashcards"]}}
 ---
 
 

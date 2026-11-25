@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/spectrophotometer/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/spectrophotometer/","created":"2026-11-17T19:15:35.240+05:30","updated":"2026-11-15T08:17:44.000+05:30","dg-note-properties":{}}
 ---
 
 Spectrophotometry  

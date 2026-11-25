@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/thalassemia/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"],"Subject":["haematology"]}}
+{"dg-publish":true,"permalink":"/docs/thalassemia/","tags":["flashcards/sem4"],"created":"2026-10-16T09:12:11.710+05:30","updated":"2026-10-22T13:18:48.000+05:30","dg-note-properties":{"tags":["flashcards/sem4"],"Subject":["haematology"]}}
 ---
 
 <- [[docs/Anemia\|Anemia]]

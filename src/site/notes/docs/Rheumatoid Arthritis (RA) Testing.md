@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/rheumatoid-arthritis-ra-testing/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/rheumatoid-arthritis-ra-testing/","tags":["flashcards"],"created":"2026-09-16T21:03:07.560+05:30","updated":"2026-09-16T21:07:44.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

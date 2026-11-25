@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/leukemia/","tags":["flashcards/sem4","sem4"],"dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Immunology"]}}
+{"dg-publish":true,"permalink":"/docs/leukemia/","tags":["flashcards/sem4","sem4"],"created":"2026-11-09T16:38:24.570+05:30","updated":"2026-11-06T09:14:30.000+05:30","dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Immunology"]}}
 ---
 
 - blood cancer

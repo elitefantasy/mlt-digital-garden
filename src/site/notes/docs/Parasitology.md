@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/parasitology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Parasitology-and-blood-cell-disorder","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"]}}
+{"dg-publish":true,"permalink":"/docs/parasitology/","tags":["sem4","flashcards/sem4"],"created":"2026-11-02T19:26:56.490+05:30","updated":"2026-11-25T20:24:04.000+05:30","dg-note-properties":{"Sem4Sub":"Parasitology-and-blood-cell-disorder","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"]}}
 ---
 
 links

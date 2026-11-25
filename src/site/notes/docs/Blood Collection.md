@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/blood-collection/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/blood-collection/","created":"2026-11-17T19:15:35.250+05:30","updated":"2026-11-14T09:02:16.000+05:30","dg-note-properties":{}}
 ---
 
 ## Specimen Collection, Phlebotomy & Anticoagulants

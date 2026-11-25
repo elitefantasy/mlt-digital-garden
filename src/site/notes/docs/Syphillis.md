@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/syphillis/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/syphillis/","tags":["flashcards"],"created":"2026-09-27T08:13:33.360+05:30","updated":"2026-09-27T08:14:48.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

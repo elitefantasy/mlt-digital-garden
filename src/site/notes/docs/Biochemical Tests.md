@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/biochemical-tests/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/biochemical-tests/","tags":["flashcards"],"created":"2026-09-15T18:14:46.990+05:30","updated":"2026-09-15T08:55:58.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

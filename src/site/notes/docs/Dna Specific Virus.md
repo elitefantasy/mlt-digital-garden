@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/dna-specific-virus/","tags":["flashcards"],"dg-note-properties":{"Subject":["Microbiology"],"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/dna-specific-virus/","tags":["flashcards"],"created":"2026-11-09T16:51:07.810+05:30","updated":"2026-11-07T09:21:22.000+05:30","dg-note-properties":{"Subject":["Microbiology"],"tags":["flashcards"]}}
 ---
 
 <- [[docs/Virus\|Virus]]

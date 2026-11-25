@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/sickel-cell-anemia/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"]}}
+{"dg-publish":true,"permalink":"/docs/sickel-cell-anemia/","tags":["flashcards/sem4"],"created":"2026-10-17T09:23:03.450+05:30","updated":"2026-10-17T08:13:06.000+05:30","dg-note-properties":{"tags":["flashcards/sem4"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/laboratory-instruments/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":null}}
+{"dg-publish":true,"permalink":"/docs/laboratory-instruments/","tags":["flashcards"],"created":"2026-11-13T12:46:29.500+05:30","updated":"2026-11-13T08:50:20.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":null}}
 ---
 
 ## Glassware Cleaning, Maintenance, and Safety

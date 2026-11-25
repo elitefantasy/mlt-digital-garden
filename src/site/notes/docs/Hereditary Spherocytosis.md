@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/hereditary-spherocytosis/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"]}}
+{"dg-publish":true,"permalink":"/docs/hereditary-spherocytosis/","tags":["flashcards/sem4"],"created":"2026-09-05T10:47:13.230+05:30","updated":"2026-10-04T19:56:18.000+05:30","dg-note-properties":{"tags":["flashcards/sem4"]}}
 ---
 
 

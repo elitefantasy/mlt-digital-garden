@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/hypersensitivy/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/hypersensitivy/","tags":["flashcards"],"created":"2026-11-05T11:08:51.850+05:30","updated":"2026-11-05T11:30:06.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

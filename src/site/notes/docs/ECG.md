@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/ecg/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/ecg/","tags":["flashcards"],"created":"2026-11-24T18:14:42.490+05:30","updated":"2026-11-14T08:20:50.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

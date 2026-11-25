@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/anatomy-and-physio-of-liver/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/anatomy-and-physio-of-liver/","tags":["flashcards"],"created":"2026-09-16T20:43:45.040+05:30","updated":"2026-09-16T20:45:30.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
  - **Anatomy:** The liver is the largest organ in the human body, consisting of a right lobe (four times larger) and a left lobe.  

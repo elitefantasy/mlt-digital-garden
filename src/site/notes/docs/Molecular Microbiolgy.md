@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/molecular-microbiolgy/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/molecular-microbiolgy/","tags":["flashcards"],"created":"2026-08-16T08:09:30.530+05:30","updated":"2026-09-20T19:44:46.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
 ---
 
 

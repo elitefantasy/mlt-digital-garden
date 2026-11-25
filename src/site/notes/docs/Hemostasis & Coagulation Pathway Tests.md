@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/hemostasis-and-coagulation-pathway-tests/","tags":["flashcards"],"dg-note-properties":{"Subject":["haematology"],"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/hemostasis-and-coagulation-pathway-tests/","tags":["flashcards"],"created":"2026-11-17T19:15:35.650+05:30","updated":"2026-11-14T08:27:34.000+05:30","dg-note-properties":{"Subject":["haematology"],"tags":["flashcards"]}}
 ---
 
 

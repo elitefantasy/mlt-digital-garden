@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/human-circulatory-system/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/human-circulatory-system/","created":"2026-08-16T08:09:29.570+05:30","updated":"2026-09-08T20:12:38.000+05:30","dg-note-properties":{}}
 ---
 
 **Study Notes: Human Circulatory System**

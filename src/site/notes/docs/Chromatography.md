@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/chromatography/","tags":["flashcards/sem4","sem4"],"dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Biochemical-technique"]}}
+{"dg-publish":true,"permalink":"/docs/chromatography/","tags":["flashcards/sem4","sem4"],"created":"2026-11-17T19:15:35.330+05:30","updated":"2026-11-14T08:33:16.000+05:30","dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Biochemical-technique"]}}
 ---
 
 Linked : [[docs/Chromatography Multiple Choice Questions (MCQs)\|Chromatography Multiple Choice Questions (MCQs)]]

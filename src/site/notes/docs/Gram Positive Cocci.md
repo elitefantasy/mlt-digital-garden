@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/gram-positive-cocci/","tags":["microbiology","flashcards"],"dg-note-properties":{"tags":["microbiology","flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/gram-positive-cocci/","tags":["microbiology","flashcards"],"created":"2026-10-13T19:14:28.630+05:30","updated":"2026-10-09T07:22:50.000+05:30","dg-note-properties":{"tags":["microbiology","flashcards"]}}
 ---
 
 

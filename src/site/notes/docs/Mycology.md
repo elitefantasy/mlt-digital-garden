@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/mycology/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Clinical-biochem-and-microbio","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"],"share_link":"https://share.note.sx/ecsiz55k#nmRRHDBq/mM7Of1bvOP2Pw","share_updated":"2026-09-08T10:05:56+05:30"}}
+{"dg-publish":true,"permalink":"/docs/mycology/","tags":["sem4","flashcards/sem4"],"created":"2026-11-24T18:14:38.910+05:30","updated":"2026-11-23T10:22:38.000+05:30","dg-note-properties":{"Sem4Sub":"Clinical-biochem-and-microbio","tags":["sem4","flashcards/sem4"],"Subject":["Microbiology","Parasitology"],"share_link":"https://share.note.sx/ecsiz55k#nmRRHDBq/mM7Of1bvOP2Pw","share_updated":"2026-09-08T10:05:56+05:30"}}
 ---
 
 - [[docs/Mycology#Introduction\|Introduction]]

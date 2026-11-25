@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/harmones/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/harmones/","tags":["flashcards"],"created":"2026-11-17T19:15:36.530+05:30","updated":"2026-11-15T08:34:24.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

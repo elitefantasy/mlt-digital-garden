@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/sterlization/","tags":["flashcards","#must-read"],"dg-note-properties":{"tags":["flashcards","#must-read"],"Subject":["Microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/sterlization/","tags":["flashcards","#must-read"],"created":"2026-10-08T08:31:47.620+05:30","updated":"2026-10-08T08:03:52.000+05:30","dg-note-properties":{"tags":["flashcards","#must-read"],"Subject":["Microbiology"]}}
 ---
 
 

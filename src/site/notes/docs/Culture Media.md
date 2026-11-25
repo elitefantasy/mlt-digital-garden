@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/culture-media/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/culture-media/","tags":["flashcards"],"created":"2026-11-17T19:15:35.280+05:30","updated":"2026-11-16T10:58:02.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
 ---
 
 

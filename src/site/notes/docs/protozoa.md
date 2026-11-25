@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/protozoa/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"]}}
+{"dg-publish":true,"permalink":"/docs/protozoa/","tags":["flashcards/sem4"],"created":"2026-11-02T19:27:00.260+05:30","updated":"2026-10-27T17:42:56.000+05:30","dg-note-properties":{"tags":["flashcards/sem4"]}}
 ---
 
 

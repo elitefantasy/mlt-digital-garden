@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/histology-staining/","tags":["flashcards/sem4","sem4"],"dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Histology"]}}
+{"dg-publish":true,"permalink":"/docs/histology-staining/","tags":["flashcards/sem4","sem4"],"created":"2026-11-24T18:14:40.840+05:30","updated":"2026-11-23T09:08:22.000+05:30","dg-note-properties":{"tags":["flashcards/sem4","sem4"],"Sem4Sub":["Histology"]}}
 ---
 
 - [[docs/Histology Staining#Hematoxylin Stain and Eosin Stain\|Hematoxylin Stain and Eosin Stain]]

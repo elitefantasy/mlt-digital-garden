@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/gram-positive-bacilli/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/gram-positive-bacilli/","tags":["flashcards"],"created":"2026-11-17T19:15:35.090+05:30","updated":"2026-11-14T09:15:54.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
 ---
 
 

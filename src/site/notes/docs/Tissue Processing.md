@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/tissue-processing/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":["Histology"],"tags":["sem4","flashcards/sem4"]}}
+{"dg-publish":true,"permalink":"/docs/tissue-processing/","tags":["sem4","flashcards/sem4"],"created":"2026-10-16T09:12:11.750+05:30","updated":"2026-10-24T08:20:14.000+05:30","dg-note-properties":{"Sem4Sub":["Histology"],"tags":["sem4","flashcards/sem4"]}}
 ---
 
 <-  [[docs/Histology\|Histology]]

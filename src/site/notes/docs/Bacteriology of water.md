@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/bacteriology-of-water/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/bacteriology-of-water/","tags":["flashcards"],"created":"2026-10-18T09:18:44.750+05:30","updated":"2026-10-17T09:12:16.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

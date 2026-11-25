@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/electrophoresis/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/electrophoresis/","tags":["flashcards"],"created":"2026-09-06T19:17:09.000+05:30","updated":"2026-09-08T20:12:40.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/body-fluids/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/body-fluids/","created":"2026-08-16T08:09:28.790+05:30","updated":"2026-09-23T21:22:50.000+05:30","dg-note-properties":{}}
 ---
 
 ## **1\. Cerebrospinal fluid (CSF)**

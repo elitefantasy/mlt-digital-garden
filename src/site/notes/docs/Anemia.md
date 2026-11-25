@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/anemia/","tags":["sem4","flashcards/sem4"],"dg-note-properties":{"Sem4Sub":"Immunology","tags":["sem4","flashcards/sem4"],"Subject":["Immunology"],"share_link":"https://share.note.sx/ipp7vxpk#mLrDJjytwcEAwrK2jcxdaQ","share_updated":"2026-08-20T12:35:11+05:30"}}
+{"dg-publish":true,"permalink":"/docs/anemia/","tags":["sem4","flashcards/sem4"],"created":"2026-10-17T09:23:02.390+05:30","updated":"2026-10-22T13:25:46.000+05:30","dg-note-properties":{"Sem4Sub":"Immunology","tags":["sem4","flashcards/sem4"],"Subject":["Immunology"],"share_link":"https://share.note.sx/ipp7vxpk#mLrDJjytwcEAwrK2jcxdaQ","share_updated":"2026-08-20T12:35:11+05:30"}}
 ---
 
 

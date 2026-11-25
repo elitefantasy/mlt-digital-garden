@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/solutions-in-biochemistry/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/solutions-in-biochemistry/","created":"2026-08-16T08:09:29.570+05:30","updated":"2026-09-08T20:12:38.000+05:30","dg-note-properties":{}}
 ---
 
 Numericals: [[docs/Solutions ch Numerical\|Solutions ch Numerical]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/inclusion-bodies/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/inclusion-bodies/","tags":["flashcards"],"created":"2026-09-23T18:25:49.020+05:30","updated":"2026-09-23T20:33:22.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 # **Inclusion Bodies** 

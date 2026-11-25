@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/paroxysmal-nocturnal-hemoglobinuria-pnh/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"]}}
+{"dg-publish":true,"permalink":"/docs/paroxysmal-nocturnal-hemoglobinuria-pnh/","tags":["flashcards/sem4"],"created":"2026-09-05T10:47:12.910+05:30","updated":"2026-09-08T20:12:40.000+05:30","dg-note-properties":{"tags":["flashcards/sem4"]}}
 ---
 
 

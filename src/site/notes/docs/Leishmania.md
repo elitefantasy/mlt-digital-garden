@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/leishmania/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/leishmania/","tags":["flashcards"],"created":"2026-09-27T08:50:58.270+05:30","updated":"2026-09-27T09:03:54.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

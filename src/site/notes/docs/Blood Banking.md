@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/blood-banking/","tags":["flashcards","haematology"],"dg-note-properties":{"Subject":null,"tags":["flashcards","haematology"]}}
+{"dg-publish":true,"permalink":"/docs/blood-banking/","tags":["flashcards","haematology"],"created":"2026-10-08T08:31:47.480+05:30","updated":"2026-10-08T08:08:02.000+05:30","dg-note-properties":{"Subject":null,"tags":["flashcards","haematology"]}}
 ---
 
 

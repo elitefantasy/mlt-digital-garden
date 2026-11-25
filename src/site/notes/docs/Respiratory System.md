@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/respiratory-system/","tags":["flashcards"],"dg-note-properties":{"Subject":["Anatomy"],"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/respiratory-system/","tags":["flashcards"],"created":"2026-10-13T19:14:28.920+05:30","updated":"2026-10-09T07:10:52.000+05:30","dg-note-properties":{"Subject":["Anatomy"],"tags":["flashcards"]}}
 ---
 
 

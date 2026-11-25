@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/cardiac-markers/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
+{"dg-publish":true,"permalink":"/docs/cardiac-markers/","tags":["flashcards"],"created":"2026-08-16T08:09:19.780+05:30","updated":"2026-09-08T20:12:36.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
 ---
 
 

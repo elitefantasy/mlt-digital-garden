@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/blood-transfusion-reaction/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["haematology","Blood bank"]}}
+{"dg-publish":true,"permalink":"/docs/blood-transfusion-reaction/","tags":["flashcards"],"created":"2026-11-09T16:38:21.540+05:30","updated":"2026-11-06T11:28:40.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["haematology","Blood bank"]}}
 ---
 
 

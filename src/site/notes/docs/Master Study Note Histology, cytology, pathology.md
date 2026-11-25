@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/master-study-note-histology-cytology-pathology/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Histology"]}}
+{"dg-publish":true,"permalink":"/docs/master-study-note-histology-cytology-pathology/","tags":["flashcards"],"created":"2026-10-24T08:04:43.800+05:30","updated":"2026-10-24T08:05:32.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Histology"]}}
 ---
 
 

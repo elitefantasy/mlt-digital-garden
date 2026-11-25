@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/amino-acid/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
+{"dg-publish":true,"permalink":"/docs/amino-acid/","tags":["flashcards"],"created":"2026-09-17T11:48:12.470+05:30","updated":"2026-09-20T19:42:02.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
 ---
 
 # Amino Acids 

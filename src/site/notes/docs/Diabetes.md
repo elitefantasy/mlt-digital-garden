@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/diabetes/","tags":["flashcards"],"dg-note-properties":{"Subject":"Pathology","tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/diabetes/","tags":["flashcards"],"created":"2026-10-13T19:14:28.740+05:30","updated":"2026-10-09T07:12:14.000+05:30","dg-note-properties":{"Subject":"Pathology","tags":["flashcards"]}}
 ---
 
 

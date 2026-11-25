@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/basics-to-parasitology/","tags":["flashcards/sem4"],"dg-note-properties":{"tags":["flashcards/sem4"]}}
+{"dg-publish":true,"permalink":"/docs/basics-to-parasitology/","tags":["flashcards/sem4"],"created":"2026-10-17T09:23:05.320+05:30","updated":"2026-10-17T08:11:50.000+05:30","dg-note-properties":{"tags":["flashcards/sem4"]}}
 ---
 
 [[Parasitology \| <- Parasitology]]

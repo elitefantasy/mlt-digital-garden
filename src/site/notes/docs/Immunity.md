@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/immunity/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/immunity/","tags":["flashcards"],"created":"2026-11-17T19:15:37.190+05:30","updated":"2026-11-14T09:08:16.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 # History

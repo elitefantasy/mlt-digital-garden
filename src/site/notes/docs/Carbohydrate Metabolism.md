@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/carbohydrate-metabolism/","tags":["flashcards"],"dg-note-properties":{"Subject":"Biochemistry","tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/carbohydrate-metabolism/","tags":["flashcards"],"created":"2026-08-16T08:09:19.560+05:30","updated":"2026-09-23T21:39:06.000+05:30","dg-note-properties":{"Subject":"Biochemistry","tags":["flashcards"]}}
 ---
 
 ---

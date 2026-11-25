@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/gram-negative-bacilli/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/gram-negative-bacilli/","created":"2026-08-16T08:09:31.010+05:30","updated":"2026-09-08T20:12:38.000+05:30","dg-note-properties":{}}
 ---
 
 tags: #microbiology

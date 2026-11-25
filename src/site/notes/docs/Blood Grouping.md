@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/blood-grouping/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/blood-grouping/","created":"2026-11-13T12:46:29.600+05:30","updated":"2026-11-12T08:47:48.000+05:30","dg-note-properties":{}}
 ---
 
 # Blood Grouping

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/solutions-ch-numerical/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/solutions-ch-numerical/","tags":["flashcards"],"created":"2026-11-17T19:15:35.220+05:30","updated":"2026-11-15T10:07:02.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

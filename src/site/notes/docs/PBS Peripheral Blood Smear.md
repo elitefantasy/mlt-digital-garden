@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/pbs-peripheral-blood-smear/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/pbs-peripheral-blood-smear/","tags":["flashcards"],"created":"2026-10-08T11:25:39.140+05:30","updated":"2026-10-08T12:22:28.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

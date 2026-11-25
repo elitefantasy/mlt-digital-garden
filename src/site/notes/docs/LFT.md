@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/lft/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
+{"dg-publish":true,"permalink":"/docs/lft/","tags":["flashcards"],"created":"2026-09-23T18:25:49.100+05:30","updated":"2026-10-06T21:02:48.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Biochemistry"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/aec/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/aec/","tags":["flashcards"],"created":"2026-09-27T08:18:59.190+05:30","updated":"2026-09-27T08:38:18.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 Linked: [[docs/wbc\|wbc]] , [[docs/CBC\|cbc]]

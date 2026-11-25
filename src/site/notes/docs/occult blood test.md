@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/occult-blood-test/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/docs/occult-blood-test/","created":"2026-08-18T18:49:37.150+05:30","updated":"2026-09-08T20:12:38.000+05:30","dg-note-properties":{}}
 ---
 
 ## Occult blood test
