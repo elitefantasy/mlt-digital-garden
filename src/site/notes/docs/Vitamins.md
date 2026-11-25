@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/vitamins/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/vitamins/","tags":["flashcards"],"created":"2026-11-17T19:15:35.020+05:30","updated":"2026-11-14T08:50:52.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 

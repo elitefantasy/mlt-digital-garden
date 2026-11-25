@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/virus/","tags":["flashcards"],"dg-note-properties":{"Subject":["Microbiology"],"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/virus/","tags":["flashcards"],"created":"2026-11-10T09:28:07.560+05:30","updated":"2026-11-10T09:10:54.000+05:30","dg-note-properties":{"Subject":["Microbiology"],"tags":["flashcards"]}}
 ---
 
 # Intro

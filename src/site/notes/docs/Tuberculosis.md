@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/tuberculosis/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/tuberculosis/","tags":["flashcards"],"created":"2026-11-13T12:46:37.640+05:30","updated":"2026-11-13T10:27:08.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 # Tuberculosis (TB): Study Notes

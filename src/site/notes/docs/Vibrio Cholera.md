@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/vibrio-cholera/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
+{"dg-publish":true,"permalink":"/docs/vibrio-cholera/","tags":["flashcards"],"created":"2026-09-25T19:05:29.490+05:30","updated":"2026-09-25T19:22:08.000+05:30","dg-note-properties":{"tags":["flashcards"],"Subject":["Microbiology"]}}
 ---
 
 [[docs/Gram Negative Bacilli\|Gram Negative Bacilli]]

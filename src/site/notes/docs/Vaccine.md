@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/vaccine/","tags":["flashcards"],"dg-note-properties":{"tags":["flashcards"]}}
+{"dg-publish":true,"permalink":"/docs/vaccine/","tags":["flashcards"],"created":"2026-11-13T12:46:37.660+05:30","updated":"2026-11-13T09:11:04.000+05:30","dg-note-properties":{"tags":["flashcards"]}}
 ---
 
 
